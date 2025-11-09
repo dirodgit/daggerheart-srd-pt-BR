@@ -1,7 +1,7 @@
 ﻿# EGO BLADE
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d12+4 mag; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d12+4 mag; **Peso:** Uma mão
 
-**Feature:** ***Pompous:*** You must have a Presence of 0 or lower to use this weapon.
+**Característica:** ***Pomposo:*** Você deve ter Presença 0 ou menor para usar esta arma.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

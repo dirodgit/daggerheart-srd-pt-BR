@@ -1,7 +1,7 @@
-﻿# SAVIOR CHAINMAIL
+﻿# COTA DE MALHA SALVADORA
 
-**Base Thresholds:** 18 / 48; **Base Score:** 8
+**Limiares Base:** 18 / 48; **Pontuação Base:** 8
 
-**Feature:** ***Difficult:*** -1 to all character traits and Evasion
+**Característica:** ***Difícil:*** -1 em todas as características do personagem e Evasão
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

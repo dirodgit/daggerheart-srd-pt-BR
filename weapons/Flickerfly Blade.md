@@ -1,7 +1,7 @@
 ﻿# FLICKERFLY BLADE
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+5 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d8+5 físico; **Peso:** Uma mão
 
-**Feature:** ***Sharpening:*** Gain a bonus to your damage rolls equal to your Agility.
+**Característica:** ***Afiar:*** Ganhe um bônus nas suas jogadas de dano igual à sua Agilidade.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

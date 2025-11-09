@@ -1,7 +1,7 @@
-﻿# CASTING SWORD
+﻿# ESPADA LANÇADORA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+4 mag; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+4 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Knowledge, Far, d6+3.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas—Conhecimento, Longo alcance, d6+3.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

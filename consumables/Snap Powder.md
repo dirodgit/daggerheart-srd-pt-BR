@@ -1,5 +1,5 @@
-﻿# SNAP POWDER
+﻿# PÓ SNAP
 
-Mark a Stress and clear a HP.
+Marque 1 Estresse e recupere 1 PV.
 
-*Consumable*
+*Consumível*

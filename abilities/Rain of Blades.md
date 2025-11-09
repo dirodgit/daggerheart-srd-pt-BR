@@ -1,8 +1,8 @@
-﻿# RAIN OF BLADES
+﻿# CHUVA DE LÂMINAS
 
-> **Level 1 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 1**  
+> **Custo para Recordar:** 1
 
-Spend a Hope to make a Spellcast Roll and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take 1d8+2 magic damage using your Proficiency.
+Gaste 1 ponto de Esperança para fazer uma Jogada de Conjuração e conjurar lâminas arremessáveis que atingem todos os alvos em alcance Muito Próximo. Os alvos contra os quais você obtiver sucesso recebem 1d8+2 de dano mágico usando sua Proficiência.
 
-If a target you hit is Vulnerable, they take an extra 1d8 damage.
+Se um alvo atingido for Vulnerável, ele recebe 1d8 de dano extra.

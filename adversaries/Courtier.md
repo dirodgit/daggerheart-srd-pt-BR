@@ -1,15 +1,15 @@
-﻿# COURTIER
+﻿# CORTESÃO
 
-***Tier 1 Social***  
-*An ambitious and ostentatiously dressed socialite.*  
-**Motives & Tactics:** Discreet, gain favor, maneuver, scheme
+***Social de Nível 1***  
+*Um socialite ambicioso e ostentosamente vestido.*  
+**Motivações & Táticas:** Discreto, ganhar favor, manobrar, conspirar
 
-> **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 4  
-> **ATK:** -4 | **Daggers:** Melee | 1d4+2 phy  
-> **Experience:** Socialize +3
+> **Dificuldade:** 12 | **Limiares:** 4/8 | **PV:** 3 | **Estresse:** 4  
+> **ATQ:** -4 | **Adagas:** Corpo a corpo | 1d4+2 físico  
+> **Experiência:** Socializar +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Mockery - Action:*** Mark a Stress to say something mocking and force a target within Close range to make a Presence Reaction Roll (14) to see if they can save face. On a failure, the target must mark 2 Stress and is Vulnerable until the scene ends.
+***Zombaria - Ação:*** Marque 1 Estresse para dizer algo zombeteiro e force um alvo em alcance Próximo a fazer um Teste de Reação de Presença (14) para ver se consegue manter a compostura. Em caso de falha, o alvo deve marcar 2 Estresses e fica Vulnerável até o fim da cena.
 
-***Scapegoat - Action:*** Spend a Fear and target a PC. The Courtier convinces a crowd or prominent individual that the target is the cause of their current conflict or misfortune.
+***Bode Expiatório - Ação:*** Gaste 1 Medo e escolha um PJ. O Cortesão convence uma multidão ou indivíduo proeminente de que o alvo é a causa do conflito ou infortúnio atual.

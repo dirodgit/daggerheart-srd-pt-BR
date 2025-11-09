@@ -1,5 +1,5 @@
-﻿# SKELETON KEY
+﻿# CHAVE MESTRA
 
-When you use this key to open a locked door, you gain advantage on the Finesse Roll.
+Quando você usa esta chave para abrir uma porta trancada, você ganha vantagem na Jogada de Destreza.
 
 *Item*

@@ -1,7 +1,7 @@
-﻿# HAND SLING
+﻿# FALCATA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d6+4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Finesse, Close, d8+4.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas—Finesse, Próximo, d8+4.
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

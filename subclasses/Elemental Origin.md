@@ -1,26 +1,26 @@
-﻿# ELEMENTAL ORIGIN
+﻿# ORIGEM ELEMENTAL
 
-Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.
+Jogue com a Origem Elemental se quiser canalizar magia bruta para assumir a forma de um elemento específico.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Instinct
+Instinto
 
-## FOUNDATION FEATURE
+## CARACTERÍSTICA DE FUNDAÇÃO
 
-***Elementalist:*** Choose one of the following elements at character creation: air, earth, fire, lightning, water.
+***Elementalista:*** Escolha um dos seguintes elementos na criação do personagem: ar, terra, fogo, relâmpago, água.
 
-You can shape this element into harmless effects. Additionally, spend a Hope and describe how your control over this element helps an action roll you’re about to make, then either gain a +2 bonus to the roll or a +3 bonus to the roll’s damage.
+Você pode moldar esse elemento em efeitos inofensivos. Além disso, gaste uma Esperança e descreva como seu controle sobre esse elemento ajuda uma jogada de ação que você está prestes a fazer, então ganhe um bônus de +2 na jogada ou um bônus de +3 no dano da jogada.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Natural Evasion:*** You can call forth your element to protect you from harm. When an attack roll against you succeeds, you can mark a Stress and describe how you use your element to defend you. When you do, roll a d6 and add its result to your Evasion against the attack.
+***Evasão Natural:*** Você pode invocar seu elemento para protegê-lo de danos. Quando uma jogada de ataque contra você for bem-sucedida, você pode marcar um Estresse e descrever como usa seu elemento para se defender. Ao fazer isso, role um d6 e adicione seu resultado à sua Evasão contra o ataque.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Transcendence:*** Once per long rest, you can transform into a physical manifestation of your element. When you do, describe your transformation and choose two of the following benefits to gain until your next rest:
+***Transcendência:*** Uma vez por descanso longo, você pode se transformar em uma manifestação física do seu elemento. Ao fazer isso, descreva sua transformação e escolha dois dos seguintes benefícios para ganhar até seu próximo descanso:
 
-- +4 bonus to your Severe threshold
-- +1 bonus to a character trait of your choice
-- +1 bonus to your Proficiency
-- +2 bonus to your Evasion
+- Bônus de +4 no seu limite de Gravidade
+- Bônus de +1 em um traço de personagem à sua escolha
+- Bônus de +1 na sua Proficiência
+- Bônus de +2 na sua Evasão

@@ -1,7 +1,7 @@
-﻿# UROK BROADSWORD
+﻿# ESPADA LONGA UROK
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+3 físico; **Carga:** Uma mão
 
-**Feature:** ***Deadly:*** When you deal Severe damage, the target must mark an additional HP.
+**Característica:** ***Letal:*** Quando você causa dano Severo, o alvo deve marcar um ponto de Vida adicional.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

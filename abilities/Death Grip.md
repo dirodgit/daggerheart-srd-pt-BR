@@ -1,12 +1,12 @@
-﻿# DEATH GRIP
+﻿# GARRA DA MORTE
 
-> **Level 4 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 4**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against a target within Close range and choose one of the following options:
+Faça uma Jogada de Conjuração de Magia contra um alvo dentro do alcance Próximo e escolha uma das seguintes opções:
 
-- You pull the target into Melee range or pull yourself into Melee range of them.
-- You constrict the target and force them to mark 2 Stress.
-- All adversaries between you and the target must succeed on a Reaction Roll (13) or be hit by vines, taking 3d6+2 physical damage.
+- Você puxa o alvo para o alcance de Combate Corpo a Corpo ou se puxa para o alcance de Combate Corpo a Corpo dele.
+- Você constrange o alvo e o força a marcar 2 de Estresse.
+- Todos os adversários entre você e o alvo devem ter sucesso em uma Jogada de Reação (13) ou serem atingidos por vinhas, sofrendo 3d6+2 de dano físico.
 
-On a success, vines reach out from your hands, causing the chosen effect and temporarily Restraining the target.
+Em caso de sucesso, vinhas saem de suas mãos, causando o efeito escolhido e imobilizando temporariamente o alvo.

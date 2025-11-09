@@ -1,5 +1,5 @@
 ﻿# VALORSTONE
 
-You can attach this stone to armor that doesn’t already have a feature. The armor gains the following feature. **Resilient:** Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+Você pode anexar esta pedra a uma armadura que ainda não possua uma característica. A armadura ganha a seguinte característica. **Resiliente:** Antes de marcar seu último Espaço de Armadura, role um d6. Com um resultado 6, reduza a severidade em um nível sem marcar um Espaço de Armadura.
 
 *Item*

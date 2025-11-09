@@ -1,5 +1,5 @@
-﻿# VIAL OF DARKSMOKE RECIPE
+﻿# RECEITA DO FRASCO DE FUMO NEGRO
 
-As a downtime move, you can mark a Stress to craft a Vial of Darksmoke.
+Como uma ação de inatividade, você pode marcar um Estresse para fabricar um Frasco de Fumo Negro.
 
 *Item*

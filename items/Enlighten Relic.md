@@ -1,5 +1,5 @@
-﻿# ENLIGHTEN RELIC
+﻿# RELÍQUIA ILUMINADA
 
-You gain a +1 bonus to your Knowledge. You can only carry one relic.
+Você ganha um bônus de +1 em seu Conhecimento. Você só pode carregar uma relíquia.
 
 *Item*

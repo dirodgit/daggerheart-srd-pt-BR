@@ -1,5 +1,5 @@
-﻿# BONDING HONEY
+﻿# MEL DE UNIÃO
 
-This honey can be used to glue two objects together permanently.
+Este mel pode ser usado para colar dois objetos permanentemente.
 
-*Consumable*
+*Consumível*

@@ -1,5 +1,5 @@
-﻿# SHRINKING POTION
+﻿# POÇÃO DE ENCOLHIMENTO
 
-You can drink this potion to halve your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Agility and a –1 penalty to your Proficiency.
+Você pode beber esta poção para reduzir seu tamanho pela metade até escolher abandonar essa forma ou até seu próximo descanso. Enquanto estiver nessa forma, você recebe um bônus de +2 em Agilidade e uma penalidade de –1 na sua Proficiência.
 
-*Consumable*
+*Consumível*

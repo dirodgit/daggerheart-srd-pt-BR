@@ -1,7 +1,7 @@
-﻿# GAMBESON ARMOR
+﻿# ARMADURA DE GAMBESON
 
-**Base Thresholds:** 5 / 11; **Base Score:** 3
+**Limiares Base:** 5 / 11; **Pontuação Base:** 3
 
-**Feature:** ***Flexible:*** +1 to Evasion
+**Característica:** ***Flexível:*** +1 para Evasão
 
-*Armor - Tier 1*
+*Armadura - Nível 1*

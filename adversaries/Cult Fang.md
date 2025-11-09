@@ -1,14 +1,14 @@
-﻿# CULT FANG
+﻿# DENTE DE SEITA
 
-***Tier 2 Skulk***  
-*A professional killer-turned-cultist.*  
-**Motives & Tactics:** Capture sacrifices, isolate prey, rise in the ranks
+***Esconderijo de Nível 2***  
+*Um assassino profissional que se tornou cultista.*  
+**Motivações & Táticas:** Capturar sacrifícios, isolar presas, subir na hierarquia
 
-> **Difficulty:** 15 | **Thresholds:** 9/17 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +2 | **Long Knife:** Melee | 2d8+4 phy  
+> **Dificuldade:** 15 | **Limiares:** 9/17 | **PV:** 4 | **Estresse:** 4  
+> **ATQ:** +2 | **Faca Longa:** Corpo a Corpo | 2d8+4 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Shadow’s Embrace - Passive:*** The Fang can climb and walk on vertical surfaces. Mark a Stress to move from one shadow to another within Far range.
+***Abraço da Sombra - Passiva:*** O Dente pode escalar e andar em superfícies verticais. Marque um Estresse para se mover de uma sombra para outra dentro do alcance Longínquo.
 
-***Pick Off the Straggler - Action:*** Mark a Stress to cause a target within Melee range to make an Instinct Reaction Roll. On a failure, the target must mark 2 Stress and is teleported with the Fang to a shadow within Far range, making them temporarily Vulnerable. On a success, the target must mark a Stress.
+***Abater o Atrasado - Ação:*** Marque um Estresse para fazer um alvo dentro do alcance Corpo a Corpo realizar uma Jogada de Reação Instintiva. Em caso de falha, o alvo deve marcar 2 Estresses e é teleportado junto com o Dente para uma sombra dentro do alcance Longínquo, ficando temporariamente Vulnerável. Em caso de sucesso, o alvo deve marcar um Estresse.

@@ -1,15 +1,15 @@
-﻿# JAGGED KNIFE BANDIT
+﻿# BANDIDO FACA FENDIDA
 
-***Tier 1 Standard***  
-*A cunning criminal in a cloak bearing one of the gang’s iconic knives.*  
-**Motives & Tactics:** Escape, profit, steal, throw smoke
+***Padrão de Nível 1***  
+*Um criminoso astuto com um manto que carrega uma das facas icônicas da gangue.*  
+**Motivações & Táticas:** Fugir, lucrar, roubar, lançar fumaça
 
-> **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +1 | **Daggers:** Melee | 1d8+1 phy  
-> **Experience:** Thief +2
+> **Dificuldade:** 12 | **Limiares:** 8/14 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +1 | **Adagas:** Corpo a corpo | 1d8+1 físico  
+> **Experiência:** Ladrão +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Climber - Passive:*** The Bandit climbs just as easily as they run.
+***Escalador - Passivo:*** O Bandido escala tão facilmente quanto corre.
 
-***From Above - Passive:*** When the Bandit succeeds on a standard attack from above a target, they deal 1d10+1 physical damage instead of their standard damage.
+***De Cima - Passivo:*** Quando o Bandido tem sucesso em um ataque padrão vindo de cima de um alvo, ele causa 1d10+1 de dano físico em vez do dano padrão.

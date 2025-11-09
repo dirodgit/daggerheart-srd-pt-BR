@@ -1,7 +1,7 @@
-﻿# HALBERD
+﻿# ALABARDA
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+2 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Muito Próximo; **Dano:** d10+2 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitada:*** -1 na Destreza
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

@@ -1,7 +1,7 @@
-﻿# LEGENDARY GLOWING RINGS
+﻿# ANÉIS LENDÁRIOS BRILHANTES
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+11 mag; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Muito Próximo; **Dano:** d10+11 mag; **Peso:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

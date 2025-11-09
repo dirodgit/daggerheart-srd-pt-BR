@@ -1,7 +1,7 @@
-﻿# IMPROVED SPEAR
+﻿# LANÇA APRIMORADA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+6 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

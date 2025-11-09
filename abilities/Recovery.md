@@ -1,6 +1,6 @@
-﻿# RECOVERY
+﻿# RECUPERAÇÃO
 
-> **Level 6 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 6**  
+> **Custo de Recordação:** 1
 
-During a short rest, you can choose a long rest downtime move instead. You can spend a Hope to let an ally do the same.
+Durante um descanso curto, você pode escolher uma ação de inatividade de descanso longo em vez disso. Você pode gastar uma Esperança para permitir que um aliado faça o mesmo.

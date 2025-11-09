@@ -1,5 +1,5 @@
-﻿# MAJOR STAMINA POTION
+﻿# POÇÃO MAIOR DE VIGOR
 
-Clear 1d4+2 Stress.
+Remove 1d4+2 de Estresse.
 
-*Consumable*
+*Consumível*

@@ -1,38 +1,38 @@
-# WEAPONS
+# ARMAS
 
-All weapons have a tier, trait, range, damage die, damage type, and burden. Some weapons also have a feature.
+Todas as armas possuem um nível, traço, alcance, dado de dano, tipo de dano e peso. Algumas armas também possuem uma característica.
 
-## CATEGORY
+## CATEGORIA
 
-A weapon’s **category** specifies whether it is a Primary or Secondary weapon. Your character can only equip up to one weapon of each category at a time.
+A **categoria** de uma arma especifica se ela é uma arma Primária ou Secundária. Seu personagem pode equipar no máximo uma arma de cada categoria por vez.
 
-## TRAIT
+## TRAÇO
 
-A weapon’s **trait** specifies which trait to use when making an attack roll with it.
+O **traço** de uma arma especifica qual traço usar ao fazer uma jogada de ataque com ela.
 
-## RANGE
+## ALCANCE
 
-A weapon’s range specifies the maximum distance between the attacker and their target when attacking with it.
+O alcance de uma arma especifica a distância máxima entre o atacante e seu alvo ao atacar com ela.
 
-## DAMAGE
+## DANO
 
-A weapon’s **damage** indicates the size of the damage dice you roll on a successful attack with it; you roll a number of dice equal to your Proficiency. If the damage includes a flat modifier, this number is added to the total damage rolled, but is not altered or affected by Proficiency.
+O **dano** de uma arma indica o tamanho dos dados de dano que você rola em um ataque bem-sucedido com ela; você rola um número de dados igual à sua Proficiência. Se o dano incluir um modificador fixo, esse número é somado ao total de dano rolado, mas não é alterado ou afetado pela Proficiência.
 
-## DAMAGE TYPE
+## TIPO DE DANO
 
-A weapon’s **damage type** indicates whether it deals physical or magic damage. Weapons that deal magic damage can only be wielded by characters with a Spellcast trait.
+O **tipo de dano** de uma arma indica se ela causa dano físico ou mágico. Armas que causam dano mágico só podem ser empunhadas por personagens com o traço Conjuração.
 
-## BURDEN
+## PESO
 
-A weapon’s **burden** indicates how many **hands** it occupies when equipped. Your character’s maximum burden is 2 hands.
+O **peso** de uma arma indica quantas **mãos** ela ocupa quando equipada. O peso máximo que seu personagem pode carregar é de 2 mãos.
 
-## FEATURE
+## CARACTERÍSTICA
 
-A weapon’s **feature** is a special rule that stays in effect while the weapon is equipped.
+A **característica** de uma arma é uma regra especial que permanece em efeito enquanto a arma estiver equipada.
 
-You can throw an equipped weapon at a target within Very Close range, making the attack roll with Finesse. On a success, deal damage as usual for that weapon. Once thrown, the weapon is no longer considered equipped. Until you retrieve and re-equip it, you can’t attack with it or benefit from its features.
+Você pode arremessar uma arma equipada em um alvo dentro do alcance Muito Próximo, fazendo a jogada de ataque com Destreza. Em caso de sucesso, cause o dano normalmente para aquela arma. Uma vez arremessada, a arma não é mais considerada equipada. Até que você a recupere e equipe novamente, não pode atacar com ela nem se beneficiar de suas características.
 
-## WEAPON TABLES
+## TABELAS DE ARMAS
 
-- [Primary Weapon Tables](../contents/Primary%20Weapon%20Tables.md)
-- [Secondary Weapon Tables](../contents/Secondary%20Weapon%20Tables.md)
+- [Tabelas de Armas Primárias](../contents/Primary%20Weapon%20Tables.md)
+- [Tabelas de Armas Secundárias](../contents/Secondary%20Weapon%20Tables.md)

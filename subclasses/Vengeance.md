@@ -1,17 +1,17 @@
-﻿# VENGEANCE
+﻿# VINGANÇA
 
-Play the Vengeance if you want to strike down enemies who harm you or your allies.
+Jogue com o Vingança se quiser derrubar inimigos que prejudicam você ou seus aliados.
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***At Ease:*** Gain an additional Stress slot.
+***À Vontade:*** Ganhe um espaço adicional de Estresse.
 
-***Revenge:*** When an adversary within Melee range succeeds on an attack against you, you can mark 2 Stress to force the attacker to mark a Hit Point.
+***Vingança:*** Quando um adversário dentro do alcance Corpo a Corpo obtiver sucesso em um ataque contra você, você pode marcar 2 Estresse para forçar o atacante a marcar um Ponto de Vida.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Act of Reprisal:*** When an adversary damages an ally within Melee range, you gain a +1 bonus to your Proficiency for the next successful attack you make against that adversary.
+***Ato de Reprisal:*** Quando um adversário causar dano a um aliado dentro do alcance Corpo a Corpo, você ganha um bônus de +1 na sua Proficiência para o próximo ataque bem-sucedido que fizer contra esse adversário.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Nemesis:*** Spend 2 Hope to Prioritize an adversary until your next rest. When you make an attack against your Prioritized adversary, you can swap the results of your Hope and Fear Dice. You can only Prioritize one adversary at a time.
+***Nêmesis:*** Gaste 2 Esperança para Priorizar um adversário até seu próximo descanso. Quando fizer um ataque contra seu adversário Prioritário, você pode trocar os resultados dos seus Dados de Esperança e Medo. Você só pode Priorizar um adversário por vez.

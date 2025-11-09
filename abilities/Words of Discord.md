@@ -1,8 +1,8 @@
-﻿# WORDS OF DISCORD
+﻿# PALAVRAS DE DISCORDÂNCIA
 
-> **Level 5 Grace Spell**  
-> **Recall Cost:** 1
+> **Magia Graça de Nível 5**  
+> **Custo de Recordação:** 1
 
-Whisper words of discord to an adversary within Melee range and make a Spellcast Roll (13). On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.
+Sussurre palavras de discordância para um adversário dentro do alcance de Combate Corpo a Corpo e faça uma Jogada de Conjuração de Magia (13). Em caso de sucesso, o alvo deve marcar um Estresse e realizar um ataque contra outro adversário, em vez de contra você ou seus aliados.
 
-Once this attack is over, the target realizes what happened. The next time you cast Words of Discord on them, gain a –5 penalty to the Spellcast Roll.
+Quando esse ataque terminar, o alvo percebe o que aconteceu. Na próxima vez que você lançar Palavras de Discordância nele, receba uma penalidade de –5 na Jogada de Conjuração de Magia.

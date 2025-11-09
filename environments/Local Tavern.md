@@ -1,35 +1,35 @@
-﻿# LOCAL TAVERN
+﻿# TABERNA LOCAL
 
-***Tier 1 Social***  
-*A lively tavern that serves as the social hub for its town.*  
-**Impulses:** Provide opportunities for adventurers, nurture community
+***Social de Nível 1***  
+*Uma taverna animada que serve como o centro social da cidade.*  
+**Impulsos:** Oferecer oportunidades para aventureiros, nutrir a comunidade
 
-> **Difficulty:** 10  
-> **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Merchant
+> **Dificuldade:** 10  
+> **Adversários Potenciais:** Guardas (Guarda com Lâmina, Guarda Chefe), Mercenários (Perseguidor, Mercenário, Espadachim Mágico, Mestre de Armas), Comerciante
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***What’s the Talk of the Town? - Passive:*** A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.
+***Qual é a Fofoca da Cidade? - Passivo:*** Um PJ pode perguntar ao barman, funcionários ou frequentadores sobre eventos locais, rumores e trabalhos potenciais com uma Jogada de Presença. Em um sucesso, ele pode escolher dois dos detalhes abaixo para aprender — ou três se for um sucesso crítico. Em uma falha, pode escolher um e marcar um Estresse enquanto o local continua falando sobre algo irrelevante.
 
-  - A fascinating rumor with a connection to a PC’s background
-  - A promising job for the party involving a nearby threat or situation
-  - Local folklore that relates to something they’ve seen
-  - Town gossip that hints at a community problem
+  - Um rumor fascinante com conexão ao histórico de um PJ  
+  - Um trabalho promissor para o grupo envolvendo uma ameaça ou situação próxima  
+  - Folclore local que se relaciona com algo que eles viram  
+  - Fofoca da cidade que sugere um problema na comunidade
 
-  *Who has what kind of information? What gossip do the locals start spreading about the PCs?*
+  *Quem tem que tipo de informação? Que fofoca os locais começam a espalhar sobre os PJs?*
 
-***Sing for Your Supper - Passive:*** A PC can perform one time for the guests by making a Presence Roll. On a success, they earn 1d4 handfuls of gold (2d4 if they critically succeed). On a failure, they mark a Stress.
+***Cante para Seu Jantar - Passivo:*** Um PJ pode se apresentar uma vez para os convidados fazendo uma Jogada de Presença. Em um sucesso, ganha 1d4 punhados de ouro (2d4 se for um sucesso crítico). Em uma falha, marca um Estresse.
 
-  *What piece do you perform? What does that piece mean to you? When’s the last time you performed it for a crowd?*
+  *Que peça você apresenta? O que essa peça significa para você? Quando foi a última vez que a apresentou para uma plateia?*
 
-***Mysterious Stranger - Action:*** Reveal a stranger concealing their identity, lurking in a shaded booth.
+***Estranho Misterioso - Ação:*** Revela um estranho que esconde sua identidade, escondido em uma cabine sombreada.
 
-  *What do they want? What’s their impression of the PCs? What mannerisms or accessories do they have?*
+  *O que ele quer? Qual a impressão que tem dos PJs? Que maneirismos ou acessórios ele possui?*
 
-***Someone Comes to Town - Action:*** Introduce a significant NPC who wants to hire the party for something or who relates to a PC’s background.
+***Alguém Chega à Cidade - Ação:*** Introduz um NPC importante que quer contratar o grupo para algo ou que tem relação com o histórico de um PJ.
 
-  *Did they know the PCs were here? What do they want in this town?*
+  *Eles sabiam que os PJs estavam aqui? O que querem nesta cidade?*
 
-***Bar Fight - Action:*** Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take 1d6+2 physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons.
+***Briga de Bar - Ação:*** Gaste um Medo para fazer uma briga de bar eclodir na taverna. Quando um PJ tenta se mover pela taverna enquanto a briga persiste, deve ter sucesso em uma Jogada de Agilidade ou Presença ou sofrer 1d6+2 de dano físico causado por um golpe descontrolado ou objeto arremessado. Um PJ pode tentar ativar essa característica ao ter sucesso em uma jogada de ação que provoque os frequentadores da taverna.
 
-  *Who started the fight? What will it take to stop it?*
+  *Quem começou a briga? O que será necessário para acabar com ela?*

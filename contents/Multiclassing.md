@@ -1,5 +1,5 @@
-# MULTICLASSING
+# MULTICLASSE
 
-Starting at level 5, you can choose multiclassing as an option when leveling up. When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its class feature. Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different Spellcast traits, you can choose which one to apply when making a Spellcast roll.
+A partir do nível 5, você pode escolher a multiclasses como uma opção ao subir de nível. Quando você faz multiclasses, escolhe uma classe adicional, ganha acesso a um de seus domínios e adquire sua habilidade de classe. Pegue o módulo de multiclasses apropriado e adicione-o ao lado direito da sua ficha de personagem, então escolha uma carta de fundação de uma de suas subclasses. Se suas cartas de fundação especificarem diferentes traços de Conjuração, você pode escolher qual aplicar ao fazer uma rolagem de Conjuração.
 
-Whenever you have the option to acquire a new domain card, you can choose from cards at or below half your current level (rounded up) from the domain you chose when you selected the multiclass advancement.
+Sempre que você tiver a opção de adquirir uma nova carta de domínio, pode escolher entre cartas de nível igual ou inferior à metade do seu nível atual (arredondado para cima) do domínio que escolheu ao selecionar o avanço de multiclasses.

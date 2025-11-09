@@ -1,7 +1,7 @@
-﻿# SMALL DAGGER
+﻿# ADAGA PEQUENA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8 físico; **Carga:** Uma mão
 
-**Feature:** ***Paired:*** +2 to primary weapon damage to targets within Melee range
+**Característica:** ***Empunhada em Par***: +2 no dano da arma primária contra alvos em alcance de Corpo a corpo
 
-*Secondary Weapon - Tier 1*
+*Arma Secundária - Nível 1*

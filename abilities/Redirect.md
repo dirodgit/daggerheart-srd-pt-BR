@@ -1,6 +1,6 @@
-﻿# REDIRECT
+﻿# REDIRECIONAR
 
-> **Level 4 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 4**  
+> **Custo de Recordação:** 1
 
-When an attack made against you from beyond Melee range fails, roll a number of d6s equal to your Proficiency. If any roll a 6, you can mark a Stress to redirect the attack to damage an adversary within Very Close range instead.
+Quando um ataque feito contra você de além do alcance de Combate Corpo a Corpo falhar, role um número de d6s igual à sua Proficiência. Se algum deles tirar 6, você pode marcar um Estresse para redirecionar o ataque para causar dano a um adversário dentro do alcance Muito Próximo, em vez disso.

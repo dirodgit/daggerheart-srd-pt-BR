@@ -1,6 +1,6 @@
-﻿# GLANCING BLOW
+﻿# GOLPE RASANTE
 
-> **Level 7 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 7**  
+> **Custo para Recordar:** 1
 
-When you fail an attack, you can mark a Stress to deal weapon damage using half your Proficiency.
+Quando você falhar um ataque, pode marcar 1 Estresse para causar dano de arma usando metade da sua Proficiência.

@@ -1,15 +1,15 @@
-﻿# MERCHANT BARON
+﻿# BARÃO MERCANTE
 
-***Tier 2 Social***  
-*An accomplished merchant with a large operation under their command.*  
-**Motives & Tactics:** Abusive power, gather resources, mobilize minions
+***Social de Nível 2***  
+*Um comerciante experiente com uma grande operação sob seu comando.*  
+**Motivações & Táticas:** Poder abusivo, reunir recursos, mobilizar capangas
 
-> **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Rapier:** Melee | 1d6+2 phy  
-> **Experience:** Nobility +2, Trade +2
+> **Dificuldade:** 15 | **Limiares:** 9/19 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +2 | **Florete:** Corpo a corpo | 1d6+2 físico  
+> **Experiência:** Nobreza +2, Comércio +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Everyone Has a Price - Action:*** Spend a Fear to offer a target a dangerous bargain for something they want or need. If used on a PC, they must make a Presence Reaction Roll (17). On a failure, they must mark 2 Stress or take the deal.
+***Todo Mundo Tem um Preço - Ação:*** Gaste um Medo para oferecer a um alvo um acordo perigoso por algo que ele queira ou precise. Se usado em um PJ, ele deve fazer um Teste de Reação de Presença (17). Em caso de falha, deve marcar 2 de Estresse ou aceitar o acordo.
 
-***The Best Muscle Money Can Buy - Action:*** Once per scene, mark a Stress to summon 1d4+1 Tier 1 adversaries, who appear at Far range, to enforce the Baron’s will.
+***A Melhor Força que o Dinheiro Pode Comprar - Ação:*** Uma vez por cena, marque 1 de Estresse para convocar 1d4+1 adversários de Nível 1, que aparecem em alcance Longo, para impor a vontade do Barão.

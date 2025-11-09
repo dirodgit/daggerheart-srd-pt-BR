@@ -1,5 +1,5 @@
-﻿# ARCANE PRISM
+﻿# PRISMA ARCANO
 
-Position this prism in a location of your choosing and activate it. All allies within Close range of it gain a +1 bonus to their Spellcast Rolls. While activated, the prism can’t be moved. Once the prism is deactivated, it can’t be activated again until your next long rest.
+Posicione este prisma em um local de sua escolha e o ative. Todos os aliados em alcance Próximo dele ganham um bônus de +1 em suas Rolagens de Conjuração de Feitiço. Enquanto ativado, o prisma não pode ser movido. Uma vez que o prisma seja desativado, ele não pode ser ativado novamente até seu próximo descanso longo.
 
 *Item*

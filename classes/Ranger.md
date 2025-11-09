@@ -1,40 +1,40 @@
 ﻿# RANGER
 
-Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
+Rangers são caçadores altamente habilidosos que, apesar de suas habilidades marciais, raramente emprestam seus talentos a um exército. Por meio do domínio do corpo e de uma profunda compreensão da natureza selvagem, os rangers tornam-se táticos astutos, perseguindo suas presas com astúcia e paciência. Muitos rangers rastreiam e lutam ao lado de um companheiro animal com quem forjaram um poderoso vínculo espiritual. Ao aprimorar suas habilidades na natureza, os rangers tornam-se rastreadores especialistas, tão propensos a capturar seus inimigos em uma armadilha quanto a atacá-los de frente.
 
-> **• DOMAINS:** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)  
-> **• STARTING EVASION:** 12  
-> **• STARTING HIT POINTS:** 6  
-> **• CLASS ITEMS:** A trophy from your first kill or a seemingly broken compass
+> **• DOMÍNIOS:** [Osso](../domains/Bone.md) & [Sábio](../domains/Sage.md)  
+> **• EVASÃO INICIAL:** 12  
+> **• PONTOS DE VIDA INICIAIS:** 6  
+> **• ITENS DE CLASSE:** Um troféu da sua primeira caça ou uma bússola aparentemente quebrada
 
-## RANGER’S HOPE FEATURE
+## HABILIDADE DE ESPERANÇA DO RANGER
 
-***Hold Them Off:*** Spend 3 Hope when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.
+***Segure-os:*** Gaste 3 de Esperança quando você obtiver sucesso em um ataque com uma arma para usar esse mesmo resultado contra dois adversários adicionais dentro do alcance do ataque.
 
-## CLASS FEATURE
+## HABILIDADE DE CLASSE
 
-***Ranger’s Focus:*** Spend a Hope and make an attack against a target. On a success, deal your attack’s normal damage and temporarily make the attack’s target your Focus. Until this feature ends or you make a different creature your Focus, you gain the following benefits against your Focus:
+***Foco do Ranger:*** Gaste 1 ponto de Esperança e faça um ataque contra um alvo. Em caso de sucesso, cause o dano normal do seu ataque e temporariamente faça do alvo do ataque seu Foco. Até que essa habilidade termine ou você escolha uma criatura diferente como seu Foco, você ganha os seguintes benefícios contra seu Foco:
 
-- You know precisely what direction they are in.
-- When you deal damage to them, they must mark a Stress.
-- When you fail an attack against them, you can end your Ranger’s Focus feature to reroll your Duality Dice.
+- Você sabe exatamente em que direção ele está.
+- Quando você causar dano a ele, ele deve marcar 1 ponto de Estresse.
+- Quando você falhar em um ataque contra ele, pode encerrar a habilidade Foco do Ranger para rerrolar seus Dados de Dualidade.
 
-## RANGER SUBCLASSES
+## SUBCLASSES DO RANGER
 
-Choose either the **[Beastbound](../subclasses/Beastbound.md)** or **[Wayfinder](../subclasses/Wayfinder.md)** subclass.
+Escolha a subclasse **[Ligado à Fera](../subclasses/Beastbound.md)** ou **[Explorador](../subclasses/Wayfinder.md)**.
 
-## BACKGROUND QUESTIONS
+## PERGUNTAS DE HISTÓRICO
 
-*Answer any of the following background questions. You can also create your own questions.*
+*Responda a qualquer uma das seguintes perguntas de histórico. Você também pode criar suas próprias perguntas.*
 
-- A terrible creature hurt your community, and you’ve vowed to hunt them down. What are they, and what unique trail or sign do they leave behind?
-- Your first kill almost killed you, too. What was it, and what part of you was never the same after that event?
-- You’ve traveled many dangerous lands, but what is the one place you refuse to go?
+- Uma criatura terrível feriu sua comunidade, e você jurou caçá-la. O que ela é, e que trilha ou sinal único ela deixa para trás?
+- Sua primeira caça quase te matou também. O que era, e que parte de você nunca mais foi a mesma depois desse evento?
+- Você já viajou por muitas terras perigosas, mas qual é o único lugar que você se recusa a ir?
 
-## CONNECTIONS
+## CONEXÕES
 
-*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+*Pergunte a seus companheiros jogadores uma das seguintes perguntas para que o personagem deles responda, ou crie suas próprias perguntas.*
 
-- What friendly competition do we have?
-- Why do you act differently when we’re alone than when others are around?
-- What threat have you asked me to watch for, and why are you worried about it?
+- Qual competição amigável temos entre nós?
+- Por que você age de forma diferente quando estamos a sós do que quando há outras pessoas por perto?
+- Qual ameaça você me pediu para vigiar, e por que está preocupado com ela?

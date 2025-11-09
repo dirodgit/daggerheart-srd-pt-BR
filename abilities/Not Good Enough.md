@@ -1,6 +1,6 @@
-﻿# NOT GOOD ENOUGH
+﻿# NÃO É BOM O SUFICIENTE
 
-> **Level 1 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 1**  
+> **Custo de Recordação:** 1
 
-When you roll your damage dice, you can reroll any 1s or 2s.
+Quando você rolar seus dados de dano, pode rerrolar quaisquer resultados 1 ou 2.

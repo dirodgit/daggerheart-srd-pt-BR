@@ -1,21 +1,21 @@
 ﻿# WAYFINDER
 
-Play the Wayfinder if you want to hunt your prey and strike with deadly force.
+Jogue como Wayfinder se quiser caçar sua presa e atacar com força letal.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Agility
+Agilidade
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***Ruthless Predator:*** When you make a damage roll, you can mark a Stress to gain a +1 bonus to your Proficiency. Additionally, when you deal Severe damage to an adversary, they must mark a Stress.
+***Predador Implacável:*** Quando você fizer uma rolagem de dano, pode marcar um Estresse para ganhar +1 de bônus na sua Proficiência. Além disso, quando você causar dano Severo a um adversário, ele deve marcar um Estresse.
 
-***Path Forward:*** When you’re traveling to a place you’ve previously visited or you carry an object that has been at the location before, you can identify the shortest, most direct path to your destination.
+***Caminho à Frente:*** Quando estiver viajando para um lugar que já visitou anteriormente ou carregar um objeto que já esteve no local antes, você pode identificar o caminho mais curto e direto até seu destino.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Elusive Predator:*** When your Focus makes an attack against you, you gain a +2 bonus to your Evasion against the attack.
+***Predador Elusivo:*** Quando seu Foco fizer um ataque contra você, você ganha +2 de bônus na sua Evasão contra o ataque.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Apex Predator:*** Before you make an attack roll against your Focus, you can spend a Hope. On a successful attack, you remove a Fear from the GM’s Fear pool.
+***Predador de Topo:*** Antes de fazer uma rolagem de ataque contra seu Foco, você pode gastar uma Esperança. Em um ataque bem-sucedido, você remove um Medo da reserva de Medo do GM.

@@ -1,9 +1,9 @@
-﻿# SAGE-TOUCHED
+﻿# TOCADO PELO SÁBIO
 
-> **Level 7 Sage Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Sábio de Nível 7**  
+> **Custo de Recordação:** 2
 
-When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Sábio, você ganha os seguintes benefícios:
 
-- While you’re in a natural environment, you gain a +2 bonus to your Spellcast Rolls.
-- Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll.
+- Enquanto estiver em um ambiente natural, você ganha um bônus de +2 em suas Rolagens de Magia.
+- Uma vez por descanso, você pode dobrar sua Agilidade ou Instinto ao fazer uma rolagem que use essa característica. Você deve escolher fazer isso antes de rolar.

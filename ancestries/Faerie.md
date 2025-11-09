@@ -1,9 +1,9 @@
 ﻿# FAERIE
 
-Faeries are winged humanoid creatures with insectile features. These characteristics cover a broad spectrum from humanoid to insectoid—some possess additional arms, compound eyes, lantern organs, chitinous exoskeletons, or stingers. Because of their close ties to the natural world, they also frequently possess attributes that allow them to blend in with various plants. The average height of a faerie ranges from about 2 feet to 5 feet, but some faeries grow up to 7 feet tall. All faeries possess membranous wings and they each go through a process of metamorphosis. The process and changes differ from faerie to faerie, but during this transformation each individual manifests the unique appearance they will carry throughout the rest of their approximately 50-year lifespan.
+Fadas são criaturas humanoides aladas com características insetoides. Essas características abrangem um amplo espectro, desde humanoides até insetoides — algumas possuem braços adicionais, olhos compostos, órgãos de lanterna, exoesqueletos quitinosos ou ferrões. Devido aos seus laços estreitos com o mundo natural, elas também frequentemente possuem atributos que lhes permitem se camuflar entre várias plantas. A altura média de uma fada varia de cerca de 60 cm a 1,5 m, mas algumas fadas crescem até 2,1 m de altura. Todas as fadas possuem asas membranosas e cada uma passa por um processo de metamorfose. O processo e as mudanças diferem de fada para fada, mas durante essa transformação cada indivíduo manifesta a aparência única que carregará durante o restante de sua vida, que dura aproximadamente 50 anos.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***Luckbender:*** Once per session, after you or a willing ally within Close range makes an action roll, you can **spend 3 Hope** to reroll the Duality Dice.
+***Dobradora de Sorte:*** Uma vez por sessão, depois que você ou um aliado disposto dentro do alcance Próximo fizer uma rolagem de ação, você pode **gastar 3 de Esperança** para rerrolar os Dados de Dualidade.
 
-***Wings:*** You can fly. While flying, you can **mark a Stress** after an adversary makes an attack against you to gain a +2 bonus to your Evasion against that attack.
+***Asas:*** Você pode voar. Enquanto estiver voando, você pode **marcar 1 Estresse** depois que um adversário fizer um ataque contra você para ganhar um bônus de +2 em sua Evasão contra esse ataque.

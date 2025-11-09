@@ -1,7 +1,7 @@
-﻿# DRAGONSCALE ARMOR
+﻿# ARMADURA DE ESCAMA DE DRAGÃO
 
-**Base Thresholds:** 11 / 27; **Base Score:** 5
+**Limiares Base:** 11 / 27; **Pontuação Base:** 5
 
-**Feature:** ***Impenetrable:*** Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress.
+**Habilidade:** ***Impenetrável:*** Uma vez por descanso curto, quando você fosse marcar seu último Ponto de Vida, você pode marcar um Estresse em vez disso.
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

@@ -1,6 +1,6 @@
-﻿# SIGIL OF RETRIBUTION
+﻿# SIGILO DE RETRIBUIÇÃO
 
-> **Level 6 Codex Spell**  
-> **Recall Cost:** 2
+> **Magia do Códice de Nível 6**  
+> **Custo para Recordar:** 2
 
-Mark an adversary within Close range with a sigil of retribution. The GM gains a Fear. When the marked adversary deals damage to you or your allies, place a d8 on this card. You can hold a number of d8s equal to your level. When you successfully attack the marked adversary, roll the dice on this card and add the total to your damage roll, then clear the dice. This effect ends when the marked adversary is defeated or you cast Sigil of Retribution again.
+Marque um adversário em alcance Próximo com um sigilo de retribuição. O Mestre ganha um Medo. Quando o adversário marcado causar dano a você ou seus aliados, coloque um d8 nesta carta. Você pode manter um número de d8s igual ao seu nível. Quando você atacar com sucesso o adversário marcado, role os dados nesta carta e adicione o total à sua rolagem de dano, então limpe os dados. Este efeito termina quando o adversário marcado for derrotado ou você lançar Sigilo de Retribuição novamente.

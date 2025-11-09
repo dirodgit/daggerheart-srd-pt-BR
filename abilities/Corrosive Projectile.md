@@ -1,6 +1,6 @@
-﻿# CORROSIVE PROJECTILE
+﻿# PROJÉTIL CORROSIVO
 
-> **Level 3 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 3**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against a target within Far range. On a success, deal 6d4 magic damage using your Proficiency. Additionally, mark 2 or more Stress to make them permanently Corroded. While a target is Corroded, they gain a –1 penalty to their Difficulty for every 2 Stress you spent. This condition can stack.
+Faça uma Jogada de Conjuração contra um alvo dentro do alcance Longo. Em caso de sucesso, cause 6d4 de dano mágico usando sua Proficiência. Além disso, marque 2 ou mais de Estresse para torná-los permanentemente Corroídos. Enquanto um alvo estiver Corroído, ele sofre uma penalidade de –1 na Dificuldade para cada 2 de Estresse que você gastou. Essa condição pode se acumular.

@@ -1,11 +1,11 @@
 ﻿# BARE BONES
 
-> **Level 1 Valor Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Valor Nível 1**  
+> **Custo de Recordação:** 0
 
-When you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:
+Quando você opta por não equipar armadura, você tem uma Pontuação de Armadura base de 3 + sua Força e usa os seguintes valores como seus limiares de dano base:
 
-- **Tier 1:** 9/19
-- **Tier 2:** 11/24
-- **Tier 3:** 13/31
-- **Tier 4:** 15/35
+- **Nível 1:** 9/19
+- **Nível 2:** 11/24
+- **Nível 3:** 13/31
+- **Nível 4:** 15/35

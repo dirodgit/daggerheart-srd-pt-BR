@@ -1,9 +1,9 @@
-﻿# HUMAN
+﻿# HUMANO
 
-Humans are most easily recognized by their dexterous hands, rounded ears, and bodies built for endurance. Their average height ranges from just under 5 feet to about 6 ½ feet. They have a wide variety of builds, with some being quite broad, others lithe, and many inhabiting the spectrum in between. Humans are physically adaptable and adjust to harsh climates with relative ease. In general, humans live to an age of about 100, with their bodies changing dramatically between their youngest and oldest years.
+Os humanos são mais facilmente reconhecidos por suas mãos hábeis, orelhas arredondadas e corpos construídos para resistência. Sua altura média varia de pouco menos de 1,50 m até cerca de 2 metros e meio. Eles apresentam uma grande variedade de tipos físicos, com alguns sendo bastante robustos, outros esguios, e muitos ocupando o espectro intermediário. Os humanos são fisicamente adaptáveis e se ajustam a climas rigorosos com relativa facilidade. Em geral, os humanos vivem até cerca de 100 anos, com seus corpos mudando drasticamente entre a juventude e a velhice.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***High Stamina:*** Gain an additional Stress slot at character creation.
+***Alta Resistência:*** Ganhe um espaço adicional de Estresse na criação do personagem.
 
-***Adaptability:*** When you fail a roll that utilized one of your Experiences, you can mark a Stress to reroll.
+***Adaptabilidade:*** Quando você falhar em uma rolagem que utilizou uma de suas Experiências, pode marcar um Estresse para rerrolar.

@@ -1,18 +1,18 @@
-﻿# GIANT EAGLE
+﻿# ÁGUIA GIGANTE
 
-***Tier 2 Skulk***  
-*A giant bird of prey with blood-stained talons.*  
-**Motives & Tactics:** Hunt prey, stay mobile, strike decisively
+***Esconderijo de Nível 2***  
+*Uma ave de rapina gigante com garras manchadas de sangue.*  
+**Motivações & Táticas:** Caçar presas, manter-se móvel, atacar decisivamente
 
-> **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +1 | **Claws and Beak:** Very Close | 2d6+3 phy  
+> **Dificuldade:** 14 | **Limiares:** 8/19 | **PV:** 4 | **Estresse:** 4  
+> **ATQ:** +1 | **Garras e Bico:** Muito Próximo | 2d6+3 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Flight - Passive:*** While flying, the Eagle gains a +3 bonus to their Difficulty.
+***Voo - Passivo:*** Enquanto estiver voando, a Águia ganha um bônus de +3 na sua Dificuldade.
 
-***Deadly Dive - Action:*** Mark a Stress to attack a target within Far range. On a success, deal 2d10+2 physical damage and knock the target over, making them Vulnerable until they next act.
+***Mergulho Mortal - Ação:*** Marque um Estresse para atacar um alvo dentro do alcance Longínquo. Em caso de sucesso, cause 2d10+2 de dano físico e derrube o alvo, tornando-o Vulnerável até que ele aja novamente.
 
-***Take Off - Action:*** Make an attack against a target within Very Close range. On a success, deal 2d4+3 physical damage and the target must succeed on an Agility Reaction Roll or become temporarily Restrained within the Eagle’s massive talons. If the target is Restrained, the Eagle immediately lifts them to the air to Very Far range above the battlefield while holding them.
+***Decolar - Ação:*** Faça um ataque contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, cause 2d4+3 de dano físico e o alvo deve passar em um Teste de Reação de Agilidade ou ficar temporariamente Imobilizado nas garras enormes da Águia. Se o alvo estiver Imobilizado, a Águia imediatamente o levanta no ar para o alcance Muito Distante acima do campo de batalha enquanto o segura.
 
-***Deadly Drop - Action:*** While flying, the Eagle can drop a Restrained target they are holding. When dropped, the target is no longer Restrained but starts falling. If their fall isn’t prevented during the PCs’ next action, the target takes 2d20 physical damage when they land.
+***Queda Mortal - Ação:*** Enquanto estiver voando, a Águia pode soltar um alvo Imobilizado que esteja segurando. Quando solto, o alvo não está mais Imobilizado, mas começa a cair. Se a queda não for evitada durante a próxima ação dos PCs, o alvo sofre 2d20 de dano físico ao aterrissar.

@@ -1,7 +1,7 @@
-﻿# ROSEWILD ARMOR
+﻿# ARMADURA ROSEWILD
 
-**Base Thresholds:** 11 / 23; **Base Score:** 5
+**Limiares Base:** 11 / 23; **Pontuação Base:** 5
 
-**Feature:** ***Hopeful:*** When you would spend a Hope, you can mark an Armor Slot instead.
+**Característica:** ***Esperançoso:*** Quando você for gastar uma Esperança, pode marcar um Espaço de Armadura em vez disso.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

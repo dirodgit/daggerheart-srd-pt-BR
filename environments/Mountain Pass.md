@@ -1,26 +1,26 @@
-﻿# MOUNTAIN PASS
+﻿# PASSEIO NA MONTANHA
 
-***Tier 2 Traversal***  
-*Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks.*  
-**Impulses:** Exact a chilling toll in supplies and stamina, reveal magical slumber, slow down travel
+***Travessia de Nível 2***  
+*Picos rochosos que perfuram as nuvens, com um caminho sinuoso que serpenteia para cima e para além, através de muitas curvas em ziguezague.*  
+**Impulsos:** Exigir um custo gelado em suprimentos e resistência, revelar sono mágico, desacelerar a viagem
 
-> **Difficulty:** 15  
-> **Potential Adversaries:** Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter
+> **Dificuldade:** 15  
+> **Adversários Potenciais:** Bestas (Urso, Águia Gigante, Cobra de Vidro), Crânio do Caos, Destruidor Minotauro, Caçador Mortal
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Engraved Sigils - Passive:*** Large markings and engravings have been made in the mountainside. A PC with a relevant background or Experience identifies them as weather magic increasing the power of the icy winds. A PC who succeeds on a Knowledge Roll can recall information about the sigils, potential information about their creators, and the knowledge of how to dispel them. If a PC critically succeeds, they recognize that the sigils are of a style created by highborne enchanters and they gain advantage on a roll to dispel the sigils.
+***Sigilos Gravados - Passivo:*** Grandes marcas e gravações foram feitas na encosta da montanha. Um PJ com um histórico ou Experiência relevante os identifica como magia do tempo que aumenta o poder dos ventos gelados. Um PJ que obtiver sucesso em uma Jogada de Conhecimento pode recordar informações sobre os sigilos, informações potenciais sobre seus criadores e o conhecimento de como dissipá-los. Se um PJ obtiver sucesso crítico, ele reconhece que os sigilos são de um estilo criado por encantadores nobres e ganha vantagem em uma jogada para dissipar os sigilos.
 
-  *Who laid this enchantment? Are they nearby? Why did they want the weather to be more daunting?*
+  *Quem lançou este encantamento? Eles estão por perto? Por que queriam que o tempo fosse mais desafiador?*
 
-***Avalanche - Action:*** Spend a Fear to carve the mountain with an icy torrent, causing an avalanche. All PCs in its path must succeed on an Agility or Strength Reaction Roll or be bowled over and carried down the mountain. A PC using rope, pitons, or other climbing gear gains advantage on this roll. Targets who fail are knocked down the mountain to Far range, take 2d20 physical damage, and must mark a Stress. Targets who succeed must mark a Stress.
+***Avalanche - Ação:*** Gaste um Medo para esculpir a montanha com uma torrente gelada, causando uma avalanche. Todos os PJs em seu caminho devem obter sucesso em uma Jogada de Reação de Agilidade ou Força ou serão derrubados e carregados montanha abaixo. Um PJ usando corda, pitões ou outro equipamento de escalada ganha vantagem nessa jogada. Alvos que falharem são derrubados montanha abaixo até alcance Muito Distante, recebem 2d20 de dano físico e devem marcar um Estresse. Alvos que tiverem sucesso devem marcar um Estresse.
 
-  *How do the PCs try to weather the avalanche? What approach do they take to avoid being buried or hurtling down the mountainside?*
+  *Como os PJs tentam resistir à avalanche? Qual abordagem eles adotam para evitar serem enterrados ou lançados montanha abaixo?*
 
-***Raptor Nest - Reaction:*** When the PCs enter the raptors’ hunting grounds, two Giant Eagles appear at Very Far range of a chosen PC, identifying the PCs as likely prey.
+***Ninho de Raptores - Reação:*** Quando os PJs entram no território de caça dos raptores, duas Águias Gigantes aparecem em alcance Muito Distante de um PJ escolhido, identificando os PJs como presas prováveis.
 
-  *How long has it been since the eagles last found prey? Do they have eggs in their nest, or unfledged young?*
+  *Há quanto tempo as águias não encontram presas? Elas têm ovos no ninho ou filhotes ainda não emplumados?*
 
-***Icy Winds - Reaction:*** Countdown (Loop 4). When the PCs enter the mountain pass, activate the countdown. When it triggers, all characters traveling through the pass must succeed on a Strength Reaction Roll or mark a Stress. A PC wearing clothes appropriate for extreme cold gains advantage on these rolls.
+***Ventos Gelados - Reação:*** Contagem regressiva (Loop 4). Quando os PJs entram no passo da montanha, ative a contagem regressiva. Quando ela disparar, todos os personagens que estiverem viajando pelo passo devem obter sucesso em uma Jogada de Reação de Força ou marcar um Estresse. Um PJ vestindo roupas apropriadas para frio extremo ganha vantagem nessas jogadas.
 
-  *What parts of the PCs’ bodies go numb first? How do they try to keep warm as they press forward?*
+  *Quais partes do corpo dos PJs ficam dormentes primeiro? Como eles tentam se manter aquecidos enquanto avançam?*

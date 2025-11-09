@@ -1,7 +1,7 @@
-﻿# ADVANCED RAPIER
+﻿# ESPADA RÁPIDA AVANÇADA
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8+6 físico; **Carga:** Uma mão
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Característica:** ***Rápida:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

@@ -1,15 +1,15 @@
-﻿# SPY
+﻿# ESPIÃO
 
-***Tier 2 Social***  
-*A skilled espionage agent with a knack for being in the right place to overhear secrets.*  
-**Motives & Tactics:** Cut and run, disguise appearance, eavesdrop
+***Nível 2 Social***  
+*Um agente de espionagem habilidoso, com talento para estar no lugar certo e ouvir segredos.*  
+**Motivações & Táticas:** Cortar e fugir, disfarçar aparência, escutar às escondidas
 
-> **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3  
-> **ATK:** -2 | **Dagger:** Melee | 2d6+3 phy  
-> **Experience:** Espionage +3
+> **Dificuldade:** 15 | **Limiares:** 8/17 | **PV:** 4 | **Estresse:** 3  
+> **ATQ:** -2 | **Adaga:** Corpo a corpo | 2d6+3 físico  
+> **Experiência:** Espionagem +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Gathering Secrets - Action:*** Spend a Fear to describe how the Spy knows a secret about a PC in the scene.
+***Coletar Segredos - Ação:*** Gaste um Medo para descrever como o Espião sabe um segredo sobre um PJ na cena.
 
-***Fly on the Wall - Reaction:*** When a PC or group is discussing something sensitive, you can mark a Stress to reveal that the Spy is present in the scene, observing them. If the Spy escapes the scene to report their findings, you gain 1d4 Fear.
+***Mosca na Parede - Reação:*** Quando um PJ ou grupo estiver discutindo algo sensível, você pode marcar um Estresse para revelar que o Espião está presente na cena, observando-os. Se o Espião escapar da cena para relatar suas descobertas, você ganha 1d4 Medo.

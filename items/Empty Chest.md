@@ -1,5 +1,5 @@
-﻿# EMPTY CHEST
+﻿# BAÚ VAZIO
 
-This magical chest appears empty. When you speak a specific trigger word or action and open the chest, you can see the items stored within it.
+Este baú mágico parece vazio. Quando você pronuncia uma palavra ou realiza uma ação específica e abre o baú, pode ver os itens armazenados dentro dele.
 
 *Item*

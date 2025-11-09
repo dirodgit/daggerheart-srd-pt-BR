@@ -1,8 +1,8 @@
 ﻿# RUNE WARD
 
-> **Level 1 Arcana Spell**  
-> **Recall Cost:** 0
+> **Magia Arcana de Nível 1**  
+> **Custo de Recordação:** 0
 
-You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it’s important to you. The ward’s holder can spend a Hope to reduce incoming damage by 1d8.
+Você possui um amuleto profundamente pessoal que pode ser infundido com magia protetora e mantido como uma proteção por você ou um aliado. Descreva o que é e por que é importante para você. O portador da proteção pode gastar uma Esperança para reduzir o dano recebido em 1d8.
 
-If the Ward Die result is 8, the ward’s power ends after it reduces damage this turn. It can be recharged for free on your next rest.
+Se o resultado do Dado de Encontro for 8, o poder da proteção termina após reduzir o dano neste turno. Ela pode ser recarregada gratuitamente no seu próximo descanso.

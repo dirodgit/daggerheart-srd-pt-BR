@@ -1,7 +1,7 @@
-﻿# ADVANCED LEATHER ARMOR
+﻿# ARMADURA DE COURO AVANÇADA
 
-**Base Thresholds:** 11 / 27; **Base Score:** 5
+**Limiares Base:** 11 / 27; **Pontuação Base:** 5
 
-**Feature:** —
+**Característica:** —
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

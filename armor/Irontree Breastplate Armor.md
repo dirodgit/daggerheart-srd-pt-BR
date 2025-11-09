@@ -1,7 +1,7 @@
-﻿# IRONTREE BREASTPLATE ARMOR
+﻿# ARMADURA DE PEITO DE ÁRVORE DE FERRO
 
-**Base Thresholds:** 9 / 20; **Base Score:** 4
+**Limiares Base:** 9 / 20; **Pontuação Base:** 4
 
-**Feature:** ***Reinforced:*** When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot.
+**Característica:** ***Reforçada:*** Quando você marcar seu último Espaço de Armadura, aumente seus limiares de dano em +2 até que você libere pelo menos 1 Espaço de Armadura.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

@@ -1,6 +1,6 @@
-﻿# REASSURANCE
+﻿# RECONFORTO
 
-> **Level 1 Splendor Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Esplendor de Nível 1**  
+> **Custo de Recordação:** 0
 
-Once per rest, after any ill attempts an action roll but before the consequences take place, you can offer assistance or words of support. When you do, your ally can reroll their dice.
+Uma vez por descanso, após qualquer aliado tentar uma rolagem de ação, mas antes que as consequências ocorram, você pode oferecer assistência ou palavras de apoio. Quando fizer isso, seu aliado pode rerrolar seus dados.

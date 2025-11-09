@@ -1,8 +1,8 @@
-﻿# UNCANNY DISGUISE
+﻿# DISFARCE INUSITADO
 
-> **Level 1 Midnight Spell**  
-> **Recall Cost:** 0
+> **Feitiço da Meia-Noite de Nível 1**  
+> **Custo de Recordação:** 0
 
-When you have a few minutes to prepare, you can mark a Stress to don the facade of any humanoid you can picture clearly in your mind. While disguised, you have advantage on Presence Rolls to avoid scrutiny.
+Quando você tem alguns minutos para se preparar, pode marcar um Estresse para assumir a fachada de qualquer humanoide que consiga visualizar claramente em sua mente. Enquanto estiver disfarçado, você tem vantagem em Testes de Presença para evitar escrutínio.
 
-Place a number of tokens equal to your Spellcast trait on this card. When you take an action while disguised, spend a token from this card. After the action that spends the last token is resolved, the disguise drops.
+Coloque um número de marcadores igual ao seu traço de Conjuração de Feitiço nesta carta. Quando você realizar uma ação enquanto estiver disfarçado, gaste um marcador desta carta. Após a resolução da ação que gastar o último marcador, o disfarce cai.

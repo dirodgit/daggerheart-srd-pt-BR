@@ -1,5 +1,5 @@
-﻿# GLAMOUR STONE
+﻿# PEDRA DO ENCANTO
 
-Activate this pebble-sized stone to memorize the appearance of someone you can see. Spend a Hope to magically recreate this guise on yourself as an illusion.
+Ative esta pedra do tamanho de um seixo para memorizar a aparência de alguém que você possa ver. Gaste uma Esperança para recriar magicamente essa aparência em si mesmo como uma ilusão.
 
 *Item*

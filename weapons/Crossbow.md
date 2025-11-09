@@ -1,7 +1,7 @@
-﻿# CROSSBOW
+﻿# BESTA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+1 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+1 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

@@ -1,7 +1,7 @@
-﻿# LEGENDARY DUALSTAFF
+﻿# BASTÃO DUPLO LENDÁRIO
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d8+12 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d8+12 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

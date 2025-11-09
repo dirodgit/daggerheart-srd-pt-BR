@@ -1,8 +1,8 @@
-﻿# FRENZY
+﻿# FRENESI
 
-> **Level 8 Blade Ability**  
-> **Recall Cost:** 3
+> **Habilidade de Lâmina de Nível 8**  
+> **Custo de Recordação:** 3
 
-Once per long rest, you can go into a Frenzy until there are no more adversaries within sight.
+Uma vez por descanso longo, você pode entrar em Frenesi até que não haja mais adversários à vista.
 
-While Frenzied, you can’t use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold.
+Enquanto em Frenesi, você não pode usar Espaços de Armadura, e ganha um bônus de +10 nas suas rolagens de dano e um bônus de +8 no seu limite de dano Grave.

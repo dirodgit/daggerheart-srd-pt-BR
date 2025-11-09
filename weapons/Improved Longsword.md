@@ -1,7 +1,7 @@
-﻿# IMPROVED LONGSWORD
+﻿# ESPADA LONGA APRIMORADA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d10+6 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

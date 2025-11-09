@@ -1,5 +1,5 @@
-﻿# ALISTAIR’S TORCH
+﻿# TOCHA DE ALISTAIR
 
-You can light this magic torch at will. The flame’s light fills a much larger space than it should, enough to illuminate a cave bright as day.
+Você pode acender esta tocha mágica à vontade. A luz da chama preenche um espaço muito maior do que deveria, o suficiente para iluminar uma caverna tão clara quanto o dia.
 
 *Item*

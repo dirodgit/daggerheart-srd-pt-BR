@@ -1,6 +1,6 @@
-﻿# VEIL OF NIGHT
+﻿# VEIL OF NIGHT (VÉU DA NOITE)
 
-> **Level 3 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 3**  
+> **Custo para Recordar:** 1
 
-Make a Spellcast Roll (13). On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You’re considered Hidden to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell.
+Faça uma Jogada de Conjuração de Magia (13). Em caso de sucesso, você pode criar uma cortina temporária de escuridão entre dois pontos dentro do alcance Longo. Apenas você pode ver através dessa escuridão. Você é considerado Oculto para adversários do outro lado do véu, e tem vantagem em ataques que fizer através da escuridão. O véu permanece até que você conjure outra magia.

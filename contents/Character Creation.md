@@ -1,107 +1,107 @@
-# CHARACTER CREATION
+# CRIAÇÃO DE PERSONAGEM
 
-Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
+A menos que a mesa opte por usar personagens pré-gerados, cada jogador cria seu próprio personagem (PC) fazendo uma série de escolhas guiadas. Algumas dessas decisões são puramente narrativas, ou seja, aparecem ou afetam o jogo apenas por meio da interpretação, mas outras são escolhas mecânicas que influenciam o que seu PC pode fazer e em quais ações ele tem mais (ou menos) chances de sucesso ao realizar movimentos e tomar ações.
 
-> ***Note:*** *You can fill in your character’s name, pronouns, and Character Description details at any point of the character creation process.*
+> ***Nota:*** *Você pode preencher o nome do seu personagem, pronomes e detalhes da Descrição do Personagem em qualquer momento do processo de criação.*
 
-## STEP 1: CHOOSE A CLASS AND SUBCLASS
+## PASSO 1: ESCOLHA UMA CLASSE E SUBCLASSE
 
-**[Classes](Classes.md)** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
+**[Classes](Classes.md)** são arquétipos baseados em papéis que determinam quais características de classe e **cartas de domínio** um PC terá acesso ao longo da campanha. Existem nove classes neste SRD: Bardo, Druida, Guardião, Patrulheiro, Ladino, Serafim, Feiticeiro, Guerreiro, Mago.
 
-- Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your PC’s details; you’ll update and reference them throughout the campaign.
-- Every class begins with one or more unique **class feature(s)**, described in the front of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
+- Selecione uma classe e pegue as impressões correspondentes da **ficha de personagem** e do **guia de personagem**. Essas fichas servem para registrar os detalhes do seu PC; você as atualizará e consultará durante a campanha.
+- Cada classe começa com uma ou mais **características de classe** únicas, descritas na frente da ficha de personagem de cada classe. Se sua característica de classe pedir que você faça uma escolha, faça-a agora.
 
-**Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features**. Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
+**Subclasses** refinam ainda mais um arquétipo de classe e reforçam sua expressão concedendo acesso a **características de subclasse** únicas. Cada classe possui duas subclasses. Selecione uma das subclasses da sua classe e pegue sua carta **Fundação**.
 
-## STEP 2: CHOOSE YOUR HERITAGE
+## PASSO 2: ESCOLHA SUA HERANÇA
 
-Your character’s **heritage** combines two elements: **[ancestry](Ancestries.md)** and **[community](Communities.md)**.
+A **herança** do seu personagem combina dois elementos: **[ancestralidade](Ancestries.md)** e **[comunidade](Communities.md)**.
 
-- A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
-- Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
+- A **ancestralidade** do personagem reflete sua linhagem, impactando sua fisicalidade e concedendo duas **características de ancestralidade** únicas. Pegue a carta de uma das seguintes ancestralidades e escreva seu nome no campo Herança da sua ficha: Clank, Drakona, Anão, Elfo, Fada, Fauno, Firbolg, Fungirl, Galapa, Gigante, Goblin, Halfling, Humano, Infernis, Katari, Orc, Ribbet, Símio. Para criar uma Ancestralidade Mista, pegue a característica de ancestralidade superior (primeira listada) de uma ancestralidade e a característica inferior (segunda listada) de outra.
+- A **comunidade** do seu personagem representa sua cultura ou ambiente de origem e concede uma **característica de comunidade**. Pegue a carta de uma das seguintes comunidades e escreva seu nome no campo Herança da sua ficha: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
 
-## STEP 3: ASSIGN CHARACTER TRAITS
+## PASSO 3: ATRIBUA OS TRAÇOS DO PERSONAGEM
 
-Your character has six traits that represent their physical, mental, and social aptitude:
+Seu personagem tem seis traços que representam sua aptidão física, mental e social:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver, etc.)  
-  A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
-- **Strength** (Use it to Lift, Smash, Grapple, etc.)  
-  A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
-- **Finesse** (Use it to Control, Hide, Tinker, etc.)  
-  A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
-- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)  
-  A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
-- **Presence** (Use it to Charm, Perform, Deceive, etc.)  
-  A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
-- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)  
-  A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
+- **Agilidade** (Use para Correr, Pular, Manobrar, etc.)  
+  Alta Agilidade significa que você é rápido, ágil em terrenos difíceis e reage rapidamente ao perigo. Você fará uma Rolagem de Agilidade para subir em cordas, correr para se proteger ou saltar de telhado em telhado.
+- **Força** (Use para Levantar, Quebrar, Agarrar, etc.)  
+  Alta Força significa que você é melhor em feitos que testam sua potência física e resistência. Você fará uma Rolagem de Força para arrombar portas, levantar objetos pesados ou resistir a um inimigo em investida.
+- **Finesse** (Use para Controlar, Esconder, Mexer, etc.)  
+  Alta Finesse significa que você é habilidoso em tarefas que exigem precisão, furtividade ou controle absoluto. Você fará uma Rolagem de Finesse para usar ferramentas delicadas, escapar de olhares ou atacar com precisão.
+- **Instinto** (Use para Perceber, Sentir, Navegar, etc.)  
+  Alto Instinto significa que você tem um senso aguçado do ambiente e uma intuição natural. Você fará uma Rolagem de Instinto para perceber perigo, notar detalhes ao redor ou rastrear um inimigo evasivo.
+- **Presença** (Use para Encantar, Performar, Enganar, etc.)  
+  Alta Presença significa que você tem uma forte força de personalidade e facilidade em situações sociais. Você fará uma Rolagem de Presença para defender seu ponto, intimidar um inimigo ou capturar a atenção de uma multidão.
+- **Conhecimento** (Use para Recordar, Analisar, Compreender, etc.)  
+  Alto Conhecimento significa que você sabe informações que outros não sabem e entende como aplicar sua mente por dedução e inferência. Você fará uma Rolagem de Conhecimento para interpretar fatos, ver padrões claramente ou lembrar informações importantes.
 
-When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character’s traits in any order you wish.
+Quando você “rola com um traço”, o modificador desse traço é adicionado ao total da rolagem. Distribua os modificadores +2, +1, +1, +0, +0, -1 entre os traços do seu personagem na ordem que desejar.
 
-## STEP 4: RECORD ADDITIONAL CHARACTER INFORMATION
+## PASSO 4: REGISTRE INFORMAÇÕES ADICIONAIS DO PERSONAGEM
 
-- Characters start a new campaign at **Level 1**. Record your level in the designated space at the top of your character sheet.
-- **Evasion** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
-- **Hit Points (HP)** are an abstract measure of your physical health. Your starting HP is determined by your class and is recorded on your character sheet.
-- **Stress** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
-- **Hope** is a metacurrency that fuels special moves and certain abilities or features. All PCs start with 2 Hope; mark these in the Hope field of your character sheet.
+- Personagens começam uma nova campanha no **Nível 1**. Registre seu nível no espaço designado no topo da ficha.
+- **Evasão** representa a habilidade do personagem de evitar dano. A Evasão inicial é determinada pela classe e aparece logo abaixo do campo Evasão na ficha; copie esse número para o campo Evasão.
+- **Pontos de Vida (PV)** são uma medida abstrata da saúde física. Os PV iniciais são determinados pela classe e registrados na ficha.
+- **Estresse** reflete a capacidade de suportar tensão mental, emocional e esforço físico. Todo PC começa com 6 espaços de Estresse.
+- **Esperança** é uma metamoeda que alimenta movimentos especiais e certas habilidades ou características. Todos os PCs começam com 2 Esperança; marque esses pontos no campo Esperança da ficha.
 
-## STEP 5: CHOOSE YOUR STARTING EQUIPMENT
+## PASSO 5: ESCOLHA SEU EQUIPAMENTO INICIAL
 
-Choose your **[weapon(s)](Weapons.md)**:
+Escolha sua(s) **[arma(s)](Weapons.md)**:
 
-- Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon**. Then equip your selection by recording it in the Active Weapon field of your character sheet.
-- At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.*
+- Selecione da Tabela de Armas de Nível 1. Pode ser uma **arma primária de duas mãos** ou uma **arma primária de uma mão e uma arma secundária de uma mão**. Depois equipe sua escolha registrando-a no campo Arma Ativa da ficha.
+- No Nível 1, sua **Proficiência** é 1; escreva esse número no campo Proficiência da ficha e calcule seu **dano** combinando o valor da Proficiência com os **dados de dano** da(s) arma(s) equipada(s). *Exemplo: Se sua Proficiência é 1 e o dado de dano da arma é d6+1, seu dano é 1d6+1. A Proficiência determina apenas quantos dados de dano você rola, não afeta modificadores fixos de dano.*
 
-Choose and equip one set of **[armor](Armor.md)** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
+Escolha e equipe um conjunto de **[armadura](Armor.md)** da Tabela de Armaduras de Nível 1 e registre seus detalhes no campo **Armadura Ativa** da ficha.
 
-- Add your character’s level to your equipped armor’s **Base Score** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
-- Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
+- Some o nível do personagem ao **Valor Base** da armadura equipada e registre o total nos campos correspondentes. Na criação, seu nível é 1.
+- Registre seu **Valor de Armadura** no campo no canto superior esquerdo da ficha. O Valor de Armadura é igual ao Valor Base da armadura equipada mais quaisquer bônus permanentes que seu personagem tenha de outras habilidades, características ou efeitos.
 
-Add the following items to the **Inventory** fields on your character sheet:
+Adicione os seguintes itens nos campos de **Inventário** da ficha:
 
-- A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled “Gold > Handfuls”)
-- EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)
-- One of the class-specific items listed on your character guide
-- If applicable, whichever class-specific item you selected to carry your spells
-- Any other GM-approved items you’d like to have at the start of the game
+- Uma tocha, 15 metros de corda, suprimentos básicos e um punhado de ouro (marque uma caixa na coluna esquerda da ficha intitulada “Ouro > Punhados”)
+- OU um Poção Menor de Vida (cura 1d4 Pontos de Vida) OU uma Poção Menor de Vigor (cura 1d4 Estresse)
+- Um dos itens específicos da classe listados no seu guia de personagem
+- Se aplicável, o item específico da classe que você escolheu para carregar seus feitiços
+- Quaisquer outros itens aprovados pelo Mestre que você queira ter no início do jogo
 
-## STEP 6: CREATE YOUR BACKGROUND
+## PASSO 6: CRIE SEU HISTÓRICO
 
-Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
+Desenvolva o **histórico** do seu personagem respondendo às **perguntas de histórico** no seu guia de personagem, modificando ou substituindo-as se não se encaixarem no personagem que você deseja interpretar.
 
-> ***Note:*** *Your background has no explicit mechanical effect, but it greatly affects the character you’ll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character’s past more ambiguous for the time being and discover their backstory through play.*
+> ***Nota:*** *Seu histórico não tem efeito mecânico explícito, mas influencia muito o personagem que você interpretará e a preparação que o Mestre fará. Durante a criação, você pode ajustar escolhas feitas em etapas anteriores para refletir melhor esse histórico conforme seu personagem ganha forma. Se desejar, pode deixar o passado do personagem mais ambíguo por enquanto e descobrir sua história durante o jogo.*
 
-## STEP 7: CREATE YOUR EXPERIENCES
+## PASSO 7: CRIE SUAS EXPERIÊNCIAS
 
-An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to an action or reaction roll.
+Uma Experiência é uma palavra ou frase usada para encapsular um conjunto específico de habilidades, traços de personalidade ou aptidões que seu personagem adquiriu ao longo da vida. Quando seu PC faz um movimento, ele pode gastar uma Esperança para adicionar o modificador de uma Experiência relevante a uma rolagem de ação ou reação.
 
-- Your PC gets two Experiences at character creation, each with a +2 modifier.
-- There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities.*
+- Seu PC recebe duas Experiências na criação, cada uma com modificador +2.
+- Não há uma lista fixa de Experiências para escolher, mas uma Experiência não pode ser muito ampla nem conceder benefícios mecânicos específicos, como magias ou habilidades especiais. *Por exemplo, “Sortudo” e “Altamente Habilidoso” são muito amplos porque poderiam se aplicar a praticamente qualquer rolagem. Da mesma forma, “Voo Supersônico” e “Invulnerável” implicam habilidades especiais que quebrariam o jogo.*
 
-> **EXAMPLE EXPERIENCES**
+> **EXEMPLOS DE EXPERIÊNCIAS**
 >
-> **Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler*
+> **Históricos:** *Assassino, Ferreiro, Guarda-costas, Caçador de Recompensas, Chef da Família Real, Artista de Circo, Trapaceiro, Monarca Caído, Médico de Campo, Alta Sacerdotisa, Comerciante, Nobre, Pirata, Político, Fugitivo, Erudito, Mercenário, Soldado, Contador de Histórias, Ladrão, Viajante do Mundo*
 >
-> **Characteristics:** *Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive*
+> **Características:** *Afável, Endurecido pela Batalha, Rato de Biblioteca, Charmoso, Covarde, Amigo de Todos, Prestativo, Presença Intimidadora, Líder, Lobo Solitário, Leal, Observador, Brincalhão, Língua Prateada, Mãos Leves, Teimoso ao Extremo, Sobrevivente, Jovem e Ingênuo*
 >
-> **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Suashbuckler, Tactician*
+> **Especialidades:** *Acrobata, Jogador, Curandeiro, Inventor, Historiador Mágico, Cartógrafo, Mestre do Disfarce, Navegador, Atirador de Elite, Sobrevivencialista, Espadachim, Tático*
 >
-> **Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker*
+> **Habilidades:** *Encantador de Animais, Negociador, Mira Mortal, Aprendiz Rápido, Força Incrível, Mentiroso, Pés Leves, Negociador, Memória Fotográfica, Mãos Rápidas, Reparador, Catador, Rastreador*
 >
-> **Phrases:** *Catch Me If You Can, Fake It Till You Make It, First Time’s the Charm, Hold the Line, I Won’t Let You Down, I’ll Catch You, I’ve Got Your Back, Knowledge Is Power, Nature’s Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep’s Clothing*
+> **Frases:** *“Me Pegue Se For Capaz”, “Finja Até Conseguir”, “A Primeira Vez é a Sorte”, “Segure a Linha”, “Não Vou Te Deixar na Mão”, “Eu Te Seguro”, “Estou Contigo”, “Conhecimento é Poder”, “Amigo da Natureza”, “Nunca Mais”, “Ninguém Fica Para Trás”, “Briga com Quem é do Seu Tamanho”, “O Show Deve Continuar”, “Isso Não é Negociação”, “Lobo em Pele de Cordeiro”*
 
-## STEP 8: CHOOSE DOMAIN CARDS
+## PASSO 8: ESCOLHA CARTAS DE DOMÍNIO
 
-Your class has access to two of the nine [Domains](Domains.md) included in the core set. Choose two cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
+Sua classe tem acesso a dois dos nove [Domínios](Domains.md) incluídos no conjunto básico. Escolha duas cartas dos domínios da sua classe, listados no canto superior esquerdo da sua ficha. Você pode pegar uma carta de cada domínio ou duas de um único domínio, como preferir.
 
-## STEP 9: CREATE YOUR CONNECTIONS
+## PASSO 9: CRIE SUAS CONEXÕES
 
-Connections are the relationships between the PCs. To create connections, follow these steps:
+Conexões são os relacionamentos entre os PCs. Para criá-las, siga estes passos:
 
-- Go around the table and have each player describe their characters to one another—at a minimum, their name, pronouns, character description, experiences, and the answers to their background questions.
-- Discuss potential connections between the PCs using the questions included in the “Connections” section of your character guide as inspiration.
-- Suggest at least one connection between your character and each other player’s PC. Accept any suggested connections you want to explore, reject any you don’t.
+- Passe a palavra na mesa para que cada jogador descreva seus personagens uns para os outros — no mínimo, nome, pronomes, descrição do personagem, experiências e respostas às perguntas de histórico.
+- Discutam possíveis conexões entre os PCs usando as perguntas incluídas na seção “Conexões” do seu guia de personagem como inspiração.
+- Sugira pelo menos uma conexão entre seu personagem e o PC de cada outro jogador. Aceite as conexões sugeridas que quiser explorar, rejeite as que não desejar.
 
-> ***Note:*** *A player can reject a suggested connection for any reason, and it’s okay if there isn’t an established connection between every pair of PCs—you can always discover and develop those relationships through play.*
+> ***Nota:*** *Um jogador pode rejeitar uma conexão sugerida por qualquer motivo, e tudo bem se não houver uma conexão estabelecida entre todos os pares de PCs — vocês sempre podem descobrir e desenvolver esses relacionamentos durante o jogo.*

@@ -1,5 +1,5 @@
-﻿# LASKETIDER BOOTS
+﻿# BOTAS LASKETIDER
 
-You can walk on the surface of water as if it were soft ground.
+Você pode caminhar sobre a superfície da água como se fosse um terreno macio.
 
 *Item*

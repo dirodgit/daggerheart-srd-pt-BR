@@ -1,7 +1,7 @@
-﻿# LABRYS AXE
+﻿# MACHADO LABRYS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+7 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Protective:*** +1 to Armor Score
+**Característica:** ***Protetor:*** +1 na Pontuação de Armadura
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

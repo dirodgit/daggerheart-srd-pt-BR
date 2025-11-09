@@ -1,17 +1,17 @@
-﻿# SHARK
+﻿# TUBARÃO
 
-***Tier 2 Bruiser***  
-*A large aquatic predator, always on the move.*  
-**Motives & Tactics:** Find the blood, isolate prey, target the weak
+***Brutamontes de Nível 2***  
+*Um grande predador aquático, sempre em movimento.*  
+**Motivações & Táticas:** Encontrar o sangue, isolar a presa, atacar o fraco
 
-> **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy  
-> **Experience:** Sense of Smell +3
+> **Dificuldade:** 14 | **Limiares:** 14/28 | **PV:** 7 | **Estresse:** 3  
+> **ATQ:** +2 | **Mandíbula Afiada:** Muito Próximo | 2d12+1 físico  
+> **Experiência:** Olfato +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** When the Shark makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
+***Aterrorizante - Passiva:*** Quando o Tubarão realiza um ataque bem-sucedido, todos os PCs em alcance Longo perdem 1 Esperança e você ganha 1 Medo.
 
-***Rending Bite - Passive:*** When the Shark makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
+***Mordida Dilacerante - Passiva:*** Quando o Tubarão realiza um ataque bem-sucedido, o alvo deve marcar um Espaço de Armadura sem receber seus benefícios (eles ainda podem usar a armadura para reduzir o dano). Se não puder marcar um Espaço de Armadura, deve marcar 1 PV adicional.
 
-***Blood in the Water - Reaction:*** When a creature within Close range of the Shark marks HP from another creature’s attack, you can mark a Stress to immediately spotlight the Shark, moving them into Melee range of the target and making a standard attack.
+***Sangue na Água - Reação:*** Quando uma criatura em alcance Próximo do Tubarão marca PV por um ataque de outra criatura, você pode marcar 1 Estresse para imediatamente destacar o Tubarão, movendo-o para alcance de Combate Corpo a Corpo do alvo e realizando um ataque padrão.

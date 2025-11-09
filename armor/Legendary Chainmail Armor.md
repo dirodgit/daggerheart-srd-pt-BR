@@ -1,7 +1,7 @@
-﻿# LEGENDARY CHAINMAIL ARMOR
+﻿# ARMADURA DE COTA DE MALHA LENDÁRIA
 
-**Base Thresholds:** 15 / 40; **Base Score:** 7
+**Limiares Base:** 15 / 40; **Pontuação Base:** 7
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

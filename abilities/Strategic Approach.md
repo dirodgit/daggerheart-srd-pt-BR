@@ -1,12 +1,12 @@
-﻿# STRATEGIC APPROACH
+﻿# ABORDAGEM ESTRATÉGICA
 
-> **Level 2 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 2**  
+> **Custo de Recordação:** 1
 
-After a long rest, place a number of tokens equal to your Knowledge on this card (minimum 1). The first time you move within Close range of an adversary and make an attack against them, you can spend one token to choose one of the following options:
+Após um descanso longo, coloque um número de marcadores igual ao seu Conhecimento nesta carta (mínimo 1). Na primeira vez que você se mover para uma distância Próxima de um adversário e fizer um ataque contra ele, você pode gastar um marcador para escolher uma das seguintes opções:
 
-- You make the attack with advantage.
-- You clear a Stress on an ally within Melee range of the adversary.
-- You add a d8 to your damage roll.
+- Você realiza o ataque com vantagem.
+- Você remove um Estresse de um aliado que esteja a Distância Corpo a Corpo do adversário.
+- Você adiciona um d8 ao seu dano.
 
-When you take a long rest, clear all unspent tokens.
+Quando você fizer um descanso longo, remova todos os marcadores não gastos.

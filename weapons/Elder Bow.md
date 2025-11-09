@@ -1,7 +1,7 @@
-﻿# ELDER BOW
+﻿# ARCO ANCIENT
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+4 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

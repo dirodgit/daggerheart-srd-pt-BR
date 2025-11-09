@@ -1,30 +1,30 @@
-# DOWNTIME
+# TEMPO DE INATIVIDADE
 
-Between conflicts, the party can take a **rest** to recover expended resources and deepen their bonds. During a rest, each PC can make up to two downtime moves.
+Entre os conflitos, o grupo pode fazer uma **descanso** para recuperar recursos gastos e aprofundar seus laços. Durante um descanso, cada PJ pode realizar até dois movimentos de tempo de inatividade.
 
-When the party rests, they must choose between a short rest and a long rest. If a party takes three short rests in a row, their next rest must be a long rest.
+Quando o grupo descansa, deve escolher entre um descanso curto e um descanso longo. Se o grupo fizer três descansos curtos consecutivos, o próximo descanso deve ser longo.
 
-If a **short rest** is interrupted, such as by an adversary’s attack, the characters don’t gain its benefits. If a **long rest** is interrupted, the characters only gain the benefits of a short rest.
+Se um **descanso curto** for interrompido, como por um ataque de um adversário, os personagens não recebem seus benefícios. Se um **descanso longo** for interrompido, os personagens recebem apenas os benefícios de um descanso curto.
 
-A **short rest** lasts enough time for the party to catch its breath, about an hour in-world. Each player can move domain cards between their loadout and vault for free, then choose twice from the following list of downtime moves (players can choose the same move twice):
+Um **descanso curto** dura tempo suficiente para o grupo recuperar o fôlego, cerca de uma hora no mundo do jogo. Cada jogador pode mover cartas de domínio entre seu equipamento e seu cofre gratuitamente, depois escolher duas vezes da seguinte lista de movimentos de tempo de inatividade (os jogadores podem escolher o mesmo movimento duas vezes):
 
-- **Tend to Wounds:** Clear 1d4+Tier Hit Points for yourself or an ally.
-- **Clear Stress:** Clear 1d4+Tier Stress.
-- **Repair Armor:** Clear 1d4+Tier Armor Slots from your or an ally’s armor.
-- **Prepare:** Describe how you prepare yourself for the path ahead, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
+- **Tratar Ferimentos:** Recupera 1d4+Nível de Pontos de Vida para você ou um aliado.
+- **Eliminar Estresse:** Remove 1d4+Nível de Estresse.
+- **Reparar Armadura:** Recupera 1d4+Nível de Espaços de Armadura da sua armadura ou da armadura de um aliado.
+- **Preparar:** Descreva como você se prepara para o caminho à frente, então ganhe 1 Esperança. Se você escolher Preparar com um ou mais membros do seu grupo, cada um ganha 2 Esperanças.
 
-**At the end of a short rest,** any features or effects with a limited number of uses per rest refresh and any features or effects that last until your next rest expire.
+**Ao final de um descanso curto,** quaisquer características ou efeitos com número limitado de usos por descanso são renovados, e quaisquer características ou efeitos que duram até o próximo descanso expiram.
 
-A **long rest** is when the characters make camp and relax or sleep for several in-game hours. Each player can move domain cards between their loadout and vault for free, then choose twice from the following list of downtime moves (players can choose the same move twice):
+Um **descanso longo** ocorre quando os personagens montam acampamento e relaxam ou dormem por várias horas no jogo. Cada jogador pode mover cartas de domínio entre seu equipamento e seu cofre gratuitamente, depois escolher duas vezes da seguinte lista de movimentos de tempo de inatividade (os jogadores podem escolher o mesmo movimento duas vezes):
 
-- **Tend to All Wounds:** Clear all Hit Points for yourself or an ally.
-- **Clear All Stress:** Clear all Stress.
-- **Repair All Armor:** Clear all Armor Slots from your or an ally’s armor.
-- **Prepare:** Describe how you prepare for the next day’s adventure, then gain a Hope. If you choose to Prepare with one or more members of your party, you each gain 2 Hope.
-- **Work on a Project:** With GM approval, a PC may pursue a long-term project, such as deciphering an ancient text or crafting a new weapon. The first time they start a new project, assign it a countdown. Each time a PC makes the Work on a Project move, they either advance their project’s countdown automatically or make an action roll to advance it (GM’s choice).
+- **Tratar Todos os Ferimentos:** Recupera todos os Pontos de Vida para você ou um aliado.
+- **Eliminar Todo o Estresse:** Remove todo o Estresse.
+- **Reparar Toda a Armadura:** Recupera todos os Espaços de Armadura da sua armadura ou da armadura de um aliado.
+- **Preparar:** Descreva como você se prepara para a aventura do dia seguinte, então ganhe 1 Esperança. Se você escolher Preparar com um ou mais membros do seu grupo, cada um ganha 2 Esperanças.
+- **Trabalhar em um Projeto:** Com aprovação do GM, um PJ pode perseguir um projeto de longo prazo, como decifrar um texto antigo ou forjar uma nova arma. Na primeira vez que iniciarem um novo projeto, atribua uma contagem regressiva. Cada vez que um PJ fizer o movimento Trabalhar em um Projeto, ele avança automaticamente a contagem regressiva do projeto ou faz uma rolagem de ação para avançá-la (a escolha é do GM).
 
-At the end of a long rest, any features or effects with a limited number of uses per rest or per long rest refresh and any features or effects that last until your next rest or until your next long rest expire.
+Ao final de um descanso longo, quaisquer características ou efeitos com número limitado de usos por descanso ou por descanso longo são renovados, e quaisquer características ou efeitos que duram até o próximo descanso ou até o próximo descanso longo expiram.
 
-## DOWNTIME CONSEQUENCES
+## CONSEQUÊNCIAS DO TEMPO DE INATIVIDADE
 
-On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 1d4 + the number of PCs, and they can advance a **long-term countdown** of their choice.
+Em um descanso curto, o GM ganha 1d4 de Medo. Em um descanso longo, ele ganha Medo igual a 1d4 + o número de PJs, e pode avançar uma **contagem regressiva de longo prazo** de sua escolha.

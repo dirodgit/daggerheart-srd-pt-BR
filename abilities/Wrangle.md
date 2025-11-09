@@ -1,6 +1,6 @@
 ﻿# WRANGLE
 
-> **Level 8 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Osso de Nível 8**  
+> **Custo de Recordação:** 1
 
-Make an Agility Roll against all targets within Close range. Spend a Hope to move targets you succeed against, and any willing allies within Close range, to another point within Close range.
+Faça uma Jogada de Agilidade contra todos os alvos em alcance Próximo. Gaste uma Esperança para mover os alvos contra os quais você obtiver sucesso, e quaisquer aliados dispostos dentro do alcance Próximo, para outro ponto dentro do alcance Próximo.

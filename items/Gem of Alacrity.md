@@ -1,5 +1,5 @@
-﻿# GEM OF ALACRITY
+﻿# GEMA DE ALACRIDADE
 
-You can attach this gem to a weapon, allowing you to use your Agility when making an attack with that weapon.
+Você pode anexar esta gema a uma arma, permitindo que você use sua Agilidade ao fazer um ataque com essa arma.
 
 *Item*

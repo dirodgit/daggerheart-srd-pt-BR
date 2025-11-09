@@ -1,7 +1,7 @@
-﻿# ROUND SHIELD
+﻿# ESCUDO REDONDO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Protective:*** +1 to Armor Score
+**Característica:** ***Protetor:*** +1 na Pontuação de Armadura
 
-*Secondary Weapon - Tier 1*
+*Arma Secundária - Nível 1*

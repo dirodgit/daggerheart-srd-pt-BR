@@ -1,14 +1,14 @@
-﻿# ZOMBIE PACK
+﻿# PACOTE ZUMBI
 
-***Tier 1 Horde (2/HP)***  
-*A group of shambling corpses instinctively moving together.*  
-**Motives & Tactics:** Consume flesh, hunger, maul
+***Horda de Nível 1 (2/HP)***  
+*Um grupo de cadáveres cambaleantes movendo-se instintivamente juntos.*  
+**Motivações & Táticas:** Consumir carne, fome, dilacerar
 
-> **Difficulty:** 8 | **Thresholds:** 6/12 | **HP:** 6 | **Stress:** 3  
-> **ATK:** -1 | **Bite:** Melee | 1d10+2 phy  
+> **Dificuldade:** 8 | **Limiares:** 6/12 | **HP:** 6 | **Estresse:** 3  
+> **ATQ:** -1 | **Mordida:** Corpo a corpo | 1d10+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d4+2) - Passive:*** When the Zombies have marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead.
+***Horda (1d4+2) - Passiva:*** Quando os Zumbis tiverem marcado metade ou mais do seu HP, seu ataque padrão causa 1d4+2 de dano físico em vez disso.
 
-***Overwhelm - Reaction:*** When the Zombies mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker.
+***Sobrepujar - Reação:*** Quando os Zumbis marcarem HP de um ataque dentro do alcance de Corpo a Corpo, você pode marcar um Estresse para fazer um ataque padrão contra o atacante.

@@ -1,6 +1,6 @@
-﻿# HEALING STRIKE
+﻿# GOLPE CURATIVO
 
-> **Level 7 Splendor Spell**  
-> **Recall Cost:** 1
+> **Magia de Esplendor de Nível 7**  
+> **Custo de Recordação:** 1
 
-When you deal damage to an adversary, you can spend 2 Hope to clear a Hit Point on an ally within Close range.
+Quando você causar dano a um adversário, pode gastar 2 de Esperança para recuperar 1 Ponto de Vida de um aliado em alcance Próximo.

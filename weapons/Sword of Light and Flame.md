@@ -1,7 +1,7 @@
-﻿# SWORD OF LIGHT AND FLAME
+﻿# ESPADA DE LUZ E CHAMA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+11 mag; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a Corpo; **Dano:** d10+11 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Hot:*** This weapon cuts through solid material.
+**Característica:** ***Quente:*** Esta arma corta através de material sólido.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

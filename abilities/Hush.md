@@ -1,8 +1,8 @@
-﻿# HUSH
+﻿# SILÊNCIO
 
-> **Level 5 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia de Meia-Noite de Nível 5**  
+> **Custo para Recordar:** 1
 
-Make a Spellcast Roll against a target within Close range. On a success, spend a Hope to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move.
+Faça um Teste de Conjuração de Magia contra um alvo a até Alcance Próximo. Em caso de sucesso, gaste uma Esperança para conjurar uma magia supressora ao redor do alvo que abrange tudo dentro do Alcance Muito Próximo dele e o acompanha enquanto ele se move.
 
-The target and anything within the area is Silenced until the GM spends a Fear on their turn to clear this condition, you cast Hush again, or you take Major damage. While Silenced, they can’t make noise and can’t cast spells.
+O alvo e tudo dentro da área fica Silenciado até que o Mestre gaste um Medo em seu turno para remover essa condição, você conjure Silêncio novamente, ou você sofra Dano Maior. Enquanto estiver Silenciado, eles não podem fazer barulho nem conjurar magias.

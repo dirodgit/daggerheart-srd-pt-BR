@@ -1,23 +1,23 @@
-﻿# FALLEN WARLORD: REALM-BREAKER
+﻿# SENHOR DA GUERRA CAÍDO: DESTRUIDOR DE REINOS
 
-***Tier 4 Solo***  
-*A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  
-**Motives & Tactics:** Corrupt, dominate, punish, break the weak
+***Nível 4 Solo***  
+*Um Deus caído, envolto em fúria e ressentimento, carregando milênios de experiência em quebrar o espírito dos heróis.*  
+**Motivações & Táticas:** Corromper, dominar, punir, quebrar os fracos
 
-> **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  
-> **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy  
-> **Experience:** Conquest +3, History +2, Intimidation +3
+> **Dificuldade:** 20 | **Limiares:** 36/66 | **PV:** 8 | **Estresse:** 5  
+> **ATQ:** +7 | **Chicote Espinhoso:** Corpo a Corpo | 4d8+7 físico  
+> **Experiência:** Conquista +3, História +2, Intimidação +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** The Realm-Breaker can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (2) - Passivo:*** O Destruidor de Reinos pode ser destacado até duas vezes por turno do Mestre. Gaste Medo normalmente para destacá-lo.
 
-***Firespite Plate Armor - Passive:*** When the Realm-Breaker takes damage, reduce it by 2d10.
+***Armadura de Placas Brasas - Passivo:*** Quando o Destruidor de Reinos sofre dano, reduza-o em 2d10.
 
-***Tormenting Lash - Action:*** Mark a Stress to make a standard attack against all targets within Very Close range. When a target uses armor to reduce damage from this attack, they must mark 2 Armor Slots.
+***Chicote Atormentador - Ação:*** Marque um Estresse para fazer um ataque padrão contra todos os alvos em alcance Muito Próximo. Quando um alvo usar armadura para reduzir o dano deste ataque, ele deve marcar 2 Espaços de Armadura.
 
-***All-Consuming Rage - Reaction:*** Countdown (Decreasing 8). When the Realm-Breaker is in the spotlight for the first time, activate the countdown. When it triggers, create a torrent of incarnate rage that rends flesh from bone. All targets within Far range must make a Presence Reaction Roll. Targets who fail take 2d6+10 direct magic damage. Targets who succeed take half damage. For each HP marked from this damage, summon a Fallen Shock Troop within Very Close range of the target who marked that HP. If the countdown ever decreases its maximum value to 0, the Realm-Breaker marks their remaining HP and all targets within Far range must mark all remaining HP and make a death move.
+***Fúria Devastadora - Reação:*** Contagem Regressiva (Diminuindo 8). Quando o Destruidor de Reinos for destacado pela primeira vez, ative a contagem regressiva. Quando ela disparar, crie uma torrente de fúria encarnada que rasga carne dos ossos. Todos os alvos em alcance Distante devem fazer um Teste de Reação de Presença. Alvos que falharem sofrem 2d6+10 de dano mágico direto. Alvos que tiverem sucesso sofrem metade do dano. Para cada PV marcado por esse dano, convoque um Soldado de Choque Caído em alcance Muito Próximo do alvo que marcou aquele PV. Se a contagem regressiva diminuir seu valor máximo para 0, o Destruidor de Reinos marca seus PV restantes e todos os alvos em alcance Distante devem marcar todos os PV restantes e realizar um movimento de morte.
 
-***Doombringer - Reaction:*** When a target marks HP from an attack by the Realm-Breaker, all PCs within Far range of the target must lose a Hope.
+***Portador da Ruína - Reação:*** Quando um alvo marcar PV por um ataque do Destruidor de Reinos, todos os PCs em alcance Distante do alvo devem perder uma Esperança.
 
-***I Have Never Known Defeat (Phase Change) - Reaction:*** When the Realm-Breaker marks their last HP, replace them with the Undefeated Champion and immediately spotlight them.
+***Nunca Conheci a Derrota (Mudança de Fase) - Reação:*** Quando o Destruidor de Reinos marcar seu último PV, substitua-o pelo Campeão Invicto e destaque-o imediatamente.

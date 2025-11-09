@@ -1,6 +1,6 @@
-﻿# GOAD THEM ON
+﻿# INCITE-OS
 
-> **Level 4 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor Nível 4**  
+> **Custo para Usar:** 1
 
-Describe how you taunt a target within Close range, then make a Presence Roll against them. On a success, the target must mark a Stress, and the next time the GM spotlights them, they must target you with an attack, which they make with disadvantage.
+Descreva como você provoca um alvo dentro do alcance Próximo, então faça uma Jogada de Presença contra ele. Em caso de sucesso, o alvo deve marcar um Estresse, e da próxima vez que o Mestre destacar esse alvo, ele deve atacá-lo, fazendo o ataque com desvantagem.

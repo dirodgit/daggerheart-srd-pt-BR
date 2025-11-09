@@ -1,7 +1,7 @@
-﻿# ADVANCED WARHAMMER
+﻿# WARHAMMER AVANÇADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+9 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+9 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

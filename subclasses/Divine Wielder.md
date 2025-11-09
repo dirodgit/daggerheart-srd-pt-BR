@@ -1,21 +1,21 @@
-﻿# DIVINE WIELDER
+﻿# PORTADOR DIVINO
 
-Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.
+Jogue como Portador Divino se quiser dominar o campo de batalha com uma arma lendária.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Strength
+Força
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***Spirit Weapon:*** When you have an equipped weapon with a range of Melee or Very Close, it can fly from your hand to attack an adversary within Close range and then return to you. You can mark a Stress to target an additional adversary within range with the same attack roll.
+***Arma Espiritual:*** Quando você estiver com uma arma equipada com alcance Corpo a Corpo ou Muito Próximo, ela pode voar da sua mão para atacar um adversário dentro do alcance Próximo e então retornar para você. Você pode marcar um Estresse para mirar um adversário adicional dentro do alcance com a mesma jogada de ataque.
 
-***Sparing Touch:*** Once per long rest, touch a creature and clear 2 Hit Points or 2 Stress from them.
+***Toque Econômico:*** Uma vez por descanso longo, toque uma criatura e remova 2 Pontos de Vida ou 2 de Estresse dela.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Devout:*** When you roll your Prayer Dice, you can roll an additional die and discard the lowest result. Additionally, you can use your “Sparing Touch” feature twice instead of once per long rest.
+***Devoto:*** Quando você rolar seus Dados de Oração, pode rolar um dado adicional e descartar o resultado mais baixo. Além disso, pode usar sua característica “Toque Econômico” duas vezes em vez de uma por descanso longo.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Sacred Resonance:*** When you roll damage for your “Spirit Weapon” feature, if any of the die results match, double the value of each matching die. For example, if you roll two 5s, they count as two 10s.
+***Ressonância Sagrada:*** Quando você rolar dano para sua característica “Arma Espiritual”, se algum dos resultados dos dados for igual, dobre o valor de cada dado correspondente. Por exemplo, se você rolar dois 5, eles contam como dois 10.

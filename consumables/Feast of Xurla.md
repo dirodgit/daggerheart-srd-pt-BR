@@ -1,5 +1,5 @@
-﻿# FEAST OF XURLA
+﻿# FESTA DE XURLA
 
-You can eat this meal to clear all HP and Stress and gain 1d4 Hope.
+Você pode comer esta refeição para recuperar todos os Pontos de Vida e Estresse e ganhar 1d4 de Esperança.
 
-*Consumable*
+*Consumível*

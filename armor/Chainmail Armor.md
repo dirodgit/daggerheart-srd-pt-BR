@@ -1,7 +1,7 @@
-﻿# CHAINMAIL ARMOR
+﻿# ARMADURA DE COTA DE MALHA
 
-**Base Thresholds:** 7 / 15; **Base Score:** 4
+**Limiares Base:** 7 / 15; **Pontuação Base:** 4
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Armor - Tier 1*
+*Armadura - Nível 1*

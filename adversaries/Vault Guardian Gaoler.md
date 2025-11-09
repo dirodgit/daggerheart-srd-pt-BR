@@ -1,14 +1,14 @@
-﻿# VAULT GUARDIAN GAOLER
+﻿# GUARDA DA PRISÃO DO COFRE
 
-***Tier 3 Support***  
-*A boxy, dust-covered construct with thick metallic swinging doors on their torso.*  
-**Motives & Tactics:** Carry away, entrap, protect, pummel
+***Suporte de Nível 3***  
+*Um construto quadrado, coberto de poeira, com grossas portas metálicas articuladas no torso.*  
+**Motivações & Táticas:** Capturar, aprisionar, proteger, golpear
 
-> **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 phy  
+> **Dificuldade:** 16 | **Limiares:** 19/33 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +2 | **Investida Corporal:** Muito Próximo | 3d6+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Blocking Shield - Passive:*** Creatures within Melee range of the Gaoler have disadvantage on attack rolls against them. Creatures trapped inside the Gaoler are immune to this feature.
+***Escudo Bloqueador - Passivo:*** Criaturas dentro do alcance de Combate Corpo a Corpo do Guarda da Prisão têm desvantagem em testes de ataque contra ele. Criaturas aprisionadas dentro do Guarda da Prisão são imunes a essa característica.
 
-***Lock Up - Action:*** Mark a Stress to make an attack against a target within Very Close range. On a success, the target is Restrained within the Gaoler until freed with a successful Strength Roll (18). While Restrained, the target can only attack the Gaoler.
+***Trancar - Ação:*** Marque 1 Estresse para fazer um ataque contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, o alvo fica Preso dentro do Guarda da Prisão até ser libertado com um teste de Força bem-sucedido (18). Enquanto Preso, o alvo só pode atacar o Guarda da Prisão.

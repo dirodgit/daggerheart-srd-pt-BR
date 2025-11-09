@@ -1,6 +1,6 @@
 ﻿# SMITE
 
-> **Level 5 Splendor Spell**  
-> **Recall Cost:** 2
+> **Magia de Esplendor de Nível 5**  
+> **Custo para Recordar:** 2
 
-Once per rest, spend 3 Hope to charge your powerful smite. When you next successfully attack with a weapon, double the result of your damage roll. This attack deals magic damage regardless of the weapon's damage type.
+Uma vez por descanso, gaste 3 de Esperança para carregar seu poderoso golpe. Na próxima vez que você atacar com sucesso com uma arma, dobre o resultado do seu dano. Esse ataque causa dano mágico independentemente do tipo de dano da arma.

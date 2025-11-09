@@ -1,7 +1,7 @@
-﻿# IMPROVED WAND
+﻿# VARINHA APRIMORADA
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+4 mag; **Peso:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

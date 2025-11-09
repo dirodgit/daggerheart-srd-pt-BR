@@ -1,15 +1,15 @@
 ﻿# HARRIER
 
-***Tier 1 Standard***  
-*A nimble fighter armed with javelins.*  
-**Motives & Tactics:** Flank, harry, kite, profit
+***Padrão de Nível 1***  
+*Um lutador ágil armado com dardos.*  
+**Motivações & Táticas:** Flanquear, importunar, recuar, lucrar
 
-> **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 3 | **Stress:** 3  
-> **ATK:** +1 | **Javelin:** Close | 1d6+2 phy  
-> **Experience:** Camouflage +2
+> **Dificuldade:** 12 | **Limiares:** 5/9 | **PV:** 3 | **Estresse:** 3  
+> **ATQ:** +1 | **Dardo:** Próximo | 1d6+2 físico  
+> **Experiência:** Camuflagem +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Maintain Distance - Passive:*** After making a standard attack, the Harrier can move anywhere within Far range.
+***Manter Distância - Passiva:*** Após realizar um ataque padrão, o Harrier pode se mover para qualquer lugar dentro do alcance Longo.
 
-***Fall Back - Reaction:*** When a creature moves into Melee range to make an attack, you can mark a Stress before the attack roll to move anywhere within Close range and make an attack against that creature. On a success, deal 1d10+2 physical damage.
+***Recuar - Reação:*** Quando uma criatura se move para o alcance Corpo a Corpo para fazer um ataque, você pode marcar 1 Estresse antes da rolagem de ataque para se mover para qualquer lugar dentro do alcance Próximo e fazer um ataque contra essa criatura. Em caso de sucesso, cause 1d10+2 de dano físico.

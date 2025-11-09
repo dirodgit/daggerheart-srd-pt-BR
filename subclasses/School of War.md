@@ -1,25 +1,25 @@
-﻿# SCHOOL OF WAR
+﻿# ESCOLA DA GUERRA
 
-Play the School of War if you want to utilize trained magic for violence.
+Jogue com a Escola da Guerra se quiser utilizar magia treinada para violência.
 
-## SPELLCAST TRAIT
+## TRAÇO DE LANÇAMENTO DE MAGIA
 
-Knowledge
+Conhecimento
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional Hit Point slot.
+***Mago de Batalha:*** Você focou seus estudos para se tornar uma força invencível no campo de batalha. Ganhe um espaço adicional de Pontos de Vida.
 
-***Face Your Fear:*** When you succeed with Fear on an attack roll, you deal an extra 1d10 magic damage.
+***Enfrente Seu Medo:*** Quando você obtém sucesso com Medo em uma jogada de ataque, você causa 1d10 de dano mágico extra.
 
-## SPECIALIZATION FEATURES
+## CARACTERÍSTICAS DE ESPECIALIZAÇÃO
 
-***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your Evasion.
+***Conjurar Escudo:*** Você pode manter uma barreira protetora de magia. Enquanto você tiver pelo menos 2 de Esperança, adicione sua Proficiência à sua Evasão.
 
-***Fueled by Fear:*** The extra magic damage from your “Face Your Fear” feature increases to 2d10.
+***Alimentado pelo Medo:*** O dano mágico extra da sua característica “Enfrente Seu Medo” aumenta para 2d10.
 
-## MASTERY FEATURES
+## CARACTERÍSTICAS DE MESTRIA
 
-***Thrive in Chaos:*** When you succeed on an attack, you can mark a Stress after rolling damage to force the target to mark an additional Hit Point.
+***Prosperar no Caos:*** Quando você obtém sucesso em um ataque, pode marcar um Estresse após rolar o dano para forçar o alvo a marcar um Ponto de Vida adicional.
 
-***Have No Fear:*** The extra magic damage from your “Face Your Fear” feature increases to 3d10.
+***Sem Medo:*** O dano mágico extra da sua característica “Enfrente Seu Medo” aumenta para 3d10.

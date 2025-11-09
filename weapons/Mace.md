@@ -1,7 +1,7 @@
-﻿# MACE
+﻿# MAÇA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+1 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d8+1 físico; **Carga:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

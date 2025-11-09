@@ -1,6 +1,6 @@
 ﻿# ENCORE
 
-> **Level 10 Grace Spell**  
-> **Recall Cost:** 1
+> **Magia de Graça de Nível 10**  
+> **Custo de Recordação:** 1
 
-When an ally within Close range deals damage to an adversary, you can make a Spellcast Roll against that same target. On a success, you deal the same damage to the target that your ally dealt. If your Spellcast Roll succeeds with Fear, place this card in your vault.
+Quando um aliado dentro do alcance Próximo causar dano a um adversário, você pode fazer uma Jogada de Conjuração contra esse mesmo alvo. Em caso de sucesso, você causa o mesmo dano ao alvo que seu aliado causou. Se sua Jogada de Conjuração for bem-sucedida com Medo, coloque esta carta em seu cofre.

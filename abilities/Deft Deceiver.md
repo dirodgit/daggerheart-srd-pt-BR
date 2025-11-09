@@ -1,6 +1,6 @@
 ﻿# DEFT DECEIVER
 
-> **Level 1 Grace Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Graça de Nível 1**  
+> **Custo de Recordação:** 0
 
-Spend a Hope to gain advantage on a roll to deceive or trick someone into believing a lie you tell them.
+Gaste uma Esperança para ganhar vantagem em uma rolagem para enganar ou iludir alguém a acreditar em uma mentira que você conta.

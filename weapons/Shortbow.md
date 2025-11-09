@@ -1,7 +1,7 @@
-﻿# SHORTBOW
+﻿# ARCO CURTO
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+3 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Longo; **Dano:** d6+3 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

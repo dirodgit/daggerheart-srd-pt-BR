@@ -1,7 +1,7 @@
-﻿# AXE OF FORTUNIS
+﻿# MACHADO DE FORTUNIS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+8 mag; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+8 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Lucky:*** On a failed attack, you can mark a Stress to reroll your attack.
+**Característica:** ***Sortudo:*** Em um ataque falho, você pode marcar um Estresse para rerrolar seu ataque.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

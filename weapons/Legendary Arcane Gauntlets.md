@@ -1,7 +1,7 @@
-﻿# LEGENDARY ARCANE GAUNTLETS
+﻿# MANOPLAS ARCANAS LENDÁRIAS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+12 mag; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+12 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

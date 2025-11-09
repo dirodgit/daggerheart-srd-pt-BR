@@ -1,6 +1,6 @@
-﻿# FLOATING EYE
+﻿# OLHO FLUTUANTE
 
-> **Level 2 Arcana Spell**  
-> **Recall Cost:** 0
+> **Magia Arcana de Nível 2**  
+> **Custo de Recordação:** 0
 
-Spend a Hope to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you’re looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends.
+Gaste uma Esperança para criar uma única pequena esfera flutuante que você pode mover para qualquer lugar dentro do alcance Muito Distante. Enquanto esta magia estiver ativa, você pode ver através da esfera como se estivesse olhando a partir da posição dela. Você pode alternar livremente entre usar seus próprios sentidos e ver através da esfera. Se a esfera sofrer dano ou sair do alcance, a magia termina.

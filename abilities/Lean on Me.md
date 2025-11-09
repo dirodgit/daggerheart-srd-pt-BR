@@ -1,6 +1,6 @@
-﻿# LEAN ON ME
+﻿# APOIE-ME
 
-> **Level 3 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 3**  
+> **Custo para Usar:** 1
 
-Once per long rest, when you console or inspire an ally who failed an action roll, you can both clear 2 Stress.
+Uma vez por descanso longo, quando você consola ou inspira um aliado que falhou em uma rolagem de ação, ambos podem limpar 2 de Estresse.

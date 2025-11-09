@@ -1,7 +1,7 @@
-﻿# PARRYING DAGGER
+﻿# ADAGA DE PARRADA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d6+2 físico; **Carga:** Uma mão
 
-**Feature:** ***Parry:*** When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled.
+**Característica:** ***Parada:*** Quando você for atacado, role os dados de dano desta arma. Se algum dos dados de dano do atacante obtiver o mesmo valor que seus dados, os resultados correspondentes são descartados dos dados de dano do atacante antes do total do dano que você recebe.
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

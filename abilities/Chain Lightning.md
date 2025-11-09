@@ -1,6 +1,6 @@
-﻿# CHAIN LIGHTNING
+﻿# RAIO EM CORRENTE
 
-> **Level 5 Arcana Spell**  
-> **Recall Cost:** 1
+> **Magia Arcana de Nível 5**  
+> **Custo de Recordação:** 1
 
-Mark 2 Stress to make a Spellcast Roll, unleashing lightning on all targets within Close range. Targets you succeed against must make a reaction roll with a Difficulty equal to the result of your Spellcast Roll. Targets who fail take 2d8+4 magic damage. Additional adversaries not already targeted by Chain Lightning and within Close range of previous targets who took damage must also make the reaction roll. Targets who fail take 2d8+4 magic damage. This chain continues until there are no more adversaries within range.
+Marque 2 de Estresse para fazer uma Jogada de Conjuração de Magia, liberando um raio em todos os alvos dentro do alcance Próximo. Os alvos contra os quais você obtiver sucesso devem fazer uma jogada de reação com uma Dificuldade igual ao resultado da sua Jogada de Conjuração de Magia. Alvos que falharem sofrem 2d8+4 de dano mágico. Adversários adicionais que ainda não foram alvos do Raio em Corrente e que estejam dentro do alcance Próximo dos alvos anteriores que sofreram dano também devem fazer a jogada de reação. Alvos que falharem sofrem 2d8+4 de dano mágico. Essa cadeia continua até que não haja mais adversários dentro do alcance.

@@ -1,7 +1,7 @@
-﻿# VERITAS OPAL ARMOR
+﻿# ARMADURA VERITAS OPAL
 
-**Base Thresholds:** 13 / 36; **Base Score:** 6
+**Limiares Base:** 13 / 36; **Pontuação Base:** 6
 
-**Feature:** ***Truthseeking:*** This armor glows when another creature within Close range tells a lie.
+**Característica:** ***Busca da Verdade:*** Esta armadura brilha quando outra criatura em alcance Próximo conta uma mentira.
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

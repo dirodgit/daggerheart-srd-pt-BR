@@ -1,21 +1,21 @@
-# CAMPAIGN FRAMES
+# ARQUÉTIPOS DE CAMPANHA
 
-A campaign frame provides inspiration, tools, and mechanics to support a particular type of story at the table.
+Um arquétipo de campanha fornece inspiração, ferramentas e mecânicas para apoiar um tipo específico de história na mesa.
 
-Every campaign frame has a complexity rating that indicates how much its mechanics deviate from or expand upon the Daggerheart core ruleset.
+Cada arquétipo de campanha possui uma classificação de complexidade que indica o quanto suas mecânicas se desviam ou expandem o conjunto de regras básicas de Daggerheart.
 
-Each campaign frame includes the following sections:
+Cada arquétipo de campanha inclui as seguintes seções:
 
-- A **pitch** to present to players
-- Suggestions and guidance on **tone, feel, themes, and touchstones**
-- An overview of the campaign’s **background**
-- Guidance for fitting **communities, ancestries, and classes** into the setting
-- **Principles** for players and GMs to focus on during the campaign
-- Unique setting **distinctions**
-- An **inciting incident** to launch the campaign
-- **Special mechanics** to use during the campaign
-- **Questions to consider** during session zero
+- Um **resumo** para apresentar aos jogadores
+- Sugestões e orientações sobre **tom, atmosfera, temas e referências**
+- Uma visão geral do **contexto** da campanha
+- Orientações para encaixar **comunidades, ancestralidades e classes** no cenário
+- **Princípios** para jogadores e Mestres focarem durante a campanha
+- **Distinções** únicas do cenário
+- Um **incidente incitante** para iniciar a campanha
+- **Mecânicas especiais** para usar durante a campanha
+- **Perguntas para considerar** durante a sessão zero
 
-> *You can find each campaign frame map in the appendix of the core rulebook or at www.daggerheart.com/downloads.*
+> *Você pode encontrar o mapa de cada arquétipo de campanha no apêndice do livro básico ou em www.daggerheart.com/downloads.*
 
 - [The Witherwild](../frames/The%20Witherwild.md)

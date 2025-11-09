@@ -1,14 +1,14 @@
-﻿# CONSCRIPT
+﻿# CONSCRITO
 
-***Tier 2 Minion***  
-*A poorly trained civilian pressed into war.*  
-**Motives & Tactics:** Follow orders, gang up, survive
+***Capanga de Nível 2***  
+*Um civil mal treinado forçado a entrar na guerra.*  
+**Motivações & Táticas:** Seguir ordens, agir em grupo, sobreviver
 
-> **Difficulty:** 12 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** 0 | **Spears:** Very Close | 6 phy  
+> **Dificuldade:** 12 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** 0 | **Lanças:** Muito Próximo | 6 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (6) - Passive:*** The Conscript is defeated when they take any damage. For every 6 damage a PC deals to the Conscript, defeat an additional Minion within range the attack would succeed against.
+***Capanga (6) - Passivo:*** O Conscrito é derrotado ao receber qualquer dano. Para cada 6 de dano que um PJ causar ao Conscrito, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Conscripts within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 6 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Conscritos dentro do alcance Próximo dele. Esses Capangas se movem para o alcance de Combate Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 6 de dano físico. Combine esse dano.

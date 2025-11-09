@@ -1,8 +1,8 @@
-﻿# BOOK OF EXOTA
+﻿# LIVRO DE EXOTA
 
-> **Level 4 Codex Grimoire**  
-> **Recall Cost:** 3
+> **Grimório do Códice Nível 4**  
+> **Custo de Recordação:** 3
 
-**Repudiate:** You can interrupt a magical effect taking place. Make a reaction roll using your Spellcast trait. Once per rest on a success, the effect stops and any consequences are avoided.
+**Repudiar:** Você pode interromper um efeito mágico em andamento. Faça uma rolagem de reação usando sua característica de Conjuração de Feitiço. Uma vez por descanso, em um sucesso, o efeito para e quaisquer consequências são evitadas.
 
-**Create Construct:** Spend a Hope to choose a group of objects around you and create an animated construct from them that obeys basic commands. Make a Spellcast Roll to command them to take action. When necessary, they share your Evasion and traits and their attacks deal 2d10+3 physical damage. You can only maintain one construct at a time, and they fall apart when they take any amount of damage.
+**Criar Constructo:** Gaste uma Esperança para escolher um grupo de objetos ao seu redor e criar um constructo animado a partir deles que obedece a comandos básicos. Faça uma rolagem de Conjuração de Feitiço para comandá-los a agir. Quando necessário, eles compartilham sua Evasão e características, e seus ataques causam 2d10+3 de dano físico. Você só pode manter um constructo por vez, e eles se desfazem ao receber qualquer quantidade de dano.

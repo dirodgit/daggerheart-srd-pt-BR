@@ -1,7 +1,7 @@
-﻿# DUALSTAFF
+﻿# BASTÃO DUPLO
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+3 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+3 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

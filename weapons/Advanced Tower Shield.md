@@ -1,7 +1,7 @@
-﻿# ADVANCED TOWER SHIELD
+﻿# ESCUDO DE TORRE AVANÇADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d6+4 físico; **Carga:** Uma mão
 
-**Feature:** ***Barrier:*** +4 to Armor Score; –1 to Evasion
+**Característica:** ***Barreira:*** +4 na Pontuação de Armadura; –1 na Evasão
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

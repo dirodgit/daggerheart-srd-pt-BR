@@ -1,13 +1,13 @@
-﻿# GIFTED TRACKER
+﻿# RASTREADOR DOTADO
 
-> **Level 1 Sage Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Sábio de Nível 1**  
+> **Custo de Recordação:** 0
 
-When you’re tracking a specific creature or group of creatures based on signs of their passage, you can spend any number of Hope and ask the GM that many questions from the following list.
+Quando você está rastreando uma criatura específica ou um grupo de criaturas com base em sinais de sua passagem, pode gastar qualquer quantidade de Esperança e fazer ao Mestre de Jogo esse mesmo número de perguntas da lista a seguir.
 
-- What direction did they go?
-- How long ago did they pass through?
-- What were they doing in this location?
-- How many of them were here?
+- Para que direção eles foram?
+- Há quanto tempo passaram por aqui?
+- O que eles estavam fazendo neste local?
+- Quantos deles estavam aqui?
 
-When you encounter creatures you’ve tracked in this way, gain a +1 bonus to your Evasion against them.
+Quando você encontrar criaturas que rastreou dessa forma, ganha um bônus de +1 em sua Evasão contra elas.

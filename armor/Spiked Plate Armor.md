@@ -1,7 +1,7 @@
-﻿# SPIKED PLATE ARMOR
+﻿# ARMADURA DE PLACAS COM ESPIGAS
 
-**Base Thresholds:** 10 / 25; **Base Score:** 5
+**Limiares Base:** 10 / 25; **Pontuação Base:** 5
 
-**Feature:** ***Sharp:*** On a successful attack against a target within Melee range, add a d4 to the damage roll.
+**Característica:** ***Afiada:*** Em um ataque bem-sucedido contra um alvo em alcance Corpo a Corpo, adicione um d4 à rolagem de dano.
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

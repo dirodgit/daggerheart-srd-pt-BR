@@ -1,30 +1,30 @@
-﻿# CLIFFSIDE ASCENT
+﻿# ASCENSO NA ENCOSTA
 
-***Tier 1 Traversal***  
-*A steep, rocky cliffside tall enough to make traversal dangerous.*  
-**Impulses:** Cast the unwary down to a rocky doom, draw people in with promise of what lies at the top
+***Travessia de Nível 1***  
+*Uma encosta íngreme e rochosa, alta o suficiente para tornar a travessia perigosa.*  
+**Impulsos:** Lançar os desavisados para uma morte rochosa, atrair pessoas com a promessa do que está no topo
 
-> **Difficulty:** 12  
-> **Potential Adversaries:** Construct, Deeproot Defender, Giant Scorpion, Glass Snake
+> **Dificuldade:** 12  
+> **Adversários Potenciais:** Construct, Defensor Raiz Profunda, Escorpião Gigante, Cobra de Vidro
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***The Climb - Passive:*** Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
+***A Escalada - Passiva:*** Subir a encosta usa uma Contagem Regressiva de Progresso (12). Ela diminui conforme os seguintes critérios quando os PCs fazem uma rolagem de ação para escalar:
 
-  - Critical Success: Tick down 3
-  - Success with Hope: Tick down 2
-  - Success with Fear: Tick down 1
-  - Failure with Hope: No advancement
-  - Failure with Fear: Tick up 1
+  - Sucesso Crítico: Diminui 3
+  - Sucesso com Esperança: Diminui 2
+  - Sucesso com Medo: Diminui 1
+  - Falha com Esperança: Sem avanço
+  - Falha com Medo: Aumenta 1
 
-  When the countdown triggers, the party has made it to the top of the cliff.
+  Quando a contagem regressiva é acionada, o grupo chegou ao topo da encosta.
 
-  *What strange formations are the stones arranged in? What ominous warnings did previous adventurers leave?*
+  *Em que forma estranha as pedras estão dispostas? Que avisos ominosos os aventureiros anteriores deixaram?*
 
-***Pitons Left Behind - Passive:*** Previous climbers left behind large metal rods that climbers can use to aid their ascent. If a PC using the pitons fails an action roll to climb, they can mark a Stress instead of ticking the countdown up.
+***Pitons Deixados para Trás - Passiva:*** Escaladores anteriores deixaram para trás grandes hastes de metal que podem ser usadas para ajudar na subida. Se um PC usando os pitons falhar em uma rolagem de ação para escalar, ele pode marcar um Estresse em vez de aumentar a contagem regressiva.
 
-  *What do the shape and material of these pitons tell you about the previous climbers? How far apart are they from one another?*
+  *O que a forma e o material desses pitons dizem sobre os escaladores anteriores? Quão distantes eles estão uns dos outros?*
 
-***Fall - Action:*** Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they must make a roll; tick up the countdown by 1, and they take 1d12 physical damage if the countdown is between 8 and 12, 2d12 between 4 and 7, and 3d12 at 3 or lower.
+***Queda - Ação:*** Gaste um Medo para fazer a mão de um PC escorregar, fazendo-o despencar em direção ao chão. Se ele não for salvo na próxima ação, deve fazer uma rolagem; aumente a contagem regressiva em 1, e ele sofre 1d12 de dano físico se a contagem estiver entre 8 e 12, 2d12 entre 4 e 7, e 3d12 em 3 ou menos.
 
-  *How can you tell how many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?*
+  *Como você pode saber quantos outros já caíram aqui antes? O que vive nessas paredes que pode tentar assustar os aventureiros para que caiam e se tornem uma refeição fácil?*

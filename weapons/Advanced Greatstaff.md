@@ -1,7 +1,7 @@
-﻿# ADVANCED GREATSTAFF
+﻿# BASTÃO GRANDE AVANÇADO
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
+**Traço:** Conhecimento; **Alcance:** Muito Longo; **Dano:** d6+6 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

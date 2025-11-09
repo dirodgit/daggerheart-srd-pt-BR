@@ -1,7 +1,7 @@
-﻿# IMPROVED DUALSTAFF
+﻿# BASTÃO DUPLO APRIMORADO
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+6 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

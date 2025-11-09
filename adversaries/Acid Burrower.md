@@ -1,19 +1,19 @@
-﻿# ACID BURROWER
+﻿# TÚNEL ÁCIDO
 
-***Tier 1 Solo***  
-*A horse-sized insect with digging claws and acidic blood.*  
-**Motives & Tactics:** Burrow, drag away, feed, reposition
+***Nível 1 Solo***  
+*Um inseto do tamanho de um cavalo com garras escavadoras e sangue ácido.*  
+**Motivações & Táticas:** Escavar, arrastar, alimentar-se, reposicionar
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  
-> **ATK:** +3 | **Claws:** Very Close | 1d12+2 phy  
-> **Experience:** Tremor Sense +2
+> **Dificuldade:** 14 | **Limiares:** 8/15 | **PV:** 8 | **Estresse:** 3  
+> **ATAQ:** +3 | **Garras:** Muito Próximo | 1d12+2 físico  
+> **Experiência:** Sentido de Tremor +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (3) - Passive:*** The Burrower can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (3) - Passivo:*** O Túneleiro pode ser destacado até três vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***Earth Eruption - Action:*** Mark a Stress to have the Burrower burst out of the ground. All creatures within Very Close range must succeed on an Agility Reaction Roll or be knocked over, making them Vulnerable until they next act.
+***Erupção Terrestre - Ação:*** Marque um Estresse para fazer o Túneleiro irromper do chão. Todas as criaturas em alcance Muito Próximo devem ter sucesso em um Teste de Reação de Agilidade ou serem derrubadas, ficando Vulneráveis até agirem novamente.
 
-***Spit Acid - Action:*** Make an attack against all targets in front of the Burrower within Close range. Targets the Burrower succeeds against take 2d6 physical damage and must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP and you gain a Fear.
+***Cuspir Ácido - Ação:*** Faça um ataque contra todos os alvos à frente do Túneleiro em alcance Próximo. Os alvos que o Túneleiro atingir sofrem 2d6 de dano físico e devem marcar um Espaço de Armadura sem receber seus benefícios (ainda podem usar a armadura para reduzir o dano). Se não puderem marcar um Espaço de Armadura, devem marcar um PV adicional e você ganha um Medo.
 
-***Acid Bath - Reaction:*** When the Burrower takes Severe damage, all creatures within Close range are bathed in their acidic blood, taking 1d10 physical damage. This splash covers the ground within Very Close range with blood, and all creatures other than the Burrower who move through it take 1d6 physical damage.
+***Banho Ácido - Reação:*** Quando o Túneleiro sofre dano Grave, todas as criaturas em alcance Próximo são banhadas em seu sangue ácido, sofrendo 1d10 de dano físico. Esse respingo cobre o chão em alcance Muito Próximo com sangue, e todas as criaturas, exceto o Túneleiro, que se moverem por ele sofrem 1d6 de dano físico.

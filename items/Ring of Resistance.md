@@ -1,5 +1,5 @@
-﻿# RING OF RESISTANCE
+﻿# ANEL DE RESISTÊNCIA
 
-Once per long rest, you can activate this ring after a successful attack against you to halve the damage.
+Uma vez por descanso longo, você pode ativar este anel após um ataque bem-sucedido contra você para reduzir o dano pela metade.
 
 *Item*

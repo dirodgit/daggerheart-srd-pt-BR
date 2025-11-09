@@ -1,7 +1,7 @@
-﻿# CHANNELING ARMOR
+﻿# ARMADURA DE CANALIZAÇÃO
 
-**Base Thresholds:** 13 / 36; **Base Score:** 5
+**Limiares Base:** 13 / 36; **Pontuação Base:** 5
 
-**Feature:** ***Channeling:*** +1 to Spellcast Rolls
+**Característica:** ***Canalização:*** +1 em Testes de Conjuração de Feitiços
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

@@ -1,7 +1,7 @@
-﻿# HAMMER OF WRATH
+﻿# MARTELADA DA IRA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+7 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Devastating:*** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.
+**Característica:** ***Devastador:*** Antes de fazer um teste de ataque, você pode marcar um Estresse para usar um d20 como seu dado de dano.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

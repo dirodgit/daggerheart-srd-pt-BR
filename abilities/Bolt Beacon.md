@@ -1,6 +1,6 @@
-﻿# BOLT BEACON
+﻿# FAROL DE RAIO
 
-> **Level 1 Splendor Spell**  
-> **Recall Cost:** 1
+> **Magia de Esplendor de Nível 1**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against a target within Far range. On a success, spend a Hope to send a bolt of shimmering light toward them, dealing 6d8+2 magic damage using your Proficiency. The target becomes temporarily Vulnerable and glows brightly until this condition is cleared.
+Faça uma Jogada de Conjuração contra um alvo dentro do alcance Longo. Em caso de sucesso, gaste uma Esperança para enviar um raio de luz cintilante em direção a ele, causando 6d8+2 de dano mágico usando sua Proficiência. O alvo fica temporariamente Vulnerável e brilha intensamente até que essa condição seja removida.

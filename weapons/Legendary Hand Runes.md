@@ -1,7 +1,7 @@
-﻿# LEGENDARY HAND RUNES
+﻿# RUNAS LENDÁRIAS DE MÃO
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+9 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Muito Próximo; **Dano:** d10+9 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

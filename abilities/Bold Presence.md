@@ -1,8 +1,8 @@
-﻿# BOLD PRESENCE
+﻿# PRESENÇA AUDACIOSA
 
-> **Level 2 Valor Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Valor de Nível 2**  
+> **Custo para Usar:** 0
 
-When you make a Presence Roll, you can spend a Hope to add your Strength to the roll.
+Quando você fizer uma Jogada de Presença, pode gastar uma Esperança para adicionar sua Força à jogada.
 
-Additionally, once per rest when you would gain a condition, you can describe how your bold presence aids you in the situation and avoid gaining the condition.
+Além disso, uma vez por descanso, quando você for receber uma condição, pode descrever como sua presença audaciosa o ajuda na situação e evitar receber a condição.

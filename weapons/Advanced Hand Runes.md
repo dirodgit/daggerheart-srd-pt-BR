@@ -1,7 +1,7 @@
-﻿# ADVANCED HAND RUNES
+﻿# RUNAS AVANÇADAS DE MÃO
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+6 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Muito Próximo; **Dano:** d10+6 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

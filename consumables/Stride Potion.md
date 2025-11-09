@@ -1,5 +1,5 @@
-﻿# STRIDE POTION
+﻿# POÇÃO DE PASSADA
 
-You gain a +1 bonus to your next Agility Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Agilidade.
 
-*Consumable*
+*Consumível*

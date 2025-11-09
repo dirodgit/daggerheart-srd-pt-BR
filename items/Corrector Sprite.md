@@ -1,5 +1,5 @@
-﻿# CORRECTOR SPRITE
+﻿# SPRITE CORRETOR
 
-This tiny sprite sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you can gain advantage on an attack roll.
+Este pequeno sprite se acomoda na curva do seu canal auditivo e sussurra conselhos úteis durante o combate. Uma vez por descanso curto, você pode ganhar vantagem em uma jogada de ataque.
 
 *Item*

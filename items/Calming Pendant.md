@@ -1,5 +1,5 @@
-﻿# CALMING PENDANT
+﻿# PINGENTE CALMANTE
 
-When you would mark your last Stress, roll a d6. On a result of 5 or higher, don’t mark it.
+Quando você for marcar seu último Estresse, role um d6. Com um resultado de 5 ou mais, não o marque.
 
 *Item*

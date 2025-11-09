@@ -1,7 +1,7 @@
-﻿# LEGENDARY FULL PLATE ARMOR
+﻿# ARMADURA COMPLETA LENDÁRIA
 
-**Base Thresholds:** 17 / 44; **Base Score:** 7
+**Limiares Base:** 17 / 44; **Pontuação Base:** 7
 
-**Feature:** ***Very Heavy:*** -2 to Evasion; -1 to Agility
+**Característica:** ***Muito Pesada:*** -2 na Evasão; -1 na Agilidade
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

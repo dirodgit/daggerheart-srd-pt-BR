@@ -1,9 +1,9 @@
-﻿# MIDNIGHT-TOUCHED
+﻿# TOCADO PELA MEIA-NOITE
 
-> **Level 7 Midnight Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Meia-Noite de Nível 7**  
+> **Custo para Recordar:** 2
 
-When you have midnight domain cards in your loadout are from the midnight domain, gain the following benefits:
+Quando você tiver cartas do domínio da meia-noite em seu equipamento que sejam do domínio da meia-noite, ganha os seguintes benefícios:
 
-- Once per rest, when you have 0 Hope and the GM would gain a Fear, you can gain a Hope instead.
-- When you make a successful attack, you can mark a Stress to add the result of your Fear Die to your damage roll.
+- Uma vez por descanso, quando você tiver 0 de Esperança e o Mestre conceder um Medo, você pode ganhar uma Esperança em vez disso.  
+- Quando você fizer um ataque bem-sucedido, pode marcar um Estresse para adicionar o resultado do seu Dado de Medo à sua rolagem de dano.

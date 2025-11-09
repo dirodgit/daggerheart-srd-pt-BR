@@ -1,8 +1,8 @@
-﻿# SAFE HAVEN
+﻿# REFÚGIO SEGURO
 
-> **Level 8 Codex Spell**  
-> **Recall Cost:** 3
+> **Magia do Codex de Nível 8**  
+> **Custo para Recordar:** 3
 
-When you have a few minutes of calm to focus, you can spend 2 Hope to summon your Safe Haven, a large interdimensional home where you and your allies can take shelter. When you do, a magical door appears somewhere within Close range. Only creatures of your choice can enter. Once inside, you can make the entrance invisible. You and anyone else inside can always exit. Once you leave, the doorway must be summoned again.
+Quando você tem alguns minutos de calma para se concentrar, pode gastar 2 de Esperança para invocar seu Refúgio Seguro, um grande lar interdimensional onde você e seus aliados podem se abrigar. Quando fizer isso, uma porta mágica aparece em algum lugar dentro do alcance Próximo. Apenas criaturas de sua escolha podem entrar. Uma vez dentro, você pode tornar a entrada invisível. Você e qualquer outra pessoa dentro podem sempre sair. Depois que você sair, a porta deve ser invocada novamente.
 
-When you take a rest within your own Safe Haven, you can choose an additional downtime move.
+Quando você faz um descanso dentro do seu próprio Refúgio Seguro, pode escolher um movimento de inatividade adicional.

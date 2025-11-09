@@ -1,15 +1,15 @@
-﻿# JAGGED KNIFE SHADOW
+﻿# FACA IRREGULAR SOMBRIA
 
-***Tier 1 Skulk***  
-*A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.*  
-**Motives & Tactics:** Ambush, conceal, divide, profit
+***Esconderijo de Nível 1***  
+*Um patife ágil portando uma faca cruel e utilizando magia das sombras para isolar alvos.*  
+**Motivações & Táticas:** Emboscada, ocultação, divisão, lucro
 
-> **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3  
-> **ATK:** +1 | **Daggers:** Melee | 1d4+4 phy  
-> **Experience:** Intrusion +3
+> **Dificuldade:** 12 | **Limiares:** 4/8 | **PV:** 3 | **Estresse:** 3  
+> **ATQ:** +1 | **Adagas:** Corpo a corpo | 1d4+4 físico  
+> **Experiência:** Intrusão +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Backstab - Passive:*** When the Shadow succeeds on a standard attack that has advantage, they deal 1d6+6 physical damage instead of their standard damage.
+***Ataque pelas Costas - Passivo:*** Quando a Sombra obtém sucesso em um ataque padrão que tenha vantagem, ela causa 1d6+6 de dano físico em vez do dano padrão.
 
-***Cloaked - Action:*** Become Hidden until after the Shadow’s next attack. Attacks made while Hidden from this feature have advantage.
+***Oculto - Ação:*** Torne-se Oculto até após o próximo ataque da Sombra. Ataques realizados enquanto Oculto por esta característica têm vantagem.

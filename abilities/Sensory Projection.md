@@ -1,6 +1,6 @@
-﻿# SENSORY PROJECTION
+﻿# PROJEÇÃO SENSORIAL
 
-> **Level 9 Arcana Spell**  
-> **Recall Cost:** 0
+> **Magia Arcana de Nível 9**  
+> **Custo de Recordação:** 0
 
-Once per rest, make a Spellcast Roll (15). On a success, drop into a vision that lets you clearly see and hear any place you have been before as though you are standing there in this moment. You can move freely in this vision and are not constrained by the physics or impediments of a physical body. This spell cannot be detected by mundane or magical means. You drop out of this vision upon taking damage or casting another spell.
+Uma vez por descanso, faça uma Jogada de Conjuração de Magia (15). Em caso de sucesso, você mergulha em uma visão que permite ver e ouvir claramente qualquer lugar onde já esteve antes, como se estivesse ali naquele momento. Você pode se mover livremente nessa visão e não está limitado pela física ou impedimentos de um corpo físico. Esta magia não pode ser detectada por meios mundanos ou mágicos. Você sai dessa visão ao sofrer dano ou conjurar outra magia.

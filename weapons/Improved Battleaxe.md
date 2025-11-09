@@ -1,7 +1,7 @@
-﻿# IMPROVED BATTLEAXE
+﻿# MACHADO DE BATALHA APRIMORADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+6 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

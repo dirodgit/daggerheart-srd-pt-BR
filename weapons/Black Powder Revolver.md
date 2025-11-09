@@ -1,7 +1,7 @@
-﻿# BLACK POWDER REVOLVER
+﻿# REVÓLVER DE PÓ NEGRO
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+8 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+8 físico; **Carga:** Uma Mão
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Característica:** ***Recarregar:*** Após realizar um ataque, role um d6. Com o resultado 1, você deve marcar um Estresse para recarregar esta arma antes de poder dispará-la novamente.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

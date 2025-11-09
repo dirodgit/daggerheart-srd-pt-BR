@@ -1,5 +1,5 @@
-﻿# RING OF SILENCE
+﻿# ANEL DO SILÊNCIO
 
-Spend a Hope to activate this ring. Your footsteps are silent until your next rest.
+Gaste 1 ponto de Esperança para ativar este anel. Seus passos ficam silenciosos até seu próximo descanso.
 
 *Item*

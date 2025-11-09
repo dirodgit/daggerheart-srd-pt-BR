@@ -1,9 +1,9 @@
 ﻿# KATARI
 
-Katari are feline humanoids with retractable claws, vertically slit pupils, and high, triangular ears. They can also have small, pointed canine teeth, soft fur, and long whiskers that assist their perception and navigation. Their ears can swivel nearly 180 degrees to detect sound, adding to their heightened senses. Katari may look more or less feline or humanoid, with catlike attributes in the form of hair, whiskers, and a muzzle. About half of the katari population have tails. Their skin and fur come in a wide range of hues and patterns, including solid colors, calico tones, tabby stripes, and an array of spots, patches, marbling, or bands. Their height ranges from about 3 feet to 6 ½ feet, and they live to around 150 years.
+Katari são humanoides felinos com garras retráteis, pupilas verticais e orelhas altas e triangulares. Eles também podem ter pequenos dentes caninos pontiagudos, pelo macio e longos bigodes que auxiliam sua percepção e navegação. Suas orelhas podem girar quase 180 graus para detectar sons, aumentando seus sentidos aguçados. Katari podem parecer mais ou menos felinos ou humanoides, com atributos felinos na forma de pelos, bigodes e focinho. Cerca de metade da população katari possui cauda. Sua pele e pelo apresentam uma ampla variedade de tons e padrões, incluindo cores sólidas, tons malhados, listras tabby e uma variedade de manchas, remendos, marmoreados ou faixas. Sua altura varia de cerca de 90 cm a 2 metros, e vivem cerca de 150 anos.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***Feline Instincts:*** When you make an Agility Roll, you can **spend 2 Hope** to reroll your Hope Die.
+***Instintos Felinos:*** Quando você fizer uma Jogada de Agilidade, pode **gastar 2 de Esperança** para rerrolar seu Dado de Esperança.
 
-***Retracting Claws:*** Make an **Agility Roll** to scratch a target within Melee range. On a success, they become temporarily Vulnerable.
+***Garras Retráteis:*** Faça uma **Jogada de Agilidade** para arranhar um alvo em alcance Corpo a Corpo. Em caso de sucesso, ele se torna temporariamente Vulnerável.

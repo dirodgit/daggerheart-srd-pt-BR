@@ -1,17 +1,17 @@
-﻿# STAG KNIGHT
+﻿# CAVALEIRO CERVÍDEO
 
-***Tier 3 Standard***  
-*A knight with huge, majestic antlers wearing armor made of dangerous thorns.*  
-**Motives & Tactics:** Isolate, maneuver, protect the forest, weed the unwelcome
+***Padrão de Nível 3***  
+*Um cavaleiro com enormes e majestosos galhos usando uma armadura feita de espinhos perigosos.*  
+**Motivações & Táticas:** Isolar, manobrar, proteger a floresta, eliminar os indesejados
 
-> **Difficulty:** 17 | **Thresholds:** 19/36 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +3 | **Bramble Sword:** Melee | 3d8+3 phy  
-> **Experience:** Forest Knowledge +3
+> **Dificuldade:** 17 | **Limiares:** 19/36 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +3 | **Espada de Espinhos:** Corpo a Corpo | 3d8+3 físico  
+> **Experiência:** Conhecimento da Floresta +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***From Above - Passive:*** When the Knight succeeds on a standard attack from above a target, they deal 3d12+3 physical damage instead of their standard damage.
+***De Cima - Passiva:*** Quando o Cavaleiro obtém sucesso em um ataque padrão vindo de cima de um alvo, ele causa 3d12+3 de dano físico em vez do dano padrão.
 
-***Blade of the Forest - Action:*** Spend a Fear to make an attack against all targets within Very Close range. Targets the Knight succeeds against take physical damage equal to 3d4 + the target's Major threshold.
+***Lâmina da Floresta - Ação:*** Gaste um Medo para fazer um ataque contra todos os alvos em alcance Muito Próximo. Os alvos contra os quais o Cavaleiro obtiver sucesso recebem dano físico igual a 3d4 + o limiar Maior do alvo.
 
-***Thorny Armor - Reaction:*** When the Knight takes damage from an attack within Melee range, you can mark a Stress to deal 1d10+5 physical damage to the attacker.
+***Armadura Espinhosa - Reação:*** Quando o Cavaleiro sofre dano de um ataque em alcance Corpo a Corpo, você pode marcar um Estresse para causar 1d10+5 de dano físico ao atacante.

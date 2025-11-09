@@ -1,7 +1,7 @@
-﻿# ADVANCED GREATSWORD
+﻿# GRANDE ESPADA AVANÇADA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+9 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Massive:*** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Massiva:*** -1 na Evasão; em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

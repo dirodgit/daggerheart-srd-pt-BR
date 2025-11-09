@@ -1,9 +1,9 @@
 ﻿# UNDERBORNE
 
-Being part of an underborne community means you’re from a subterranean society. Many underborne live right beneath the cities and villages of other collectives, while some live much deeper. These communities range in size from small groups in burrows to massive metropolises in caverns of stone. In many locales, underborne are recognized for their incredible boldness and skill that enable great feats of architecture and engineering. Underborne are regularly hired for their bravery, as even the least daring among them has likely encountered formidable belowground beasts, and learning to dispatch such creatures is common practice amongst these societies. Because of the dangers of their environment, many underborne communities develop unique nonverbal languages that prove equally useful on the surface.
+Fazer parte de uma comunidade underborne significa que você vem de uma sociedade subterrânea. Muitos underborne vivem logo abaixo das cidades e vilarejos de outros coletivos, enquanto alguns vivem muito mais fundo. Essas comunidades variam em tamanho, desde pequenos grupos em tocas até metrópoles enormes em cavernas de pedra. Em muitos locais, os underborne são reconhecidos por sua incrível ousadia e habilidade, que possibilitam grandes feitos de arquitetura e engenharia. Underborne são regularmente contratados por sua coragem, pois mesmo os menos audaciosos entre eles provavelmente já enfrentaram bestas formidáveis do subsolo, e aprender a eliminar tais criaturas é prática comum nessas sociedades. Devido aos perigos do ambiente em que vivem, muitas comunidades underborne desenvolvem linguagens não verbais únicas que se mostram igualmente úteis na superfície.
 
-*Underborne are often composed, elusive, indomitable, innovative, resourceful, and unpretentious.*
+*Underborne são frequentemente compostos, elusivos, indomáveis, inovadores, engenhosos e despretensiosos.*
 
-## COMMUNITY FEATURE
+## RECURSO DA COMUNIDADE
 
-***Low-Light Living:*** When you’re in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area.
+***Vida em Baixa Luminosidade:*** Quando você está em uma área com pouca luz ou sombra densa, você tem vantagem em testes para se esconder, investigar ou perceber detalhes dentro dessa área.

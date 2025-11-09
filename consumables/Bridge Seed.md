@@ -1,5 +1,5 @@
-﻿# BRIDGE SEED
+﻿# SEMENTE DE PONTE
 
-Thick vines grow from your location to a point of your choice within Far range, allowing you to climb up or across them. The vines dissipate on your next short rest.
+Vinhas grossas crescem do seu local até um ponto de sua escolha dentro do alcance Longo, permitindo que você suba ou atravesse por elas. As vinhas desaparecem no seu próximo descanso curto.
 
-*Consumable*
+*Consumível*

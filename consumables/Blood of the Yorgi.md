@@ -1,5 +1,5 @@
-﻿# BLOOD OF THE YORGI
+﻿# SANGUE DOS YORGI
 
-You can drink this blood to disappear from where you are and immediately reappear at a point you can see within very Far range.
+Você pode beber este sangue para desaparecer do local onde está e reaparecer imediatamente em um ponto que possa ver dentro do alcance Muito Longo.
 
-*Consumable*
+*Consumível*

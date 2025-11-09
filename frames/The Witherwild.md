@@ -1,293 +1,274 @@
-# THE WITHERWILD
+# O WITHERWILD
 
-***When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.***
+***Quando uma nação invasora ataca uma antiga divindade da floresta, um crescimento virulento se espalha por toda a terra.***
 
-*Designed by Carlos Cisco, Rowan Hall, & Spenser Starke*
+*Criado por Carlos Cisco, Rowan Hall & Spenser Starke*
 
-**COMPLEXITY RATING:** ●
+**NÍVEL DE COMPLEXIDADE:** ●
 
-## THE PITCH
+## A PROPOSTA
 
-Read this section to your players to introduce them to the campaign.
+Leia esta seção para seus jogadores para apresentá-los à campanha.
 
-> *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
+> *Fanewick já foi um lugar de grande abundância e paz — perigoso para aqueles que não conheciam a terra, mas uma cornucópia para quem respeitava seus caminhos. Quando Haven invadiu as terras selvagens e forçou a terra a uma primavera eterna, uma flor perigosa conhecida como Witherwild tomou conta e agora ameaça a vida de todos que ali vivem. Em uma campanha Witherwild, vocês interpretarão heróis improváveis de origens humildes que estão lidando com seu novo dever de salvar o povo de Fanewick da corrupção perigosa.*
 
-## TONE & FEEL
+## TOM & AMBIENTE
 
-Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical
+Aventureiro, Dinâmico, Épico, Heroico, Emocionante, Estranho, Fantasioso
 
-## THEMES
+## TEMAS
 
-Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival
+Conflito Cultural, Fins Justificam os Meios, Luto, Pessoas vs. Natureza, Transformação e Mudança, Sobrevivência
 
-## TOUCHSTONES
+## REFERÊNCIAS
 
-*Princess Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä of the Valley of the Wind*
+*Princesa Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä do Vale do Vento*
 
-## OVERVIEW
+## VISÃO GERAL
 
-*If your group decides to play this campaign, give your players the following information before character creation.*
+*Se seu grupo decidir jogar esta campanha, forneça as seguintes informações aos jogadores antes da criação dos personagens.*
 
-**Fanewick** is a wild and untamed land, long avoided by outside forces. The woods are dark and twisting, filled with Faint Divinities who perform small miracles and services for its inhabitants, but are just as likely to lure travelers off narrow paths to their ruin. Seemingly harmless expanses of field hide bogs that engulf entire armies, consuming heavy artillery as quickly as it can cross the border. This wilderness fosters hardy people who are bold enough to raise families where others have not and strictly follow the unique rules that keep them safe. These Wicklings remained insulated from their neighbors’ wars until plague forced the people of Haven to desperate acts.
+**Fanewick** é uma terra selvagem e indomada, evitada por forças externas por muito tempo. As florestas são escuras e tortuosas, habitadas por Divindades Tenues que realizam pequenos milagres e serviços para seus habitantes, mas que também podem atrair viajantes para fora dos caminhos estreitos até sua ruína. Campos aparentemente inofensivos escondem pântanos que engolem exércitos inteiros, consumindo artilharia pesada tão rapidamente quanto ela cruza a fronteira. Essa natureza selvagem fomenta pessoas resistentes, corajosas o suficiente para criar famílias onde outros não o fizeram, e que seguem estritamente as regras únicas que os mantêm seguros. Esses Wicklings permaneceram isolados das guerras dos vizinhos até que uma praga forçou o povo de Haven a atos desesperados.
 
-**Haven** was once the most powerful force in the region; for centuries, the high stone walls into the capital bore the phrase “The Godless Gate.” While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that the founders of Haven wished to be free of the influence of the Faint Divinities that dominated the surrounding regions. They hatched a plan to kill one of the mightiest of these deities, known as **Shun’Aush the Granite Ophid**. While their exact method of deicide is forgotten, their victory ensured Haven’s dominance in the region for centuries to come. They made their home behind his remains, which became the mighty walls that Haven is known for.
+**Haven** foi uma vez a força mais poderosa da região; por séculos, as altas muralhas de pedra da capital ostentavam a frase “O Portão Sem Deus”. Embora o significado original tenha se perdido no conhecimento comum, alguns tomos empoeirados e registros antigos afirmam que os fundadores de Haven desejavam se libertar da influência das Divindades Tenues que dominavam as regiões vizinhas. Eles arquitetaram um plano para matar uma das mais poderosas dessas divindades, conhecida como **Shun’Aush, a Ofídia de Granito**. Embora o método exato de deicídio tenha sido esquecido, a vitória garantiu o domínio de Haven na região por séculos. Eles fizeram sua casa atrás de seus restos, que se tornaram as poderosas muralhas pelas quais Haven é conhecida.
 
-But Shun’Aush would have his revenge. As the Haventies carved his stone body, the fine dust left behind settled into the surrounding earth. There was a time of prosperity over many centuries while the scales of the god remained undisturbed. But progress is its own pressure. The growing population demanded increased productivity, and as farmers tilled deeper soil and miners hacked into hidden stone, the ancient stone dust rose to the surface. The same walls that brought the city security became the crucible that incubated a virulent plague.
+Mas Shun’Aush vingaria-se. Enquanto os Haventies esculpiam seu corpo de pedra, o pó fino deixado para trás assentou-se na terra ao redor. Houve um tempo de prosperidade por muitos séculos enquanto as escamas do deus permaneciam intocadas. Mas o progresso é sua própria pressão. A população crescente exigia maior produtividade, e à medida que os agricultores aravam solos mais profundos e os mineiros cortavam pedras escondidas, o pó de pedra antigo subiu à superfície. As mesmas muralhas que trouxeram segurança à cidade tornaram-se o cadinho que incubou uma praga virulenta.
 
-Over the last two years, over half of Haven’s populace fell to a disease known as the **Serpent’s Sickness**. First, victims cough up dust. Soon after, their skin breaks out in a scaling rash. Finally, their body hardens—first the flesh, bones, and soft tissue, spreading until, finally, their organs ossify. Once within the organs, “the serpent” moves so quickly that sufferers petrify where they stand, filling Haven with statues of victims in their last moments of agony.
+Nos últimos dois anos, mais da metade da população de Haven caiu vítima de uma doença conhecida como **Doença da Serpente**. Primeiro, as vítimas tossiam pó. Logo depois, sua pele se cobria de uma erupção escamosa. Finalmente, seus corpos endureciam — primeiro a carne, ossos e tecidos moles, espalhando-se até que, finalmente, seus órgãos ossificassem. Uma vez nos órgãos, “a serpente” se move tão rapidamente que os doentes petrificam onde estão, enchendo Haven de estátuas das vítimas em seus últimos momentos de agonia.
 
-When High Magus of Haven, **Archmage Phylax**, discovered a rare red flower called the Crimson Bud is the only well that could cure the Serpent’s Sickness. These buds grow prolifically across Fanewick in the spring—but for every ten thousand of the common white-petaled blossoms, only one red flower blooms.
+Quando o Alto Mago de Haven, **Arqui-mago Phylax**, descobriu que uma rara flor vermelha chamada Botão Carmesim era o único remédio para a Doença da Serpente. Esses botões crescem abundantemente por Fanewick na primavera — mas para cada dez mil flores comuns de pétalas brancas, apenas uma vermelha floresce.
 
-Desperate to save their people from the plague, Haven invaded Fanewick to amass the scarce red buds. Their forces plunged into the deep wood and, under the guidance of Archmage Phylax, plucked out the **Reaping Eye** from the most powerful Faint Divinity that protected the land: **The Great Owl Nikta**, the Shepherd of the Seasons. The Shepherd kept Fanewick in balance by turning her eyes upon the land, first for ripening, then ruination. Thus Nikta maintained the cycle of seasons—of growth and decay, of death and rebirth. With her Reaping Eye removed, Nikta can only watch over Fanewick with the **Sowing Eye**, forcing the land into everlasting spring.
+Desesperados para salvar seu povo da praga, Haven invadiu Fanewick para reunir os escassos botões vermelhos. Suas forças mergulharam na floresta profunda e, sob a orientação do Arqui-mago Phylax, arrancaram o **Olho Ceifador** da Divindade Tenue mais poderosa que protegia a terra: **A Grande Coruja Nikta**, a Pastora das Estações. A Pastora mantinha Fanewick em equilíbrio ao voltar seus olhos para a terra, primeiro para amadurecer, depois para a ruína. Assim, Nikta mantinha o ciclo das estações — de crescimento e decadência, de morte e renascimento. Com seu Olho Ceifador removido, Nikta só pode vigiar Fanewick com o **Olho Semeador**, forçando a terra a uma primavera eterna.
 
-In the year since, Haven has conquered the bogs, turning them into fields to harvest red flowers. The endless growth that once seemed like a gift quickly evolved into a scourge known as the **Witherwild**—Fanewick’s flora and fauna flourished, unchecked and uncontrolled. Animals swell to massive size; trees warp, twist, and begin to hunt people; and vines creep along the forest floor, strangling all they touch. This explosive growth is unconquerable and unrelenting, with no force able to stop the burgeoning verdance for long.
+No ano seguinte, Haven conquistou os pântanos, transformando-os em campos para colher flores vermelhas. O crescimento sem fim que antes parecia um presente rapidamente evoluiu para uma praga conhecida como **Witherwild** — a flora e fauna de Fanewick floresceram, sem controle e sem limites. Animais incham a tamanhos enormes; árvores se deformam, torcem e começam a caçar pessoas; e vinhas rastejam pelo chão da floresta, estrangulando tudo o que tocam. Esse crescimento explosivo é inconquistável e implacável, sem força capaz de deter a crescente verdura por muito tempo.
 
-Prior to the Serpent’s Sickness and the Shepherd’s endless growth, your party lived a peaceful life in Fanewick or a life of toil and conquest in Haven. But when the danger demands a response, even the unprepared—and unwilling—must make a stand.
+Antes da Doença da Serpente e do crescimento sem fim da Pastora, seu grupo vivia uma vida pacífica em Fanewick ou uma vida de trabalho árduo e conquista em Haven. Mas quando o perigo exige uma resposta, até os despreparados — e relutantes — devem se posicionar.
 
-## COMMUNITIES
+## COMUNIDADES
 
-*All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
+*Todas as comunidades estão disponíveis, mas algumas têm aspectos únicos dentro de uma campanha Witherwild. Conforme necessário, forneça as seguintes informações aos seus jogadores e escolha uma ou mais perguntas para fazer durante a sessão zero.*
 
-#### LOREBORNE AND HIGHBORNE
+#### LOREBORNE E HIGHBORNE
 
-In Fanewick, knowledge is the most valuable commodity, and those who have expertise have the most power. This economy of information functions primarily through gifting and trading, and wisdom would be considered acceptable collateral for a weapon or warm meal. As such, loreborne community members are the wealthiest in Fanewick and might be smaller, distinct groups of hunters, historians, or artisans within larger villages.
+Em Fanewick, o conhecimento é a mercadoria mais valiosa, e aqueles que têm expertise detêm o maior poder. Essa economia da informação funciona principalmente por meio de presentes e trocas, e a sabedoria seria considerada um colateral aceitável para uma arma ou uma refeição quente. Como tal, os membros da comunidade loreborne são os mais ricos em Fanewick e podem ser pequenos grupos distintos de caçadores, historiadores ou artesãos dentro de vilarejos maiores.
 
-> *What knowledge did your community teach you that you must now protect or share?*
->
-> *What are you able to accomplish because of your upbringing that others outside your community do not understand?*
->
-> *You once traded important knowledge for something terrible. What did you impart and what did you gain in return?*
+> *Que conhecimento sua comunidade lhe ensinou que você deve agora proteger ou compartilhar?*  
+> *O que você é capaz de realizar por causa da sua criação que outros fora da sua comunidade não entendem?*  
+> *Você já trocou um conhecimento importante por algo terrível. O que você transmitiu e o que ganhou em troca?*
 
-In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from the Serpent’s Sickness, none were immune.
+Em Haven, os membros mais ricos são highborne, tendo herdado riquezas construídas na cidade murada por gerações. Embora os highborne de Haven tenham sido mais isolados da Doença da Serpente, nenhum foi imune.
 
-> *Who have you lost to the Serpent’s Sickness? How did it affect you?*
->
-> *How did your family make their wealth? Have you rejected or embraced their core set of ethics?*
->
-> *You grew up in a world of abundance but were kept from learning something about the world. What was this knowledge and when did you discover it?*
+> *Quem você perdeu para a Doença da Serpente? Como isso o afetou?*  
+> *Como sua família fez sua riqueza? Você rejeitou ou abraçou seu conjunto central de ética?*  
+> *Você cresceu em um mundo de abundância, mas foi impedido de aprender algo sobre o mundo. Qual era esse conhecimento e quando você o descobriu?*
 
-#### RIDGEBORNE, UNDERBORNE, AND WILDBORNE
+#### RIDGEBORNE, UNDERBORNE E WILDBORNE
 
-Characters from these communities were likely raised in Fanewick’s deadly environs, which have only become more dangerous as the Witherwild grows. Each community has unique customs, some freely shared and others kept secret, that allow them safe passage through dangerous terrain and the Faint Divinities’ territories.
+Personagens dessas comunidades provavelmente foram criados nos ambientes mortais de Fanewick, que só se tornaram mais perigosos com o crescimento do Witherwild. Cada comunidade tem costumes únicos, alguns compartilhados livremente e outros mantidos em segredo, que lhes permitem passagem segura por terrenos perigosos e territórios das Divindades Tenues.
 
-In exchange for protection from the Witherwild for themselves and their families, some Wicklings from these groups have been forced to take jobs as farmers in Haven’s flower fields. Though it is backbreaking work performed for a nation destroying their land, the farmers are offered safety by the Haven fires that burn back the ever-creeping Witherwild.
+Em troca de proteção contra o Witherwild para si e suas famílias, alguns Wicklings desses grupos foram forçados a trabalhar como agricultores nos campos de flores de Haven. Embora seja um trabalho exaustivo realizado para uma nação que destrói sua terra, os agricultores recebem segurança pelo fogo de Haven que mantém o Witherwild sempre afastado.
 
-> *What Faint Divinities do you give tribute to, and how have you been rewarded in kind?*
->
-> *You displeased a god of Fanewick. What did you do, and what misfortune befell you or a loved one?*
->
-> *You fled the place of your birth. What circumstances drove you to leave?*
+> *A quais Divindades Tenues você presta tributo, e como foi recompensado?*  
+> *Você desagradou um deus de Fanewick. O que fez e que infortúnio caiu sobre você ou um ente querido?*  
+> *Você fugiu do lugar onde nasceu. Que circunstâncias o levaram a partir?*
 
 #### ORDERBORNE
 
-Players might choose to build orderborne characters if they want to play current or former members of the Haven Army that invaded Fanewick. Though the army brings violence into this land, they also carry overwhelming grief for a homeland succumbing to disease.
+Jogadores podem escolher criar personagens orderborne se quiserem interpretar membros atuais ou antigos do Exército de Haven que invadiu Fanewick. Embora o exército traga violência para esta terra, eles também carregam um pesar esmagador por uma pátria sucumbindo à doença.
 
-> *What regrets do you carry with you from your conquest of foreign soil?*
->
-> *What kindness did an enemy combatant bestow upon you in an hour of need? How did this change your view of the people of Fanewick?*
->
-> *You were charged with planting a rumor in a Fanewick community. What is the rumor, and do you plan to carry out this mission?*
+> *Que arrependimentos você carrega da sua conquista de terras estrangeiras?*  
+> *Que gentileza um combatente inimigo lhe concedeu em um momento de necessidade? Como isso mudou sua visão do povo de Fanewick?*  
+> *Você foi encarregado de plantar um boato em uma comunidade de Fanewick. Qual é o boato e você pretende cumprir essa missão?*
 
 #### SLYBORNE
 
-As the Haven Army is the current martial power in Fanewick, those who wish to play slyborne characters might come from Fanewick rebel groups seeking to expel the invading forces from their lands. Depending on the tactics their group employs, a character from a slyborne community might align with or go against their upbringing.
+Como o Exército de Haven é a atual força militar em Fanewick, aqueles que desejam jogar personagens slyborne podem vir de grupos rebeldes de Fanewick que buscam expulsar as forças invasoras de suas terras. Dependendo das táticas empregadas pelo grupo, um personagem slyborne pode alinhar-se ou se opor à sua criação.
 
-> *Who among the Haven Army do you wish to exact revenge upon and why?*
->
-> *You joined an insurgent group working to free this land from Haven’s grasp. What has given you doubts about the leadership’s methods?*
->
-> *Someone you love is a member of the Haven Army. How have you used your position in the rebellion to protect them?*
+> *Quem do Exército de Haven você deseja se vingar e por quê?*  
+> *Você se juntou a um grupo insurgente que trabalha para libertar esta terra do domínio de Haven. O que lhe causou dúvidas sobre os métodos da liderança?*  
+> *Alguém que você ama é membro do Exército de Haven. Como você usou sua posição na rebelião para protegê-lo?*
 
 #### SEABORNE
 
-Both Fanewick and Haven have a coastal border. The majority of Fanewick’s seaborne communities live in small seaside groups and focus on local travel to neighboring regions, while Haventies tend to live in large ports that ship and receive goods from distant lands.
+Tanto Fanewick quanto Haven têm uma fronteira costeira. A maioria das comunidades seaborne de Fanewick vive em pequenos grupos à beira-mar e foca em viagens locais para regiões vizinhas, enquanto os Haventies tendem a viver em grandes portos que enviam e recebem mercadorias de terras distantes.
 
-> *You recently traveled by sea over a vast distance. What went terribly wrong on that passage, and how has it changed you?*
->
-> *Growing up on the sea taught you a skill few have. What did you learn, and how did it save your life?*
->
-> *You used to sail with a companion. Who were they, and how do you remain connected?*
+> *Você viajou recentemente por mar por uma grande distância. O que deu terrivelmente errado nessa passagem e como isso o mudou?*  
+> *Crescer no mar lhe ensinou uma habilidade que poucos têm. O que você aprendeu e como isso salvou sua vida?*  
+> *Você costumava navegar com um companheiro. Quem era e como vocês permanecem conectados?*
 
 #### WANDERBORNE
 
-Wanderborne communities can be found in both Fanewick and Haven, though safe travel has been severely restricted due to the military occupation and the expansion of the Witherwild. Whether a wanderborne character comes from Fanewick, Haven, or elsewhere, the player should determine their character’s personal views on the invasion of Fanewick, and how that aligns or departs from their community’s views.
+Comunidades wanderborne podem ser encontradas tanto em Fanewick quanto em Haven, embora a viagem segura tenha sido severamente restringida devido à ocupação militar e à expansão do Witherwild. Seja um personagem wanderborne de Fanewick, Haven ou outro lugar, o jogador deve determinar as opiniões pessoais do personagem sobre a invasão de Fanewick e como isso se alinha ou diverge das visões de sua comunidade.
 
-> *What do you do to keep your small community safe, independent, and hidden from Haven’s forces?*
->
-> *Because of your community’s transience, you have loved ones in both Fanewick and Haven. How has this affected your relationship with the invasion?*
->
-> *Your community travels to protect something. What is it, and why does it keep you from settling down?*
+> *O que você faz para manter sua pequena comunidade segura, independente e escondida das forças de Haven?*  
+> *Por causa da transitoriedade da sua comunidade, você tem entes queridos tanto em Fanewick quanto em Haven. Como isso afetou seu relacionamento com a invasão?*  
+> *Sua comunidade viaja para proteger algo. O que é e por que isso impede que vocês se estabeleçam?*
 
-## ANCESTRIES
+## ANCESTRIAS
 
-*All ancestries are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players.*
+*Todas as ancestralidades estão disponíveis, mas algumas têm aspectos únicos dentro de uma campanha Witherwild. Conforme necessário, forneça as seguintes informações aos seus jogadores.*
 
 #### CLANKS
 
-Clanks from Haven are commonly made from iron and steel, while clanks from Fanewick are typically constructed from wood and stone.
+Clanks de Haven são comumente feitos de ferro e aço, enquanto clanks de Fanewick são tipicamente construídos de madeira e pedra.
 
 #### FUNGRIL
 
-Since the Witherwild spread throughout Fanewick, some fungril inhabiting the forests have grown noticeably larger than fungril from other regions.
+Desde que o Witherwild se espalhou por Fanewick, alguns fungril que habitam as florestas cresceram visivelmente maiores do que os fungril de outras regiões.
 
-#### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
+#### DRAKONA, FAUNS, FIRBOLGS E INFERNIS
 
-After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infernis have noticed their horns growing faster and longer.
+Após a corrupção do Witherwild em Fanewick, alguns drakona, fauns, firbolgs e infernis notaram que seus chifres crescem mais rápido e mais longos.
 
-#### GALAPA AND RIBBETS
+#### GALAPA E RIBBETS
 
-Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven’s army invaded.
+Muitas famílias de galapa e ribbets que viviam nos pântanos de Fanewick foram deslocadas quando o exército de Haven invadiu.
 
-**Haventies and the Serpent’s Sickness**
+**Haventies e a Doença da Serpente**
 
-Anyone, but especially those from Haven, may carry the Serpent’s Sickness, which stiffens their movements and gives them limited time to survive without a cure.
+Qualquer um, mas especialmente os de Haven, pode carregar a Doença da Serpente, que endurece seus movimentos e lhes dá tempo limitado para sobreviver sem cura.
 
 ## CLASSES
 
-*All classes are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players.*
+*Todas as classes estão disponíveis, mas algumas têm aspectos únicos dentro de uma campanha Witherwild. Conforme necessário, forneça as seguintes informações aos seus jogadores.*
 
-#### DRUIDS, RANGERS, AND SORCERERS
+#### DRUIDAS, RANGERS E FEITICEIROS
 
-Druids, rangers, and sorcerers are commonly found throughout Fanewick. If players choose one of these classes, they should consider how their character’s connection to the natural world might be impacted by the Witherwild.
+Druidas, rangers e feiticeiros são comumente encontrados por todo Fanewick. Se os jogadores escolherem uma dessas classes, devem considerar como a conexão do personagem com o mundo natural pode ser impactada pelo Witherwild.
 
-#### WARRIORS AND WIZARDS
+#### GUERREIROS E MAGOS
 
-Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and School of War wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
+Guerreiros e magos são prevalentes em Haven. Uma grande escola de magia em Haven ensina lutadores e curandeiros, e o Exército de Haven é composto em grande parte por guerreiros e magos da Escola da Guerra. Se um PJ for uma dessas classes, considere sua relação pessoal com o Exército de Haven.
 
-#### VENGEANCE GUARDIAN
+#### GUARDIÃO DA VINGANÇA
 
-Many Wicklings who seek revenge on Haven or to expel them from Fanewick become Vengeance guardians. If players choose this subclass, they should consider what ideals or institutions their character protects.
+Muitos Wicklings que buscam vingança contra Haven ou expulsá-los de Fanewick tornam-se Guardiões da Vingança. Se os jogadores escolherem essa subclasse, devem considerar quais ideais ou instituições seu personagem protege.
 
-#### SYNDICATE ROGUE
+#### LADINO DA SINDICATO
 
-The Haven Army sends spies into Fanewick communities to gain information and undermine their actions and public perception. When selecting the Syndicate rogue subclass, players should consider how their character might be connected to or impacted by these covert operatives.
+O Exército de Haven envia espiões para as comunidades de Fanewick para obter informações e minar suas ações e percepção pública. Ao selecionar a subclasse ladino da Sindicato, os jogadores devem considerar como seu personagem pode estar conectado ou ser impactado por esses operativos secretos.
 
-## PLAYER PRINCIPLES
+## PRINCÍPIOS DO JOGADOR
 
-*If your group decides to play this campaign, give your players the following information before character creation.*
+*Se seu grupo decidir jogar esta campanha, forneça as seguintes informações aos jogadores antes da criação dos personagens.*
 
-#### MAKE THE INVASION PERSONAL
+#### TORNE A INVASÃO PESSOAL
 
-Consider how Haven’s invasion of Fanewick deeply impacts your character. Let these details inform what they want and what they’re willing to do to get it. Everyone has lost a loved one to the Witherwild or the Serpent’s Sickness, and more are dying by the day. Consider how the growing conflict caused your character to act in ways they aren’t proud of, or transformed personal truths they once believed were unshakable.
+Considere como a invasão de Haven em Fanewick impacta profundamente seu personagem. Deixe esses detalhes informarem o que ele deseja e o que está disposto a fazer para conseguir. Todos perderam alguém querido para o Witherwild ou para a Doença da Serpente, e mais morrem a cada dia. Considere como o conflito crescente fez seu personagem agir de maneiras das quais não se orgulha, ou transformou verdades pessoais que antes acreditava serem inabaláveis.
 
-#### TREAT DEATH WITH IMPORTANCE
+#### TRATE A MORTE COM IMPORTÂNCIA
 
-Taking a life should not be done without consideration, desperation, and consequences. As your character journeys, they should remember those they’ve lost and those they’ve slain, allowing each death to affect their choices in the future.
+Tirar uma vida não deve ser feito sem consideração, desespero e consequências. Conforme seu personagem avança, ele deve lembrar daqueles que perdeu e daqueles que matou, permitindo que cada morte afete suas escolhas futuras.
 
-#### EMBRACE VULNERABILITY
+#### ABRACE A VULNERABILIDADE
 
-Find your character’s humanity and showcase it whenever you can. They should be as vulnerable during quiet moments as they are vicious during violent ones, opening up to their allies even if they close themselves off to everyone else.
+Encontre a humanidade do seu personagem e a mostre sempre que puder. Ele deve ser tão vulnerável em momentos silenciosos quanto é feroz em momentos violentos, abrindo-se para seus aliados mesmo que se feche para todos os outros.
 
-## GM PRINCIPLES
+## PRINCÍPIOS DO MESTRE
 
-*Keep the following guidance in mind while you GM this campaign.*
+*Tenha as seguintes orientações em mente enquanto for Mestre desta campanha.*
 
-#### PAINT THE WORLD IN CONTRAST
+#### PINTE O MUNDO EM CONTRASTE
 
-Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Haventies fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
+Subverta expectativas dando espaço para o aterrorizante encantar e o belo assustar. Dê aos PJs visões da beleza natural de Fanewick que se espalhou pela região, rompendo os limites dos pântanos e florestas e devastando casas e comunidades. Mostre a vida sombria e ordenada por trás das muralhas de Haven, mas também a cultura, arte e progresso que surgiram de séculos de segurança. Contraste a natureza caprichosa das Divindades Tenues com a devoção dos Wicklings e Haventies que lutam para salvar seu lar. Em um lugar de longas noites e dias, estações duplas e duas nações em conflito, busque maneiras de destacar dualidades marcantes.
 
-#### SHOW THEM TRUE DANGER
+#### MOSTRE O PERIGO REAL
 
-Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the PCs’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character’s backstory, they have something to fight for.
+Embora possa ser trágico, o dano corporal não é a pior tragédia que pode acontecer aos personagens. Para ilustrar o que está realmente em jogo, use as origens dos PJs em Fanewick ou Haven para mostrar o que eles têm a perder, seja suas casas, família, amigos, comunidades ou até suas verdades e crenças centrais. Os eventos desta campanha podem mudar, ameaçar ou destruir esses aspectos do passado — quando seus jogadores criam e investem na história de seus personagens, eles têm algo pelo que lutar.
 
-#### OFFER ALTERNATIVES TO VIOLENCE
+#### OFEREÇA ALTERNATIVAS À VIOLÊNCIA
 
-By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint—to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
+Ao iluminar abordagens não violentas para resolver problemas, os PJs podem ajudar a quebrar o ciclo brutal que prende este mundo. Por exemplo, mostrar compaixão — em vez da espada — para uma besta corrompida pode libertá-la do Witherwild. Da mesma forma, o conflito entre Haven e Fanewick não deve ser resolvido apenas com sangue e lâmina. O que ameaça ambos também pode uni-los. Dê aos PJs oportunidades para curar velhas feridas, corrigir erros passados e sanar a divisão entre Haven e Fanewick por dentro.
 
-#### CREATE MULTIDIMENSIONAL ALLIES AND ADVERSARIES
+#### CRIE ALIADOS E ADVERSÁRIOS MULTIDIMENSIONAIS
 
-No adversary or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it’s for the wrong reason. Just because a PC or NPC is from Haven doesn’t make them a villain, and, conversely, not all the inhabitants of Fanewick are virtuous. Finding the nuance, complications, and deeper motivations of the people of Haven and Fanewick will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
+Nenhum adversário ou aliado é totalmente bom ou totalmente mau, e todos têm vidas multidimensionais. Mesmo o aliado mais amigável pode esconder trevas dentro de si, esperando que suas falhas não sejam descobertas. Aqueles pintados como maus às vezes fazem a coisa certa, mesmo que por motivos errados. Só porque um PJ ou NPC é de Haven não o torna um vilão, e, inversamente, nem todos os habitantes de Fanewick são virtuosos. Encontrar nuances, complicações e motivações mais profundas das pessoas de Haven e Fanewick levará a interações mais ricas, escolhas morais mais complexas e um senso mais profundo de apego ao mundo para os jogadores.
 
-## DISTINCTIONS
+## DISTINÇÕES
 
-*Use this information to prepare your campaign. You can also share it with your players as needed.*
+*Use estas informações para preparar sua campanha. Você também pode compartilhá-las com seus jogadores conforme necessário.*
 
-#### THE WEEKS OF DAY AND NIGHT
+#### AS SEMANAS DE DIA E NOITE
 
-The day and night cycle occurs weekly, meaning the sun rises for an entire week before setting into a nighttime of the same length. This has an impact on everything from agriculture to trade, as many merchants refuse to travel through the night.
+O ciclo dia e noite ocorre semanalmente, significando que o sol nasce por uma semana inteira antes de se pôr para uma noite da mesma duração. Isso impacta tudo, desde agricultura até comércio, pois muitos mercadores se recusam a viajar durante a noite.
 
-But this cycle doesn’t just affect Wicklings; it’s dictated how Fanewick’s wondrous ecology has evolved. Days and nights are accompanied by entirely different natural soundscapes as Fanewick’s nocturnal denizens sleep through the long days and stalk the woods in times of darkness while their diurnal counterparts sleep. The plants similarly live on this strange day-night loop, and many live out their entire life cycles in a week. Sun rose vines make a thorny ascent to the top of the tree canopy over the course of the week, only to wilt under the light of the moon. Conversely, night bloom, a bioluminescent flower that emits the smell of burnt sugar and decay, only blossoms when evening falls, illuminating patches of forest—a godsend to anyone forced to travel in the dark.
+Mas esse ciclo não afeta apenas os Wicklings; ele ditou como a maravilhosa ecologia de Fanewick evoluiu. Dias e noites são acompanhados por paisagens sonoras naturais totalmente diferentes, já que os habitantes noturnos de Fanewick dormem durante os longos dias e patrulham as florestas na escuridão, enquanto seus equivalentes diurnos descansam. As plantas vivem nesse estranho ciclo dia-noite, e muitas completam seus ciclos de vida em uma semana. As vinhas do sol fazem uma ascensão espinhosa até o topo do dossel da árvore ao longo da semana, apenas para murchar sob a luz da lua. Por outro lado, a flor da noite, uma flor bioluminescente que emite cheiro de açúcar queimado e decadência, só floresce quando a noite cai, iluminando partes da floresta — uma bênção para quem precisa viajar no escuro.
 
-#### THE SERPENT’S SICKNESS
+#### A DOENÇA DA SERPENTE
 
-The plague sweeping across Haven spares no one. Since the initial outbreak, Haven officials have worked tirelessly to quarantine those in the early stages of the disease, but the effort has done little to stop its spread. Due to the rarity of the crimson lady’s veil, many citizens began to carry or consume all manner of flowers and snake sheddings in an attempt to protect or cure themselves.
+A praga que varre Haven não poupa ninguém. Desde o surto inicial, as autoridades de Haven trabalham incansavelmente para colocar em quarentena os infectados nos estágios iniciais da doença, mas o esforço pouco fez para conter sua propagação. Devido à raridade do véu da dama carmesim, muitos cidadãos começaram a carregar ou consumir todo tipo de flores e descamações de serpente na tentativa de se proteger ou curar.
 
-In the initial stages, victims are afflicted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake’s skin. Not long after, the victims’ bodies harden until their organs solidify and cease to function. The final stages of the Serpent’s Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
+Nos estágios iniciais, as vítimas apresentam uma tosse seca carregada de pó que se assemelha a pó de osso. Depois, uma erupção escamosa surge na pele, rachando a carne em um padrão único e doloroso que lembra a pele de uma serpente. Logo depois, os corpos endurecem até que seus órgãos solidifiquem e parem de funcionar. Os estágios finais da Doença da Serpente são tão rápidos que muitos se transformam em estátuas onde estão, deixando toda Haven como um cenotáfio de um poder outrora grande.
 
-#### LADY’S VEIL
+#### VÉU DA DAMA
 
-These small flowers grow in patches of sun throughout Fanewick. For every ten thousand blossoms of white-petaled flowers, one blooms a unique and vibrant red. These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. Even so, they were only foraged until the Haventies discovered crimson lady’s veil—the only known cure for Serpent’s Sickness.
+Essas pequenas flores crescem em manchas de sol por toda Fanewick. Para cada dez mil flores de pétalas brancas, uma floresce em um vermelho único e vibrante. Essas flores são usadas há muito tempo em chás de ervas na região, com as flores carmesim ocupando lugar em cerimônias específicas. Mesmo assim, eram apenas coletadas até que os Haventies descobriram o véu da dama carmesim — a única cura conhecida para a Doença da Serpente.
 
-Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massive farms that have overtaken the region’s bogs. Though the theft of the Reaping Eye has created an indefinite growing season, the red flowers remain just as rare, and Fanewick is permeated by a sickly sweet smell as the Haven Army races to mass-produce a cure for the Serpent’s Sickness.
+Assim, o Exército de Haven invadiu Fanewick e começou a cultivar as flores em fazendas massivas que tomaram os pântanos da região. Embora o roubo do Olho Ceifador tenha criado uma estação de crescimento indefinida, as flores vermelhas continuam tão raras quanto antes, e Fanewick está permeada por um cheiro doce e doentio enquanto o Exército de Haven corre para produzir em massa uma cura para a Doença da Serpente.
 
-#### THE WITHERWILD
+#### O WITHERWILD
 
-This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable adversaries.
+Essa corrupção, alimentada pela primavera eterna, está se espalhando por Fanewick. Alguns acreditam que o crescimento começou na floresta, enquanto outros afirmam que surgiu dos pântanos. Mas não importa sua origem, essa malignidade florescente induz mudanças horríveis e crescimento massivo em tudo o que toca, transformando-os em seres Corrompidos. Plantas ganham vida com o desejo de consumir tudo ao redor. Animais crescem a proporções imensas, com disposições terríveis para combinar com seus dentes, presas e garras exageradas. Até criaturas inofensivas que antes eram caçadas para alimentação tornaram-se adversários perigosos e formidáveis.
 
-When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming “Corruption from the Witherwild” section), they are transformed. They become a nightmarish hybrid—their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta’s wrath to drive the forces of Haven from Fanewick and return the Shepherd’s Reaping Eye.
+Quando uma pessoa é corrompida pelo Witherwild, seja por ataque intencional ou dano acidental (veja a seção “Corrupção pelo Witherwild” adiante), ela é transformada. Torna-se um híbrido aterrorizante — seu corpo distorcido e entrelaçado com planta ou fera. O Witherwild substitui lentamente a personalidade de suas vítimas pelo mesmo impulso de consumir exibido pelo restante de Fanewick corrompido. Embora os Corrompidos possam manter uma semelhança de quem eram por um tempo, eventualmente enfrentam a perda final de sua personalidade. Alguns Wicklings acreditam que os Corrompidos recebem esse poder pela ira de Nikta para expulsar as forças de Haven de Fanewick e devolver o Olho Ceifador da Pastora.
 
-#### THE GODS OF FANEWICK
+#### OS DEUSES DE FANEWICK
 
-Gods in this land aren’t ethereal concepts that exist in another realm; instead, they are tangible and as inescapable as the seasons. Many communities, and some larger families, even have their own small god or tutelary spirit who watches over them.
+Os deuses nesta terra não são conceitos etéreos que existem em outro plano; em vez disso, são tangíveis e tão inevitáveis quanto as estações. Muitas comunidades, e algumas famílias maiores, têm até seu próprio pequeno deus ou espírito tutelar que os protege.
 
-Belief and worship take on a different meaning in Fanewick—there is a constant push and pull between the goals of people and their deific neighbors. The gods must curry worship from mortals, often by performing small miracles, acts of service, or by testing their resolve with tricks and curses. Mortals rely on the small blessings from the gods to keep them safe when traveling and working in Fanewick. The most powerful and widely acknowledged Faint Divinity is the Shepherd of Seasons, Nikta, as the loss of her eye had the most recent and visible impact on everyone in Fanewick.
+A crença e o culto assumem um significado diferente em Fanewick — há um constante vai e vem entre os objetivos das pessoas e seus vizinhos divinos. Os deuses precisam conquistar a adoração dos mortais, muitas vezes realizando pequenos milagres, atos de serviço ou testando sua determinação com truques e maldições. Os mortais dependem das pequenas bênçãos dos deuses para se manterem seguros ao viajar e trabalhar em Fanewick. A Divindade Tenue mais poderosa e amplamente reconhecida é a Pastora das Estações, Nikta, já que a perda de seu olho teve o impacto mais recente e visível para todos em Fanewick.
 
-Fanewick’s various divinities each have their own opinion concerning the Witherwild corruption. While some enjoy nature’s newfound dominance, many of the lesser deities are wary of how out of balance Fanewick has become. While their behavior and motives may be inscrutable, these deities are more accessible than gods who watch from on high.
+As várias divindades de Fanewick têm suas próprias opiniões sobre a corrupção do Witherwild. Enquanto algumas desfrutam do domínio recém-descoberto da natureza, muitas das divindades menores estão cautelosas quanto ao desequilíbrio de Fanewick. Embora seu comportamento e motivos possam ser insondáveis, essas divindades são mais acessíveis do que deuses que observam do alto.
 
-**Fulgr, Stacker of Stones:** A small god who favors tribute in the form of smooth, stacked river rocks. Under his power, bivalves and limpets grow abundantly on rocks where they can be easily harvested. He is largely untroubled about the problems Fanewick faces, and he prefers it that way.
+**Fulgr, Empilhador de Pedras:** Um pequeno deus que prefere tributos na forma de pedras lisas empilhadas de rios. Sob seu poder, bivalves e lapas crescem abundantemente nas pedras onde podem ser facilmente colhidos. Ele está largamente despreocupado com os problemas de Fanewick e prefere que continue assim.
 
-**Hyacyins, They Who Spread Small Blossoms:** A friend of bees and tiny flowers who has embraced the Witherwild after seeing their influence and domain swell (literally) to immense proportions. They’re enjoying this rampant growth and do not see a reason to end it.
+**Hyacyins, Aquele que Espalha Pequenas Flores:** Amigo das abelhas e das pequenas flores, abraçou o Witherwild ao ver sua influência e domínio crescerem (literalmente) a proporções imensas. Está desfrutando desse crescimento desenfreado e não vê razão para terminá-lo.
 
-**Ikla, the Sky Painter:** Ikla’s artistic prowess and talent are unmatched, painting the skies of each weekly sunrise and sunset over Fanewick in a myriad of scintillating colors. They could not be lazier the rest of the week, and their demeanor is exceedingly unpleasant, offended that anyone would ask a favor of them during their time off.
+**Ikla, o Pintor do Céu:** O talento artístico de Ikla é incomparável, pintando os céus de cada nascer e pôr do sol semanal em Fanewick em uma miríade de cores cintilantes. Ele não poderia ser mais preguiçoso no resto da semana, e seu temperamento é extremamente desagradável, ofendido que alguém peça um favor durante seu tempo livre.
 
-**Oove, the Watcher of the Night Bloom:** He is one of the few local gods who has never been seen, but he is often heard in the wilds at night, whispering directions to lost travelers, pointing them to the nearest source of night bloom. Locals claim he leads those who displease him or harm nocturnal creatures into dangerous terrain. It’s rumored that he watches over Fanewick nights from his home on the moon.
+**Oove, o Vigia da Flor da Noite:** É um dos poucos deuses locais que nunca foi visto, mas frequentemente é ouvido nas terras selvagens à noite, sussurrando direções a viajantes perdidos, apontando para a fonte mais próxima de flor da noite. Os locais afirmam que ele conduz aqueles que o desagradam ou prejudicam criaturas noturnas para terrenos perigosos. Dizem que ele vigia as noites de Fanewick de sua casa na lua.
 
-**Qui’Gar, Whispered Sweetness for a Thorny End:** A quiet god who presides over the deaths of those who pass in thorny bushes and briar patches. Traditionally, she doesn’t receive many visitors, but the Witherwild’s corruptive growth has made her job harder and opened her quiet existence.
+**Qui’Gar, Doce Sussurro para um Fim Espinhoso:** Uma deusa silenciosa que preside as mortes daqueles que passam por arbustos espinhosos e moitas. Tradicionalmente, não recebe muitos visitantes, mas o crescimento corrupto do Witherwild tornou seu trabalho mais difícil e abriu sua existência tranquila.
 
-**Rokhin, the Wandering Horn:** Rokhin watches over the many herds of horned creatures that reside in Fanewick. In happier times, he preserved the balance of nature and civilization, preventing overhunting. But since the corruption of the Witherwild has taken hold, he’s seen his herds change into unrecognizable, dangerous beasts.
+**Rokhin, o Chifre Errante:** Rokhin vigia os muitos rebanhos de criaturas chifrudas que residem em Fanewick. Em tempos mais felizes, ele preservava o equilíbrio entre natureza e civilização, prevenindo a caça excessiva. Mas desde que a corrupção do Witherwild tomou conta, ele viu seus rebanhos se transformarem em bestas perigosas e irreconhecíveis.
 
-These are but a small slice of the hundreds, if not thousands, of gods watching, lurking, relaxing, hunting, and playing throughout Fanewick.
+Estes são apenas um pequeno recorte dos centenas, senão milhares, de deuses que observam, espreitam, relaxam, caçam e brincam por todo Fanewick.
 
-> *What Faint Divinities do the PCs acknowledge and pay tribute to, if any?*
->
-> *How has the Witherwild changed the outlook, personality, and dispositions of the Faint Divinities the characters encounter?*
->
-> *Which gods ally themselves with Haven to preserve the endless spring? Which align with Fanewick?*
+> *Quais Divindades Tenues os PJs reconhecem e a quem prestam tributo, se houver?*  
+> *Como o Witherwild mudou a visão, personalidade e disposição das Divindades Tenues que os personagens encontram?*  
+> *Quais deuses se alinham com Haven para preservar a primavera eterna? Quais se alinham com Fanewick?*
 
-## THE INCITING INCIDENT
+## O INCIDENTE INCITANTE
 
-*You can use the prompt below to start your campaign, or create your own.*
+*Você pode usar o prompt abaixo para iniciar sua campanha, ou criar o seu próprio.*
 
-The Reaping Eye is stowed in a secure vault beneath the central tower of Haven’s wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **Fanewraith** (she/her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren’t when Haven invaded.
+O Olho Ceifador está guardado em um cofre seguro sob a torre central da escola de magia de Haven, aparentemente impossível de recuperar. Um grupo rebelde secreto e perigoso, liderado por uma figura misteriosa conhecida apenas como **Fanewraith** (ela/dela), arquitetou um plano para acabar com a maldição do Witherwild: encontrar a Grande Coruja, Nikta, e arrancar o Olho Semeador. Embora isso possa resolver o problema imediato, as consequências a longo prazo não estão sendo consideradas, assim como não foram quando Haven invadiu.
 
-Haven’s beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities. Kreil has never agreed—at least not openly—with **Archmage Phylax’s** (they/them) decision to steal the Reaping Eye, and the consequences they’ve all paid for that decision have been grimly vindicating.
+O atribulado mestre de espionagem de Haven, **Kreil Dirn** (ele/dele), não é uma pessoa popular em Haven. Ele é responsável por erradicar insurgentes, impedir esquemas antes que comecem e manter vigilância rigorosa sobre as atividades internas de Haven. Kreil nunca concordou — pelo menos não abertamente — com a decisão do **Arqui-mago Phylax** (eles/deles) de roubar o Olho Ceifador, e as consequências que todos pagaram por essa decisão foram uma amarga confirmação.
 
-Recently, Kreil uncovered the Fanewraith’s plot and is horrified by the possibility of her success. Knowing he can’t send a troop of Haven soldiers deep into the woods to hunt down and stop the Fanewraith from stealing the Sowing Eye, Kreil uses his vast network of informants and spies to find a group of adventurers who can bring the Fanewraith to swift justice.
+Recentemente, Kreil descobriu o plano da Fanewraith e está horrorizado com a possibilidade de seu sucesso. Sabendo que não pode enviar um pelotão de soldados de Haven para a floresta profunda para caçar e impedir a Fanewraith de roubar o Olho Semeador, Kreil usa sua vasta rede de informantes e espiões para encontrar um grupo de aventureiros que possa trazer a Fanewraith à justiça rápida.
 
-The party is sent an invitation from Haven to meet with Kreil. But is his information correct? Does he have his own motivation or secret ambition? Whether they come from Fanewick or Haven, the party must extend some trust to a person who is equally as dangerous and mercurial as the “enemy” they pursue. And what will they do when they find the Fanewraith? Bring her to justice? Side with her? Attempt to recover the Reaping Eye?
+O grupo recebe um convite de Haven para se encontrar com Kreil. Mas suas informações estão corretas? Ele tem suas próprias motivações ou ambições secretas? Venham de Fanewick ou Haven, o grupo deve confiar em alguém tão perigoso e volátil quanto o “inimigo” que persegue. E o que farão quando encontrarem a Fanewraith? Levá-la à justiça? Apoiar sua causa? Tentar recuperar o Olho Ceifador?
 
-Kreil advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
+Kreil aconselha o grupo a iniciar a caçada pela aldeia nas copas das árvores de Alula, onde suspeita que ela dirige sua operação.
 
-## CAMPAIGN MECHANICS
+## MECÂNICAS DA CAMPANHA
 
-*The following mechanics are unique to this campaign.*
+*As seguintes mecânicas são exclusivas desta campanha.*
 
-#### CORRUPTION FROM THE WITHERWILD
+#### CORRUPÇÃO PELO WITHERWILD
 
-Adversaries and environments in this campaign can gain Wither tokens. When a PC takes damage from a Withered adversary or environment, describe how the Witherwild changed or impacted how they would normally appear or operate. You also gain about 20 Wither tokens (these can be the same as the tokens you use for Fear).
+Adversários e ambientes nesta campanha podem ganhar fichas de Wither (Wither tokens). Quando um PJ sofre dano de um adversário ou ambiente Corrompido, descreva como o Witherwild mudou ou impactou sua aparência ou funcionamento normal. Você também ganha cerca de 20 fichas de Wither (essas podem ser as mesmas usadas para Medo).
 
-Any time a PC takes Severe damage from a Withered adversary or environment, gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their Fear Die. If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a scar and clear all tokens, describing how the Witherwild changes them permanently.
+Sempre que um PJ sofre dano Grave de um adversário ou ambiente Corrompido, ganhe uma ficha de Wither e coloque-a na ficha do personagem. Quando fizer isso, o PJ deve rolar seu Dado de Medo. Se tirar igual ou menor que o número de fichas de Wither em sua ficha, ele imediatamente ganha uma cicatriz e remove todas as fichas, descrevendo como o Witherwild o mudou permanentemente.
 
-At the end of each session, clear all Wither tokens from the PCs’ sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
+No final de cada sessão, remova todas as fichas de Wither das fichas dos PJs e ganhe uma quantidade igual de Medo. Se um personagem morrer com fichas de Wither em sua ficha, seu corpo é permanentemente tomado pelo Witherwild.
 
-#### SESSION ZERO QUESTIONS
+#### PERGUNTAS PARA A SESSÃO ZERO
 
-*Ask any of these questions to your players, or make your own.*
+*Faça qualquer uma dessas perguntas aos seus jogadores, ou crie as suas próprias.*
 
-> *What dangerous animal comes out during the week of night that isn’t out during the week of day?*
->
-> *What unique trait (such as appearance, smell, or taste) does anything tainted by the Witherwild have?*
->
-> *What superstitions does your character or their community have about traversing Fanewick during the long nights?*
->
-> *Your character has witnessed something beautiful that came from the Witherwild. What is it and how has it transformed their view of the corruption?*
+> *Que animal perigoso sai durante a semana da noite que não aparece durante a semana do dia?*  
+> *Que característica única (como aparência, cheiro ou gosto) qualquer coisa contaminada pelo Witherwild tem?*  
+> *Que superstições seu personagem ou sua comunidade têm sobre atravessar Fanewick durante as longas noites?*  
+> *Seu personagem testemunhou algo belo que veio do Witherwild. O que é e como isso transformou sua visão sobre a corrupção?*

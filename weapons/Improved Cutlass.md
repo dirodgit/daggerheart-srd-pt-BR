@@ -1,7 +1,7 @@
-﻿# IMPROVED CUTLASS
+﻿# SABRE APRIMORADO
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8+4 físico; **Carga:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

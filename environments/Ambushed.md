@@ -1,14 +1,14 @@
-﻿# AMBUSHED
+﻿# EMBOSCADA
 
-***Tier 1 Event***  
-*An ambush is set to catch an unsuspecting party off-guard.*  
-**Impulses:** Overwhelm, scatter, surround
+***Evento de Nível 1***  
+*Uma emboscada é preparada para pegar um grupo desprevenido.*  
+**Impulsos:** Sobrepujar, dispersar, cercar
 
-> **Difficulty:** Special (see “Relative Strength”)  
-> **Potential Adversaries:** Any
+> **Dificuldade:** Especial (veja “Força Relativa”)  
+> **Adversários Potenciais:** Qualquer um
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relative Strength - Passive:*** The Difficulty of this environment equals that of the adversary with the highest Difficulty.
+***Força Relativa - Passiva:*** A Dificuldade deste ambiente é igual à do adversário com a maior Dificuldade.
 
-***Surprise! - Action:*** The ambushers reveal themselves to the party, you gain 2 Fear, and the spotlight immediately shifts to one of the ambushing adversaries.
+***Surpresa! - Ação:*** Os emboscadores se revelam para o grupo, você ganha 2 Medo, e o foco imediatamente muda para um dos adversários da emboscada.

@@ -1,7 +1,7 @@
-﻿# STEELFORGED HALBERD
+﻿# ALABARDA FORJADA EM AÇO
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d8+4 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Muito Próximo; **Dano:** d8+4 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Scary:*** On a successful attack, the target must mark a Stress.
+**Característica:** ***Assustadora:*** Em um ataque bem-sucedido, o alvo deve marcar um Estresse.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

@@ -1,5 +1,5 @@
-﻿# MYTHIC DUST
+﻿# POEIRA MÍTICA
 
-You can apply this dust to a weapon that deals magic damage to add a d12 to your next damage roll with that weapon.
+Você pode aplicar esta poeira a uma arma que cause dano mágico para adicionar um d12 ao seu próximo teste de dano com essa arma.
 
-*Consumable*
+*Consumível*

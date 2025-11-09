@@ -1,7 +1,7 @@
-﻿# ADVANCED SCEPTER
+﻿# CÉPTRO AVANÇADO
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+6 mag; **Burden:** Two-Handed
+**Traço:** Presença; **Alcance:** Longo; **Dano:** d6+6 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8+4.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas — Presença, Corpo a Corpo, d8+4.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

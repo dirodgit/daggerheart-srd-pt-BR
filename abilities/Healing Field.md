@@ -1,8 +1,8 @@
-﻿# HEALING FIELD
+﻿# CAMPO DE CURA
 
-> **Level 4 Sage Spell**  
-> **Recall Cost:** 2
+> **Magia de Sábio de Nível 4**  
+> **Custo de Recordação:** 2
 
-Once per long rest, you can conjure a field of healing plants around you. Everywhere within Close range of you bursts to life with vibrant nature, allowing you and all allies in the area to clear a Hit Point.
+Uma vez por descanso longo, você pode conjurar um campo de plantas curativas ao seu redor. Em toda a área dentro do alcance Próximo de você, a natureza floresce vibrante, permitindo que você e todos os aliados na área recuperem 1 Ponto de Vida.
 
-Spend 2 Hope to allow you and all allies to clear 2 Hit Points instead.
+Gaste 2 de Esperança para permitir que você e todos os aliados recuperem 2 Pontos de Vida em vez disso.

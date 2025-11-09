@@ -1,318 +1,318 @@
-﻿# DRUID
+﻿# DRUIDA
 
-Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
+Tornar-se um druida é mais do que uma ocupação; é um chamado para aqueles que desejam aprender com a magia da natureza selvagem e protegê-la. Embora se possa subestimar um druida gentil que pratica o trabalho muitas vezes silencioso de cultivar a flora, os druidas que canalizam as forças indomadas da natureza são aterrorizantes de se ver. Os druidas cultivam suas habilidades em pequenos grupos, frequentemente conectados por um ethos ou local específico, mas alguns escolhem trabalhar sozinhos. Através de anos de estudo e dedicação, os druidas podem aprender a se transformar em bestas e moldar a própria natureza.
 
-> **• DOMAINS:** [Sage](../domains/Sage.md) & [Arcana](../domains/Arcana.md)  
-> **• STARTING EVASION:** 10  
-> **• STARTING HIT POINTS:** 6  
-> **• CLASS ITEMS:** A small bag of rocks and bones or a strange pendant found in the dirt
+> **• DOMÍNIOS:** [Sábio](../domains/Sage.md) & [Arcana](../domains/Arcana.md)  
+> **• EVASÃO INICIAL:** 10  
+> **• PONTOS DE VIDA INICIAIS:** 6  
+> **• ITENS DE CLASSE:** Uma pequena bolsa de pedras e ossos ou um estranho pingente encontrado na terra
 
-## DRUID’S HOPE FEATURE
+## RECURSO ESPERANÇA DO DRUIDA
 
-***Evolution:*** Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.
+***Evolução:*** Gaste 3 Esperança para se transformar em uma Forma de Besta sem marcar um Estresse. Quando fizer isso, escolha uma característica para aumentar em +1 até que você saia dessa Forma de Besta.
 
-## CLASS FEATURES
+## RECURSOS DE CLASSE
 
-***Beastform:*** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can’t use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform’s features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you’re in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
+***Forma de Besta:*** Marque um Estresse para se transformar magicamente em uma criatura do seu nível ou inferior da lista de Formas de Besta. Você pode sair dessa forma a qualquer momento. Enquanto transformado, você não pode usar armas nem lançar magias de cartas de domínio, mas ainda pode usar outros recursos ou habilidades que tenha acesso. Magias lançadas antes da transformação permanecem ativas e duram sua duração normal, e você pode falar e se comunicar normalmente. Além disso, você ganha os recursos da Forma de Besta, adiciona o bônus de Evasão dela à sua Evasão e usa a característica especificada nas estatísticas dela para seu ataque. Enquanto estiver em Forma de Besta, sua armadura se torna parte do seu corpo e você marca os Espaços de Armadura normalmente; quando sair da Forma de Besta, esses Espaços de Armadura marcados permanecem marcados. Se você marcar seu último Ponto de Vida, automaticamente sai dessa forma.
 
-***Wildtouch:*** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire—at will.
+***Toque Selvagem:*** Você pode realizar efeitos sutis e inofensivos que envolvem a natureza — como fazer uma flor crescer rapidamente, convocar uma leve rajada de vento ou acender uma fogueira — à vontade.
 
-## DRUID SUBCLASSES
+## SUBCLASSES DO DRUIDA
 
-Choose either the **[Warden of the Elements](../subclasses/Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](../subclasses/Warden%20of%20Renewal.md)** subclass.
+Escolha a subclasse **[Guardião dos Elementos](../subclasses/Warden%20of%20the%20Elements.md)** ou **[Guardião da Renovação](../subclasses/Warden%20of%20Renewal.md)**.
 
-## BACKGROUND QUESTIONS
+## PERGUNTAS DE HISTÓRICO
 
-*Answer any of the following background questions. You can also create your own questions.*
+*Responda qualquer uma das seguintes perguntas de histórico. Você também pode criar suas próprias perguntas.*
 
-- Why was the community you grew up in so reliant on nature and its creatures?
-- Who was the first wild animal you bonded with? Why did your bond end?
-- Who has been trying to hunt you down? What do they want from you?
+- Por que a comunidade onde você cresceu dependia tanto da natureza e de suas criaturas?
+- Qual foi o primeiro animal selvagem com quem você criou um vínculo? Por que esse vínculo terminou?
+- Quem tem tentado caçá-lo? O que eles querem de você?
 
-## CONNECTIONS
+## CONEXÕES
 
-*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+*Pergunte a seus companheiros jogadores uma das seguintes perguntas para que o personagem deles responda, ou crie suas próprias perguntas.*
 
-- What did you confide in me that makes me leap into danger for you every time?
-- What animal do I say you remind me of?
-- What affectionate nickname have you given me?
+- O que você me confidenciou que faz eu me jogar no perigo por você toda vez?
+- A que animal eu digo que você me lembra?
+- Que apelido carinhoso você me deu?
 
-# BEASTFORM OPTIONS
+# OPÇÕES DE FORMA DE BESTA
 
-When you use your “Beastform” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
+Quando usar seu recurso “Forma de Besta”, escolha uma categoria de criatura do seu nível ou inferior. A critério do Mestre, você pode descrever sua transformação em qualquer animal que se encaixe razoavelmente nessa categoria.
 
-Beastform categories are divided by tier. Each entry includes the following details:
+As categorias de Forma de Besta são divididas por nível. Cada entrada inclui os seguintes detalhes:
 
-- **Creature Category:** Each category’s name describes the common role or behavior of creatures in that category (such as Agile Scout). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
-- **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your Agility. When this form drops, you lose this bonus.
-- **Attack Rolls:** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
-- **Evasion:** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
-- **Advantage:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
-- **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they’re also fragile, making you more likely to drop out of Beastform.
+- **Categoria de Criatura:** O nome de cada categoria descreve o papel comum ou comportamento das criaturas nela (como Batedor Ágil). Esse nome é seguido por alguns exemplos de animais que se encaixam nessa categoria (neste exemplo, raposa, rato e doninha).
+- **Característica do Personagem:** Enquanto transformado, você ganha um bônus na característica listada. Por exemplo, enquanto transformado em Batedor Ágil, você ganha +1 em Agilidade. Quando essa forma termina, você perde esse bônus.
+- **Rolagens de Ataque:** Ao fazer um ataque enquanto transformado, você usa o alcance, a característica e os dados de dano da criatura, mas usa sua Proficiência. Por exemplo, como Batedor Ágil, você pode atacar um alvo em alcance Corpo a Corpo usando sua Agilidade. Em um sucesso, você causa dano físico d4 usando sua Proficiência.
+- **Evasão:** Enquanto transformado, você adiciona o bônus de Evasão da criatura à sua Evasão normal. Por exemplo, se sua Evasão normalmente é 8 e sua Forma de Besta diz “Evasão +2”, sua Evasão se torna 10 enquanto estiver nessa forma.
+- **Vantagem:** Sua forma o torna especialmente apto para certas ações. Quando fizer uma rolagem de ação ou reação relacionada a um dos verbos listados para essa categoria, você ganha vantagem nessa rolagem. Por exemplo, um Batedor Ágil ganha vantagem em rolagens feitas para se esgueirar, procurar objetos ou criaturas e atividades relacionadas.
+- **Recursos:** Cada forma inclui recursos únicos. Por exemplo, um Batedor Ágil é excelente em movimentos silenciosos e ágeis — mas também é frágil, tornando você mais propenso a sair da Forma de Besta.
 
-## TIER 1
+## NÍVEL 1
 
-### AGILE SCOUT
+### BATEDOR ÁGIL
 
-(Fox, Mouse, Weasel, etc.)
+(Raposa, Rato, Doninha, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy  
-> **Gain advantage on:** deceive, locate, sneak
+> Agilidade +1 | Evasão +2 | Corpo a Corpo Agilidade d4 físico  
+> **Ganha vantagem em:** enganar, localizar, se esgueirar
 
-***Agile:*** Your movement is silent, and you can spend a Hope to move up to Far range without rolling.
+***Ágil:*** Seu movimento é silencioso, e você pode gastar 1 Esperança para se mover até o alcance Longo sem rolar.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Frágil:*** Quando você sofre dano Maior ou superior, sai da Forma de Besta.
 
-### HOUSEHOLD FRIEND
+### AMIGO DOMÉSTICO
 
-(Cat, Dog, Rabbit, etc.)
+(Gato, Cão, Coelho, etc.)
 
-> Instinct +1 | Evasion +2 | Melee Instinct d6 phy  
-> **Gain advantage on:** climb, locate, protect
+> Instinto +1 | Evasão +2 | Corpo a Corpo Instinto d6 físico  
+> **Ganha vantagem em:** escalar, localizar, proteger
 
-***Companion:*** When you Help an Ally, you can roll a d8 as your advantage die.
+***Companheiro:*** Quando você Ajuda um Aliado, pode rolar um d8 como seu dado de vantagem.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Frágil:*** Quando você sofre dano Maior ou superior, sai da Forma de Besta.
 
-### NIMBLE GRAZER
+### PASTADOR ÁGIL
 
-(Deer, Gazelle, Goat, etc.)
+(Cervo, Gazela, Cabra, etc.)
 
-> Agility +1 | Evasion +3 | Melee Agility d6 phy  
-> **Gain advantage on:** leap, sneak, sprint
+> Agilidade +1 | Evasão +3 | Corpo a Corpo Agilidade d6 físico  
+> **Ganha vantagem em:** saltar, se esgueirar, correr
 
-***Elusive Prey:*** When an attack roll against you would succeed, you can mark a Stress and roll a d4. Add the result to your Evasion against this attack.
+***Presa Escorregadia:*** Quando uma rolagem de ataque contra você seria bem-sucedida, você pode marcar um Estresse e rolar um d4. Adicione o resultado à sua Evasão contra esse ataque.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Frágil:*** Quando você sofre dano Maior ou superior, sai da Forma de Besta.
 
-### PACK PREDATOR
+### PREDADOR DE ALDEIA
 
-(Coyote, Hyena, Wolf, etc.)
+(Coiote, Hiena, Lobo, etc.)
 
-> Strength +2 | Evasion +1 | Melee Strength d8+2 phy  
-> **Gain advantage on:** attack, sprint, track
+> Força +2 | Evasão +1 | Corpo a Corpo Força d8+2 físico  
+> **Ganha vantagem em:** atacar, correr, rastrear
 
-***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can mark a Stress to make the target temporarily Vulnerable.
+***Golpe Mancante:*** Quando você acerta um ataque contra um alvo em alcance Corpo a Corpo, pode marcar um Estresse para tornar o alvo temporariamente Vulnerável.
 
-***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add a d8 to your damage roll.
+***Caça em Matilha:*** Quando você acerta um ataque contra o mesmo alvo de um aliado que age imediatamente antes de você, adicione um d8 à sua rolagem de dano.
 
-### AQUATIC SCOUT
+### BATEDOR AQUÁTICO
 
-(Eel, Fish, Octopus, etc.)
+(Enguia, Peixe, Polvo, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy  
-> **Gain advantage on:** navigate, sneak, swim
+> Agilidade +1 | Evasão +2 | Corpo a Corpo Agilidade d4 físico  
+> **Ganha vantagem em:** navegar, se esgueirar, nadar
 
-***Aquatic:*** You can breathe and move naturally underwater.
+***Aquático:*** Você pode respirar e se mover naturalmente debaixo d’água.
 
-***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
+***Frágil:*** Quando você sofre dano Maior ou superior, sai da Forma de Besta.
 
-### STALKING ARACHNID
+### ARANHA PREDADORA
 
-(Tarantula, Wolf Spider, etc.)
+(Tarântula, Aranha Lobo, etc.)
 
-> Finesse +1 | Evasion +2 | Melee Finesse d6+1 phy  
-> **Gain advantage on:** attack, climb, sneak
+> Destreza +1 | Evasão +2 | Corpo a Corpo Destreza d6+1 físico  
+> **Ganha vantagem em:** atacar, escalar, se esgueirar
 
-***Venomous Bite:*** When you succeed on an attack against a target within Melee range, the target becomes temporarily Poisoned. A Poisoned creature takes 1d10 direct physical damage each time they act.
+***Mordida Venenosa:*** Quando você acerta um ataque contra um alvo em alcance Corpo a Corpo, o alvo fica temporariamente Envenenado. Uma criatura Envenenada sofre 1d10 de dano físico direto cada vez que age.
 
-***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily Restrain a target within Close range by succeeding on a Finesse Roll against them.
+***Tecelão:*** Você pode criar uma teia forte útil tanto para aventura quanto para combate. A teia é resistente o suficiente para suportar uma criatura. Você pode prender temporariamente um alvo em alcance Próximo ao obter sucesso em uma rolagem de Destreza contra ele.
 
-### MIGHTY STRIDER
+### ANDARILHO PODEROSO
 
-(Camel, Horse, Zebra, etc.)
+(Camelo, Cavalo, Zebra, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d8+1 phy  
-> **Gain advantage on:** leap, navigate, sprint
+> Agilidade +1 | Evasão +2 | Corpo a Corpo Agilidade d8+1 físico  
+> **Ganha vantagem em:** saltar, navegar, correr
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+***Transportador:*** Você pode carregar até dois aliados dispostos com você quando se move.
 
-***Trample:*** Mark a Stress to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take d8+1 physical damage using your Proficiency and are temporarily Vulnerable.
+***Atropelar:*** Marque um Estresse para se mover até o alcance Próximo em linha reta e fazer um ataque contra todos os alvos em alcance Corpo a Corpo da linha. Alvos que você acertar sofrem d8+1 de dano físico usando sua Proficiência e ficam temporariamente Vulneráveis.
 
-## TIER 2
+## NÍVEL 2
 
-### ARMORED SENTRY
+### SENTINELA BLINDADA
 
-(Armadillo, Pangolin, Turtle, etc.)
+(Tatu, Pangolim, Tartaruga, etc.)
 
-> Strength +1 | Evasion +1 | Melee Strength d8+2 phy  
-> **Gain advantage on:** dig, locate, protect
+> Força +1 | Evasão +1 | Corpo a Corpo Força d8+2 físico  
+> **Ganha vantagem em:** cavar, localizar, proteger
 
-***Armored Shell:*** Your hardened exterior gives you resistance to physical damage. Additionally, mark an Armor slot to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can't perform other actions without leaving this form.
+***Casco Blindado:*** Seu exterior endurecido lhe dá resistência a dano físico. Além disso, marque um Espaço de Armadura para se retrair em seu casco. Enquanto estiver no casco, o dano físico é reduzido por um valor igual à sua Pontuação de Armadura (após aplicar resistência), mas você não pode realizar outras ações sem sair dessa forma.
 
-***Cannonball:*** Mark a Stress to allow an ally to throw or launch you at an adversary. To do so, the ally makes an attack roll using Agility or Strength (their choice) against a target within Close Range. On a success, the adversary takes d12+2 physical damage using the thrower’s Proficiency. You can spend a Hope to target an additional adversary within Very Close range of the first. The second target takes half the damage dealt to the first target.
+***Bola de Canhão:*** Marque um Estresse para permitir que um aliado o arremesse ou lance contra um adversário. Para isso, o aliado faz uma rolagem de ataque usando Agilidade ou Força (à escolha dele) contra um alvo em alcance Próximo. Em um sucesso, o adversário sofre d12+2 de dano físico usando a Proficiência do lançador. Você pode gastar 1 Esperança para mirar um adversário adicional em alcance Muito Próximo do primeiro. O segundo alvo sofre metade do dano causado ao primeiro.
 
-### POWERFUL BEAST
+### BESTA PODEROSA
 
-(Bear, Bull, Moose, etc.)
+(Ursão, Touro, Alce, etc.)
 
-> Strength +3 | Evasion +1 | Melee Strength d10+4 phy  
-> **Gain advantage on:** navigate, protect, scare
+> Força +3 | Evasão +1 | Corpo a Corpo Força d10+4 físico  
+> **Ganha vantagem em:** navegar, proteger, assustar
 
-***Rampage:*** When you roll a 1 on a damage die, you can roll a d10 and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
+***Fúria:*** Quando você rolar 1 em um dado de dano, pode rolar um d10 e adicionar o resultado à rolagem de dano. Além disso, antes de fazer uma rolagem de ataque, pode marcar um Estresse para ganhar +1 de bônus na Proficiência para esse ataque.
 
-***Thick Hide:*** You gain a +2 bonus to your damage thresholds.
+***Pele Grossa:*** Você ganha +2 de bônus nos seus limiares de dano.
 
-### STRIKING SERPENT
+### SERPENTE IMPACTANTE
 
-(Cobra, Rattlesnake, Viper, etc.)
+(Cobra, Cascavel, Víbora, etc.)
 
-> Finesse +1 | Evasion +2 | Very Close Finesse d8+4 phy  
-> **Gain advantage on:** climb, deceive, sprint
+> Destreza +1 | Evasão +2 | Muito Próximo Destreza d8+4 físico  
+> **Ganha vantagem em:** escalar, enganar, correr
 
-***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 direct physical damage each time they act.
+***Golpe Venenoso:*** Faça um ataque contra qualquer número de alvos em alcance Muito Próximo. Em um sucesso, o alvo fica temporariamente Envenenado. Uma criatura Envenenada sofre 1d10 de dano físico direto cada vez que age.
 
-***Warning Hiss:*** Mark a Stress to force any number of targets within Melee range to move back to Very Close range.
+***Sibilo de Aviso:*** Marque um Estresse para forçar qualquer número de alvos em alcance Corpo a Corpo a recuar para alcance Muito Próximo.
 
-### POUNCING PREDATOR
+### PREDADOR SALTITANTE
 
-(Cheetah, Lion, Panther, etc.)
+(Chita, Leão, Pantera, etc.)
 
-> Instinct +1 | Evasion +3 | Melee Instinct d8+6 phy  
-> **Gain advantage on:** attack, climb, sneak
+> Instinto +1 | Evasão +3 | Corpo a Corpo Instinto d8+6 físico  
+> **Ganha vantagem em:** atacar, escalar, se esgueirar
 
-***Fleet:*** Spend a Hope to move up to Far range without rolling.
+***Ágil:*** Gaste 1 Esperança para se mover até o alcance Longo sem rolar.
 
-***Takedown:*** Mark a Stress to move into Melee range of a target and make an attack roll against them. On a success, you gain a +2 bonus to your Proficiency for this attack and the target must mark a Stress.
+***Derrubada:*** Marque um Estresse para se mover até alcance Corpo a Corpo de um alvo e fazer uma rolagem de ataque contra ele. Em um sucesso, você ganha +2 de bônus na Proficiência para esse ataque e o alvo deve marcar um Estresse.
 
-### WINGED BEAST
+### BESTA ALADA
 
-(Hawk, Owl, Raven, etc.)
+(Falcão, Coruja, Corvo, etc.)
 
-> Finesse +1 | Evasion +3 | Melee Finesse d4+2 phy  
-> **Gain advantage on:** deceive, locate, scare
+> Destreza +1 | Evasão +3 | Corpo a Corpo Destreza d4+2 físico  
+> **Ganha vantagem em:** enganar, localizar, assustar
 
-***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
+***Visão de Águia:*** Você pode voar à vontade. Uma vez por descanso enquanto estiver no ar, pode fazer uma pergunta ao Mestre sobre a cena abaixo sem precisar rolar. A primeira vez que um personagem fizer uma rolagem para agir com base nessa informação, ele ganha vantagem na rolagem.
 
-***Hollow Bones:*** You gain a -2 penalty to your damage thresholds.
+***Ossos Ocos:*** Você sofre -2 de penalidade nos seus limiares de dano.
 
-## TIER 3
+## NÍVEL 3
 
-### GREAT PREDATOR
+### GRANDE PREDADOR
 
-(Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)
+(Lobo Terrível, Velociraptor, Tigre Dente-de-Sabre, etc.)
 
-> Strength +2 | Evasion +2 | Melee Strength d12+8 phy  
-> **Gain advantage on:** attack, sneak, sprint
+> Força +2 | Evasão +2 | Corpo a Corpo Força d12+8 físico  
+> **Ganha vantagem em:** atacar, se esgueirar, correr
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+***Transportador:*** Você pode carregar até dois aliados dispostos com você quando se move.
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can spend a Hope to make them temporarily Vulnerable and gain a +1 bonus to your Proficiency for this attack.
+***Golpe Feroz:*** Quando você acerta um ataque contra um alvo, pode gastar 1 Esperança para torná-lo temporariamente Vulnerável e ganhar +1 de bônus na Proficiência para esse ataque.
 
-### MIGHTY LIZARD
+### LAGARTO PODEROSO
 
-(Alligator, Crocodile, Gila Monster, etc.)
+(Jacaré, Crocodilo, Monstro de Gila, etc.)
 
-> Instinct +2 | Evasion +1 | Melee Instinct d10+7 phy  
-> **Gain advantage on:** attack, sneak, track
+> Instinto +2 | Evasão +1 | Corpo a Corpo Instinto d10+7 físico  
+> **Ganha vantagem em:** atacar, se esgueirar, rastrear
 
-***Physical Defense:*** You gain a +3 bonus to your damage thresholds.
+***Defesa Física:*** Você ganha +3 de bônus nos seus limiares de dano.
 
-***Snapping Strike:*** When you succeed on an attack against a target within Melee range, you can spend a Hope to clamp that opponent in your jaws, making them temporarily Restrained and Vulnerable.
+***Golpe de Mordida:*** Quando você acerta um ataque contra um alvo em alcance Corpo a Corpo, pode gastar 1 Esperança para prender esse oponente em suas mandíbulas, tornando-o temporariamente Preso e Vulnerável.
 
-### GREAT WINGED BEAST
+### GRANDE BESTA ALADA
 
-(Giant Eagle, Falcon, etc.)
+(Águia Gigante, Falcão, etc.)
 
-> Finesse +2 | Evasion +3 | Melee Finesse d8+6 phy  
-> **Gain advantage on:** deceive, distract, locate
+> Destreza +2 | Evasão +3 | Corpo a Corpo Destreza d8+6 físico  
+> **Ganha vantagem em:** enganar, distrair, localizar
 
-***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
+***Visão de Águia:*** Você pode voar à vontade. Uma vez por descanso enquanto estiver no ar, pode fazer uma pergunta ao Mestre sobre a cena abaixo sem precisar rolar. A primeira vez que um personagem fizer uma rolagem para agir com base nessa informação, ele ganha vantagem na rolagem.
 
-***Carrier:*** You can carry up to two willing allies with you when you move.
+***Transportador:*** Você pode carregar até dois aliados dispostos com você quando se move.
 
-### AQUATIC PREDATOR
+### PREDADOR AQUÁTICO
 
-(Dolphin, Orca, Shark, etc.)
+(Baleia, Orca, Tubarão, etc.)
 
-> Agility +2 | Evasion +4 | Melee Agility d10+6 phy  
-> **Gain advantage on:** attack, swim, track
+> Agilidade +2 | Evasão +4 | Corpo a Corpo Agilidade d10+6 físico  
+> **Ganha vantagem em:** atacar, nadar, rastrear
 
-***Aquatic:*** You can breathe and move naturally underwater.
+***Aquático:*** Você pode respirar e se mover naturalmente debaixo d’água.
 
-***Vicious Maul:*** When you succeed on an attack against a target, you can spend a Hope to make them Vulnerable and gain a +1 bonus to your Proficiency for this attack.
+***Golpe Feroz:*** Quando você acerta um ataque contra um alvo, pode gastar 1 Esperança para torná-lo Vulnerável e ganhar +1 de bônus na Proficiência para esse ataque.
 
-### LEGENDARY BEAST
+### BESTA LENDÁRIA
 
-(Upgraded Tier 1 Options)
+(Opções de Nível 1 aprimoradas)
 
-***Evolved:*** Pick a Tier 1 Beastform option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+***Evoluído:*** Escolha uma opção de Forma de Besta de Nível 1 e torne-se uma versão maior e mais poderosa dessa criatura. Enquanto estiver nessa forma, você mantém todas as características e recursos da forma original e ganha os seguintes bônus:
 
-- A +6 bonus to damage rolls
-- A +1 bonus to the trait used by this form
-- A +2 bonus to Evasion
+- +6 de bônus nas rolagens de dano
+- +1 de bônus na característica usada por essa forma
+- +2 de bônus em Evasão
 
-### LEGENDARY HYBRID
+### HÍBRIDO LENDÁRIO
 
-(Griffon, Sphinx, etc.)
+(Grifo, Esfinge, etc.)
 
-> Strength +2 | Evasion +3 | Melee Strength d10+8 phy
+> Força +2 | Evasão +3 | Corpo a Corpo Força d10+8 físico
 
-***Hybrid Features:*** To transform into this creature, mark an additional Stress. Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
+***Recursos Híbridos:*** Para se transformar nessa criatura, marque um Estresse adicional. Escolha quaisquer duas opções de Forma de Besta dos Níveis 1–2. Escolha um total de quatro vantagens e dois recursos dessas opções.
 
-## TIER 4
+## NÍVEL 4
 
-### MASSIVE BEHEMOTH
+### BEHEMOTH MASSIVO
 
-(Elephant, Mammoth, Rhinoceros, etc.)
+(Elefante, Mamute, Rinoceronte, etc.)
 
-> Strength +3 | Evasion +1 | Melee Strength d12+12 phy  
-> **Gain advantage on:** locate, protect, scare, sprint
+> Força +3 | Evasão +1 | Corpo a Corpo Força d12+12 físico  
+> **Ganha vantagem em:** localizar, proteger, assustar, correr
 
-***Carrier:*** You can carry up to four willing allies with you when you move.
+***Transportador:*** Você pode carregar até quatro aliados dispostos com você quando se move.
 
-***Demolish:*** Spend a Hope to move up to Far range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take d8+10 physical damage using your Proficiency and are temporarily Vulnerable.
+***Demolir:*** Gaste 1 Esperança para se mover até o alcance Longo em linha reta e fazer um ataque contra todos os alvos em alcance Corpo a Corpo da linha. Alvos que você acertar sofrem d8+10 de dano físico usando sua Proficiência e ficam temporariamente Vulneráveis.
 
-***Undaunted:*** You gain a +2 bonus to all your damage thresholds.
+***Destemido:*** Você ganha +2 de bônus em todos os seus limiares de dano.
 
-### TERRIBLE LIZARD
+### LAGARTO TERRÍVEL
 
-(Brachiosaurus, Tyrannosaurus, etc.)
+(Braquiossauro, Tiranossauro, etc.)
 
-> Strength +3 | Evasion +2 | Melee Strength d12+10 phy  
-> **Gain advantage on:** attack, deceive, scare, track
+> Força +3 | Evasão +2 | Corpo a Corpo Força d12+10 físico  
+> **Ganha vantagem em:** atacar, enganar, assustar, rastrear
 
-***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can mark a Stress to force them to mark an additional Hit Point.
+***Golpes Devastadores:*** Quando você causa dano Severo a um alvo em alcance Corpo a Corpo, pode marcar um Estresse para forçá-lo a marcar um Ponto de Vida adicional.
 
-***Massive Stride:*** You can move up to Far range without rolling. You ignore rough terrain (at the GM’s discretion) due to your size.
+***Passada Massiva:*** Você pode se mover até o alcance Longo sem rolar. Você ignora terreno difícil (a critério do Mestre) devido ao seu tamanho.
 
-### MYTHIC AERIAL HUNTER
+### CAÇADOR AÉREO MÍTICO
 
-(Dragon, Pterodactyl, Roc, Wyvern, etc.)
+(Dragão, Pterodáctilo, Roc, Wyvern, etc.)
 
-> Finesse +3 | Evasion +4 | Melee Finesse d10+11 phy  
-> **Gain advantage on:** attack, deceive, locate, navigate
+> Destreza +3 | Evasão +4 | Corpo a Corpo Destreza d10+11 físico  
+> **Ganha vantagem em:** atacar, enganar, localizar, navegar
 
-***Carrier:*** You can carry up to three willing allies with you when you move.
+***Transportador:*** Você pode carregar até três aliados dispostos com você quando se move.
 
-***Deadly Raptor:*** You can fly at will and move up to Far range as part of your action. When you move in a straight line into Melee range of a target from at least Close range and make an attack against that target in the same action, you can reroll all damage dice that rolled a result lower than your Proficiency.
+***Raptor Mortal:*** Você pode voar à vontade e se mover até o alcance Longo como parte da sua ação. Quando se move em linha reta para alcance Corpo a Corpo de um alvo a pelo menos alcance Próximo e faz um ataque contra esse alvo na mesma ação, pode rerrolar todos os dados de dano que tenham resultado inferior à sua Proficiência.
 
-### EPIC AQUATIC BEAST
+### BESTA AQUÁTICA ÉPICA
 
-(Giant Squid, Whale, etc.)
+(Lula Gigante, Baleia, etc.)
 
-> Agility +3 | Evasion +3 | Melee Agility d10+10 phy  
-> **Gain advantage on:** locate, protect, scare, track
+> Agilidade +3 | Evasão +3 | Corpo a Corpo Agilidade d10+10 físico  
+> **Ganha vantagem em:** localizar, proteger, assustar, rastrear
 
-***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily Restrain them.
+***Mestre dos Oceanos:*** Você pode respirar e se mover naturalmente debaixo d’água. Quando acerta um ataque contra um alvo em alcance Corpo a Corpo, pode prendê-lo temporariamente.
 
-***Unyielding:*** When you would mark an Armor Slot, roll a d6. On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+***Inabalável:*** Quando você for marcar um Espaço de Armadura, role um d6. Com resultado 5 ou mais, reduza a severidade em um limiar sem marcar o Espaço de Armadura.
 
-### MYTHIC BEAST
+### BESTA MÍTICA
 
-(Upgraded Tier 1 or Tier 2 Options)
+(Opções de Nível 1 ou Nível 2 aprimoradas)
 
-***Evolved:*** Pick a Tier 1 or Tier 2 Beastform option and become a larger, more powerful version of that creature. While you’re in this form, you retain all traits and features from the original form and gain the following bonuses:
+***Evoluído:*** Escolha uma opção de Forma de Besta de Nível 1 ou 2 e torne-se uma versão maior e mais poderosa dessa criatura. Enquanto estiver nessa forma, você mantém todas as características e recursos da forma original e ganha os seguintes bônus:
 
-- A +9 bonus to damage rolls
-- A +2 bonus to the trait used by this form
-- A +3 bonus to Evasion
-- Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)
+- +9 de bônus nas rolagens de dano
+- +2 de bônus na característica usada por essa forma
+- +3 de bônus em Evasão
+- Seu dado de dano aumenta um tamanho (d6 vira d8, d8 vira d10, etc.)
 
-### MYTHIC HYBRID
+### HÍBRIDO MÍTICO
 
-(Chimera, Cockatrice, Manticore, etc.)
+(Quimera, Cocatrice, Mantícora, etc.)
 
-> Strength +3 | Evasion +2 | Strength Melee d12+10 phy
+> Força +3 | Evasão +2 | Corpo a Corpo Força d12+10 físico
 
-***Hybrid Features:*** To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options.
+***Recursos Híbridos:*** Para se transformar nessa criatura, marque 2 Estresses adicionais. Escolha quaisquer três opções de Forma de Besta dos Níveis 1-3. Escolha um total de cinco vantagens e três recursos dessas opções.

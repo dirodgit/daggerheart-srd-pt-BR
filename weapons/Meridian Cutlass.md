@@ -1,7 +1,7 @@
 ﻿# MERIDIAN CUTLASS
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+5 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d10+5 físico; **Peso:** Uma mão
 
-**Feature:** ***Dueling:*** When there are no other creatures within Close range of the target, gain advantage on your attack roll against them.
+**Característica:** ***Duelista:*** Quando não houver outras criaturas em Alcance Próximo do alvo, ganhe vantagem na sua jogada de ataque contra ele.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

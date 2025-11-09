@@ -1,5 +1,5 @@
-﻿# GEM OF AUDACITY
+﻿# GEMA DA AUDÁCIA
 
-You can attach this gem to a weapon, allowing you to use your Presence when making an attack with that weapon.
+Você pode anexar esta gema a uma arma, permitindo que você use sua Presença ao fazer um ataque com essa arma.
 
 *Item*

@@ -1,7 +1,7 @@
-﻿# ADVANCED SMALL DAGGER
+﻿# ADAGA PEQUENA AVANÇADA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+4 físico; **Carga:** Uma mão
 
-**Feature:** ***Paired:*** +4 to primary weapon damage to targets within Melee range
+**Característica:** ***Emparelhada:*** +4 no dano da arma primária contra alvos em alcance de Corpo a corpo
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

@@ -1,20 +1,20 @@
-﻿# MINOR DEMON
+﻿# DEMÔNIO MENOR
 
-***Tier 1 Solo***  
-*A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*  
-**Motives & Tactics:** Act erratically, corral targets, relish pain, torment
+***Nível 1 Solo***  
+*Uma criatura de tonalidade carmesim dos Círculos Inferiores, consumida pela fúria contra todos os mortais.*  
+**Motivações & Táticas:** Age de forma errática, encurrala alvos, deleita-se com a dor, atormenta
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 4  
-> **ATK:** +3 | **Claws:** Melee | 1d8+6 phy  
+> **Dificuldade:** 14 | **Limiares:** 8/15 | **PV:** 8 | **Estresse:** 4  
+> **ATQ:** +3 | **Garras:** Corpo a corpo | 1d8+6 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** The Demon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (2) - Passiva:*** O Demônio pode ser destacado até duas vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***All Must Fall - Passive:*** When a PC rolls a failure with Fear while within Close range of the Demon, they lose a Hope.
+***Todos Devem Cair - Passiva:*** Quando um PJ rola uma falha com Medo enquanto estiver em alcance Próximo do Demônio, ele perde uma Esperança.
 
-***Hellfire - Action:*** Spend a Fear to rain down hellfire within Far range. All targets within the area must make an Agility Reaction Roll. Targets who fail take 1d20+3 magic damage. Targets who succeed take half damage.
+***Fogo do Inferno - Ação:*** Gaste um Medo para lançar fogo do inferno em alcance Distante. Todos os alvos na área devem fazer um Teste de Reação de Agilidade. Alvos que falharem sofrem 1d20+3 de dano mágico. Alvos que tiverem sucesso recebem metade do dano.
 
-***Reaper - Reaction:*** Before rolling damage for the Demon’s attack, you can mark a Stress to gain a bonus to the damage roll equal to the Demon’s current number of marked HP.
+***Ceifador - Reação:*** Antes de rolar o dano do ataque do Demônio, você pode marcar um Estresse para ganhar um bônus na rolagem de dano igual ao número atual de PV marcados do Demônio.
 
-***Momentum - Reaction:*** When the Demon makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Demônio realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

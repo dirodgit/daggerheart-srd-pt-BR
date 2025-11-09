@@ -1,8 +1,8 @@
-﻿# OVERWHELMING AURA
+﻿# AURA AVASSALADORA
 
-> **Level 9 Splendor Spell**  
-> **Recall Cost:** 2
+> **Feitiço de Esplendor de Nível 9**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll (15) to magically empower your aura. On a success, spend 2 Hope to make your Presence equal to your Spellcast trait until your next long rest.
+Faça um Teste de Conjuração de Feitiço (15) para fortalecer magicamente sua aura. Em caso de sucesso, gaste 2 de Esperança para que sua Presença seja igual ao seu traço de Conjuração de Feitiço até seu próximo descanso longo.
 
-While this spell is active, an adversary must mark a Stress when they target you with an attack.
+Enquanto este feitiço estiver ativo, um adversário deve marcar 1 de Estresse quando ele te atacar.

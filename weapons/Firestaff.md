@@ -1,7 +1,7 @@
 ﻿# FIRESTAFF
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+7 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+7 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Burning:*** When you roll a 6 on a damage die, the target must mark a Stress.
+**Característica:** ***Queimando:*** Quando você rolar um 6 em um dado de dano, o alvo deve marcar um Estresse.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

@@ -1,11 +1,11 @@
-﻿# BOOK OF AVA
+﻿# LIVRO DE AVA
 
-> **Level 1 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Grimório do Códice de Nível 1**  
+> **Custo de Recordação:** 2
 
-**Power Push:** Make a Spellcast Roll against a target within Melee range.
-On a success, they’re knocked back to Far range and take d10+2 magic damage using your Proficiency.
+**Impulso de Poder:** Faça uma Jogada de Conjuração contra um alvo dentro do alcance Corpo a Corpo.  
+Em caso de sucesso, ele é empurrado para o alcance Distante e sofre d10+2 de dano mágico usando sua Proficiência.
 
-**Tova’s Armor:** Spend a Hope to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tova’s Armor again.
+**Armadura de Tova:** Gaste uma Esperança para dar a um alvo que você possa tocar um bônus de +1 na sua Pontuação de Armadura até o próximo descanso dele ou até você conjurar Armadura de Tova novamente.
 
-**Ice Spike:** Make a Spellcast Roll (12) to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target’s Difficulty instead. On a success, deal d6 physical damage using your Proficiency.
+**Espinho de Gelo:** Faça uma Jogada de Conjuração (12) para invocar um grande espinho de gelo dentro do alcance Distante. Se você usá-lo como uma arma, faça a Jogada de Conjuração contra a Dificuldade do alvo. Em caso de sucesso, cause d6 de dano físico usando sua Proficiência.

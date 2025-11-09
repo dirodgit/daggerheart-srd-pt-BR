@@ -1,5 +1,5 @@
-﻿# PIERCING ARROWS
+﻿# FLECHAS PERFURANTES
 
-Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll.
+Três vezes por descanso, quando você obtiver sucesso em um ataque com uma dessas flechas, você pode adicionar sua Proficiência na rolagem de dano.
 
 *Item*

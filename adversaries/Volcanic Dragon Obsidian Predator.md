@@ -1,23 +1,23 @@
-﻿# VOLCANIC DRAGON: OBSIDIAN PREDATOR
+﻿# DRAGÃO VOLCÂNICO: PREDADOR DE OBSIDIANA
 
-***Tier 4 Solo***  
-*A massive winged creature with obsidian scales and impossibly sharp claws.*  
-**Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
+***Nível 4 Solo***  
+*Uma criatura alada massiva com escamas de obsidiana e garras impossivelmente afiadas.*  
+**Motivações & Táticas:** Defender a toca, ataque em mergulho, voar, caçar, intimidar
 
-> **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy  
-> **Experience:** Hunt from Above +5
+> **Dificuldade:** 19 | **Limiares:** 33/65 | **PV:** 6 | **Estresse:** 5  
+> **ATQ:** +8 | **Garras de Obsidiana:** Corpo a corpo | 4d10+4 físico  
+> **Experiência:** Caçada do Alto +5
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** Can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight.
+***Implacável (2) - Passiva:*** Pode ser destacado até duas vezes por turno do Mestre. Gaste Medo normalmente para destacar.
 
-***Flying - Passive:*** While flying, gains +3 Difficulty.
+***Voador - Passiva:*** Enquanto voando, ganha +3 na Dificuldade.
 
-***Obsidian Scales - Passive:*** Resistant to physical damage.
+***Escamas de Obsidiana - Passiva:*** Resistente a dano físico.
 
-***Obsidian Tail - Action:*** Mark a Stress to make attack against all targets within Close range. Success: 4d6+4 physical damage, knocked to Far range and Vulnerable until next roll with Hope.
+***Cauda de Obsidiana - Ação:*** Marque um Estresse para atacar todos os alvos em alcance Corpo a Corpo. Sucesso: 4d6+4 de dano físico, empurrado para alcance Distante e Vulnerável até a próxima rolagem com Esperança.
 
-***Dive-Bomb - Action:*** If flying, mark a Stress to choose point within Far range, move there, attack all targets within Very Close range; on success, 2d10+6 physical, mark a Stress, lose a Hope.
+***Ataque em Mergulho - Ação:*** Se estiver voando, marque um Estresse para escolher um ponto em alcance Distante, mova-se até lá, ataque todos os alvos em alcance Muito Próximo; em caso de sucesso, 2d10+6 de dano físico, marque um Estresse, perca uma Esperança.
 
-***Erupting Rage (Phase Change) - Reaction:*** When marks last HP, replace with Molten Scourge and immediately spotlight.
+***Fúria em Erupção (Mudança de Fase) - Reação:*** Quando marcar o último PV, substitua por Flagelo Derretido e destaque imediatamente.

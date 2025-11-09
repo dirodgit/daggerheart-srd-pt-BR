@@ -1,21 +1,21 @@
-﻿# GORGON
+﻿# GORGONTE
 
-***Tier 2 Solo***  
-*A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.*  
-**Motives & Tactics:** Corner, hit-and-run, petrify, seek vengeance
+***Nível 2 Solo***  
+*Um humanoide com cabeça de serpente e escamas, empunhando um arco dourado, enfurecido por ter sua paz perturbada.*  
+**Motivações & Táticas:** Acuar, atacar e fugir, petrificar, buscar vingança
 
-> **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3  
-> **ATK:** +4 | **Sinew Shortbow:** Far | 2d20+3 mag  
-> **Experience:** Instinct +3
+> **Dificuldade:** 15 | **Limiares:** 13/25 | **PV:** 9 | **Estresse:** 3  
+> **ATAQ:** +4 | **Arco Curto de Tendão:** Longo alcance | 2d20+3 mágico  
+> **Experiência:** Instinto +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** The Gorgon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (2) - Passivo:*** O Gorgonte pode ser destacado até duas vezes por turno do Mestre. Gaste Medo normalmente para destacá-lo.
 
-***Suneater Arrows - Passive:*** When the Gorgon makes a successful standard attack, the target Glows until the end of the scene and can’t become Hidden. Attack rolls made against a Glowing target have advantage.
+***Flechas Devoradoras do Sol - Passivo:*** Quando o Gorgonte realiza um ataque padrão bem-sucedido, o alvo Brilha até o fim da cena e não pode se tornar Oculto. Rolagens de ataque contra um alvo Brilhante têm vantagem.
 
-***Crown of Serpents - Action:*** Make an attack roll against a target within Melee range using the Gorgon’s protective snakes. On a success, mark Stress to deal 2d10+4 physical damage and the target must mark a Stress.
+***Coroa de Serpentes - Ação:*** Faça uma rolagem de ataque contra um alvo em alcance Corpo a Corpo usando as serpentes protetoras do Gorgonte. Em caso de sucesso, marque Estresse para causar 2d10+4 de dano físico e o alvo deve marcar um Estresse.
 
-***Petrifying Gaze - Reaction:*** When the Gorgon takes damage from an attack within Close range, you can spend a Fear to force the attacker to make an Instinct Reaction Roll. On a failure, they begin to turn to stone, marking a HP and starting a Petrification Countdown (4). This countdown ticks down when the Gorgon is attacked. When it triggers, the target must make a death move. If the Gorgon is defeated, all petrification countdowns end.
+***Olhar Petrificante - Reação:*** Quando o Gorgonte sofre dano de um ataque em alcance Próximo, você pode gastar um Medo para forçar o atacante a fazer uma Rolagem de Reação de Instinto. Em caso de falha, ele começa a se transformar em pedra, marcando um PV e iniciando uma Contagem Regressiva de Petrificação (4). Essa contagem diminui quando o Gorgonte é atacado. Quando a contagem chega a zero, o alvo deve realizar um movimento de morte. Se o Gorgonte for derrotado, todas as contagens regressivas de petrificação terminam.
 
-***Death Glare - Reaction:*** When the Gorgon makes a successful attack against a PC, you gain a Fear.
+***Olhar Mortal - Reação:*** Quando o Gorgonte realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

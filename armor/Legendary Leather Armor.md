@@ -1,7 +1,7 @@
-﻿# LEGENDARY LEATHER ARMOR
+﻿# ARMADURA DE COURO LENDÁRIA
 
-**Base Thresholds:** 13 / 36; **Base Score:** 6
+**Limiares Base:** 13 / 36; **Pontuação Base:** 6
 
-**Feature:** —
+**Característica:** —
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

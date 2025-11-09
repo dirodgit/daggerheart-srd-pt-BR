@@ -1,15 +1,15 @@
 ﻿# DIRE WOLF
 
-***Tier 1 Skulk***  
-*A large wolf with menacing teeth, seldom encountered alone.*  
-**Motives & Tactics:** Defend territory, harry, protect pack, surround, trail
+***Lobo Furtivo de Nível 1***  
+*Um grande lobo com dentes ameaçadores, raramente encontrado sozinho.*  
+**Motivações & Táticas:** Defender território, hostilizar, proteger a matilha, cercar, seguir rastros
 
-> **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 3  
-> **ATK:** +2 | **Claws:** Melee | 1d6+2 phy  
-> **Experience:** Keen Senses +3
+> **Dificuldade:** 12 | **Limiares:** 5/9 | **PV:** 4 | **Estresse:** 3  
+> **ATAQ:** +2 | **Garras:** Corpo a corpo | 1d6+2 físico  
+> **Experiência:** Sentidos Aguçados +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Pack Tactics - Passive:*** If the Wolf makes a successful standard attack and another Dire Wolf is within Melee range of the target, deal 1d6+5 physical damage instead of their standard damage and you gain a Fear.
+***Táticas de Matilha - Passiva:*** Se o Lobo realizar um ataque padrão bem-sucedido e outro Dire Wolf estiver ao alcance corpo a corpo do alvo, cause 1d6+5 de dano físico em vez do dano padrão e você ganha um Medo.
 
-***Hobbling Strike - Action:*** Mark a Stress to make an attack against a target within Melee range. On a success, deal 3d4+10 direct physical damage and make them Vulnerable until they clear at least 1 HP.
+***Golpe Mancante - Ação:*** Marque um Estresse para fazer um ataque contra um alvo ao alcance corpo a corpo. Em caso de sucesso, cause 3d4+10 de dano físico direto e torne-o Vulnerável até que ele recupere pelo menos 1 PV.

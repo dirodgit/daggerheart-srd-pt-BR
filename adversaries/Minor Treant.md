@@ -1,14 +1,14 @@
-﻿# MINOR TREANT
+﻿# TREANT MENOR
 
-***Tier 1 Minion***  
-*An ambulatory sapling rising up to defend their forest.*  
-**Motives & Tactics:** Crush, overwhelm, protect
+***Capanga de Nível 1***  
+*Uma muda ambulante que se levanta para defender sua floresta.*  
+**Motivações & Táticas:** Esmagar, sobrepujar, proteger
 
-> **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -2 | **Cleaved Branch:** Melee | 4 phy  
+> **Dificuldade:** 10 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -2 | **Galho Fendido:** Corpo a corpo | 4 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (5) - Passive:*** The Treant is defeated when they take any damage. For every 5 damage a PC deals to the Treant, defeat an additional Minion within range the attack would succeed against.
+***Capanga (5) - Passivo:*** O Treant é derrotado ao receber qualquer dano. Para cada 5 de dano que um PJ causar ao Treant, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Minor Treants within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Treants Menores dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 4 de dano físico. Combine esse dano.

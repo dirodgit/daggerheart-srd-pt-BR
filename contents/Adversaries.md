@@ -1,303 +1,303 @@
-# USING ADVERSARIES
+# USANDO ADVERSÁRIOS
 
-## ADVERSARY STAT BLOCKS
+## BLOCO DE ESTATÍSTICAS DO ADVERSÁRIO
 
-All the information required to run an adversary is contained in their stat block. An adversary’s stat block includes their:
+Todas as informações necessárias para usar um adversário estão contidas em seu bloco de estatísticas. O bloco de estatísticas de um adversário inclui:
 
-### NAME
+### NOME
 
-Each stat block has a unique **name**. Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
+Cada bloco de estatísticas tem um **nome** único. Habilidades que afetam adversários com um determinado nome incluem todos os adversários que usam aquele bloco, independentemente do nome deles na história.
 
-### TIER
+### NÍVEL
 
-Each adversary is designed to oppose PCs of a certain **tier**. If you confront the party with an adversary from another tier, adjust their stats.
+Cada adversário é projetado para enfrentar PCs de um certo **nível**. Se você confrontar o grupo com um adversário de outro nível, ajuste suas estatísticas.
 
-### TYPE
+### TIPO
 
-The adversary’s type appears alongside their tier. An adversary’s **type** represents the role they play in a conflict. The adversary types are:
+O tipo do adversário aparece junto ao seu nível. O **tipo** do adversário representa o papel que ele desempenha em um conflito. Os tipos de adversários são:
 
-- **Bruisers:** tough; deliver powerful attacks.
-- **Hordes:** groups of identical creatures acting together as a single unit.
-- **Leaders:** command and summon other adversaries.
-- **Minions:** easily dispatched but dangerous in numbers.
-- **Ranged:** fragile in close encounters but deal high damage at range.
-- **Skulks:** maneuver and exploit opportunities to ambush opponents.
-- **Socials:** present challenges around conversation instead of combat.
-- **Solos:** present a formidable challenge to a whole party, with or without support.
-- **Standards:** representative of their fictional group.
-- **Supports:** enhance their allies and disrupt their opponents.
+- **Brutamontes:** resistentes; desferem ataques poderosos.
+- **Hordas:** grupos de criaturas idênticas agindo como uma única unidade.
+- **Líderes:** comandam e convocam outros adversários.
+- **Capangas:** facilmente derrotados, mas perigosos em número.
+- **À Distância:** frágeis em combates corpo a corpo, mas causam alto dano à distância.
+- **Furtivos:** manobram e exploram oportunidades para emboscar os oponentes.
+- **Sociais:** apresentam desafios baseados em conversas, não em combate.
+- **Solitários:** representam um desafio formidável para todo o grupo, com ou sem apoio.
+- **Padrões:** representantes de seu grupo fictício.
+- **Suportes:** fortalecem aliados e atrapalham adversários.
 
-### DESCRIPTION
+### DESCRIÇÃO
 
-A summary of the adversary's appearance and demeanor.
+Um resumo da aparência e comportamento do adversário.
 
-### MOTIVES & TACTICS
+### MOTIVAÇÕES E TÁTICAS
 
-Suggusted impulses, actions and goals for the adversary.
+Impulsos, ações e objetivos sugeridos para o adversário.
 
-### DIFFICULTY
+### DIFICULDADE
 
-The Difficulty of any roll made against the adversary, unless otherwise noted.
+A Dificuldade de qualquer teste feito contra o adversário, salvo indicação em contrário.
 
-### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
+### LÍMITES DE DANO, PONTOS DE VIDA E ESTRESSE
 
-These systems function the same way they do for PCs. The numbers listed after “Threshold” are the adversary’s Major and Severe Thresholds.
+Esses sistemas funcionam da mesma forma que para os PCs. Os números listados após “Limite” são os Limites Maior e Severo do adversário.
 
-### ATTACK MODIFIER
+### MODIFICADOR DE ATAQUE
 
-When you attack with the adversary, apply this bonus or penalty to your attack roll.
+Quando você ataca com o adversário, aplique esse bônus ou penalidade na rolagem de ataque.
 
-### STANDARD ATTACK
+### ATAQUE PADRÃO
 
-A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s **name**, its effective **range**, and the **damage** it deals on a success. Using an adversary’s **standard attack** is a GM move.
+Descrição do modo principal do adversário de causar dano aos PCs. Inclui o **nome** do ataque, seu **alcance** efetivo e o **dano** causado em caso de sucesso. Usar o **ataque padrão** de um adversário é uma ação do Mestre.
 
-### EXPERIENCE (OPTIONAL)
+### EXPERIÊNCIA (OPCIONAL)
 
-The GM can spend a Fear to add an adversary’s relevant Experience to raise their attack roll or increase the Difficulty of a roll made against them.
+O Mestre pode gastar um Medo para adicionar a Experiência relevante do adversário para aumentar sua rolagem de ataque ou aumentar a Dificuldade de um teste feito contra ele.
 
-#### EXAMPLE EXPERIENCES
+#### EXEMPLOS DE EXPERIÊNCIAS
 
-- Acrobatics
-- Ambusher
-- Bartering
-- Blademaster
-- Bodyguard
-- Commander
-- Hunt from Above
-- Intimidation
-- Intrusion
-- Keen Senses
-- Magical Knowledge
-- Nature’s Friend
-- Navigation
-- Nobility
-- Quick Reflexes
+- Acrobacia
+- Emboscador
+- Negociação
+- Mestre das Lâminas
+- Guarda-costas
+- Comandante
+- Caça do Alto
+- Intimidação
+- Intrusão
+- Sentidos Aguçados
+- Conhecimento Mágico
+- Amigo da Natureza
+- Navegação
+- Nobreza
+- Reflexos Rápidos
 - Socialite
-- Stealth
-- Tracker
+- Furtividade
+- Rastreador
 
-### FEATURE(S)
+### CARACTERÍSTICA(S)
 
-There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+Existem três tipos de características de adversários: **ações, reações e passivas.** Nota: o estresse de cada adversário é controlado individualmente. Se uma característica exigir que o Mestre gaste Estresse para ativá-la, o Estresse deve ser do adversário cuja característica está sendo ativada. Se uma característica exigir Medo, ele deve ser gasto além de qualquer Medo já gasto — por exemplo, para interromper os PCs e colocar o foco no adversário.
 
-- **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
-- **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
-- **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
+- **Ações:** um ataque especial ou outra ação única que o adversário pode realizar quando está no foco da atenção.
+- **Reações:** efeitos especiais que ocorrem quando seu gatilho acontece, independentemente de o adversário estar no foco.
+- **Passivas:** habilidades especiais que permanecem ativas por padrão e não requerem recursos ou gatilhos para ativar.
 
-### FEAR FEATURE(S)
+### CARACTERÍSTICA(S) DE MEDO
 
-High-impact effects that cost a Fear to activate.
+Efeitos de alto impacto que custam um Medo para ativar.
 
-## EXAMPLE ADVERSARY FEATURES
+## EXEMPLOS DE CARACTERÍSTICAS DE ADVERSÁRIOS
 
-### ACTIONS
+### AÇÕES
 
-***Haymaker - Action:*** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
+***Golpe Poderoso - Ação:*** Faça um ataque contra um alvo em alcance Muito Próximo. Em caso de sucesso, cause X de dano físico direto.
 
-***Shredding Strike - Action:*** Make an attack against a target within Very Close range. On a success, deal X physical damage and the target must mark an Armor Slot without gaining its benefit (they can still use armor to reduce the damage).
+***Golpe Rasgante - Ação:*** Faça um ataque contra um alvo em alcance Muito Próximo. Em caso de sucesso, cause X de dano físico e o alvo deve marcar um Espaço de Armadura sem ganhar seu benefício (ainda pode usar a armadura para reduzir o dano).
 
-***More Where That Came From - Action:*** Summon three Jagged Knife Lackeys, who appear at Far range.
+***Tem Mais Onde Isso Veio - Ação:*** Convoque três Capangas da Faca Serrilhada, que aparecem em alcance Distante.
 
-### REACTIONS
+### REAÇÕES
 
-***Heavy Hitter - Reaction:*** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
+***Golpe Pesado - Reação:*** Quando este adversário causar dano com um ataque padrão, você pode gastar um Medo para ganhar +X no dano.
 
-***Team-Up - Reaction:*** When another adversary within Very Close range of this adversary deals X damage to a creature, you can mark a Stress to make a standard attack against that same creature. On a success, combine the damage.
+***Trabalho em Equipe - Reação:*** Quando outro adversário em alcance Muito Próximo deste adversário causar X de dano a uma criatura, você pode marcar um Estresse para fazer um ataque padrão contra essa mesma criatura. Em caso de sucesso, combine os danos.
 
-***Momentum - Reaction:*** When this adversary makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando este adversário fizer um ataque bem-sucedido contra um PC, você ganha um Medo.
 
-### PASSIVES
+### PASSIVAS
 
-***Horde (X) - Passive:*** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
+***Horda (X) - Passiva:*** Quando a Horda marcou metade ou mais de seus PV, seu ataque padrão causa X de dano em vez disso.
 
-***Minion (X) - Passive:*** This adversary is defeated when they take any damage. For every X damage a PC deals to this adversary, defeat an additional Minion within range the attack would succeed against.
+***Capanga (X) - Passiva:*** Este adversário é derrotado ao receber qualquer dano. Para cada X de dano que um PC causar a este adversário, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Relentless (X) - Passive:*** This adversary can be spotlighted up to X times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (X) - Passiva:*** Este adversário pode ser colocado no foco até X vezes por turno do Mestre. Gaste Medo normalmente para colocá-lo no foco.
 
-***Slow - Passive:*** When you spotlight this adversary and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight this adversary and they have a token on their stat block, clear the token and they can act.
+***Lento - Passiva:*** Quando você coloca este adversário no foco e ele não tem um marcador em seu bloco de estatísticas, ele ainda não pode agir. Coloque um marcador em seu bloco e descreva o que ele está preparando para fazer. Quando você coloca este adversário no foco e ele tem um marcador em seu bloco, remova o marcador e ele pode agir.
 
-***Arcane Form - Passive:*** This adversary is resistant to magic damage.
+***Forma Arcana - Passiva:*** Este adversário é resistente a dano mágico.
 
-***Armored Carapace - Passive:*** When this adversary takes physical damage, reduce it by X.
+***Carapaça Blindada - Passiva:*** Quando este adversário recebe dano físico, reduza-o em X.
 
-### FEAR FEATURES
+### CARACTERÍSTICAS DE MEDO
 
-***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
+***Explosão - Ação:*** Gaste um Medo para explodir em uma explosão flamejante. Faça um ataque contra todos os alvos em alcance Próximo. Os alvos contra os quais o adversário tiver sucesso recebem 1d8 de dano mágico e são empurrados para alcance Distante.
 
-## BUILDING BALANCED ENCOUNTERS
+## MONTANDO ENCONTROS BALANCEADOS
 
-When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
+Ao planejar uma batalha, comece com **[(3 x número de PCs em combate) + 2] Pontos de Batalha** e faça os seguintes ajustes:
 
-- **-1** for an easier or shorter fight
-- **-2** if you’re using 2 or more Solo adversaries
-- **-2** if you add +1d4 (or a static +2) to all adversaries’ damage rolls
-- **+1** if you choose an adversary from a lower tier
-- **+1** if you don’t include any Bruisers, Hordes, Leaders, or Solos
-- **+2** for a harder or longer fight
+- **-1** para um combate mais fácil ou mais curto
+- **-2** se estiver usando 2 ou mais adversários Solitários
+- **-2** se adicionar +1d4 (ou +2 fixo) a todas as rolagens de dano dos adversários
+- **+1** se escolher um adversário de nível inferior
+- **+1** se não incluir nenhum Brutamontes, Horda, Líder ou Solitário
+- **+2** para um combate mais difícil ou mais longo
 
-Then spend your Battle Points to add an adversary to the encounter:
+Depois, gaste seus Pontos de Batalha para adicionar adversários ao encontro:
 
-- **Spend 1 point** for each group of Minions equal to the size of the party.
-- **Spend 1 point** for each Social or Support adversary.
-- **Spend 2 points** for each Horde, Ranged, Skulk, or Standard adversary.
-- **Spend 3 points** for each Leader adversary.
-- **Spend 4 points** for each Bruiser adversary.
-- **Spend 5 points** for each Solo adversary.
+- **Gaste 1 ponto** para cada grupo de Capangas igual ao tamanho do grupo.
+- **Gaste 1 ponto** para cada adversário Social ou Suporte.
+- **Gaste 2 pontos** para cada adversário Horda, À Distância, Furtivo ou Padrão.
+- **Gaste 3 pontos** para cada adversário Líder.
+- **Gaste 4 pontos** para cada adversário Brutamontes.
+- **Gaste 5 pontos** para cada adversário Solitário.
 
-## DEFEATED ADVERSARIES
+## ADVERSÁRIOS DERROTADOS
 
-When an adversary marks their last Hit Point, they are defeated: incapacitated, tied up, routed, killed, or anything else the table decides makes sense.
+Quando um adversário marca seu último Ponto de Vida, ele está derrotado: incapacitado, amarrado, em fuga, morto ou qualquer outra condição que a mesa decidir que faça sentido.
 
-## ADVERSARY STAT BLOCK BENCHMARKS
+## PARÂMETROS DE BLOCO DE ESTATÍSTICAS DE ADVERSÁRIOS
 
-| **ADVERSARY STATISTIC** | **TIER 1**                 | **TIER 2**                  | **TIER 3**                  | **TIER 4**                  |
-| ------------------- | ---------------------- | ----------------------- | ----------------------- | ----------------------- |
-| Attack Modifier     | +1                     | +2                      | +3                      | +4                      |
-| Damage Dice         | 1d6+2 to 1d12+4        | 2d6+3 to 2d12+4         | 3d8+3 to 3d12+5         | 4d8+10 to 4d12+15       |
-| Difficulty          | 11                     | 14                      | 17                      | 20                      |
-| Damage Thresholds   | Major 7 /<br>Severe 12 | Major 10 /<br>Severe 20 | Major 20 /<br>Severe 32 | Major 25 /<br>Severe 45 |
+| **ESTATÍSTICA DO ADVERSÁRIO** | **NÍVEL 1**                 | **NÍVEL 2**                  | **NÍVEL 3**                  | **NÍVEL 4**                  |
+| ----------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| Modificador de Ataque          | +1                          | +2                           | +3                           | +4                           |
+| Dados de Dano                 | 1d6+2 a 1d12+4              | 2d6+3 a 2d12+4               | 3d8+3 a 3d12+5               | 4d8+10 a 4d12+15             |
+| Dificuldade                   | 11                          | 14                           | 17                           | 20                           |
+| Limites de Dano              | Maior 7 /<br>Severo 12      | Maior 10 /<br>Severo 20      | Maior 20 /<br>Severo 32      | Maior 25 /<br>Severo 45      |
 
-## ADVERSARIES BY TIER
+## ADVERSÁRIOS POR NÍVEL
 
-This section contains the following stat blocks:
+Esta seção contém os seguintes blocos de estatísticas:
 
-### TIER 1 (LEVEL 1)
+### NÍVEL 1 (NÍVEL 1)
 
-- [Acid Burrower](../adversaries/Acid%20Burrower.md)
-- [Bear](../adversaries/Bear.md)
-- [Cave Ogre](../adversaries/Cave%20Ogre.md)
-- [Construct](../adversaries/Construct.md)
-- [Courtier](../adversaries/Courtier.md)
-- [Deeproot Defender](../adversaries/Deeproot%20Defender.md)
-- [Dire Wolf](../adversaries/Dire%20Wolf.md)
-- [Giant Mosquitoes](../adversaries/Giant%20Mosquitoes.md)
-- [Giant Rat](../adversaries/Giant%20Rat.md)
-- [Giant Scorpion](../adversaries/Giant%20Scorpion.md)
-- [Glass Snake](../adversaries/Glass%20Snake.md)
-- [Harrier](../adversaries/Harrier.md)
-- [Archer Guard](../adversaries/Archer%20Guard.md)
-- [Bladed Guard](../adversaries/Bladed%20Guard.md)
-- [Head Guard](../adversaries/Head%20Guard.md)
-- [Jagged Knife Bandit](../adversaries/Jagged%20Knife%20Bandit.md)
-- [Jagged Knife Hexer](../adversaries/Jagged%20Knife%20Hexer.md)
-- [Jagged Knife Kneebreaker](../adversaries/Jagged%20Knife%20Kneebreaker.md)
-- [Jagged Knife Lackey](../adversaries/Jagged%20Knife%20Lackey.md)
-- [Jagged Knife Lieutenant](../adversaries/Jagged%20Knife%20Lieutenant.md)
-- [Jagged Knife Shadow](../adversaries/Jagged%20Knife%20Shadow.md)
-- [Jagged Knife Sniper](../adversaries/Jagged%20Knife%20Sniper.md)
-- [Merchant](../adversaries/Merchant.md)
-- [Minor Chaos Elemental](../adversaries/Minor%20Chaos%20Elemental.md)
-- [Minor Fire Elemental](../adversaries/Minor%20Fire%20Elemental.md)
-- [Minor Demon](../adversaries/Minor%20Demon.md)
-- [Minor Treant](../adversaries/Minor%20Treant.md)
-- [Green Ooze](../adversaries/Green%20Ooze.md)
-- [Tiny Green Ooze](../adversaries/Tiny%20Green%20Ooze.md)
-- [Red Ooze](../adversaries/Red%20Ooze.md)
-- [Tiny Red Ooze](../adversaries/Tiny%20Red%20Ooze.md)
-- [Petty Noble](../adversaries/Petty%20Noble.md)
-- [Pirate Captain](../adversaries/Pirate%20Captain.md)
-- [Pirate Raiders](../adversaries/Pirate%20Raiders.md)
-- [Pirate Tough](../adversaries/Pirate%20Tough.md)
-- [Sellsword](../adversaries/Sellsword.md)
-- [Skeleton Archer](../adversaries/Skeleton%20Archer.md)
-- [Skeleton Dredge](../adversaries/Skeleton%20Dredge.md)
-- [Skeleton Knight](../adversaries/Skeleton%20Knight.md)
-- [Skeleton Warrior](../adversaries/Skeleton%20Warrior.md)
-- [Spellblade](../adversaries/Spellblade.md)
-- [Swarm of Rats](../adversaries/Swarm%20of%20Rats.md)
-- [Sylvan Soldier](../adversaries/Sylvan%20Soldier.md)
-- [Tangle Bramble Swarm](../adversaries/Tangle%20Bramble%20Swarm.md)
-- [Tangle Bramble](../adversaries/Tangle%20Bramble.md)
-- [Weaponmaster](../adversaries/Weaponmaster.md)
-- [Young Dryad](../adversaries/Young%20Dryad.md)
-- [Brawny Zombie](../adversaries/Brawny%20Zombie.md)
-- [Patchwork Zombie Hulk](../adversaries/Patchwork%20Zombie%20Hulk.md)
-- [Rotted Zombie](../adversaries/Rotted%20Zombie.md)
-- [Shambling Zombie](../adversaries/Shambling%20Zombie.md)
-- [Zombie Pack](../adversaries/Zombie%20Pack.md)
+- [Escavador Ácido](../adversaries/Acid%20Burrower.md)
+- [Urso](../adversaries/Bear.md)
+- [Ogro da Caverna](../adversaries/Cave%20Ogre.md)
+- [Construto](../adversaries/Construct.md)
+- [Cortesão](../adversaries/Courtier.md)
+- [Defensor Raiz Profunda](../adversaries/Deeproot%20Defender.md)
+- [Lobo Terrível](../adversaries/Dire%20Wolf.md)
+- [Mosquitos Gigantes](../adversaries/Giant%20Mosquitoes.md)
+- [Rato Gigante](../adversaries/Giant%20Rat.md)
+- [Escorpião Gigante](../adversaries/Giant%20Scorpion.md)
+- [Cobra de Vidro](../adversaries/Glass%20Snake.md)
+- [Falcão](../adversaries/Harrier.md)
+- [Guarda Arqueiro](../adversaries/Archer%20Guard.md)
+- [Guarda Lâmina](../adversaries/Bladed%20Guard.md)
+- [Guarda de Cabeça](../adversaries/Head%20Guard.md)
+- [Bandido da Faca Serrilhada](../adversaries/Jagged%20Knife%20Bandit.md)
+- [Hexer da Faca Serrilhada](../adversaries/Jagged%20Knife%20Hexer.md)
+- [Quebrador de Joelhos da Faca Serrilhada](../adversaries/Jagged%20Knife%20Kneebreaker.md)
+- [Capanga da Faca Serrilhada](../adversaries/Jagged%20Knife%20Lackey.md)
+- [Tenente da Faca Serrilhada](../adversaries/Jagged%20Knife%20Lieutenant.md)
+- [Sombra da Faca Serrilhada](../adversaries/Jagged%20Knife%20Shadow.md)
+- [Atirador da Faca Serrilhada](../adversaries/Jagged%20Knife%20Sniper.md)
+- [Mercador](../adversaries/Merchant.md)
+- [Elemental do Caos Menor](../adversaries/Minor%20Chaos%20Elemental.md)
+- [Elemental de Fogo Menor](../adversaries/Minor%20Fire%20Elemental.md)
+- [Demônio Menor](../adversaries/Minor%20Demon.md)
+- [Treant Menor](../adversaries/Minor%20Treant.md)
+- [Lodo Verde](../adversaries/Green%20Ooze.md)
+- [Lodo Verde Pequeno](../adversaries/Tiny%20Green%20Ooze.md)
+- [Lodo Vermelho](../adversaries/Red%20Ooze.md)
+- [Lodo Vermelho Pequeno](../adversaries/Tiny%20Red%20Ooze.md)
+- [Nobre Menor](../adversaries/Petty%20Noble.md)
+- [Capitão Pirata](../adversaries/Pirate%20Captain.md)
+- [Piratas Saqueadores](../adversaries/Pirate%20Raiders.md)
+- [Pirata Durão](../adversaries/Pirate%20Tough.md)
+- [Mercenário](../adversaries/Sellsword.md)
+- [Arqueiro Esqueleto](../adversaries/Skeleton%20Archer.md)
+- [Dredge Esqueleto](../adversaries/Skeleton%20Dredge.md)
+- [Cavaleiro Esqueleto](../adversaries/Skeleton%20Knight.md)
+- [Guerreiro Esqueleto](../adversaries/Skeleton%20Warrior.md)
+- [Lâmina Mágica](../adversaries/Spellblade.md)
+- [Enxame de Ratos](../adversaries/Swarm%20of%20Rats.md)
+- [Soldado Silvano](../adversaries/Sylvan%20Soldier.md)
+- [Enxame de Espinheiro](../adversaries/Tangle%20Bramble%20Swarm.md)
+- [Espinheiro](../adversaries/Tangle%20Bramble.md)
+- [Mestre de Armas](../adversaries/Weaponmaster.md)
+- [Jovem Dríade](../adversaries/Young%20Dryad.md)
+- [Zumbi Robusto](../adversaries/Brawny%20Zombie.md)
+- [Zumbi Gigante Costurado](../adversaries/Patchwork%20Zombie%20Hulk.md)
+- [Zumbi Podre](../adversaries/Rotted%20Zombie.md)
+- [Zumbi Cambaleante](../adversaries/Shambling%20Zombie.md)
+- [Bando de Zumbis](../adversaries/Zombie%20Pack.md)
 
-### TIER 2 (LEVELS 2–4)
+### NÍVEL 2 (NÍVEIS 2–4)
 
-- [Archer Squadron](../adversaries/Archer%20Squadron.md)
-- [Apprentice Assassin](../adversaries/Apprentice%20Assassin.md)
-- [Assassin Poisoner](../adversaries/Assassin%20Poisoner.md)
-- [Master Assassin](../adversaries/Master%20Assassin.md)
-- [Battle Box](../adversaries/Battle%20Box.md)
-- [Chaos Skull](../adversaries/Chaos%20Skull.md)
-- [Conscript](../adversaries/Conscript.md)
-- [Courtesan](../adversaries/Courtesan.md)
-- [Cult Adept](../adversaries/Cult%20Adept.md)
-- [Cult Fang](../adversaries/Cult%20Fang.md)
-- [Cult Initiate](../adversaries/Cult%20Initiate.md)
-- [Demonic Hound Pack](../adversaries/Demonic%20Hound%20Pack.md)
-- [Electric Eels](../adversaries/Electric%20Eels.md)
-- [Elite Soldier](../adversaries/Elite%20Soldier.md)
-- [Failed Experiment](../adversaries/Failed%20Experiment.md)
-- [Giant Beastmaster](../adversaries/Giant%20Beastmaster.md)
-- [Giant Brawler](../adversaries/Giant%20Brawler.md)
-- [Giant Recruit](../adversaries/Giant%20Recruit.md)
-- [Giant Eagle](../adversaries/Giant%20Eagle.md)
-- [Gorgon](../adversaries/Gorgon.md)
-- [Juvenile Flickerfly](../adversaries/Juvenile%20Flickerfly.md)
-- [Knight of the Realm](../adversaries/Knight%20of%20the%20Realm.md)
-- [Masked Thief](../adversaries/Masked%20Thief.md)
-- [Merchant Baron](../adversaries/Merchant%20Baron.md)
-- [Minotaur Wrecker](../adversaries/Minotaur%20Wrecker.md)
-- [Mortal Hunter](../adversaries/Mortal%20Hunter.md)
-- [Royal Advisor](../adversaries/Royal%20Advisor.md)
-- [Secret-Keeper](../adversaries/Secret-Keeper.md)
-- [Shark](../adversaries/Shark.md)
-- [Siren](../adversaries/Siren.md)
-- [Spectral Archer](../adversaries/Spectral%20Archer.md)
-- [Spectral Captain](../adversaries/Spectral%20Captain.md)
-- [Spectral Guardian](../adversaries/Spectral%20Guardian.md)
-- [Spy](../adversaries/Spy.md)
-- [Stonewraith](../adversaries/Stonewraith.md)
-- [War Wizard](../adversaries/War%20Wizard.md)
+- [Esquadrão de Arqueiros](../adversaries/Archer%20Squadron.md)
+- [Assassino Aprendiz](../adversaries/Apprentice%20Assassin.md)
+- [Assassino Envenenador](../adversaries/Assassin%20Poisoner.md)
+- [Assassino Mestre](../adversaries/Master%20Assassin.md)
+- [Caixa de Batalha](../adversaries/Battle%20Box.md)
+- [Caveira do Caos](../adversaries/Chaos%20Skull.md)
+- [Recruta](../adversaries/Conscript.md)
+- [Cortesã](../adversaries/Courtesan.md)
+- [Adepto do Culto](../adversaries/Cult%20Adept.md)
+- [Presas do Culto](../adversaries/Cult%20Fang.md)
+- [Iniciado do Culto](../adversaries/Cult%20Initiate.md)
+- [Bando de Cães Demoníacos](../adversaries/Demonic%20Hound%20Pack.md)
+- [Enguias Elétricas](../adversaries/Electric%20Eels.md)
+- [Soldado de Elite](../adversaries/Elite%20Soldier.md)
+- [Experimento Fracassado](../adversaries/Failed%20Experiment.md)
+- [Mestre de Feras Gigante](../adversaries/Giant%20Beastmaster.md)
+- [Brutamontes Gigante](../adversaries/Giant%20Brawler.md)
+- [Recruta Gigante](../adversaries/Giant%20Recruit.md)
+- [Águia Gigante](../adversaries/Giant%20Eagle.md)
+- [Górgona](../adversaries/Gorgon.md)
+- [Flickerfly Juvenil](../adversaries/Juvenile%20Flickerfly.md)
+- [Cavaleiro do Reino](../adversaries/Knight%20of%20the%20Realm.md)
+- [Ladrão Mascarado](../adversaries/Masked%20Thief.md)
+- [Barão Mercador](../adversaries/Merchant%20Baron.md)
+- [Destruidor Minotauro](../adversaries/Minotaur%20Wrecker.md)
+- [Caçador Mortal](../adversaries/Mortal%20Hunter.md)
+- [Conselheiro Real](../adversaries/Royal%20Advisor.md)
+- [Guardião de Segredos](../adversaries/Secret-Keeper.md)
+- [Tubarão](../adversaries/Shark.md)
+- [Sereia](../adversaries/Siren.md)
+- [Arqueiro Espectral](../adversaries/Spectral%20Archer.md)
+- [Capitão Espectral](../adversaries/Spectral%20Captain.md)
+- [Guardião Espectral](../adversaries/Spectral%20Guardian.md)
+- [Espião](../adversaries/Spy.md)
+- [Espectro de Pedra](../adversaries/Stonewraith.md)
+- [Mago de Guerra](../adversaries/War%20Wizard.md)
 
-### TIER 3 (LEVELS 5–7)
+### NÍVEL 3 (NÍVEIS 5–7)
 
-- [Adult Flickerfly](../adversaries/Adult%20Flickerfly.md)
-- [Demon of Avarice](../adversaries/Demon%20of%20Avarice.md)
-- [Demon of Despair](../adversaries/Demon%20of%20Despair.md)
-- [Demon of Hubris](../adversaries/Demon%20of%20Hubris.md)
-- [Demon of Jealousy](../adversaries/Demon%20of%20Jealousy.md)
-- [Demon of Wrath](../adversaries/Demon%20of%20Wrath.md)
-- [Dire Bat](../adversaries/Dire%20Bat.md)
-- [Dryad](../adversaries/Dryad.md)
-- [Elemental Spark](../adversaries/Elemental%20Spark.md)
-- [Greater Earth Elemental](../adversaries/Greater%20Earth%20Elemental.md)
-- [Greater Water Elemental](../adversaries/Greater%20Water%20Elemental.md)
-- [Huge Green Ooze](../adversaries/Huge%20Green%20Ooze.md)
-- [Hydra](../adversaries/Hydra.md)
-- [Monarch](../adversaries/Monarch.md)
-- [Stag Knight](../adversaries/Stag%20Knight.md)
-- [Oak Treant](../adversaries/Oak%20Treant.md)
-- [Treant Sapling](../adversaries/Treant%20Sapling.md)
-- [Head Vampire](../adversaries/Head%20Vampire.md)
-- [Vampire](../adversaries/Vampire.md)
-- [Vault Guardian Gaoler](../adversaries/Vault%20Guardian%20Gaoler.md)
-- [Vault Guardian Sentinel](../adversaries/Vault%20Guardian%20Sentinel.md)
-- [Vault Guardian Turret](../adversaries/Vault%20Guardian%20Turret.md)
-- [Young Ice Dragon](../adversaries/Young%20Ice%20Dragon.md)
+- [Flickerfly Adulto](../adversaries/Adult%20Flickerfly.md)
+- [Demônio da Avareza](../adversaries/Demon%20of%20Avarice.md)
+- [Demônio do Desespero](../adversaries/Demon%20of%20Despair.md)
+- [Demônio da Soberba](../adversaries/Demon%20of%20Hubris.md)
+- [Demônio do Ciúme](../adversaries/Demon%20of%20Jealousy.md)
+- [Demônio da Ira](../adversaries/Demon%20of%20Wrath.md)
+- [Morcego Terrível](../adversaries/Dire%20Bat.md)
+- [Dríade](../adversaries/Dryad.md)
+- [Faísca Elemental](../adversaries/Elemental%20Spark.md)
+- [Elemental da Terra Maior](../adversaries/Greater%20Earth%20Elemental.md)
+- [Elemental da Água Maior](../adversaries/Greater%20Water%20Elemental.md)
+- [Lodo Verde Gigante](../adversaries/Huge%20Green%20Ooze.md)
+- [Hidra](../adversaries/Hydra.md)
+- [Monarca](../adversaries/Monarch.md)
+- [Cavaleiro Cervo](../adversaries/Stag%20Knight.md)
+- [Treant Carvalho](../adversaries/Oak%20Treant.md)
+- [Muda de Treant](../adversaries/Treant%20Sapling.md)
+- [Vampiro Chefe](../adversaries/Head%20Vampire.md)
+- [Vampiro](../adversaries/Vampire.md)
+- [Carcereiro Guardião do Cofre](../adversaries/Vault%20Guardian%20Gaoler.md)
+- [Sentinela Guardião do Cofre](../adversaries/Vault%20Guardian%20Sentinel.md)
+- [Torreta Guardião do Cofre](../adversaries/Vault%20Guardian%20Turret.md)
+- [Dragão de Gelo Jovem](../adversaries/Young%20Ice%20Dragon.md)
 
-### TIER 4 (LEVELS 8–10)
+### NÍVEL 4 (NÍVEIS 8–10)
 
-- [Arch-Necromancer](../adversaries/Arch-Necromancer.md)
-- [Fallen Shock Troop](../adversaries/Fallen%20Shock%20Troop.md)
-- [Fallen Sorcerer](../adversaries/Fallen%20Sorcerer.md)
-- [Fallen Warlord: Realm-Breaker](../adversaries/Fallen%20Warlord%20Realm-Breaker.md)
-- [Fallen Warlord: Undefeated Champion](../adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)
-- [Hallowed Archer](../adversaries/Hallowed%20Archer.md)
-- [Hallowed Soldier](../adversaries/Hallowed%20Soldier.md)
-- [High Seraph](../adversaries/High%20Seraph.md)
+- [Arquinecromante](../adversaries/Arch-Necromancer.md)
+- [Tropa de Choque Caída](../adversaries/Fallen%20Shock%20Troop.md)
+- [Feiticeiro Caído](../adversaries/Fallen%20Sorcerer.md)
+- [Senhor da Guerra Caído: Quebra-Reinos](../adversaries/Fallen%20Warlord%20Realm-Breaker.md)
+- [Senhor da Guerra Caído: Campeão Invicto](../adversaries/Fallen%20Warlord%20Undefeated%20Champion.md)
+- [Arqueiro Sagrado](../adversaries/Hallowed%20Archer.md)
+- [Soldado Sagrado](../adversaries/Hallowed%20Soldier.md)
+- [Alto Seráfico](../adversaries/High%20Seraph.md)
 - [Kraken](../adversaries/Kraken.md)
-- [Oracle of Doom](../adversaries/Oracle%20of%20Doom.md)
-- [Outer Realms Abomination](../adversaries/Outer%20Realms%20Abomination.md)
-- [Outer Realms Corrupter](../adversaries/Outer%20Realms%20Corrupter.md)
-- [Outer Realms Thrall](../adversaries/Outer%20Realms%20Thrall.md)
-- [Volcanic Dragon: Obsidian Predator](../adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md)
-- [Volcanic Dragon: Molten Scourge](../adversaries/Volcanic%20Dragon%20Molten%20Scourge.md)
-- [Volcanic Dragon: Ashen Tyrant](../adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
-- [Perfected Zombie](../adversaries/Perfected%20Zombie.md)
-- [Zombie Legion](../adversaries/Zombie%20Legion.md)
+- [Oráculo da Perdição](../adversaries/Oracle%20of%20Doom.md)
+- [Abominação dos Reinos Exteriores](../adversaries/Outer%20Realms%20Abomination.md)
+- [Corruptor dos Reinos Exteriores](../adversaries/Outer%20Realms%20Corrupter.md)
+- [Servo dos Reinos Exteriores](../adversaries/Outer%20Realms%20Thrall.md)
+- [Dragão Vulcânico: Predador de Obsidiana](../adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md)
+- [Dragão Vulcânico: Flagelo Derretido](../adversaries/Volcanic%20Dragon%20Molten%20Scourge.md)
+- [Dragão Vulcânico: Tirano Cinzento](../adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
+- [Zumbi Aperfeiçoado](../adversaries/Perfected%20Zombie.md)
+- [Legião de Zumbis](../adversaries/Zombie%20Legion.md)

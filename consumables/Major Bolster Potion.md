@@ -1,5 +1,5 @@
-﻿# MAJOR BOLSTER POTION
+﻿# POÇÃO MAIOR DE FORTALECIMENTO
 
-You gain a +1 bonus to your Strength until your next rest.
+Você ganha um bônus de +1 em sua Força até seu próximo descanso.
 
-*Consumable*
+*Consumível*

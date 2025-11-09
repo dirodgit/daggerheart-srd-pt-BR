@@ -1,9 +1,9 @@
 ﻿# SLYBORNE
 
-Being part of a slyborne community means you come from a group that operates outside the law, including all manner of criminals, grifters, and con artists. Members of slyborne communities are brought together by their disparate goals and their clever means of achieving them. Many people in these communities have an array of unscrupulous skills: forging, thievery, smuggling, and violence. People of any social class can be slyborne, from those who have garnered vast wealth and influence to those without a coin to their name. To the outside eye, slyborne might appear to be ruffians with no loyalty, but these communities possess some of the strictest codes of honor which, when broken, can result in a terrifying end for the transgressor.
+Fazer parte de uma comunidade slyborne significa que você vem de um grupo que opera fora da lei, incluindo todo tipo de criminosos, trapaceiros e vigaristas. Membros de comunidades slyborne são unidos por seus objetivos diversos e seus meios astutos de alcançá-los. Muitas pessoas nessas comunidades possuem uma variedade de habilidades inescrupulosas: falsificação, furto, contrabando e violência. Pessoas de qualquer classe social podem ser slyborne, desde aquelas que acumularam vasta riqueza e influência até aquelas que não têm uma moeda no bolso. Para os olhos de fora, os slyborne podem parecer patifes sem lealdade, mas essas comunidades possuem alguns dos códigos de honra mais rigorosos que, quando quebrados, podem resultar em um fim aterrorizante para o transgressor.
 
-*Slyborne are often calculating, clever, formidable, perceptive, shrewd, and tenacious.*
+*Slyborne são frequentemente calculistas, inteligentes, formidáveis, perceptivos, astutos e tenazes.*
 
-## COMMUNITY FEATURE
+## RECURSO DA COMUNIDADE
 
-***Scoundrel:*** You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.
+***Patife:*** Você tem vantagem em testes para negociar com criminosos, detectar mentiras ou encontrar um lugar seguro para se esconder.

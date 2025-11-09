@@ -1,9 +1,9 @@
-﻿# GRACE-TOUCHED
+﻿# TOCADO PELA GRAÇA
 
-> **Level 7 Grace Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Graça de Nível 7**  
+> **Custo de Recordação:** 2
 
-When 4 or more of the domain cards in your loadout are from the Grace domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Graça, você ganha os seguintes benefícios:
 
-- You can mark an Armor Slot instead of marking a Stress.
-- When you would force a target to mark a number of Hit Points, you can choose instead to force them to mark that number of Stress.
+- Você pode marcar um Espaço de Armadura em vez de marcar Estresse.  
+- Quando você for forçar um alvo a marcar um número de Pontos de Vida, pode escolher forçá-lo a marcar esse número de Estresse em vez disso.

@@ -1,7 +1,7 @@
 ﻿# BRAVESHIELD
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d4+6 físico; **Carga:** Uma mão
 
-**Feature:** ***Sheltering:*** When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage.
+**Característica:** ***Abrigo:*** Quando você marca um Espaço de Armadura, ele reduz o dano para você e todos os aliados dentro do alcance de Corpo a Corpo que sofreram o mesmo dano.
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

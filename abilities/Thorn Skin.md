@@ -1,8 +1,8 @@
-﻿# THORN SKIN
+﻿# PELE DE ESPINHOS
 
-> **Level 5 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 5**  
+> **Custo de Recordação:** 1
 
-Once per rest, spend a Hope to sprout thorns all over your body. When you do, place a number of tokens equal to your Spellcast trait on this card. When you take damage, you can spend any number of tokens to roll that number of d6s. Add the results together and reduce the incoming damage by that amount. If you’re within Melee range of the attacker, deal that amount of damage back to them.
+Uma vez por descanso, gaste 1 ponto de Esperança para fazer espinhos brotarem por todo o seu corpo. Quando fizer isso, coloque um número de marcadores igual ao seu traço de Conjuração de Magia nesta carta. Quando você sofrer dano, pode gastar qualquer número de marcadores para rolar essa quantidade de d6. Some os resultados e reduza o dano recebido por esse valor. Se você estiver em alcance de Combate Corpo a Corpo do atacante, cause essa mesma quantidade de dano de volta a ele.
 
-When you take a rest, clear all unspent tokens.
+Quando você descansar, remova todos os marcadores não gastos.

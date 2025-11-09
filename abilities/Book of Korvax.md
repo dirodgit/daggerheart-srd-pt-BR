@@ -1,10 +1,10 @@
-﻿# BOOK OF KORVAX
+﻿# LIVRO DE KORVAX
 
-> **Level 3 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Grimório do Códice Nível 3**  
+> **Custo de Recordação:** 2
 
-**Levitation:** Make a Spellcast Roll to temporarily lift a target you can see up into the air and move them within Close range of their original position.
+**Levitação:** Faça uma Jogada de Conjuração para levantar temporariamente um alvo que você possa ver no ar e movê-lo dentro do alcance Próximo de sua posição original.
 
-**Recant:** Spend a Hope to force a target within Melee range to make a Reaction Roll (15). On a failure, they forget the last minute of your conversation.
+**Retractar:** Gaste uma Esperança para forçar um alvo dentro do alcance Corpo a Corpo a fazer uma Jogada de Reação (15). Em caso de falha, ele esquece o último minuto da sua conversa.
 
-**Rune Circle:** Mark a Stress to create a temporary magical circle on the ground where you stand. All adversaries within Melee range, who enter Melee range, take 2d12+4 magic damage and are knocked back to Very Close range.
+**Círculo Rúnico:** Marque um Estresse para criar um círculo mágico temporário no chão onde você está. Todos os adversários dentro do alcance Corpo a Corpo, que entrarem no alcance Corpo a Corpo, recebem 2d12+4 de dano mágico e são empurrados para o alcance Muito Próximo.

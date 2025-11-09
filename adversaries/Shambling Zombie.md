@@ -1,14 +1,14 @@
-﻿# SHAMBLING ZOMBIE
+﻿# ZUMBI TROPEÇANTE
 
-***Tier 1 Standard***  
-*An animated corpse that moves shakily, driven only by hunger.*  
-**Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
+***Padrão de Nível 1***  
+*Um cadáver animado que se move de forma trêmula, movido apenas pela fome.*  
+**Motivações & Táticas:** Devorar, faminto, atacar em grupo, rasgar carne
 
-> **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1  
-> **ATK:** 0 | **Bite:** Melee | 1d6+1 phy  
+> **Dificuldade:** 10 | **Limiares:** 4/6 | **PV:** 4 | **Estresse:** 1  
+> **ATQ:** 0 | **Mordida:** Corpo a corpo | 1d6+1 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Too Many to Handle - Passive:*** When the Zombie is within Melee range of a creature and at least one other Zombie is within Close range, all attacks against that creature have advantage.
+***Muitos para Controlar - Passiva:*** Quando o Zumbi está em alcance Corpo a Corpo de uma criatura e pelo menos outro Zumbi está em alcance Próximo, todos os ataques contra essa criatura têm vantagem.
 
-***Horrifying - Passive:*** Targets who mark HP from the Zombie’s attacks must also mark a Stress.
+***Horripilante - Passiva:*** Alvos que marcarem PV pelos ataques do Zumbi também devem marcar Estresse.

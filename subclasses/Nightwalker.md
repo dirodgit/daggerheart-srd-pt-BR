@@ -1,23 +1,23 @@
 ﻿# NIGHTWALKER
 
-Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.
+Jogue como Nightwalker se quiser manipular sombras para se movimentar pelo ambiente.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
 Finesse
 
-## FOUNDATION FEATURE
+## CARACTERÍSTICA FUNDAMENTAL
 
-***Shadow Stepper:*** You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a Stress** to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are Cloaked.
+***Passo Sombrio:*** Você pode se mover de sombra em sombra. Quando você se move para uma área de escuridão ou uma sombra projetada por outra criatura ou objeto, pode **marcar um Estresse** para desaparecer de onde está e reaparecer dentro de outra sombra em alcance Longínquo. Quando você reaparece, está Oculto.
 
-## SPECIALIZATION FEATURES
+## CARACTERÍSTICAS DE ESPECIALIZAÇÃO
 
-***Dark Cloud:*** Make a Spellcast Roll (15). On a success, create a temporary dark cloud that covers any area within Close range. Anyone in this cloud can’t see outside of it, and anyone outside of it can’t see in. You’re considered Cloaked from any adversary for whom the cloud blocks line of sight.
+***Nuvem Escura:*** Faça uma Jogada de Conjuração (15). Em caso de sucesso, crie uma nuvem escura temporária que cobre qualquer área dentro do alcance Próximo. Quem estiver nessa nuvem não pode ver para fora dela, e quem estiver fora não pode ver para dentro. Você é considerado Oculto para qualquer adversário para quem a nuvem bloqueia a linha de visão.
 
-***Adrenaline:*** While you’re Vulnerable, add your level to your damage rolls.
+***Adrenalina:*** Enquanto você estiver Vulnerável, adicione seu nível às suas jogadas de dano.
 
-## MASTERY FEATURES
+## CARACTERÍSTICAS DE MESTRIA
 
-***Fleeting Shadow:*** Gain a permanent +1 bonus to your Evasion. You can use your “Shadow Stepper” feature to move within Very Far range.
+***Sombra Fugaz:*** Ganhe um bônus permanente de +1 em sua Evasão. Você pode usar sua característica “Passo Sombrio” para se mover dentro do alcance Muito Longínquo.
 
-***Vanishing Act:*** Mark a Stress to become Cloaked at any time. When Cloaked from this feature, you automatically clear the Restrained condition if you have it. You remain Cloaked in this way until you roll with Fear or until your next rest.
+***Ato de Desaparecimento:*** Marque um Estresse para se tornar Oculto a qualquer momento. Quando Oculto por esta característica, você automaticamente remove a condição Preso, se a tiver. Você permanece Oculto dessa forma até rolar com Medo ou até seu próximo descanso.

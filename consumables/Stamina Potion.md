@@ -1,5 +1,5 @@
-﻿# STAMINA POTION
+﻿# POÇÃO DE ESTAMINA
 
-Clear 1d4+1 Stress.
+Remove 1d4+1 de Estresse.
 
-*Consumable*
+*Consumível*

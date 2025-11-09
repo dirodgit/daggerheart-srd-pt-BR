@@ -1,31 +1,31 @@
-# COMBAT
+# COMBATE
 
-Though Daggerheart relies on the same flow of collaborative storytelling in and out of combat, physical conflicts rely more heavily on several key mechanics related to attacking, maneuvering, and taking damage.
+Embora Daggerheart dependa do mesmo fluxo de narrativa colaborativa dentro e fora do combate, os conflitos físicos dependem mais fortemente de várias mecânicas-chave relacionadas a atacar, manobrar e receber dano.
 
-## EVASION
+## EVASÃO
 
-**Evasion** represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target’s Evasion. A PC’s Base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
+**Evasão** representa a habilidade de um personagem de evitar ataques e outros efeitos indesejados. Qualquer teste feito contra um PJ tem uma Dificuldade igual à Evasão do alvo. A Evasão Base de um PJ é determinada pela sua classe, mas pode ser modificada por cartas de domínio, equipamentos, condições e outros efeitos.
 
-> ***Note:*** *attacks rolled against adversaries use the target’s Difficulty instead of Evasion.*
+> ***Nota:*** *ataques rolados contra adversários usam a Dificuldade do alvo em vez da Evasão.*
 
-## HIT POINTS & DAMAGE THRESHOLDS
+## PONTOS DE VIDA & LIMITES DE DANO
 
-**Hit Points (HP)** represent a character’s ability to withstand physical injury. When a character takes damage, they mark 1 to 3 HP, based on their **damage thresholds**:
+**Pontos de Vida (PV)** representam a capacidade de um personagem de suportar ferimentos físicos. Quando um personagem sofre dano, ele marca de 1 a 3 PV, baseado em seus **limites de dano**:
 
-- If the final damage is at or above the character’s Severe damage threshold, they mark 3 HP.
-- If the final damage is at or above the character’s Major damage threshold but below their Severe damage threshold, they mark 2 HP.
-- If the final damage is below the character’s Major damage threshold, they mark 1 HP.
+- Se o dano final for igual ou superior ao limite de dano Grave do personagem, ele marca 3 PV.
+- Se o dano final for igual ou superior ao limite de dano Maior do personagem, mas abaixo do limite Grave, ele marca 2 PV.
+- Se o dano final for inferior ao limite de dano Maior do personagem, ele marca 1 PV.
 
-If incoming damage is ever reduced to 0 or less, no HP is marked.
+Se o dano recebido for reduzido a 0 ou menos, nenhum PV é marcado.
 
-A PC’s damage thresholds are calculated by adding their level to the listed damage thresholds of their equipped armor. A PC’s starting HP is based on their class, but they can gain additional Hit Points through advancements, features, and other effects.
+Os limites de dano de um PJ são calculados somando seu nível aos limites de dano listados da armadura equipada. Os PV iniciais de um PJ são baseados em sua classe, mas ele pode ganhar Pontos de Vida adicionais por meio de avanços, características e outros efeitos.
 
-An adversary’s Damage Thresholds and HP are listed in their stat blocks.
+Os Limites de Dano e PV de um adversário estão listados em seus blocos de estatísticas.
 
-When a character marks their last Hit Point, they fall. If a PC falls, they make a death move.
+Quando um personagem marca seu último Ponto de Vida, ele cai. Se um PJ cai, ele realiza um movimento de morte.
 
-Characters can clear Hit Points by taking downtime moves (see: Downtime) or by activating relevant special abilities or effects.
+Personagens podem recuperar Pontos de Vida realizando movimentos de descanso (veja: Descanso) ou ativando habilidades especiais ou efeitos relevantes.
 
-> ***Optional Rule: Massive Damage***
+> ***Regra Opcional: Dano Massivo***
 >
-> *If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.*
+> *Se um personagem sofrer dano igual ao dobro do seu limite Grave, ele marca 4 PV em vez de 3.*

@@ -1,6 +1,6 @@
 ﻿# WHIRLWIND
 
-> **Level 1 Blade Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Lâmina de Nível 1**  
+> **Custo de Recordação:** 0
 
-When you make a successful attack against a target within Very Close range, you can spend a Hope to use the attack against all other targets within Very Close range. All additional adversaries you succeed against with this ability take half damage.
+Quando você realiza um ataque bem-sucedido contra um alvo em alcance Muito Próximo, pode gastar uma Esperança para usar o ataque contra todos os outros alvos dentro do alcance Muito Próximo. Todos os adversários adicionais contra os quais você obtiver sucesso com essa habilidade recebem metade do dano.

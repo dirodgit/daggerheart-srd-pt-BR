@@ -1,5 +1,5 @@
-﻿# PHOENIX FEATHER
+﻿# PENA DE FÊNIX
 
-If you have at least one Phoenix Feather on you when you fall unconscious, you gain a +1 bonus to the roll you make to determine whether you gain a scar.
+Se você tiver pelo menos uma Pena de Fênix com você quando ficar inconsciente, ganha um bônus de +1 na rolagem para determinar se você ganha uma cicatriz.
 
 *Item*

@@ -1,6 +1,6 @@
-﻿# THROUGH YOUR EYES
+﻿# ATRAVÉS DOS SEUS OLHOS
 
-> **Level 4 Grace Spell**  
-> **Recall Cost:** 1
+> **Magia de Graça de Nível 4**  
+> **Custo de Recordação:** 1
 
-Choose a target within Very Far range. You can see through their eyes and hear through their ears. You can transition between using your own senses or the target’s freely until you cast another spell or until your next rest.
+Escolha um alvo dentro do alcance Muito Distante. Você pode ver através dos olhos dele e ouvir através dos seus ouvidos. Você pode alternar livremente entre usar seus próprios sentidos ou os do alvo até lançar outra magia ou até seu próximo descanso.

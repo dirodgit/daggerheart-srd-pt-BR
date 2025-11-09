@@ -1,35 +1,35 @@
-﻿# OUTPOST TOWN
+﻿# VILA DE FRONTEIRA
 
-***Tier 1 Social***  
-*A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations.*  
-**Impulses:** Drive the desperate to certain doom, profit off of ragged hope
+***Social de Nível 1***  
+*Uma pequena vila na periferia de uma nação ou região, próxima a uma masmorra, tumbas ou outros destinos de aventura.*  
+**Impulsos:** Levar os desesperados à perdição certa, lucrar com a Esperança desgastada
 
-> **Difficulty:** 12  
-> **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
+> **Dificuldade:** 12  
+> **Adversários Potenciais:** Bandidos Faca Serrilhada (Hexer, Quebrador de Joelhos, Capanga, Tenente, Sombra, Atirador), Ladrão Mascarado, Comerciante
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Rumors Abound - Passive:*** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:
+***Rumores Abundam - Passivo:*** A fofoca é a moeda que mais rápido circula no reino. Um PJ pode perguntar sobre eventos importantes fazendo uma Jogada de Presença. O que ele aprende depende do resultado da jogada, baseado nos seguintes critérios:
 
-  - Critical Success: Learn about two major events. The PC can ask one follow-up question about one of the rumors and get a truthful (if not always complete) answer.
-  - Success with Hope: Learn about two events, at least one of which is relevant to the character’s background.
-  - Success with Fear: Learn an alarming rumor related to the character’s background.
-  - Any Failure: The locals respond poorly to their inquiries. The PC must mark a Stress to learn one relevant rumor.
+  - Sucesso Crítico: Aprende sobre dois eventos importantes. O PJ pode fazer uma pergunta de acompanhamento sobre um dos rumores e obter uma resposta verdadeira (ainda que nem sempre completa).
+  - Sucesso com Esperança: Aprende sobre dois eventos, pelo menos um dos quais é relevante para o histórico do personagem.
+  - Sucesso com Medo: Aprende um rumor alarmante relacionado ao histórico do personagem.
+  - Qualquer Falha: Os locais respondem mal às suas perguntas. O PJ deve marcar um Estresse para aprender um rumor relevante.
 
-  *What news do the PCs hear that they could pass along to curious travelers? What do the locals think about these events?*
+  *Que notícias os PJs ouvem que poderiam passar para viajantes curiosos? O que os locais pensam sobre esses eventos?*
 
-***Society of the Broken Compass - Passive:*** An adventuring society maintains a chapterhouse here, where heroes meet to exchange news and rumors, drink to their imagined successes, and scheme to undermine their rivals.
+***Sociedade da Bússola Quebrada - Passivo:*** Uma sociedade de aventureiros mantém uma casa de capítulo aqui, onde heróis se reúnem para trocar notícias e rumores, beber em comemoração a seus sucessos imaginados e conspirar para minar seus rivais.
 
-  *What boasts do the adventurers here make, and which do you think are true?*
+  *Que vanglórias os aventureiros daqui fazem, e quais você acha que são verdadeiras?*
 
-***Rival Party - Passive:*** Another adventuring party is here, seeking the same treasure or leads as the PCs.
+***Grupo Rival - Passivo:*** Outro grupo de aventureiros está aqui, buscando o mesmo tesouro ou pistas que os PJs.
 
-  *Which PC has a connection to one of the rival party members? Do they approach the PC first or do they wait for the PC to move?*
+  *Qual PJ tem uma conexão com um dos membros do grupo rival? Eles se aproximam do PJ primeiro ou esperam o PJ agir?*
 
-***It’d Be a Shame If Something Happened to Your Store - Action:*** The PCs witness as agents of a local crime boss shake down a general goods store.
+***Seria Uma Pena Se Algo Acontecesse à Sua Loja - Ação:*** Os PJs testemunham agentes de um chefe do crime local extorquirem uma loja de artigos gerais.
 
-  *What trouble does it cause if the PCs intervene?*
+  *Que problemas isso causa se os PJs intervirem?*
 
-***Wrong Place, Wrong Time - Reaction:*** At night, or when the party is alone in a back alley, you can spend a Fear to introduce a group of thieves who try to rob them. The thieves appear at Close range of a chosen PC and include a Jagged Knife Kneebreaker, as many Lackeys as there are PCs, and a Lieutenant. For a larger party, add 2 Hexer or Sniper.
+***Lugar Errado, Hora Errada - Reação:*** À noite, ou quando o grupo está sozinho em um beco, você pode gastar um Medo para introduzir um grupo de ladrões que tentam roubá-los. Os ladrões aparecem em alcance Próximo de um PJ escolhido e incluem um Quebrador de Joelhos Faca Serrilhada, tantos Capangas quantos PJs houver, e um Tenente. Para um grupo maior, adicione 2 Hexers ou Atiradores.
 
-  *What details show the party that these people are desperate former adventurers?*
+  *Que detalhes mostram ao grupo que essas pessoas são ex-aventureiros desesperados?*

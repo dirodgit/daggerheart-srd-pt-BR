@@ -1,5 +1,5 @@
-﻿# VIAL OF MOONDRIP
+﻿# FRASCO DE GOTA DA LUA
 
-When you drink the contents of this vial, you can see in total darkness until your next rest.
+Quando você bebe o conteúdo deste frasco, pode enxergar no escuro total até seu próximo descanso.
 
-*Consumable*
+*Consumível*

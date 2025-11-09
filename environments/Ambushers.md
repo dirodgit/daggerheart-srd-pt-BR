@@ -1,14 +1,14 @@
-﻿# AMBUSHERS
+﻿# EMBOSCADORES
 
-***Tier 1 Event***  
-*An ambush is set by the PCs to catch unsuspecting adversaries off-guard.*  
-**Impulses:** Escape, group up, protect the most vulnerable
+***Evento de Nível 1***  
+*Os personagens preparam uma emboscada para pegar adversários desprevenidos.*  
+**Impulsos:** Fugir, reunir o grupo, proteger os mais vulneráveis
 
-> **Difficulty:** Special (see “Relative Strength”)  
-> **Potential Adversaries:** Any
+> **Dificuldade:** Especial (veja “Força Relativa”)  
+> **Adversários Potenciais:** Qualquer um
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relative Strength - Passive:*** The Difficulty of this environment equals that of the adversary with the highest Difficulty.
+***Força Relativa - Passiva:*** A Dificuldade deste ambiente é igual à do adversário com a maior Dificuldade.
 
-***Where Did They Come From? - Reaction:*** When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage.
+***De Onde Eles Vieram? - Reação:*** Quando um personagem inicia a emboscada contra adversários desprevenidos, você perde 2 Medo e a primeira jogada de ataque feita por um personagem tem vantagem.

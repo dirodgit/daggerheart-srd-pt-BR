@@ -1,7 +1,7 @@
-﻿# IMPROVED TOWER SHIELD
+﻿# ESCUDO TORRE APRIMORADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d6+2 físico; **Carga:** Uma Mão
 
-**Feature:** ***Barrier:*** +3 to Armor Score; -1 to Evasion
+**Característica:** ***Barreira:*** +3 na Pontuação de Armadura; -1 na Evasão
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

@@ -1,7 +1,7 @@
-﻿# IMPROVED GAMBESON ARMOR
+﻿# ARMADURA DE GAMBESON APRIMORADA
 
-**Base Thresholds:** 7 / 16; **Base Score:** 4
+**Limiares Base:** 7 / 16; **Pontuação Base:** 4
 
-**Feature:** ***Flexible:*** +1 to Evasion
+**Característica:** ***Flexível:*** +1 em Evasão
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

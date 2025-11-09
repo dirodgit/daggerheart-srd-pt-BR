@@ -1,5 +1,5 @@
-﻿# ARCANE CLOAK
+﻿# MANTO ARCANO
 
-A creature with a Spellcast trait wearing this cloak can adjust its color, texture, and size at will.
+Uma criatura com a característica Conjurar Feitiço que estiver usando este manto pode ajustar sua cor, textura e tamanho à vontade.
 
 *Item*

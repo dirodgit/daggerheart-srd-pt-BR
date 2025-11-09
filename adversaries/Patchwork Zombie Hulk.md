@@ -1,19 +1,19 @@
 ﻿# PATCHWORK ZOMBIE HULK
 
-***Tier 1 Solo***  
-*A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*  
-**Motives & Tactics:** Absorb corpses, flail, hunger, terrify
+***Nível 1 Solo***  
+*Uma gestalt imponente de cadáveres movendo-se como um só, com membros do tamanho do torso e punhos tão grandes quanto um halfling adulto.*  
+**Motivações & Táticas:** Absorver cadáveres, agitar membros, fome, aterrorizar
 
-> **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3  
-> **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 phy  
-> **Experience:** Intimidation +2, Tear Things Apart +2
+> **Dificuldade:** 13 | **Limiares:** 8/15 | **PV:** 10 | **Estresse:** 3  
+> **ATQ:** +4 | **Muitos Braços:** Muito Próximo | 1d20 físico  
+> **Experiência:** Intimidação +2, Rasgar Coisas +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Destructive - Passive:*** When the Zombie takes Major or greater damage, they mark an additional HP.
+***Destrutivo - Passivo:*** Quando o Zumbi sofre dano Maior ou superior, ele marca um PV adicional.
 
-***Flailing Limbs - Passive:*** When the Zombie makes a standard attack, they can attack all targets within Very Close range.
+***Membros Agitados - Passivo:*** Quando o Zumbi realiza um ataque padrão, ele pode atacar todos os alvos dentro do alcance Muito Próximo.
 
-***Another for the Pile - Action:*** When the Zombie is within Very Close range of a corpse, they can incorporate it into themselves, clearing a HP and a Stress.
+***Mais Um Para a Pilha - Ação:*** Quando o Zumbi está dentro do alcance Muito Próximo de um cadáver, ele pode incorporá-lo a si mesmo, recuperando um PV e um Estresse.
 
-***Tormented Screams - Action:*** Mark a Stress to cause all PCs within Far range to make a Presence Reaction Roll (13). Targets who fail lose a Hope and you gain a Fear for each. Targets who succeed must mark a Stress.
+***Gritos Atormentados - Ação:*** Marque um Estresse para fazer todos os PJ dentro do alcance Distante realizarem uma Jogada de Reação de Presença (13). Alvos que falharem perdem uma Esperança e você ganha um Medo para cada um. Alvos que tiverem sucesso devem marcar um Estresse.

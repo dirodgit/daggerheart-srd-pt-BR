@@ -1,7 +1,7 @@
-﻿# DAGGER
+﻿# ADAGA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+1 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+1 físico; **Carga:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

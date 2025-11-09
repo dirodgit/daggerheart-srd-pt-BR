@@ -1,5 +1,5 @@
-﻿# DUAL FLASK
+﻿# FRASCO DUPLO
 
-This flask can hold two different liquids. You can swap between them by flipping a small switch on the flask’s side.
+Este frasco pode conter dois líquidos diferentes. Você pode alternar entre eles acionando um pequeno interruptor na lateral do frasco.
 
 *Item*

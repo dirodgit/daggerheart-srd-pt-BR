@@ -1,7 +1,7 @@
-﻿# ADVANCED SHORTSTAFF
+﻿# BASTÃO CURTO AVANÇADO
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+7 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Próximo; **Dano:** d8+7 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

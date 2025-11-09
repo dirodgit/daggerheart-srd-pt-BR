@@ -1,7 +1,7 @@
-﻿# SCEPTER
+﻿# CÉPTRO
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6 mag; **Burden:** Two-Handed
+**Traço:** Presença; **Alcance:** Longo; **Dano:** d6 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas — Presença, Corpo a Corpo, d8.
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

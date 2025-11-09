@@ -1,31 +1,31 @@
-﻿# HAUNTED CITY
+﻿# CIDADE ASSOMBRADA
 
-***Tier 2 Exploration***  
-*An abandoned city populated by the restless spirits of eras past.*  
-**Impulses:** Misdirect and disorient, replay apocalypses both public and personal
+***Exploração de Nível 2***  
+*Uma cidade abandonada povoada pelos espíritos inquietos de eras passadas.*  
+**Impulsos:** Desviar e desorientar, reviver apocalipses tanto públicas quanto pessoais
 
-> **Difficulty:** 14  
-> **Potential Adversaries:** Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), (ghostly versions of other adversaries (see “Ghostly Form”))
+> **Dificuldade:** 14  
+> **Adversários Potenciais:** Fantasmas (Arqueiro Espectral, Capitão Espectral, Guardião Espectral), (versões fantasmagóricas de outros adversários (veja “Forma Fantasmagórica”))
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Buried Knowledge - Passive:*** The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot.
+***Conhecimento Enterrado - Passivo:*** A cidade guarda inúmeros mistérios a serem desvendados. Um PJ que buscar conhecimento sobre a cidade caída pode fazer uma Jogada de Instinto ou Conhecimento para aprender sobre este lugar e descobrir saques (potencialmente assombrados).
 
-  - Critical Success: Gain valuable information and a related useful item.
-  - Success with Hope: Gain valuable information.
-  - Success with Fear: Uncover vague or incomplete information.
-  - Any Failure: Mark a Stress to find a lead after an exhaustive search.
+  - Sucesso Crítico: Ganhe informações valiosas e um item útil relacionado.
+  - Sucesso com Esperança: Ganhe informações valiosas.
+  - Sucesso com Medo: Descubra informações vagas ou incompletas.
+  - Qualquer Falha: Marque um Estresse para encontrar uma pista após uma busca exaustiva.
 
-  *What secret secrets does the city contain? Why have so many ghosts lingered here? What doomed adventurers have met a bad fate here already?*
+  *Que segredos ocultos a cidade contém? Por que tantos fantasmas permaneceram aqui? Que aventureiros condenados já encontraram um destino ruim aqui?*
 
-***Ghostly Form - Passive:*** Adversaries who appear here are of a ghostly form. They have resistance to physical damage and can mark a Stress to move up to Close range through solid objects.
+***Forma Fantasmagórica - Passivo:*** Adversários que aparecem aqui têm forma fantasmagórica. Eles possuem resistência a dano físico e podem marcar um Estresse para se mover até alcance Próximo através de objetos sólidos.
 
-  *What injuries to their physical form speak to their cause of death? What unfulfilled purpose holds them in the Mortal Plane?*
+  *Que ferimentos em sua forma física revelam sua causa de morte? Que propósito não cumprido os mantém no Plano Mortal?*
 
-***Dead Ends - Action:*** The ghosts of an earlier era manifest scenes from the past, such as a street festival, a city council, or a heist. These hauntings change the layout of the city around the PCs, blocking the way behind them, forcing a detour, or presenting them with a challenge, such as mistaking them for rival thieves during the heist.
+***Becos Sem Saída - Ação:*** Os fantasmas de uma era anterior manifestam cenas do passado, como um festival de rua, um conselho da cidade ou um assalto. Essas assombrações mudam a configuração da cidade ao redor dos PJs, bloqueando o caminho atrás deles, forçando um desvio ou apresentando um desafio, como confundi-los com ladrões rivais durante o assalto.
 
-  *What do the ghosts want from you? What do you need from them?*
+  *O que os fantasmas querem de você? O que você precisa deles?*
 
-***Apocalypse Then - Action:*** Spend a Fear to manifest the echo of a past disaster that ravaged the city. Activate a Progress Countdown (5) as the disaster replays around the PCs. To complete the countdown and escape the catastrophe, the PCs must overcome threats such as rampaging fires, stampeding civilians, collapsing buildings, or crumbling streets, while recalling history and finding clues to escape the inevitable.
+***Apocalipse Passado - Ação:*** Gaste um Medo para manifestar o eco de um desastre passado que devastou a cidade. Ative uma Contagem Regressiva de Progresso (5) enquanto o desastre se repete ao redor dos PJs. Para completar a contagem regressiva e escapar da catástrofe, os PJs devem superar ameaças como incêndios descontrolados, civis em pânico, prédios desabando ou ruas desmoronando, enquanto recordam a história e encontram pistas para escapar do inevitável.
 
-  *Is this the disaster that led the city to be abandoned? What is known about this disaster, and how could that help the PCs escape?*
+  *Este é o desastre que levou a cidade a ser abandonada? O que se sabe sobre esse desastre, e como isso poderia ajudar os PJs a escapar?*

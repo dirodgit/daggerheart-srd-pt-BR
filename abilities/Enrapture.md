@@ -1,6 +1,6 @@
-﻿# ENRAPTURE
+﻿# ENFEITIÇAR
 
-> **Level 1 Grace Spell**  
-> **Recall Cost:** 1
+> **Magia de Graça de Nível 1**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against a target within Close range. On a success, they become temporarily Enraptured. While Enraptured, a target’s attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Once per rest on a success, you can mark a Stress to force the Enraptured target to mark a Stress as well.
+Faça uma Jogada de Conjuração contra um alvo dentro do alcance Próximo. Em caso de sucesso, ele se torna temporariamente Enfeitiçado. Enquanto Enfeitiçado, a atenção do alvo está fixada em você, estreitando seu campo de visão e abafando qualquer som que não seja a sua voz. Uma vez por descanso, em um sucesso, você pode marcar um Estresse para forçar o alvo Enfeitiçado a marcar um Estresse também.

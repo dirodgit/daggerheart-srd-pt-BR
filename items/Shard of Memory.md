@@ -1,5 +1,5 @@
-﻿# SHARD OF MEMORY
+﻿# FRAGMENTO DE MEMÓRIA
 
-Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost.
+Uma vez a cada descanso longo, você pode gastar 2 de Esperança para recordar uma carta de domínio do seu cofre em vez de pagar seu Custo de Recordação.
 
 *Item*

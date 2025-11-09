@@ -1,5 +1,5 @@
-﻿# HOMING COMPASSES
+﻿# BÚSSOLAS GUIA
 
-These two compasses point toward each other no matter how far apart they are.
+Essas duas bússolas apontam uma para a outra, não importa o quão distantes estejam.
 
 *Item*

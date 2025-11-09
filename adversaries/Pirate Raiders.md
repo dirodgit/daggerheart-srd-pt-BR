@@ -1,15 +1,15 @@
 ﻿# PIRATE RAIDERS
 
-***Tier 1 Horde (3/HP)***  
-*Seafaring scoundrels moving in a ravaging pack.*  
-**Motives & Tactics:** Gang up, plunder, overwhelm
+***Horda de Nível 1 (3/HP)***  
+*Patifes marítimos que avançam em um bando devastador.*  
+**Motivações & Táticas:** Se agrupam, saqueiam, sobrecarregam
 
-> **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3  
-> **ATK:** +1 | **Cutlass:** Melee | 1d8+2 phy  
-> **Experience:** Sailor +3
+> **Dificuldade:** 12 | **Limiares:** 5/11 | **HP:** 4 | **Estresse:** 3  
+> **ATQ:** +1 | **Cutlass:** Corpo a corpo | 1d8+2 físico  
+> **Experiência:** Marinheiro +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d4+1) - Passive:*** When the Raiders have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
+***Horda (1d4+1) - Passiva:*** Quando os Raiders tiverem marcado metade ou mais do seu HP, seu ataque padrão causa 1d4+1 de dano físico em vez disso.
 
-***Swashbuckler - Passive:*** When the Raiders mark 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
+***Espadachim - Passiva:*** Quando os Raiders marcarem 2 ou menos de HP de um ataque dentro do alcance corpo a corpo, o atacante deve marcar um Estresse.

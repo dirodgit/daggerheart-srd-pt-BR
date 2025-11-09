@@ -1,12 +1,12 @@
-﻿# TINY RED OOZE
+﻿# LODO VERMELHO MINÚSCULO
 
-***Tier 1 Skulk***  
-*A small moving mound of translucent flaming red slime.*  
-**Motives & Tactics:** Blaze, camouflage
+***Esconderijo de Nível 1***  
+*Uma pequena montanha móvel de gosma translúcida em chamas vermelhas.*  
+**Motivações & Táticas:** Incêndio, camuflagem
 
-> **Difficulty:** 11 | **Thresholds:** 5/None | **HP:** 2 | **Stress:** 1  
-> **ATK:** -1 | **Ooze Appendage:** Melee | 1d4+2 mag  
+> **Dificuldade:** 11 | **Limiares:** 5/Nenhum | **PV:** 2 | **Estresse:** 1  
+> **ATAQ:** -1 | **Apêndice de Gosma:** Corpo a corpo | 1d4+2 mágico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Burning - Reaction:*** When a creature within Melee range deals damage to the Ooze, they take 1d6 direct magic damage.
+***Queimadura - Reação:*** Quando uma criatura dentro do alcance de Corpo a Corpo causa dano à Gosma, ela sofre 1d6 de dano mágico direto.

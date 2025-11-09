@@ -1,9 +1,9 @@
-# STRESS
+# ESTRESSE
 
-**Stress** represents how much mental, physical, and emotional strain a character can endure. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a GM move or to represent the cost, complication, or consequence of an action roll.
+**Estresse** representa o quanto de tensão mental, física e emocional um personagem pode suportar. Algumas habilidades especiais ou efeitos exigem que o personagem que as ativa marque Estresse, e o Mestre pode exigir que um PJ marque Estresse como um movimento do Mestre ou para representar o custo, complicação ou consequência de uma rolagem de ação.
 
-When a character marks their last Stress, they become **Vulnerable** (see: Conditions) until they clear at least 1 Stress.
+Quando um personagem marca seu último Estresse, ele se torna **Vulnerável** (veja: Condições) até que ele remova pelo menos 1 Estresse.
 
-When a character must mark 1 or more Stress but can’t, they mark 1 HP instead. A character can’t use a move that requires them to mark Stress if all of their Stress is marked.
+Quando um personagem deve marcar 1 ou mais Estresses, mas não pode, ele marca 1 PV em vez disso. Um personagem não pode usar um movimento que exija marcar Estresse se todo o seu Estresse já estiver marcado.
 
-PCs can clear Stress by making downtime moves (see: Downtime). A PC’s maximum Stress is determined by their class, but they can increase it through advancements, abilities, and other effects.
+PJs podem remover Estresse realizando movimentos de tempo livre (veja: Tempo Livre). O máximo de Estresse de um PJ é determinado pela sua classe, mas ele pode aumentá-lo por meio de avanços, habilidades e outros efeitos.

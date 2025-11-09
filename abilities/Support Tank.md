@@ -1,6 +1,6 @@
-﻿# SUPPORT TANK
+﻿# TANQUE DE SUPORTE
 
-> **Level 4 Valor Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Valor Nível 4**  
+> **Custo para Usar:** 2
 
-When an ally within Close range fails a roll, you can spend 2 Hope to allow them to reroll either their Hope or Fear Die.
+Quando um aliado em alcance Próximo falhar uma rolagem, você pode gastar 2 de Esperança para permitir que ele refaça a rolagem de seu Dado de Esperança ou de seu Dado de Medo.

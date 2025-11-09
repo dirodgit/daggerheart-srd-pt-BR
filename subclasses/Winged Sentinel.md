@@ -1,24 +1,24 @@
-﻿# WINGED SENTINEL
+﻿# SENTINELA ALADA
 
-Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
+Jogue como Sentinela Alada se quiser alçar voo e desferir golpes esmagadores do céu.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Strength
+Força
 
-## FOUNDATION FEATURE
+## RECURSO DE FUNDAÇÃO
 
-***Wings of Light:*** You can fly. While flying, you can do the following:
+***Asas de Luz:*** Você pode voar. Enquanto estiver voando, pode fazer o seguinte:
 
-- Mark a Stress to pick up and carry another willing creature approximately your size or smaller.
-- Spend a Hope to deal an extra 1d8 damage on a successful attack.
+- Marcar um Estresse para pegar e carregar outra criatura voluntária aproximadamente do seu tamanho ou menor.
+- Gastar uma Esperança para causar 1d8 de dano extra em um ataque bem-sucedido.
 
-## SPECIALIZATION FEATURE
+## RECURSO DE ESPECIALIZAÇÃO
 
-***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have advantage on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM’s Fear pool instead of gaining Hope.
+***Vulto Etéreo:*** Sua aparência sobrenatural inspira admiração e medo. Enquanto estiver voando, você tem vantagem em Testes de Presença. Quando obtiver sucesso com Esperança em um Teste de Presença, pode remover um Medo da reserva de Medo do GM em vez de ganhar Esperança.
 
-## MASTERY FEATURES
+## RECURSOS DE MESTRIA
 
-***Ascendant:*** Gain a permanent +4 bonus to your Severe damage threshold.
+***Ascendente:*** Ganhe um bônus permanente de +4 no seu limite de dano Grave.
 
-***Power of the Gods:*** While flying, you deal an extra 1d12 damage instead of 1d8 from your “Wings of Light” feature.
+***Poder dos Deuses:*** Enquanto estiver voando, você causa 1d12 de dano extra em vez de 1d8 pelo seu recurso “Asas de Luz”.

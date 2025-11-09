@@ -1,7 +1,7 @@
-﻿# DOUBLE FLAIL
+﻿# MANGUAL DUPLO
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Próximo; **Dano:** d10+8 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

@@ -1,8 +1,8 @@
-﻿# MENDING TOUCH
+﻿# TOQUE CURATIVO
 
-> **Level 1 Splendor Spell**  
-> **Recall Cost:** 1
+> **Feitiço de Esplendor de Nível 1**  
+> **Custo de Recordação:** 1
 
-You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you’re helping, you can spend 2 Hope to clear a Hit Point or a Stress on them.
+Você coloca suas mãos sobre uma criatura e canaliza magia de cura para fechar suas feridas. Quando pode dedicar alguns minutos para se concentrar no alvo que está ajudando, pode gastar 2 de Esperança para curar 1 Ponto de Vida ou 1 de Estresse nele.
 
-Once per long rest, when you spend this healing time learning something new about them or revealing something about yourself, you can clear 2 Hit Points or 2 Stress on them instead.
+Uma vez por descanso longo, quando você gasta esse tempo de cura aprendendo algo novo sobre ele ou revelando algo sobre si mesmo, pode curar 2 Pontos de Vida ou 2 de Estresse nele em vez disso.

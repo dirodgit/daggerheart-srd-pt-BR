@@ -1,7 +1,7 @@
-﻿# GILDED FALCHION
+﻿# FALCION DOURADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+4 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+4 físico; **Carga:** Uma mão
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

@@ -1,6 +1,6 @@
-﻿# UNTOUCHABLE
+﻿# INATINGÍVEL
 
-> **Level 1 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Osso de Nível 1**  
+> **Custo de Recordação:** 1
 
-Gain a bonus to your Evasion equal to half your Agility.
+Ganhe um bônus na sua Evasão igual à metade da sua Agilidade.

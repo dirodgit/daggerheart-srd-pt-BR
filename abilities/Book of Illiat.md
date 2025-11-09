@@ -1,10 +1,10 @@
-﻿# BOOK OF ILLIAT
+﻿# LIVRO DE ILLIAT
 
-> **Level 1 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Grimório do Códex Nível 1**  
+> **Custo de Recordação:** 2
 
-**Slumber:** Make a Spellcast Roll against a target within Very Close range. On a success, they’re Asleep until they take damage or the GM spends a Fear on their turn to clear this condition.
+**Sono:** Faça uma Jogada de Conjuração de Feitiço contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, ele fica Adormecido até sofrer dano ou o Mestre gastar um Medo no turno dele para remover essa condição.
 
-**Arcane Barrage:** Once per rest, spend any number of Hope and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of d6s equal to the Hope spent and deal that much magic damage to the target.
+**Rajada Arcana:** Uma vez por descanso, gaste qualquer quantidade de Esperança e dispare projéteis mágicos que atingem um alvo à sua escolha dentro do alcance Próximo. Role um número de d6s igual à Esperança gasta e cause esse tanto de dano mágico ao alvo.
 
-**Telepathy:** Spend a Hope to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again.
+**Telepatia:** Gaste uma Esperança para abrir uma linha de comunicação mental com um alvo que você possa ver. Essa conexão dura até seu próximo descanso ou até você conjurar Telepatia novamente.

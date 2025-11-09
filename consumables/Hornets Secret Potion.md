@@ -1,5 +1,5 @@
-﻿# HORNET’S SECRET POTION
+﻿# POÇÃO SECRETA DO VESPEIRO
 
-After drinking this potion, the next successful attack you make critically succeeds.
+Após beber esta poção, o próximo ataque bem-sucedido que você realizar será um sucesso crítico.
 
-*Consumable*
+*Consumível*

@@ -1,7 +1,7 @@
-﻿# ADVANCED CROSSBOW
+﻿# BESTA AVANÇADA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+7 físico; **Peso:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

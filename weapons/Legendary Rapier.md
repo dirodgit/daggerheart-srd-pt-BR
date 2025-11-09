@@ -1,7 +1,7 @@
-﻿# LEGENDARY RAPIER
+﻿# FLEURIM DE LENDÁRIO
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8+9 físico; **Peso:** Uma Mão
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Característica:** ***Rápido:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

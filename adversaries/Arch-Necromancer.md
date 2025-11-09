@@ -1,21 +1,21 @@
-﻿# ARCH-NECROMANCER
+﻿# ARQUI-NECROMANTE
 
-***Tier 4 Leader***  
-*A decaying mage adorned in dark, tattered robes.*  
-**Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect
+***Líder de Nível 4***  
+*Um mago em decomposição vestido com mantos escuros e esfarrapados.*  
+**Motivações & Táticas:** Corromper, decair, fugir para lutar outro dia, ressuscitar
 
-> **Difficulty:** 21 | **Thresholds:** 33/66 | **HP:** 9 | **Stress:** 8  
-> **ATK:** +6 | **Necrotic Blast:** Far | 4d12+8 mag  
-> **Experience:** Forbidden Knowledge +3, Wisdom of Centuries +3
+> **Dificuldade:** 21 | **Limiares:** 33/66 | **PV:** 9 | **Estresse:** 8  
+> **ATQ:** +6 | **Explosão Necrótica:** Distante | 4d12+8 mágico  
+> **Experiência:** Conhecimento Proibido +3, Sabedoria dos Séculos +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Dance of Death - Action:*** Mark a Stress to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage, or full damage if you spend a Fear.
+***Dança da Morte - Ação:*** Marque 1 Estresse para destacar 1d4 aliados. Ataques que eles fizerem enquanto estiverem destacados dessa forma causam metade do dano, ou dano total se você gastar um Medo.
 
-***Beam of Decay - Action:*** Mark 2 Stress to cause all targets within Far range to make a Strength Reaction Roll. Targets who fail take 2d20+12 magic damage and you gain a Fear. Targets who succeed take half damage. A target who marks 2 or more HP must also mark 2 Stress and becomes Vulnerable until they roll with Hope.
+***Raio da Decadência - Ação:*** Marque 2 Estresses para fazer todos os alvos dentro do alcance Distante realizarem um Teste de Reação de Força. Alvos que falharem recebem 2d20+12 de dano mágico e você ganha um Medo. Alvos que tiverem sucesso recebem metade do dano. Um alvo que marcar 2 ou mais PV também deve marcar 2 Estresses e se torna Vulnerável até rolar com Esperança.
 
-***Open the Gates of Death - Action:*** Spend a Fear to summon a Zombie Legion, which appears at Close range and immediately takes the spotlight.
+***Abra os Portões da Morte - Ação:*** Gaste um Medo para invocar uma Legião de Zumbis, que aparece em alcance Próximo e imediatamente assume o destaque.
 
-***Not Today, My Dears - Reaction:*** When the Necromancer has marked 7 or more of their HP, you can spend a Fear to have them teleport away to a safe location to recover. A PC who succeeds on an Instinct Roll can trace the teleportation magic to their destination.
+***Hoje Não, Meus Queridos - Reação:*** Quando o Necromante tiver marcado 7 ou mais de seus PV, você pode gastar um Medo para fazê-lo se teletransportar para um local seguro para se recuperar. Um PJ que tiver sucesso em um Teste de Instinto pode rastrear a magia de teletransporte até o destino.
 
-***Your Demise is Near - Reaction:*** Countdown (2d6). When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal 2d10+6 direct magic damage to a target within Close range. The Necromancer then clears a number of Stress or HP equal to the number of HP marked by the target from this attack.
+***Sua Ruína Está Próxima - Reação:*** Contagem regressiva (2d6). Quando o Necromante tiver marcado 6 ou mais de seus PV, ative a contagem regressiva. Quando ela disparar, cause 2d10+6 de dano mágico direto a um alvo em alcance Próximo. O Necromante então limpa um número de Estresses ou PV igual ao número de PV marcados pelo alvo deste ataque.

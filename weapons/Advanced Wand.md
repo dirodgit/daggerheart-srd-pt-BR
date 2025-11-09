@@ -1,7 +1,7 @@
-﻿# ADVANCED WAND
+﻿# VARINHA AVANÇADA
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+7 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+7 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

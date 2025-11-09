@@ -1,7 +1,7 @@
-﻿# ADVANCED HALBERD
+﻿# ALABARDA AVANÇADA
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Muito Próximo; **Dano:** d10+8 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitada:*** -1 na Destreza
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

@@ -1,9 +1,9 @@
 ﻿# RIBBET
 
-Ribbets resemble anthropomorphic frogs with protruding eyes and webbed hands and feet. They have smooth (though sometimes warty) moist skin and eyes positioned on either side of their head. Some ribbets have hind legs more than twice the length of their torso, while others have short limbs. No matter their size (which ranges from about 3 feet to 4 ½ feet), ribbets primarily move by hopping. All ribbets have webbed appendages, allowing them to swim with ease. Some ribbets possess a natural green-and-brown camouflage, while others are vibrantly colored with bold patterns. No matter their appearance, all ribbets are born from eggs laid in the water, hatch into tadpoles, and after about 6 to 7 years, grow into amphibians that can move around on land. Ribbets live for approximately 100 years.
+Os ribbets se assemelham a sapos antropomórficos com olhos protuberantes e mãos e pés palmados. Eles possuem pele lisa (embora às vezes verrugosa) e úmida, com os olhos posicionados em cada lado da cabeça. Alguns ribbets têm pernas traseiras com mais do que o dobro do comprimento do torso, enquanto outros têm membros curtos. Independentemente do tamanho (que varia de cerca de 90 cm a 1,35 m), os ribbets se movem principalmente pulando. Todos os ribbets possuem apêndices palmados, o que lhes permite nadar com facilidade. Alguns ribbets possuem uma camuflagem natural verde e marrom, enquanto outros são vibrantes e coloridos com padrões ousados. Independentemente da aparência, todos os ribbets nascem de ovos postos na água, eclodem em girinos e, após cerca de 6 a 7 anos, crescem e se tornam anfíbios capazes de se locomover em terra. Os ribbets vivem aproximadamente 100 anos.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***Amphibious:*** You can breathe and move naturally underwater.
+***Anfíbio:*** Você pode respirar e se mover naturalmente debaixo d'água.
 
-***Long Tongue:*** You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency.
+***Língua Longa:*** Você pode usar sua língua longa para agarrar objetos em alcance Próximo. **Marque um Estresse** para usar sua língua como uma Arma de Combate Próximo com Destreza que causa **d12** de dano físico usando sua Proficiência.

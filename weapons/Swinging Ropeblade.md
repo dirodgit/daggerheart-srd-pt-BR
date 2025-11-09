@@ -1,7 +1,7 @@
-﻿# SWINGING ROPEBLADE
+﻿# LÂMINA DE CORDA OSCILANTE
 
-**Trait:** Presence; **Range:** Close; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Próximo; **Dano:** d8+9 físico; **Carga:** Uma Mão
 
-**Feature:** ***Grappling:*** On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you.
+**Característica:** ***Agarre:*** Em um ataque bem-sucedido, você pode gastar uma Esperança para Imobilizar o alvo ou puxá-lo para o alcance de Combate Corpo a Corpo com você.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

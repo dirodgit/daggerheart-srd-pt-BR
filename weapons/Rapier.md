@@ -1,7 +1,7 @@
 ﻿# RAPIER
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8 físico; **Carga:** Uma Mão
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Habilidade:** ***Rápido:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

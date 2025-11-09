@@ -1,7 +1,7 @@
-﻿# RUNES OF FORTIFICATION
+﻿# RUNAS DE FORTIFICAÇÃO
 
-**Base Thresholds:** 17 / 43; **Base Score:** 6
+**Limiares Base:** 17 / 43; **Pontuação Base:** 6
 
-**Feature:** ***Painful:*** Each time you mark an Armor Slot, you must mark a Stress.
+**Característica:** ***Doloroso:*** Cada vez que você marcar um Espaço de Armadura, deve marcar um Estresse.
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

@@ -1,6 +1,6 @@
-﻿# INEVITABLE
+﻿# INEVITÁVEL
 
-> **Level 6 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 6**  
+> **Custo para Recordar:** 1
 
-When you fail an action roll, your next action roll has advantage.
+Quando você falha em uma rolagem de ação, sua próxima rolagem de ação tem vantagem.

@@ -1,7 +1,7 @@
-﻿# ADVANCED FULL PLATE ARMOR
+﻿# ARMADURA COMPLETA AVANÇADA
 
-**Base Thresholds:** 15 / 35; **Base Score:** 6
+**Limiares Base:** 15 / 35; **Pontuação Base:** 6
 
-**Feature:** ***Very Heavy:*** -2 to Evasion; -1 to Agility
+**Característica:** ***Muito Pesada:*** -2 na Evasão; -1 na Agilidade
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

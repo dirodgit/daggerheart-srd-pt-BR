@@ -1,7 +1,7 @@
-﻿# LEGENDARY HAND CROSSBOW
+﻿# BESTA DE MÃO LENDÁRIA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+7 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

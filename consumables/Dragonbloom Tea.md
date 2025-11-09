@@ -1,5 +1,5 @@
-﻿# DRAGONBLOOM TEA
+﻿# CHÁ DRAGONBLOOM
 
-You can drink this tea to unleash a fiery breath attack. Make an Instinct Roll against all adversaries in front of you within Close range. Targets you succeed against take 2d20 physical damage using your Proficiency.
+Você pode beber este chá para desencadear um ataque de sopro flamejante. Faça uma Jogada de Instinto contra todos os adversários à sua frente em alcance Próximo. Os alvos contra os quais você obtiver sucesso recebem 2d20 de dano físico usando sua Proficiência.
 
-*Consumable*
+*Consumível*

@@ -1,5 +1,5 @@
-﻿# BELT OF UNITY
+﻿# CINTO DA UNIDADE
 
-Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.
+Uma vez por sessão, você pode gastar 5 de Esperança para liderar um Rolagem em Equipe com três PCs em vez de dois.
 
 *Item*

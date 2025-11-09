@@ -1,6 +1,6 @@
-﻿# CRUEL PRECISION
+﻿# PRECISÃO CRUEL
 
-> **Level 7 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 7**  
+> **Custo de Recordação:** 1
 
-When you make a successful attack with a weapon, gain a bonus to your damage roll equal to either your Finesse or Agility.
+Quando você realiza um ataque bem-sucedido com uma arma, ganha um bônus na sua rolagem de dano igual ao seu Valor de Destreza ou Agilidade.

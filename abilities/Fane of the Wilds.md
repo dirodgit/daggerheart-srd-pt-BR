@@ -1,12 +1,12 @@
 ﻿# FANE OF THE WILDS
 
-> **Level 9 Sage Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Sábio de Nível 9**  
+> **Custo de Recordação:** 2
 
-After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.
+Após um descanso longo, coloque um número de marcadores igual ao número de cartas de domínio de Sábio em seu equipamento e cofre nesta carta.
 
-When you would make a Spellcast Roll, you can spend any number of tokens after the roll to gain a +1 bonus for each token spent.
+Quando você fizer uma Jogada de Conjuração de Feitiço, pode gastar qualquer número de marcadores após a jogada para ganhar um bônus de +1 para cada marcador gasto.
 
-When you critically succeed on a Spellcast Roll for a Sage domain spell, gain a token.
+Quando você obtiver um sucesso crítico em uma Jogada de Conjuração de Feitiço para um feitiço do domínio de Sábio, ganhe um marcador.
 
-When you take a long rest, clear all unspent tokens.
+Quando você fizer um descanso longo, remova todos os marcadores não gastos.

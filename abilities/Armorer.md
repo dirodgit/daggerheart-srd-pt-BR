@@ -1,8 +1,8 @@
-﻿# ARMORER
+﻿# ARMADURA
 
-> **Level 5 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 5**  
+> **Custo para Recordar:** 1
 
-While you’re wearing armor, gain a +1 bonus to your Armor Score.
+Enquanto você estiver usando armadura, ganha um bônus de +1 na sua Pontuação de Armadura.
 
-During a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot.
+Durante um descanso, quando você escolher reparar sua armadura como uma ação de inatividade, seus aliados também liberam um Espaço de Armadura.

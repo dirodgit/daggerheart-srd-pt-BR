@@ -1,7 +1,7 @@
-﻿# IMPROVED FULL PLATE ARMOR
+﻿# ARMADURA DE PLACA COMPLETA APRIMORADA
 
-**Base Thresholds:** 13 / 28; **Base Score:** 5
+**Limiares Base:** 13 / 28; **Pontuação Base:** 5
 
-**Feature:** ***Very Heavy:*** -2 to Evasion; -1 to Agility
+**Característica:** ***Muito Pesada:*** -2 na Evasão; -1 na Agilidade
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

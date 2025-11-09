@@ -1,13 +1,13 @@
-﻿# TELEPORT
+﻿# TELETRANSPORTE
 
-> **Level 5 Codex Spell**  
-> **Recall Cost:** 2
+> **Magia do Códice de Nível 5**  
+> **Custo de Recuperação:** 2
 
-Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you’ve been before. Choose one of the following options, then make a Spellcast Roll (16):
+Uma vez a cada descanso longo, você pode se teletransportar instantaneamente, junto com qualquer número de alvos dispostos dentro do alcance Próximo, para um lugar onde você já esteve antes. Escolha uma das seguintes opções e então faça uma Jogada de Conjuração de Magia (16):
 
-- If you know the place very well, gain a +3 bonus.
-- If you’ve visited the place frequently, gain a +1 bonus.
-- If you’ve visited the place infrequently, gain no modifier.
-- If you’ve only been there once, gain a -2 penalty.
+- Se você conhece muito bem o lugar, ganhe um bônus de +3.
+- Se você visitou o lugar com frequência, ganhe um bônus de +1.
+- Se você visitou o lugar raramente, não ganhe modificador.
+- Se você esteve lá apenas uma vez, receba uma penalidade de -2.
 
-On a success, you appear where you were intending to go. On a failure, you appear off course, with the range of failure determining how far off course.
+Em caso de sucesso, você aparece onde pretendia ir. Em caso de falha, você aparece fora do curso, com a distância do erro determinada pelo grau da falha.

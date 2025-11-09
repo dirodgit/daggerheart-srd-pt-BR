@@ -1,7 +1,7 @@
-﻿# ADVANCED SHORTBOW
+﻿# ARCO CURTO AVANÇADO
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+9 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Longo; **Dano:** d6+9 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

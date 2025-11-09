@@ -1,15 +1,15 @@
 ﻿# CALL OF THE SLAYER
 
-Play the Call of the Slayer if you want to strike down adversaries with immense force.
+Jogue Call of the Slayer se quiser derrubar adversários com força imensa.
 
-## FOUNDATION FEATURE
+## CARACTERÍSTICA DE FUNDAÇÃO
 
-***Slayer:*** You gain a pool of dice called Slayer Dice. On a roll with Hope, you can place a d6 on this card instead of gaining a Hope, adding the die to the pool. You can store a number of Slayer Dice equal to your Proficiency. When you make an attack roll or damage roll, you can spend any number of these Slayer Dice, rolling them and adding their result to the roll. At the end of each session, clear any unspent Slayer Dice on this card and gain a Hope per die cleared.
+***Slayer:*** Você ganha um conjunto de dados chamados Dados de Encontro. Em uma rolagem com Esperança, você pode colocar um d6 nesta carta em vez de ganhar uma Esperança, adicionando o dado ao conjunto. Você pode armazenar um número de Dados de Encontro igual à sua Proficiência. Quando fizer uma rolagem de ataque ou de dano, pode gastar qualquer número desses Dados de Encontro, rolando-os e adicionando o resultado à rolagem. No final de cada sessão, limpe quaisquer Dados de Encontro não gastos nesta carta e ganhe uma Esperança para cada dado limpo.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Weapon Specialist:*** You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can spend a Hope to add one of the damage dice from your secondary weapon to the damage roll. Additionally, once per long rest when you roll your Slayer Dice, reroll any 1s.
+***Especialista em Armas:*** Você pode manejar múltiplas armas com perigosa facilidade. Quando você obtiver sucesso em um ataque, pode gastar uma Esperança para adicionar um dos dados de dano da sua arma secundária à rolagem de dano. Além disso, uma vez por descanso longo, quando rolar seus Dados de Encontro, rerrole quaisquer resultados 1.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Martial Preparation:*** You’re an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a d6 Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice.
+***Preparação Marcial:*** Você é um guerreiro inspirador para todos que viajam com você. Seu grupo ganha acesso ao movimento de inatividade Preparação Marcial. Para usar este movimento durante um descanso, descreva como você instrui e treina com seu grupo. Você e cada aliado que escolher este movimento de inatividade ganham um Dado de Encontro d6. Um personagem jogador com um Dado de Encontro pode gastá-lo para rolar o dado e adicionar o resultado a uma rolagem de ataque ou dano de sua escolha.

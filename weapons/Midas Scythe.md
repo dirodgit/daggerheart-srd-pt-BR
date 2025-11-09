@@ -1,7 +1,7 @@
-﻿# MIDAS SCYTHE
+﻿# FOICE MIDAS
 
-**Trait:** Knowledge; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
+**Traço:** Conhecimento; **Alcance:** Corpo a corpo; **Dano:** d10+9 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Greedy:*** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
+**Característica:** ***Ganancioso:*** Gaste um punhado de ouro para ganhar um bônus de +1 na sua Proficiência em um teste de dano.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

@@ -1,6 +1,6 @@
-﻿# SHADOWHUNTER
+﻿# CAÇADOR DE SOMBRAS
 
-> **Level 8 Midnight Ability**  
-> **Recall Cost:** 2
+> **Habilidade do Nível 8 da Meia-Noite**  
+> **Custo para Recordar:** 2
 
-Your prowess is enhanced under the cover of shadow. While you’re shrouded in low light or darkness, you gain a +1 bonus to your Evasion and make attack rolls with advantage.
+Sua destreza é aprimorada sob o manto da sombra. Enquanto você estiver envolto em pouca luz ou escuridão, ganha um bônus de +1 em sua Evasão e realiza jogadas de ataque com vantagem.

@@ -1,5 +1,5 @@
 ﻿# ACIDPASTE
 
-This paste eats away walls and other surfaces in bright flashes.
+Esta pasta corrói paredes e outras superfícies em flashes brilhantes.
 
-*Consumable*
+*Consumível*

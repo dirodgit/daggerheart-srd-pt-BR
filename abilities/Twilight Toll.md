@@ -1,8 +1,8 @@
-﻿# TWILIGHT TOLL
+﻿# TOLETA DO CREPÚSCULO
 
-> **Level 9 Midnight Ability**  
-> **Recall Cost:** 1
+> **Habilidade da Meia-Noite de Nível 9**  
+> **Custo para Recordar:** 1
 
-Choose a target within Far range. When you succeed on an action roll against them that doesn’t result in making a damage roll, place a token on this card. When you deal damage to this target, spend any number of tokens to add a d12 for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time.
+Escolha um alvo dentro do alcance Longínquo. Quando você obtiver sucesso em uma rolagem de ação contra ele que não resulte em uma rolagem de dano, coloque um marcador nesta carta. Quando você causar dano a esse alvo, gaste qualquer número de marcadores para adicionar um d12 para cada marcador gasto à sua rolagem de dano. Você só pode manter Toleta do Crepúsculo em uma criatura por vez.
 
-When you choose a new target or take a rest, clear all unspent tokens.
+Quando você escolher um novo alvo ou fizer um descanso, remova todos os marcadores não gastos.

@@ -1,7 +1,7 @@
-﻿# EMBERWOVEN ARMOR
+﻿# ARMADURA TECEBRASA
 
-**Base Thresholds:** 13 / 36; **Base Score:** 6
+**Limiares Base:** 13 / 36; **Pontuação Base:** 6
 
-**Feature:** ***Burning:*** When an adversary attacks you within Melee range, they mark a Stress.
+**Habilidade:** ***Queimadura:*** Quando um adversário o ataca em alcance Corpo a Corpo, ele marca 1 Estresse.
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

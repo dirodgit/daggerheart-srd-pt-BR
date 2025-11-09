@@ -1,6 +1,6 @@
-﻿# HEALING HANDS
+﻿# MÃOS CURATIVAS
 
-> **Level 2 Splendor Spell**  
-> **Recall Cost:** 1
+> **Magia de Esplendor de Nível 2**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll (13) and target a creature other than yourself within Melee range. On a success, mark a Stress to clear 2 Hit Points or 2 Stress on the target. On a failure, mark a Stress to clear a Hit Point or a Stress on the target. You can’t heal the same target again until your next long rest.
+Faça uma Jogada de Conjuração de Magia (13) e escolha uma criatura, exceto você mesmo, dentro do alcance de Combate Corpo a Corpo. Em caso de sucesso, marque 1 Estresse para curar 2 Pontos de Vida ou 2 Estresses no alvo. Em caso de falha, marque 1 Estresse para curar 1 Ponto de Vida ou 1 Estresse no alvo. Você não pode curar o mesmo alvo novamente até seu próximo descanso longo.

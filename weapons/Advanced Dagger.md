@@ -1,7 +1,7 @@
-﻿# ADVANCED DAGGER
+﻿# ADAGA AVANÇADA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+7 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+7 físico; **Carga:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

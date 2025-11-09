@@ -1,6 +1,6 @@
-﻿# FORTIFIED ARMOR
+﻿# ARMADURA FORTIFICADA
 
-> **Level 4 Blade Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Lâmina de Nível 4**  
+> **Custo para Recordar:** 0
 
-While you are wearing armor, gain a +2 bonus to your damage thresholds.
+Enquanto você estiver usando armadura, ganha um bônus de +2 nos seus limiares de dano.

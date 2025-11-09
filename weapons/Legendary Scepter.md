@@ -1,7 +1,7 @@
-﻿# LEGENDARY SCEPTER
+﻿# CÉPTRO LENDÁRIO
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Traço:** Presença; **Alcance:** Longo; **Dano:** d6+9 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8+6.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas — Presença, Corpo a Corpo, d8+6.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

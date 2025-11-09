@@ -1,5 +1,5 @@
-﻿# REDTHORN SALIVA
+﻿# SALIVA DE ESPINHEIRA-VERMELHA
 
-You can apply this saliva to a weapon that deals physical damage to add a d12 to your next damage roll with that weapon.
+Você pode aplicar esta saliva a uma arma que cause dano físico para adicionar um d12 ao seu próximo teste de dano com essa arma.
 
-*Consumable*
+*Consumível*

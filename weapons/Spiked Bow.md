@@ -1,7 +1,7 @@
-﻿# SPIKED BOW
+﻿# ARCO ESPINHOSO
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d6+7 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Longo; **Dano:** d6+7 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Agility, Melee, d10+5.
+**Característica:** ***Versátil:*** Esta arma também pode ser usada com estas estatísticas—Agilidade, Corpo a Corpo, d10+5.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

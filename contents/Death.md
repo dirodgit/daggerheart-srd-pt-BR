@@ -1,17 +1,17 @@
-# DEATH
+# MORTE
 
-When a PC marks their last Hit Point, they must make a **death move** by choosing one of the options below.
+Quando um PJ marca seu último Ponto de Vida, ele deve fazer um **movimento de morte** escolhendo uma das opções abaixo.
 
-If your character dies, work with the GM before the next session to create a new character at the current level of the rest of the party.
+Se seu personagem morrer, trabalhe com o Mestre antes da próxima sessão para criar um novo personagem no nível atual do restante do grupo.
 
-## BLAZE OF GLORY
+## GLÓRIA FINAL
 
-Your character embraces death and goes out in a blaze of glory. Take one final action. It automatically critically succeeds (with GM approval), and then you cross through the veil of death.
+Seu personagem abraça a morte e sai em uma glória flamejante. Realize uma ação final. Ela automaticamente tem sucesso crítico (com aprovação do Mestre), e então você atravessa o véu da morte.
 
-## AVOID DEATH
+## EVITAR A MORTE
 
-Your character avoids death and faces the consequences. They temporarily drop unconscious, and then you work with the GM to describe how the situation worsens. While unconscious, your character can’t move or act, and they can’t be targeted by an attack. They return to consciousness when an ally clears 1 or more of their marked Hit Points or when the party finishes a long rest. After your character falls unconscious, roll your Hope Die. If its value is equal to or less than your character’s level, they gain a scar; permanently cross out a Hope slot and work with the GM to determine its lasting narrative impact and how, if possible, it can be restored. If you ever cross out your last Hope slot, your character’s journey ends.
+Seu personagem evita a morte e enfrenta as consequências. Ele cai temporariamente inconsciente, e então você trabalha com o Mestre para descrever como a situação piora. Enquanto estiver inconsciente, seu personagem não pode se mover ou agir, e não pode ser alvo de ataques. Ele volta à consciência quando um aliado recupera 1 ou mais dos seus Pontos de Vida marcados ou quando o grupo termina um descanso longo. Após seu personagem cair inconsciente, role seu Dado de Esperança. Se o valor for igual ou menor que o nível do seu personagem, ele ganha uma cicatriz; risque permanentemente um espaço de Esperança e trabalhe com o Mestre para determinar seu impacto narrativo duradouro e como, se possível, ele pode ser restaurado. Se você riscar seu último espaço de Esperança, a jornada do seu personagem termina.
 
-## RISK IT ALL
+## ARRISQUE TUDO
 
-Roll your Duality Dice. If the Hope Die is higher, your character stays on their feet and clears a number of Hit Points or Stress equal to the value of the Hope Die (you can divide the Hope Die value between Hit Points and Stress however you’d prefer). If the Fear Die is higher, your character crosses through the veil of death. If the Duality Dice show matching results, your character stays up and clears nothing.
+Role seus Dados de Dualidade. Se o Dado de Esperança for maior, seu personagem permanece de pé e recupera uma quantidade de Pontos de Vida ou Estresse igual ao valor do Dado de Esperança (você pode dividir o valor do Dado de Esperança entre Pontos de Vida e Estresse como preferir). Se o Dado de Medo for maior, seu personagem atravessa o véu da morte. Se os Dados de Dualidade mostrarem resultados iguais, seu personagem permanece de pé e não recupera nada.

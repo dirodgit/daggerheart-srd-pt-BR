@@ -1,7 +1,7 @@
-﻿# MONETT’S CLOAK
+﻿# MANTO DE MONETT
 
-**Base Thresholds:** 16 / 39; **Base Score:** 6
+**Limiares Base:** 16 / 39; **Pontuação Base:** 6
 
-**Feature:** ***Magic:*** You can’t mark an Armor Slot to reduce physical damage.
+**Característica:** ***Magia:*** Você não pode marcar um Espaço de Armadura para reduzir dano físico.
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

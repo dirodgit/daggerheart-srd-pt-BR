@@ -1,7 +1,7 @@
-﻿# LEGENDARY GREATSTAFF
+﻿# BASTÃO LENDÁRIO
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Traço:** Conhecimento; **Alcance:** Muito Longo; **Dano:** d6+9 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

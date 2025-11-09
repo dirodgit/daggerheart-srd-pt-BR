@@ -1,30 +1,30 @@
-﻿# NECROMANCER’S OSSUARY
+﻿# OSSUÁRIO DO NECROMANTE
 
-***Tier 4 Exploration***  
-*A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.*  
-**Impulses:** Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead
+***Exploração de Nível 4***  
+*Uma cripta empoeirada com uma biblioteca, corredores sinuosos e sarcófagos abundantes; salpicada com o sangue de invasores malfadados.*  
+**Impulsos:** Confundir intrusos, desvendar segredos que deveriam permanecer enterrados, manifestar a não-vida, desencadear uma maré de mortos-vivos
 
-> **Difficulty:** 19  
-> **Potential Adversaries:** Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)
+> **Dificuldade:** 19  
+> **Adversários Potenciais:** Horda do Arquinecromante (Zumbi Perfeito, Legião de Zumbis)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***No Place for the Living - Passive:*** A feature or action that clears HP requires spending a Hope to use. If it already costs Hope, a PC must spend an additional Hope.
+***Lugar Nenhum para os Vivos - Passivo:*** Uma característica ou ação que restaura HP requer gastar uma Esperança para ser usada. Se já custar Esperança, um PJ deve gastar uma Esperança adicional.
 
-  *What does it feel like to try to heal in a place so antithetical to life?*
+  *Como é tentar se curar em um lugar tão antitético à vida?*
 
-***Centuries of Knowledge - Passive:*** A PC can investigate the library and laboratory and make a Knowledge Roll to learn information related to arcana, local history, and the Necromancer’s plans.
+***Séculos de Conhecimento - Passivo:*** Um PJ pode investigar a biblioteca e o laboratório e fazer uma Jogada de Conhecimento para aprender informações relacionadas a arcana, história local e os planos do Necromante.
 
-  *What are the names of the tomes? What project is the necromancer working on and what does it communicate about their plans?*
+  *Quais são os nomes dos tomos? Em que projeto o necromante está trabalhando e o que isso comunica sobre seus planos?*
 
-***Skeletal Burst - Action:*** All targets within Close range of a point you choose in this environment must succeed on an Agility Reaction Roll or take 4d8+8 physical damage from bone shrapnel as part of the ossuary detonates around them.
+***Explosão Esquelética - Ação:*** Todos os alvos dentro do alcance Próximo de um ponto que você escolher neste ambiente devem ter sucesso em uma Jogada de Reação de Agilidade ou sofrer 4d8+8 de dano físico por estilhaços ósseos enquanto parte do ossuário detona ao redor deles.
 
-  *What ancient skeletal architecture is destroyed? What bones stick in your armor?*
+  *Que antiga arquitetura esquelética é destruída? Quais ossos ficam presos em sua armadura?*
 
-***Aura of Death - Action:*** Once per scene, roll a d4. Each undead within Far range of the Necromancer can clear HP and Stress equal to the result rolled. The undead can choose how that total number is divided between HP and Stress.
+***Aura da Morte - Ação:*** Uma vez por cena, role um d4. Cada morto-vivo dentro do alcance Distante do Necromante pode restaurar HP e Estresse igual ao resultado obtido. Os mortos-vivos podem escolher como esse total é dividido entre HP e Estresse.
 
-  *How does the power manifest? Do the undead look more lifelike or, paradoxically, are they more decayed but vigorous?*
+  *Como o poder se manifesta? Os mortos-vivos parecem mais vivos ou, paradoxalmente, estão mais decadentes, porém vigorosos?*
 
-***They Just Keep Coming! - Action:*** Spend a Fear to summon 1d6 Rotted Zombies, two Perfected Zombies, or a Zombie Legion, who appear at Close range of a chosen PC.
+***Eles Não Param de Vir! - Ação:*** Gaste um Medo para invocar 1d6 Zumbis Podres, dois Zumbis Perfeitos ou uma Legião de Zumbis, que aparecem no alcance Próximo de um PJ escolhido.
 
-  *Who were these people before they became the necromancer’s pawns? What vestiges of those lives remain for the heroes to see?*
+  *Quem eram essas pessoas antes de se tornarem peões do necromante? Que vestígios dessas vidas permanecem para os heróis verem?*

@@ -1,19 +1,19 @@
 ﻿# SPELLBLADE
 
-***Tier 1 Leader***  
-*A mercenary combining swordplay and magic to deadly effect.*  
-**Motives & Tactics:** Blast, command, endure
+***Líder de Nível 1***  
+*Um mercenário que combina esgrima e magia com efeito mortal.*  
+**Motivações & Táticas:** Explosão, comando, resistência
 
-> **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3  
-> **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag  
-> **Experience:** Magical Knowledge +2
+> **Dificuldade:** 14 | **Limiares:** 8/14 | **PV:** 6 | **Estresse:** 3  
+> **ATQ:** +3 | **Espada Longa Empoderada:** Corpo a corpo | 1d8+4 físico/mágico  
+> **Experiência:** Conhecimento Mágico +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Arcane Steel - Passive:*** Damage dealt by the Spellblade’s standard attack is considered both physical and magic.
+***Aço Arcano - Passiva:*** O dano causado pelo ataque padrão do Spellblade é considerado tanto físico quanto mágico.
 
-***Suppressing Blast - Action:*** Mark a Stress and target a group within Far range. All targets must succeed on an Agility Reaction Roll or take 1d8+2 magic damage. You gain a Fear for each target who marked HP from this attack.
+***Explosão Supressora - Ação:*** Marque 1 Estresse e escolha um grupo dentro do alcance Longínquo. Todos os alvos devem ter sucesso em uma Rolagem de Reação de Agilidade ou sofrer 1d8+2 de dano mágico. Você ganha 1 Medo para cada alvo que marcou PV com este ataque.
 
-***Move as Unit - Action:*** Spend 2 Fear to spotlight up to five allies within Far range.
+***Mover como Unidade - Ação:*** Gaste 2 Medos para destacar até cinco aliados dentro do alcance Longínquo.
 
-***Momentum - Reaction:*** When the Spellblade makes a successful attack against a PC, you gain a Fear.
+***Momento - Reação:*** Quando o Spellblade realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

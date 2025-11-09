@@ -1,6 +1,6 @@
-﻿# SCRAMBLE
+﻿# EMBARALHAR
 
-> **Level 3 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 3**  
+> **Custo para Recordar:** 1
 
-Once per rest, when a creature within Melee range would deal damage to you, you can avoid the attack and safely move out of Melee range of the enemy.
+Uma vez por descanso, quando uma criatura dentro do alcance de Combate Corpo a Corpo for causar dano a você, você pode evitar o ataque e se mover com segurança para fora do alcance Corpo a Corpo do inimigo.

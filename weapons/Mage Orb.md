@@ -1,7 +1,7 @@
-﻿# MAGE ORB
+﻿# ORBE MÁGICO
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+7 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+7 mag; **Carga:** Uma Mão
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

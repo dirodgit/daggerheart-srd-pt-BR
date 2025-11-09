@@ -1,5 +1,5 @@
 ﻿# LOREKEEPER
 
-You can store the name and details of up to three hostile creatures inside this book. You gain a +1 bonus to action rolls against those creatures.
+Você pode armazenar o nome e os detalhes de até três criaturas hostis dentro deste livro. Você ganha um bônus de +1 em testes de ação contra essas criaturas.
 
 *Item*

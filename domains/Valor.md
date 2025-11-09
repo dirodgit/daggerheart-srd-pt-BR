@@ -1,18 +1,18 @@
 # VALOR
 
-Valor is the domain of protection. Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle. Valor offers great power to those who raise their shields in defense of others. The Valor domain can be accessed by the Guardian and Seraph classes.
+Valor é o domínio da proteção. Seja por meio do ataque ou da defesa, aqueles que escolhem esta disciplina canalizam uma força formidável para proteger seus aliados em batalha. Valor oferece grande poder àqueles que erguem seus escudos em defesa dos outros. O domínio Valor pode ser acessado pelas classes Guardião e Serafim.
 
-## DOMAIN CARDS
+## CARTAS DO DOMÍNIO
 
-| **Level** | **Option 1**                                                   | **Option 2**                                           | **Option 3**                                               |
+| **Nível** | **Opção 1**                                                   | **Opção 2**                                           | **Opção 3**                                               |
 | :-------: | -------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-|   **1**   | [Bare Bones](../abilities/Bare%20Bones.md)                     | [Forceful Push](../abilities/Forceful%20Push.md)       | [I Am Your Shield](../abilities/I%20Am%20Your%20Shield.md) |
-|   **2**   | [Body Basher](../abilities/Body%20Basher.md)                   | [Bold Presence](../abilities/Bold%20Presence.md)       | —                                                          |
-|   **3**   | [Critical Inspiration](../abilities/Critical%20Inspiration.md) | [Lean on Me](../abilities/Lean%20on%20Me.md)           | —                                                          |
-|   **4**   | [Goad Them On](../abilities/Goad%20Them%20On.md)               | [Support Tank](../abilities/Support%20Tank.md)         | —                                                          |
-|   **5**   | [Armorer](../abilities/Armorer.md)                             | [Rousing Strike](../abilities/Rousing%20Strike.md)     | —                                                          |
-|   **6**   | [Inevitable](../abilities/Inevitable.md)                       | [Rise Up](../abilities/Rise%20Up.md)                   | —                                                          |
-|   **7**   | [Shrug It Off](../abilities/Shrug%20It%20Off.md)               | [Valor-Touched](../abilities/Valor-Touched.md)         | —                                                          |
-|   **8**   | [Full Surge](../abilities/Full%20Surge.md)                     | [Ground Pound](../abilities/Ground%20Pound.md)         | —                                                          |
-|   **9**   | [Hold the Line](../abilities/Hold%20the%20Line.md)             | [Lead by Example](../abilities/Lead%20by%20Example.md) | —                                                          |
-|  **10**   | [Unbreakable](../abilities/Unbreakable.md)                     | [Unyielding Armor](../abilities/Unyielding%20Armor.md) | —                                                          |
+|   **1**   | [Essencial](../abilities/Bare%20Bones.md)                     | [Empurrão Forçado](../abilities/Forceful%20Push.md)       | [Eu Sou Seu Escudo](../abilities/I%20Am%20Your%20Shield.md) |
+|   **2**   | [Esmagador de Corpos](../abilities/Body%20Basher.md)                   | [Presença Ousada](../abilities/Bold%20Presence.md)       | —                                                          |
+|   **3**   | [Inspiração Crítica](../abilities/Critical%20Inspiration.md) | [Apoie em Mim](../abilities/Lean%20on%20Me.md)           | —                                                          |
+|   **4**   | [Provocar](../abilities/Goad%20Them%20On.md)               | [Tanque de Suporte](../abilities/Support%20Tank.md)         | —                                                          |
+|   **5**   | [Armadureiro](../abilities/Armorer.md)                             | [Golpe Animador](../abilities/Rousing%20Strike.md)     | —                                                          |
+|   **6**   | [Inevitável](../abilities/Inevitable.md)                       | [Levante-se](../abilities/Rise%20Up.md)                   | —                                                          |
+|   **7**   | [Sacuda Isso](../abilities/Shrug%20It%20Off.md)               | [Tocado pelo Valor](../abilities/Valor-Touched.md)         | —                                                          |
+|   **8**   | [Surto Total](../abilities/Full%20Surge.md)                     | [Golpe no Chão](../abilities/Ground%20Pound.md)         | —                                                          |
+|   **9**   | [Segure a Linha](../abilities/Hold%20the%20Line.md)             | [Lidere pelo Exemplo](../abilities/Lead%20by%20Example.md) | —                                                          |
+|  **10**   | [Inquebrável](../abilities/Unbreakable.md)                     | [Armadura Inflexível](../abilities/Unyielding%20Armor.md) | —                                                          |

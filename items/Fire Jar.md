@@ -1,5 +1,5 @@
-﻿# FIRE JAR
+﻿# POTE DE FOGO
 
-You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest.
+Você pode derramar o estranho líquido contido neste pote para produzir fogo instantaneamente. O conteúdo se regenera quando você faz um descanso longo.
 
 *Item*

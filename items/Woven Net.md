@@ -1,5 +1,5 @@
-﻿# WOVEN NET
+﻿# REDE TRAMADA
 
-You can make a Finesse Roll using this net to trap a small creature. A trapped target can break free with a successful Attack Roll (16).
+Você pode fazer uma Jogada de Destreza usando esta rede para capturar uma criatura pequena. Um alvo preso pode se libertar com uma Jogada de Ataque bem-sucedida (16).
 
 *Item*

@@ -1,5 +1,5 @@
-﻿# MINOR STAMINA POTION RECIPE
+﻿# RECEITA DE POÇÃO DE VIGOR MENOR
 
-As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion.
+Como uma ação de tempo livre, você pode usar o osso de uma criatura para criar uma Poção de Vigor Menor.
 
 *Item*

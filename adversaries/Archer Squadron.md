@@ -1,16 +1,16 @@
-﻿# ARCHER SQUADRON
+﻿# ESQUADRÃO DE ARQUEIROS
 
-***Tier 2 Horde (2/HP)***  
-*A group of trained archers bearing massive bows.*  
-**Motives & Tactics:** Stick together, survive, volley fire
+***Horda de Nível 2 (2/HP)***  
+*Um grupo de arqueiros treinados portando arcos enormes.*  
+**Motivações & Táticas:** Ficar juntos, sobreviver, fogo em rajada
 
-> **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3  
-> **ATK:** 0 | **Longbow:** Far | 2d6+3 phy  
+> **Dificuldade:** 13 | **Limiares:** 8/16 | **HP:** 4 | **Estresse:** 3  
+> **ATQ:** 0 | **Arco Longo:** Distante | 2d6+3 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d6+3) - Passive:*** When the Squadron has marked half or more of their HP, their standard attack deals 1d6+3 physical damage instead.
+***Horda (1d6+3) - Passiva:*** Quando o Esquadrão tiver marcado metade ou mais do seu HP, seu ataque padrão causa 1d6+3 de dano físico em vez disso.
 
-***Focused Volley - Action:*** Spend a Fear to target a point within Far range. Make an attack with advantage against all targets within Close range of that point. Targets the Squadron succeeds against take 1d10+4 physical damage.
+***Rajada Focada - Ação:*** Gaste um Medo para mirar em um ponto dentro do alcance Distante. Faça um ataque com vantagem contra todos os alvos dentro do alcance Próximo desse ponto. Os alvos contra os quais o Esquadrão obtiver sucesso recebem 1d10+4 de dano físico.
 
-***Suppressing Fire - Action:*** Mark a Stress to target a point within Far range. Until the next roll with Fear, a creature who moves within Close range of that point must make an Agility Reaction Roll. On a failure, they take 2d6+3 physical damage. On a success, they take half damage.
+***Fogo Supressor - Ação:*** Marque um Estresse para mirar em um ponto dentro do alcance Distante. Até a próxima rolagem com Medo, uma criatura que se mover dentro do alcance Próximo desse ponto deve fazer uma Rolagem de Reação de Agilidade. Em caso de falha, ela recebe 2d6+3 de dano físico. Em caso de sucesso, recebe metade do dano.

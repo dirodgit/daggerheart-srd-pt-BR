@@ -1,11 +1,11 @@
-﻿# BOOK OF SITIL
+﻿# LIVRO DE SITIL
 
-> **Level 2 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Grimório do Códex Nível 2**  
+> **Custo de Recordação:** 2
 
-**Adjust Appearance:** You magically shift your appearance and clothing to avoid recognition.
+**Ajustar Aparência:** Você muda magicamente sua aparência e roupas para evitar reconhecimento.
 
-**Parallecta:** Spend 2 Hope to cast this spell on yourself or an ally within Close range. The next time the target makes an attack, they can roll an additional target within range that their attack roll would succeed against. You can only hold this spell on one creature at a time.
+**Parallecta:** Gaste 2 de Esperança para lançar este feitiço em você ou em um aliado a uma distância Próxima. Na próxima vez que o alvo fizer um ataque, ele pode atingir um alvo adicional dentro do alcance contra o qual sua rolagem de ataque teria sucesso. Você só pode manter este feitiço em uma criatura por vez.
 
-**Illusion:** Make a Spellcast Roll (14).
-On a success, create a temporary visual illusion no larger than you within Close range that lasts for as long as you look at it. It holds up to scrutiny until an observer is within Melee range.
+**Ilusão:** Faça uma Rolagem de Conjuração de Feitiço (14).  
+Em caso de sucesso, crie uma ilusão visual temporária, não maior que você, a uma distância Próxima, que dura enquanto você a observa. Ela resiste a escrutínio até que um observador esteja a uma distância de Combate Corpo a Corpo.

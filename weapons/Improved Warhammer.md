@@ -1,7 +1,7 @@
-﻿# IMPROVED WARHAMMER
+﻿# WARHAMMER APRIMORADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+6 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+6 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesado:*** -1 na Evasão
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

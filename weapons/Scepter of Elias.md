@@ -1,7 +1,7 @@
-﻿# SCEPTER OF ELIAS
+﻿# CÉPTRO DE ELIAS
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Longo; **Dano:** d6+3 mag; **Peso:** Uma Mão
 
-**Feature:** ***Invigorating:*** On a successful attack, roll a d4. On a result of 4, clear a Stress.
+**Característica:** ***Revigorante:*** Em um ataque bem-sucedido, role um d4. No resultado 4, remova um Estresse.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

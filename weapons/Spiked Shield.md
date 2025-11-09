@@ -1,7 +1,7 @@
-﻿# SPIKED SHIELD
+﻿# ESCUDO COM ESPIGAS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d6+2 físico; **Peso:** Uma mão
 
-**Feature:** ***Double Duty:*** +1 to Armor Score; +1 to primary weapon damage within Melee range
+**Característica:** ***Dupla Função:*** +1 na Pontuação de Armadura; +1 no dano da arma primária dentro do alcance de Corpo a Corpo
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

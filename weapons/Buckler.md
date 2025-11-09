@@ -1,7 +1,7 @@
-﻿# BUCKLER
+﻿# ESCUDO REDONDO
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d4+4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Deflecting:*** When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your available Armor Slots against the attack.
+**Característica:** ***Desviar:*** Quando você for atacado, pode marcar um Espaço de Armadura para ganhar um bônus na sua Evasão igual aos seus Espaços de Armadura disponíveis contra o ataque.
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

@@ -1,13 +1,13 @@
-﻿# KNOW THY ENEMY
+﻿# CONHEÇA SEU INIMIGO
 
-> **Level 5 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 5**  
+> **Custo de Recordação:** 1
 
-When observing a creature, you can make an Instinct Roll against them. On a success, spend a Hope and ask the GM for one set of information about the target from the following options:
+Ao observar uma criatura, você pode fazer uma Jogada de Instinto contra ela. Em caso de sucesso, gaste uma Esperança e peça ao Mestre uma informação sobre o alvo dentre as seguintes opções:
 
-- Their unmarked Hit Points and Stress.
-- Their Difficulty and damage thresholds.
-- Their attacks and standard attack damage dice.
-- Their features and Experiences.
+- Seus Pontos de Vida e Estresse não marcados.
+- Sua Dificuldade e limiares de dano.
+- Seus ataques e dados padrão de dano dos ataques.
+- Suas características e Experiências.
 
-Additionally on a success, you can mark a Stress to remove a Stress from the GM’s Fear Pool.
+Além disso, em caso de sucesso, você pode marcar um Estresse para remover um Estresse da Reserva de Medo do Mestre.

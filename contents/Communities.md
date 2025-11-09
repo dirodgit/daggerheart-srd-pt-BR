@@ -1,10 +1,10 @@
-# COMMUNITIES
+# COMUNIDADES
 
-Communities represent a key aspect of the **culture, class, or environment of origin** that has had the most influence over your character’s upbringing.
+As comunidades representam um aspecto fundamental da **cultura, classe ou ambiente de origem** que mais influenciou a criação do seu personagem.
 
-Your character’s community grants them a **community feature.** Each community card also lists six adjectives you can use as inspiration to create your character’s personality, their relationship to their peers, their attitude toward their upbringing, or the demeanor with which they interact with the rest of the party.
+A comunidade do seu personagem concede a ele uma **habilidade comunitária.** Cada ficha de comunidade também lista seis adjetivos que você pode usar como inspiração para criar a personalidade do seu personagem, seu relacionamento com seus pares, sua atitude em relação à sua criação ou o comportamento com o qual ele interage com o restante do grupo.
 
-**The 9 Communities are:**
+**As 9 Comunidades são:**
 
 - [Highborne](../communities/Highborne.md)
 - [Loreborne](../communities/Loreborne.md)

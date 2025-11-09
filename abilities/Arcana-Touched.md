@@ -1,9 +1,9 @@
 ﻿# ARCANA-TOUCHED
 
-> **Level 7 Arcana Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Arcana de Nível 7**  
+> **Custo de Recordação:** 2
 
-When 4 or more of the domain cards in your loadout are from the Arcana domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Arcana, você ganha os seguintes benefícios:
 
-- +1 bonus to your Spellcast Rolls
-- Once per rest, you can switch the results of your Hope and Fear Dice.
+- +1 de bônus em suas Rolagens de Conjuração de Feitiço  
+- Uma vez por descanso, você pode trocar os resultados dos seus Dados de Esperança e Medo.

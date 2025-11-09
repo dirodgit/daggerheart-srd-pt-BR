@@ -1,25 +1,25 @@
-﻿# FALLEN WARLORD: UNDEFEATED CHAMPION
+﻿# SENHOR DA GUERRA CAÍDO: CAMPEÃO INDESTRUTÍVEL
 
-***Tier 4 Solo***  
-*That which only the most feared have a chance to fear.*  
-**Motives & Tactics:** Dispatch merciless death, punish the defiant, secure victory at any cost
+***Nível 4 Solo***  
+*Aquilo que apenas os mais temidos têm chance de temer.*  
+**Motivações & Táticas:** Despachar morte implacável, punir os desafiadores, garantir a vitória a qualquer custo
 
-> **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5  
-> **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 phy  
-> **Experience:** Conquest +3, History +2, Intimidation +3
+> **Dificuldade:** 18 | **Limiares:** 35/58 | **PV:** 11 | **Estresse:** 5  
+> **ATAQ:** +8 | **Espada Partidora de Corações:** Muito Próximo | 4d12+13 físico  
+> **Experiência:** Conquista +3, História +2, Intimidação +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (3) - Passive:*** The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (3) - Passiva:*** O Campeão Indestrutível pode ser destacado até três vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***Faltering Armor - Passive:*** When the Undefeated Champion takes damage, reduce it by 1d10.
+***Armadura Vacilante - Passiva:*** Quando o Campeão Indestrutível sofre dano, reduza-o em 1d10.
 
-***Shattering Strike - Action:*** Mark a Stress to make a standard attack against all targets within Very Close range. PCs the Champion succeeds against lose a number of Hope equal to the HP they marked from this attack.
+***Golpe Partidor - Ação:*** Marque um Estresse para fazer um ataque padrão contra todos os alvos em alcance Muito Próximo. Os PCs contra os quais o Campeão tiver sucesso perdem uma quantidade de Esperança igual ao PV que marcaram com este ataque.
 
-***Endless Legions - Action:*** Spend a Fear to summon a number of Fallen Shock Troops equal to twice the number of PCs. The Shock Troops appear at Far range.
+***Legiões Infinitas - Ação:*** Gaste um Medo para invocar um número de Tropas de Choque Caídas igual ao dobro do número de PCs. As Tropas de Choque aparecem em alcance Distante.
 
-***Circle of Defilement - Reaction:*** Countdown (1d8). When the Undefeated Champion is in the spotlight for the first time, activate the countdown. When it triggers, activate a magical circle covering an area within Far range of the Champion. A target within that area is Vulnerable until they leave the circle. The circle can be removed by dealing Severe damage to the Undefeated Champion.
+***Círculo de Profanação - Reação:*** Contagem regressiva (1d8). Quando o Campeão Indestrutível for destacado pela primeira vez, ative a contagem regressiva. Quando ela disparar, ative um círculo mágico cobrindo uma área dentro do alcance Distante do Campeão. Um alvo dentro dessa área fica Vulnerável até sair do círculo. O círculo pode ser removido causando dano Severo ao Campeão Indestrutível.
 
-***Doombringer - Reaction:*** When the Undefeated Champion makes a successful attack against a PC, you gain a Fear.
+***Portador da Ruína - Reação:*** Quando o Campeão Indestrutível realiza um ataque bem-sucedido contra um PC, você ganha um Medo.
 
-***Doombringer - Reaction:*** When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope.
+***Portador da Ruína - Reação:*** Quando um alvo marca PV a partir de um ataque do Campeão Indestrutível, todos os PCs em alcance Distante do alvo perdem uma Esperança.

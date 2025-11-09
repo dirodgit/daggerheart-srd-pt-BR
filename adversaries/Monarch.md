@@ -1,17 +1,17 @@
-﻿# MONARCH
+﻿# MONARCA
 
-***Tier 3 Social***  
-*The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain.*  
-**Motives & Tactics:** Control vassals, destroy rivals, forge a legacy
+***Social de Nível 3***  
+*O soberano de uma nação, imerso no privilégio da tradição e exercendo um poder incomparável em seu domínio.*  
+**Motivações & Táticas:** Controlar vassalos, destruir rivais, forjar um legado
 
-> **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy  
-> **Experience:** History +3, Nobility +3
+> **Dificuldade:** 16 | **Limiares:** 16/32 | **PV:** 6 | **Estresse:** 5  
+> **ATQ:** +0 | **Martelo de Guerra:** Corpo a corpo | 3d6+3 físico  
+> **Experiência:** História +3, Nobreza +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Execute Them! - Action:*** Spend a Fear per PC in the party to have the group condemned for crimes real or imagined. A PC who succeeds on a Presence Roll can demand trial by combat or another special form of trial.
+***Executem-nos! - Ação:*** Gaste 1 Medo por PJ no grupo para condenar o grupo por crimes reais ou imaginários. Um PJ que obtiver sucesso em um teste de Presença pode exigir julgamento por combate ou outra forma especial de julgamento.
 
-***Crossguard - Action:*** Once per scene, mark a Stress to summon Tier X Minions, who appear at Close range to enforce the Monarch’s will.
+***Guarda Cruzada - Ação:*** Uma vez por cena, marque 1 Estresse para convocar Lacaios de Nível X, que aparecem em alcance Próximo para impor a vontade do Monarca.
 
-***Census Bell - Reaction: Long-Term Countdown (8):*** Spend a Fear to activate after the Monarch’s desire for war is first revealed. When it triggers, the Monarch has a reason to rally the nation to war and the support to act on that reason. You gain 1d4 Fear.
+***Sino do Censo - Reação: Contagem Regressiva de Longo Prazo (8):*** Gaste 1 Medo para ativar após o desejo do Monarca por guerra ser revelado pela primeira vez. Quando disparado, o Monarca tem um motivo para mobilizar a nação para a guerra e o apoio para agir com base nesse motivo. Você ganha 1d4 Medo.

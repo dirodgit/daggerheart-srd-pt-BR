@@ -1,16 +1,16 @@
-﻿# FALLEN SHOCK TROOP
+﻿# TROPAS DE CHOQUE CAÍDAS
 
-***Tier 4 Minion***  
-*A cursed soul bound to the Fallen’s will.*  
-**Motives & Tactics:** Crush, dominate, earn relief, punish
+***Capanga de Nível 4***  
+*Uma alma amaldiçoada vinculada à vontade dos Caídos.*  
+**Motivações & Táticas:** Esmagar, dominar, obter alívio, punir
 
-> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy  
+> **Dificuldade:** 18 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** +2 | **Machado Amaldiçoado:** Muito Próximo | 12 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (12) - Passive:*** The Shock Troop is defeated when they take any damage. For every 12 damage a PC deals to the Shock Troop, defeat an additional Minion within range the attack would succeed against.
+***Capanga (12) - Passivo:*** A Tropa de Choque é derrotada ao receber qualquer dano. Para cada 12 de dano que um PJ causar à Tropa de Choque, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Aura of Doom - Passive:*** When a PC marks HP from an attack by the Shock Troop, they lose a Hope.
+***Aura da Perdição - Passivo:*** Quando um PJ perde PV por um ataque da Tropa de Choque, ele perde 1 ponto de Esperança.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Fallen Shock Troops within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 12 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste 1 Medo para escolher um alvo e destacar todas as Tropas de Choque Caídas dentro do alcance Próximo dele. Esses Capangas se movem para o alcance de Combate Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 12 de dano físico. Combine esse dano.

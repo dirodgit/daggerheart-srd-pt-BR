@@ -1,21 +1,21 @@
-﻿# HEAD VAMPIRE
+﻿# CHEFE VAMPIRO
 
-***Tier 3 Leader***  
-*A captivating undead dressed in aristocratic finery.*  
-**Motives & Tactics:** Create thralls, charm, command, fly, intimidate
+***Líder de Nível 3***  
+*Um morto-vivo cativante vestido com trajes aristocráticos.*  
+**Motivações & Táticas:** Criar servos, encantar, comandar, voar, intimidar
 
-> **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  
-> **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy  
-> **Experience:** Aristocrat +3
+> **Dificuldade:** 17 | **Limiares:** 22/42 | **PV:** 6 | **Estresse:** 6  
+> **ATAQ:** +5 | **Florete:** Corpo a corpo | 2d20+4 físico  
+> **Experiência:** Aristocrata +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** When the Vampire makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
+***Aterrorizante - Passiva:*** Quando o Vampiro realiza um ataque bem-sucedido, todos os PJ dentro do alcance Longo perdem 1 Esperança e você ganha 1 Medo.
 
-***Look Into My Eyes - Passive:*** A creature who moves into Melee range of the Vampire must make an Instinct Reaction Roll. On a failure, you gain 1d4 Fear.
+***Olhe Nos Meus Olhos - Passiva:*** Uma criatura que se move para o alcance Corpo a Corpo do Vampiro deve fazer uma Jogada de Reação por Instinto. Em caso de falha, você ganha 1d4 Medo.
 
-***Feed on Followers - Action:*** When the Vampire is within Melee range of an ally, they can cause the ally to mark a HP. The Vampire then clears a HP.
+***Alimentar-se dos Seguidores - Ação:*** Quando o Vampiro está dentro do alcance Corpo a Corpo de um aliado, ele pode fazer com que o aliado marque 1 PV. O Vampiro então recupera 1 PV.
 
-***The Hunt Is On - Action:*** Spend 2 Fear to summon 1d4 Vampires, who appear at Far range and immediately take the spotlight.
+***A Caçada Começou - Ação:*** Gaste 2 Medo para invocar 1d4 Vampiros, que aparecem no alcance Longo e imediatamente assumem o destaque.
 
-***Lifesuck - Reaction:*** When the Vampire is spotlighted, roll a d8. On a result of 6 or higher, all targets within Very Close range must mark a HP.
+***Sugador de Vida - Reação:*** Quando o Vampiro está em destaque, role 1d8. Com um resultado de 6 ou mais, todos os alvos dentro do alcance Muito Próximo devem marcar 1 PV.

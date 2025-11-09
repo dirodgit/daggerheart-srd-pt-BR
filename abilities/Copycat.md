@@ -1,6 +1,6 @@
 ﻿# COPYCAT
 
-> **Level 9 Grace Spell**  
-> **Recall Cost:** 3
+> **Magia de Graça de Nível 9**  
+> **Custo de Recordação:** 3
 
-Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player’s loadout. Spend Hope equal to half the card’s level to gain access to the feature. It lasts until your next rest or they place the card in their vault.
+Uma vez por descanso longo, esta carta pode imitar as características de outra carta de domínio de nível 8 ou inferior no conjunto de outro jogador. Gaste Esperança igual à metade do nível da carta para obter acesso à característica. Ela dura até seu próximo descanso ou até que eles coloquem a carta em seu cofre.

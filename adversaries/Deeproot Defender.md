@@ -1,15 +1,15 @@
-﻿# DEEPROOT DEFENDER
+﻿# DEFENSOR RAÍZ PROFUNDA
 
-***Tier 1 Bruiser***  
-*A burly vegetable-person with grasping vines.*  
-**Motives & Tactics:** Ambush, grab, protect, pummel
+***Brutamontes de Nível 1***  
+*Uma pessoa vegetal robusta com vinhas agarradoras.*  
+**Motivações & Táticas:** Emboscada, agarrar, proteger, espancar
 
-> **Difficulty:** 10 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +2 | **Vines:** Close | 1d8+3 phy  
-> **Experience:** Huge +3
+> **Dificuldade:** 10 | **Limiares:** 8/14 | **PV:** 7 | **Estresse:** 3  
+> **ATQ:** +2 | **Vinhas:** Corpo a corpo | 1d8+3 físico  
+> **Experiência:** Enorme +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Ground Slam - Action:*** Slam the ground, knocking all targets within Very Close range back to Far range. Each target knocked back by this must mark a Stress.
+***Golpe no Chão - Ação:*** Bata no chão, empurrando todos os alvos em alcance Muito Próximo para alcance Distante. Cada alvo empurrado deve marcar um Estresse.
 
-***Grab and Drag - Action:*** Make an attack against a target within Close range. On a success, spend a Fear to pull them into Melee range, deal 1d6+2 physical damage, and Restrain them until the Defender takes Severe damage.
+***Agarrar e Arrastar - Ação:*** Faça um ataque contra um alvo em alcance Próximo. Em caso de sucesso, gaste um Medo para puxá-lo para alcance de Combate Corpo a Corpo, cause 1d6+2 de dano físico e Prenda-o até que o Defensor sofra dano Grave.

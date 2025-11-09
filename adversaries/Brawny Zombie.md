@@ -1,17 +1,17 @@
-﻿# BRAWNY ZOMBIE
+﻿# ZUMBI FORTE
 
-***Tier 1 Bruiser***  
-*A large corpse, decay-bloated and angry.*  
-**Motives & Tactics:** Crush, destroy, hurl debris, slam
+***Brutamontes de Nível 1***  
+*Um cadáver grande, inchado pela decomposição e furioso.*  
+**Motivações & Táticas:** Esmagar, destruir, arremessar destroços, golpear
 
-> **Difficulty:** 10 | **Thresholds:** 8/15 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +2 | **Slam:** Very Close | 1d12+3 phy  
-> **Experience:** Collateral Damage +2, Throw +4
+> **Dificuldade:** 10 | **Limiares:** 8/15 | **PV:** 7 | **Estresse:** 4  
+> **ATQ:** +2 | **Golpe:** Muito Próximo | 1d12+3 físico  
+> **Experiência:** Dano Colateral +2, Arremesso +4
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Slow - Passive:*** When you spotlight the Zombie and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Zombie and they have a token on their stat block, clear the token and they can act.
+***Lento - Passivo:*** Quando você destaca o Zumbi e ele não tem um token no seu bloco de estatísticas, ele ainda não pode agir. Coloque um token no bloco de estatísticas dele e descreva o que ele está se preparando para fazer. Quando você destaca o Zumbi e ele já tem um token no bloco de estatísticas, remova o token e ele pode agir.
 
-***Rend Asunder - Action:*** Make a standard attack with advantage against a target the Zombie has Restrained. On a success, the attack deals direct damage.
+***Rasgar em Pedaços - Ação:*** Faça um ataque padrão com vantagem contra um alvo que o Zumbi tenha Imobilizado. Em caso de sucesso, o ataque causa dano direto.
 
-***Rip and Tear - Reaction:*** When the Zombies makes a successful standard attack, you can mark a Stress to temporarily Restrain the target and force them to mark 2 Stress.
+***Rasgar e Dilacerar - Reação:*** Quando o Zumbi realiza um ataque padrão bem-sucedido, você pode marcar 1 Estresse para Imobilizar temporariamente o alvo e forçá-lo a marcar 2 Estresses.

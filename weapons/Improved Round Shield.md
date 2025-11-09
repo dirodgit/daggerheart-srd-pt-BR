@@ -1,7 +1,7 @@
-﻿# IMPROVED ROUND SHIELD
+﻿# ESCUDO REDONDO APRIMORADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+2 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d4+2 físico; **Peso:** Uma mão
 
-**Feature:** ***Protective:*** +2 to Armor Score
+**Característica:** ***Protetor:*** +2 na Pontuação de Armadura
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

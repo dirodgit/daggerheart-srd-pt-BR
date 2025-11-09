@@ -1,5 +1,5 @@
-﻿# BOX OF MANY GOODS
+﻿# CAIXA DE MUITAS COISAS
 
-Once per long rest, you can open this small box and roll a d12. On a result of 1–6, it’s empty. On a result of 7–10, it contains one random common consumable. On a result of 11–12, it contains two random common consumables.
+Uma vez por descanso longo, você pode abrir esta pequena caixa e rolar um d12. Com um resultado de 1–6, ela está vazia. Com um resultado de 7–10, ela contém um consumível comum aleatório. Com um resultado de 11–12, ela contém dois consumíveis comuns aleatórios.
 
 *Item*

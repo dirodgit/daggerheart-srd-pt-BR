@@ -1,5 +1,5 @@
-﻿# POTION OF STABILITY
+﻿# POÇÃO DE ESTABILIDADE
 
-You can drink this potion to choose one additional downtime move.
+Você pode beber esta poção para escolher um movimento de inatividade adicional.
 
-*Consumable*
+*Consumível*

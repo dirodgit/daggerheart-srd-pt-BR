@@ -1,7 +1,7 @@
-﻿# TYRIS SOFT ARMOR
+﻿# ARMADURA LEVE TYRIS
 
-**Base Thresholds:** 8 / 18; **Base Score:** 5
+**Limiares Base:** 8 / 18; **Pontuação Base:** 5
 
-**Feature:** ***Quiet:*** You gain a +2 bonus to rolls you make to move silently.
+**Característica:** ***Silenciosa:*** Você recebe um bônus de +2 nas jogadas feitas para se mover silenciosamente.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

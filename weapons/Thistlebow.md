@@ -1,7 +1,7 @@
 ﻿# THISTLEBOW
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+13 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+13 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 em testes de ataque
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

@@ -1,5 +1,5 @@
-﻿# PIPER WHISTLE
+﻿# APITO DE PÍFARO
 
-This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.
+Este apito artesanal possui um som distinto. Quando você sopra este apito, seu tom penetrante pode ser ouvido em um raio de 1 milha.
 
 *Item*

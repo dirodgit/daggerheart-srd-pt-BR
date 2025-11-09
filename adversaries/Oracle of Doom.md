@@ -1,23 +1,23 @@
-﻿# ORACLE OF DOOM
+﻿# ORÁCULO DA PERDIÇÃO
 
-***Tier 4 Solo***  
-*A towering immortal and incarnation of fate, cursed to only see bad outcomes.*  
-**Motives & Tactics:** Change environment, condemn, dishearten, toss aside
+***Nível 4 Solo***  
+*Um imortal imponente e encarnação do destino, amaldiçoado a ver apenas desfechos ruins.*  
+**Motivações & Táticas:** Mudar ambiente, condenar, desanimar, descartar
 
-> **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10  
-> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag  
-> **Experience:** Boundless Knowledge +4
+> **Dificuldade:** 20 | **Limiares:** 38/68 | **PV:** 11 | **Estresse:** 10  
+> **ATQ:** +8 | **Ataque Psíquico:** Distante | 4d8+9 mag  
+> **Experiência:** Conhecimento Infinito +4
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** When the Oracle makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
+***Aterrorizante - Passiva:*** Quando o Oráculo realiza um ataque bem-sucedido, todos os PCs em alcance Distante perdem 1 Esperança e você ganha 1 Medo.
 
-***Walls Closing In - Passive:*** When a creature rolls a failure while within Very Far range of the Oracle, they must mark a Stress.
+***Paredes se Fechando - Passiva:*** Quando uma criatura falha em uma rolagem estando em alcance Muito Distante do Oráculo, ela deve marcar 1 Estresse.
 
-***Pronounce Fate - Action:*** Spend a Fear to present a target within Far range with a vision of their personal nightmare. The target must make a Knowledge Reaction Roll. On a failure, they lose all Hope and take 2d10+4 direct magic damage. On a success, they take half damage and lose a Hope.
+***Pronunciar o Destino - Ação:*** Gaste 1 Medo para apresentar a um alvo em alcance Distante uma visão de seu pesadelo pessoal. O alvo deve fazer uma Rolagem de Reação de Conhecimento. Em caso de falha, ele perde toda a Esperança e sofre 2d10+4 de dano mágico direto. Em caso de sucesso, sofre metade do dano e perde 1 Esperança.
 
-***Summon Tormentors - Action:*** Once per day, spend 2 Fear to summon 2d4 Tier 2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
+***Invocar Atormentadores - Ação:*** Uma vez por dia, gaste 2 Medo para invocar 2d4 Servos de Nível 2 ou inferior relacionados a um dos pesadelos pessoais do PC. Eles aparecem em alcance Próximo relativo a esse PC.
 
-***Ominous Knowledge - Reaction:*** When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
+***Conhecimento Ominoso - Reação:*** Quando o Oráculo vê uma criatura mortal, ele instantaneamente conhece um de seus pesadelos pessoais.
 
-***Vengeful Fate - Reaction:*** When the Oracle marks HP from an attack within Very Close range, you can mark a Stress to knock the attacker back to Far range and deal 2d10+4 physical damage.
+***Destino Vingativo - Reação:*** Quando o Oráculo marca PV de um ataque em alcance Muito Próximo, você pode marcar 1 Estresse para empurrar o atacante para alcance Distante e causar 2d10+4 de dano físico.

@@ -1,7 +1,7 @@
-﻿# LEGENDARY LONGSWORD
+﻿# ESPADA LONGA LENDÁRIA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d10+12 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

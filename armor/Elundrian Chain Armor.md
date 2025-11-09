@@ -1,7 +1,7 @@
-﻿# ELUNDRIAN CHAIN ARMOR
+﻿# ARMADURA DE CORRENTE ELUNDRIAN
 
-**Base Thresholds:** 9 / 21; **Base Score:** 4
+**Limiares Base:** 9 / 21; **Pontuação Base:** 4
 
-**Feature:** ***Warded:*** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds.
+**Característica:** ***Protegida:*** Você reduz o dano mágico recebido em sua Pontuação de Armadura antes de aplicá-lo aos seus limiares de dano.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

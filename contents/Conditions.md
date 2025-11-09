@@ -1,29 +1,29 @@
-# CONDITIONS
+# CONDIÇÕES
 
-**Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
+**Condições** são efeitos que concedem benefícios ou desvantagens específicas ao alvo a que estão vinculadas.
 
-## STANDARD CONDITIONS
+## CONDIÇÕES PADRÃO
 
-Some features can apply special or unique conditions, which work as described in the feature text.
+Algumas características podem aplicar condições especiais ou únicas, que funcionam conforme descrito no texto da característica.
 
-Unless otherwise noted, the same condition can’t be applied more than once to the same target.
+Salvo indicação em contrário, a mesma condição não pode ser aplicada mais de uma vez ao mesmo alvo.
 
-Daggerheart has three standard conditions:
+Daggerheart possui três condições padrão:
 
-### HIDDEN
+### OCULTO
 
-While you’re out of sight from all enemies and they don’t otherwise know your location, you gain the Hidden condition. Any rolls against a Hidden creature have disadvantage. After an adversary moves to where they would see you, you move into their line of sight, or you make an attack, you are no longer Hidden.
+Enquanto você estiver fora da visão de todos os inimigos e eles não souberem sua localização de outra forma, você ganha a condição Oculto. Qualquer teste contra uma criatura Oculta é feito com desvantagem. Depois que um adversário se mover para um local onde possa vê-lo, você entrar na linha de visão dele ou fizer um ataque, você deixa de estar Oculto.
 
-### RESTRAINED
+### IMOBILIZADO
 
-Restrained characters can’t move, but you can still take actions from their current position.
+Personagens imobilizados não podem se mover, mas ainda podem realizar ações a partir da posição atual.
 
-### VULNERABLE
+### VULNERÁVEL
 
-When a creature is Vulnerable, all rolls targeting them have advantage.
+Quando uma criatura está Vulnerável, todos os testes que a tenham como alvo são feitos com vantagem.
 
-## TEMPORARY TAGS & SPECIAL CONDITIONS
+## MARCADORES TEMPORÁRIOS & CONDIÇÕES ESPECIAIS
 
-The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
+A tag **temporária** indica uma condição ou efeito que a criatura afetada pode remover realizando uma ação para isso. Quando um PJ afetado realiza uma ação para remover uma condição ou efeito temporário, normalmente é necessário um teste de ação bem-sucedido usando uma característica apropriada. Quando um adversário afetado realiza uma ação para remover uma condição ou efeito temporário, o Mestre foca a atenção no adversário e descreve como ele faz isso; isso não requer um teste, mas consome o foco daquele adversário.
 
-**Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
+**Condições especiais** só são removidas quando requisitos específicos são cumpridos, como completar uma ação determinada ou usar um item específico. Os requisitos para remover essas condições estão indicados no texto do efeito que aplica a condição.

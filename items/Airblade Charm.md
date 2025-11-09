@@ -1,5 +1,5 @@
-﻿# AIRBLADE CHARM
+﻿# AMULETO AIRBLADE
 
-You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range.
+Você pode anexar este amuleto a uma arma com alcance Corpo a Corpo. Três vezes por descanso, você pode ativar o amuleto e atacar um alvo dentro do alcance Próximo.
 
 *Item*

@@ -1,7 +1,7 @@
-﻿# BLUNDERBUSS
+﻿# ESPINGARDA
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Curto; **Dano:** d8+6 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Característica:** ***Recarregar:*** Após realizar um ataque, role um d6. Com um resultado 1, você deve marcar um Estresse para recarregar esta arma antes de poder dispará-la novamente.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

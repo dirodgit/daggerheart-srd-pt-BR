@@ -1,6 +1,6 @@
-﻿# GROUND POUND
+﻿# GOLPE NO CHÃO
 
-> **Level 8 Valor Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Valor de Nível 8**  
+> **Custo para Usar:** 2
 
-Spend 2 Hope to strike the ground where you stand and make a Strength Roll against all targets within Very Close range. Targets you succeed against are thrown back to Far range and must make a Reaction Roll (17). Targets who fail take 4d10+8 damage. Targets who succeed take half damage.
+Gaste 2 de Esperança para golpear o chão onde você está e faça um Teste de Força contra todos os alvos em alcance Muito Próximo. Alvos contra os quais você obtiver sucesso são lançados para o alcance Distante e devem fazer um Teste de Reação (17). Alvos que falharem recebem 4d10+8 de dano. Alvos que tiverem sucesso recebem metade do dano.

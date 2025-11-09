@@ -1,24 +1,24 @@
-﻿# ADULT FLICKERFLY
+﻿# FLICKERFLY ADULTO
 
-***Tier 3 Solo***  
-*A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*  
-**Motives & Tactics:** Collect shiny things, hunt, nest, swoop
+***Nível 3 Solo***  
+*Um inseto alado do tamanho de uma casa grande, com escamas iridescentes e asas que se movem rápido demais para serem acompanhadas.*  
+**Motivações & Táticas:** Coletar coisas brilhantes, caçar, nidificar, mergulhar
 
-> **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6  
-> **ATK:** +3 | **Wing Slash:** Very Close | 3d20 phy  
+> **Dificuldade:** 17 | **Limiares:** 20/35 | **PV:** 12 | **Estresse:** 6  
+> **ATQ:** +3 | **Corte de Asa:** Muito Próximo | 3d20 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (4) - Passive:*** The Flickerfly can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (4) - Passiva:*** O Flickerfly pode ser destacado até quatro vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***Never Misses - Passive:*** When the Flickerfly makes an attack, the target’s Evasion is halved against the attack.
+***Nunca Erra - Passiva:*** Quando o Flickerfly realiza um ataque, a Evasão do alvo é reduzida pela metade contra esse ataque.
 
-***Deadly Flight - Passive:*** While flying, the Flickerfly can move up to Far range instead of Close range before taking an action.
+***Voo Mortal - Passiva:*** Enquanto estiver voando, o Flickerfly pode se mover até a distância Longa em vez de Próxima antes de realizar uma ação.
 
-***Whirlwind - Action:*** Spend a Fear to whirl, making an attack against all targets within Very Close range. Targets the Flickerfly succeeds against take 3d8 direct physical damage.
+***Redemoinho - Ação:*** Gaste um Medo para girar, realizando um ataque contra todos os alvos em alcance Muito Próximo. Os alvos contra os quais o Flickerfly obtiver sucesso recebem 3d8 de dano físico direto.
 
-***Mind Dance - Action:*** Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears.
+***Dança Mental - Ação:*** Marque um Estresse para criar um espetáculo magicamente deslumbrante que prende as mentes dos inimigos próximos. Todos os alvos em alcance Próximo devem fazer uma Jogada de Reação de Instinto. Para cada alvo que falhar, você ganha um Medo e o Flickerfly aprende um dos medos do alvo.
 
-***Hallucinatory Breath - Action: Countdown (Loop 1d6):*** When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must make an Instinct Reaction Roll or become overwhelmed by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail lose 2 Hope and take 3d8+3 direct magic damage.
+***Sopro Alucinatório - Ação: Contagem Regressiva (Loop 1d6):*** Quando o Flickerfly sofre dano pela primeira vez, ative a contagem regressiva. Quando ela disparar, o Flickerfly exala um gás alucinatório em todos os alvos à sua frente até alcance Longo. Os alvos devem fazer uma Jogada de Reação de Instinto ou ficarão dominados por alucinações aterrorizantes. Alvos cujos medos são conhecidos pelo Flickerfly têm desvantagem nessa jogada. Alvos que falharem perdem 2 de Esperança e recebem 3d8+3 de dano mágico direto.
 
-***Uncanny Reflexes - Reaction:*** When the Flickerfly takes damage from an attack within Close range, you can mark a Stress to take half damage.
+***Reflexos Incomuns - Reação:*** Quando o Flickerfly sofre dano de um ataque em alcance Próximo, você pode marcar um Estresse para receber metade do dano.

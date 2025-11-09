@@ -1,6 +1,6 @@
-﻿# CLOAKING BLAST
+﻿# EXPLOSÃO DE OCULTAÇÃO
 
-> **Level 7 Arcana Spell**  
-> **Recall Cost:** 2
+> **Magia Arcana de Nível 7**  
+> **Custo de Recordação:** 2
 
-When you make a successful Spellcast Roll to cast a different spell, you can spend a Hope to become Cloaked. While Cloaked, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary’s line of sight or make an attack, you are no longer Cloaked.
+Quando você realiza um Teste de Conjuração bem-sucedido para lançar uma magia diferente, pode gastar uma Esperança para se tornar Oculto. Enquanto Oculto, você permanece invisível se estiver imóvel quando um adversário se mover para um local onde normalmente o veria. Quando você se move para dentro ou dentro da linha de visão de um adversário ou realiza um ataque, você deixa de estar Oculto.

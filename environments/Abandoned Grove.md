@@ -1,22 +1,22 @@
-﻿# ABANDONED GROVE
+﻿# CLAREIRA ABANDONADA
 
-***Tier 1 Exploration***  
-*A former druidic grove lying fallow and fully reclaimed by nature.*  
-**Impulses:** Draw in the curious, echo the past
+***Exploração de Nível 1***  
+*Uma antiga clareira druídica abandonada e totalmente retomada pela natureza.*  
+**Impulsos:** Atrair os curiosos, ecoar o passado
 
-> **Difficulty:** 11  
-> **Potential Adversaries:** Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)
+> **Dificuldade:** 11  
+> **Adversários Potenciais:** Bestas (Urso, Lobo Terrível, Cobra de Vidro), Guardiões da Clareira (Treant Menor, Soldado Silvano, Dríade Jovem)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Overgrown Battlefield - Passive:*** There has been a battle here. A PC can make an Instinct Roll to identify evidence of that fight. On a success with Hope, learn all three pieces of information below. On a success with Fear, learn two. On a failure, a PC can mark 3 Stress to learn one and gain advantage on the next action roll to investigate this environment. A PC with an appropriate background or Experience can learn an additional detail and ask a follow-up question about the scene and get a truthful (if not always complete) answer.
+***Campo de Batalha Tomado pela Vegetação - Passivo:*** Houve uma batalha aqui. Um personagem pode fazer uma Jogada de Instinto para identificar evidências desse combate. Em um sucesso com Esperança, aprende as três informações abaixo. Em um sucesso com Medo, aprende duas. Em uma falha, o personagem pode marcar 3 de Estresse para aprender uma e ganhar vantagem na próxima jogada de ação para investigar este ambiente. Um personagem com um histórico ou Experiência apropriada pode aprender um detalhe adicional e fazer uma pergunta de acompanhamento sobre a cena, recebendo uma resposta verdadeira (ainda que nem sempre completa).
 
-  - Traces of a battle (broken weapons and branches, gouges in the ground) litter the ground.
-  - A moss-covered tree trunk is actually the corpse of a treant.
-  - Still-standing trees are twisted in strange ways, as if by powerful magic.
+  - Vestígios de uma batalha (armas e galhos quebrados, sulcos no chão) espalham-se pelo terreno.
+  - Um tronco coberto de musgo é na verdade o cadáver de um treant.
+  - Árvores ainda em pé estão torcidas de formas estranhas, como se por magia poderosa.
 
-***Barbed Vines - Action:*** Pick a point within the grove. All targets within Very Close range of that point must succeed on an Agility Reaction Roll or take 1d8+3 physical damage and become Restrained by barbed vines. Restrained lasts until they’re freed with a successful Finesse or Strength roll or by dealing at least 6 damage to the vines.
+***Vinhas Espinhosas - Ação:*** Escolha um ponto dentro da clareira. Todos os alvos em alcance Muito Próximo desse ponto devem ter sucesso em uma Jogada de Reação de Agilidade ou sofrer 1d8+3 de dano físico e ficar Presos por vinhas espinhosas. Preso dura até que sejam libertados com uma jogada bem-sucedida de Destreza ou Força, ou ao causar pelo menos 6 de dano às vinhas.
 
-***You Are Not Welcome Here - Action:*** A Young Dryad, two Sylvan Soldiers, and a number of Minor Treants equal to the number of PCs appear to confront the party for their intrusion.
+***Você Não É Bem-Vindo Aqui - Ação:*** Uma Dríade Jovem, dois Soldados Silvanos e um número de Treants Menores igual ao número de personagens aparecem para confrontar o grupo por sua intrusão.
 
-***Defiler - Action:*** Spend a Fear to summon a Minor Chaos Adversary drawn to the echoes of violence and discord. They appear within Far range of a chosen PC and immediately take the spotlight.
+***Profanador - Ação:*** Gaste um Medo para invocar um Adversário Menor do Caos atraído pelos ecos de violência e discórdia. Ele aparece em alcance Distante de um personagem escolhido e imediatamente assume o foco da cena.

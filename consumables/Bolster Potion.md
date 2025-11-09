@@ -1,5 +1,5 @@
-﻿# BOLSTER POTION
+﻿# POÇÃO DE FORTALECIMENTO
 
-You gain a +1 bonus to your next Strength Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Força.
 
-*Consumable*
+*Consumível*

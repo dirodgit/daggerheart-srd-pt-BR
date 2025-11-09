@@ -1,9 +1,9 @@
-﻿# DWARF
+﻿# ANCESTRALIDADE ANÃO
 
-Dwarves are most easily recognized as short humanoids with square frames, dense musculature, and thick hair. Their average height ranges from 4 to 5 ½ feet, and they are often broad in proportion to their stature. Their skin and nails contain a high amount of keratin, making them naturally resilient. This allows dwarves to embed gemstones into their bodies and decorate themselves with tattoos or piercings. Their hair grows thickly—usually on their heads, but some dwarves have thick hair across their bodies as well. Dwarves of all genders can grow facial hair, which they often style in elaborate arrangements. Typically, dwarves live up to 250 years of age, maintaining their muscle mass well into later life.
+Anões são mais facilmente reconhecidos como humanoides baixos, com corpos quadrados, musculatura densa e cabelos grossos. Sua altura média varia de 1,20 a 1,65 metros, e eles costumam ser largos em proporção à sua estatura. Sua pele e unhas contêm uma alta quantidade de queratina, tornando-os naturalmente resistentes. Isso permite que os anões incrustem pedras preciosas em seus corpos e se decorem com tatuagens ou piercings. Seus cabelos crescem densamente — geralmente na cabeça, mas alguns anões têm cabelos grossos por todo o corpo também. Anões de todos os gêneros podem cultivar pelos faciais, que frequentemente estilizam em arranjos elaborados. Normalmente, anões vivem até 250 anos, mantendo sua massa muscular bem preservada até a idade avançada.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DA ANCESTRALIDADE
 
-***Thick Skin:*** When you take Minor damage, you can **mark 2 Stress** instead of marking a Hit Point.
+***Pele Grossa:*** Quando você sofre Dano Menor, pode **marcar 2 de Estresse** em vez de marcar um Ponto de Vida.
 
-***Increased Fortitude:*** **Spend 3 Hope** to halve incoming physical damage.
+***Fortitude Aumentada:*** **Gaste 3 de Esperança** para reduzir pela metade o dano físico recebido.

@@ -1,18 +1,18 @@
-﻿# PERFECTED ZOMBIE
+﻿# ZUMBI APRIMORADO
 
-***Tier 4 Bruiser***  
-*A towering, muscular zombie with magically infused strength and skill.*  
-**Motives & Tactics:** Consume, hound, maim, terrify
+***Brutamontes de Nível 4***  
+*Um zumbi imponente e musculoso com força e habilidade infundidas por magia.*  
+**Motivações & Táticas:** Consumir, perseguir, mutilar, aterrorizar
 
-> **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4  
-> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 phy  
+> **Dificuldade:** 20 | **Limiares:** 40/70 | **PV:** 9 | **Estresse:** 4  
+> **ATQ:** +4 | **Machado Grande:** Muito Próximo | 4d12+15 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** On successful attack, all PCs in Far range lose Hope and you gain Fear.
+***Aterrorizante - Passiva:*** Em ataque bem-sucedido, todos os PCs em alcance Longo perdem Esperança e você ganha Medo.
 
-***Fearsome Presence - Passive:*** PCs can’t spend Hope to use features against the Zombie.
+***Presença Temível - Passiva:*** PCs não podem gastar Esperança para usar características contra o Zumbi.
 
-***Perfect Strike - Action:*** Mark a Stress to attack all targets within Very Close range; on success, targets are Vulnerable until next rest.
+***Golpe Perfeito - Ação:*** Marque 1 Estresse para atacar todos os alvos em alcance Muito Próximo; em caso de sucesso, os alvos ficam Vulneráveis até o próximo descanso.
 
-***Skilled Opportunist - Reaction:*** When another adversary deals damage to target within Very Close range of Zombie, spend a Fear to add Zombie's standard attack damage to the damage roll.
+***Oportunista Habilidoso - Reação:*** Quando outro adversário causar dano a um alvo em alcance Muito Próximo do Zumbi, gaste 1 Medo para adicionar o dano do ataque padrão do Zumbi à rolagem de dano.

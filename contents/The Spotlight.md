@@ -1,5 +1,5 @@
-# THE SPOTLIGHT
+# O FOCO
 
-The **spotlight** is a symbol that represents the table’s attention—and therefore the immediate focus of both the narrative and the game mechanics. Any time a character or player becomes the focus of a scene, they “are in the spotlight” or “have the spotlight.”
+O **foco** é um símbolo que representa a atenção da mesa—e, portanto, o foco imediato tanto da narrativa quanto das mecânicas do jogo. Sempre que um personagem ou jogador se torna o centro de uma cena, ele “está no foco” ou “tem o foco”.
 
-The spotlight moves around the table organically as scenes unfold unless a mechanical trigger determines where the spotlight goes next. For example, when a player fails an action roll, the mechanics prompt the GM to seize the spotlight and make a GM move.
+O foco se move pela mesa de forma orgânica conforme as cenas se desenrolam, a menos que um gatilho mecânico determine para onde o foco vai a seguir. Por exemplo, quando um jogador falha em uma rolagem de ação, as mecânicas indicam que o Mestre deve tomar o foco e fazer uma jogada de Mestre.

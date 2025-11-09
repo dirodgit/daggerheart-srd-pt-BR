@@ -1,10 +1,10 @@
-﻿# BOOK OF VAGRAS
+﻿# LIVRO DE VAGRAS
 
-> **Level 2 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Códice Grimório de Nível 2**  
+> **Custo de Recordação:** 2
 
-**Runic Lock:** Make a Spellcast Roll (15) on an object you’re touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.
+**Tranca Rúnica:** Faça uma Jogada de Conjuração de Feitiço (15) em um objeto que você esteja tocando e que possa ser fechado (como uma fechadura, baú ou caixa). Uma vez por descanso, em caso de sucesso, você pode trancar o objeto para que ele só possa ser aberto por criaturas de sua escolha. Alguém com acesso à magia e uma hora para estudar o feitiço pode quebrá-lo.
 
-**Arcane Door:** When you have no adversaries within Melee range, make a Spellcast Roll (13). On a success, spend a Hope to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.
+**Porta Arcana:** Quando você não tiver adversários em alcance Corpo a Corpo, faça uma Jogada de Conjuração de Feitiço (13). Em caso de sucesso, gaste uma Esperança para criar um portal do local onde você está até um ponto dentro do alcance Longo que você possa ver. Ele se fecha assim que uma criatura passar por ele.
 
-**Reveal:** Make a Spellcast Roll. If there is anything magically hidden within Close range, it is revealed.
+**Revelar:** Faça uma Jogada de Conjuração de Feitiço. Se houver algo magicamente oculto dentro do alcance Próximo, ele será revelado.

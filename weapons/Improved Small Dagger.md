@@ -1,7 +1,7 @@
-﻿# IMPROVED SMALL DAGGER
+﻿# ADAGA PEQUENA APRIMORADA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+2 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+2 físico; **Carga:** Uma mão
 
-**Feature:** ***Paired:*** +3 to primary weapon damage to targets within Melee range
+**Característica:** ***Empunhada em Par***: +3 no dano da arma primária contra alvos em alcance de Corpo a Corpo
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

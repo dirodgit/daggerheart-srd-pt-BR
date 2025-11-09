@@ -1,9 +1,9 @@
-﻿# BONE-TOUCHED
+﻿# TOCADO PELO OSSO
 
-> **Level 7 Bone Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Osso de Nível 7**  
+> **Custo de Recordação:** 2
 
-When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Osso, você ganha os seguintes benefícios:
 
-- +1 bonus to Agility
-- Once per rest, you can spend 3 Hope to cause an attack that succeeded against you to fail instead.
+- +1 de bônus em Agilidade  
+- Uma vez por descanso, você pode gastar 3 de Esperança para fazer com que um ataque que teve sucesso contra você falhe.

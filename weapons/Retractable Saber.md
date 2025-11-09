@@ -1,7 +1,7 @@
-﻿# RETRACTABLE SABER
+﻿# SABRE RETRÁTIL
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d10+7 físico; **Peso:** Uma Mão
 
-**Feature:** ***Retractable:*** The blade can be hidden in the hilt to avoid detection.
+**Característica:** ***Retrátil:*** A lâmina pode ser escondida no cabo para evitar detecção.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

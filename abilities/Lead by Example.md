@@ -1,6 +1,6 @@
-﻿# LEAD BY EXAMPLE
+﻿# LIDERAR PELO EXEMPLO
 
-> **Level 9 Valor Ability**  
-> **Recall Cost:** 3
+> **Habilidade de Valor Nível 9**  
+> **Custo para Recordar:** 3
 
-When you deal damage to an adversary, you can mark a Stress and describe how you encourage your allies. The next PC to make an attack against that adversary can clear a Stress or gain a Hope.
+Quando você causar dano a um adversário, pode marcar um Estresse e descrever como incentiva seus aliados. O próximo PJ a fazer um ataque contra esse adversário pode limpar um Estresse ou ganhar uma Esperança.

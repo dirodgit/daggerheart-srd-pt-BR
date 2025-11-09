@@ -1,19 +1,19 @@
-﻿# PIRATE CAPTAIN
+﻿# CAPITÃO PIRATA
 
-***Tier 1 Leader***  
-*A charismatic sea dog with an impressive hat, eager to raid and plunder.*  
-**Motives & Tactics:** Command, make 'em walk the plank, plunder, raid
+***Líder de Nível 1***  
+*Um marujo carismático com um chapéu impressionante, ansioso para saquear e pilhar.*  
+**Motivações & Táticas:** Comandar, fazer os inimigos andarem na prancha, pilhar, saquear
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +1 | **Cutlass:** Melee | 1d12+2 phy  
-> **Experience:** Commander +2, Sailor +3
+> **Dificuldade:** 14 | **Limiares:** 7/14 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +1 | **Cutelo:** Corpo a corpo | 1d12+2 físico  
+> **Experiência:** Comandante +2, Marinheiro +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Swashbuckler - Passive:*** When the Captain marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
+***Espadachim - Passiva:*** Quando o Capitão marca 2 ou menos PV de um ataque dentro do alcance Corpo a Corpo, o atacante deve marcar 1 Estresse.
 
-***Reinforcements - Action:*** Once per scene, mark a Stress to summon a Pirate Raiders Horde, which appears at Far range.
+***Reforços - Ação:*** Uma vez por cena, marque 1 Estresse para convocar uma Horda de Piratas Invasores, que aparece em alcance Longínquo.
 
-***No Quarter - Action:*** Spend a Fear to choose a target who has three or more Pirates within Melee range of them. The Captain leads the Pirates in hurling threats and promises of a watery grave. The target must make a Presence Reaction Roll. On a failure, the target marks 1d4+1 Stress. On a success, they must mark a Stress.
+***Sem Misericórdia - Ação:*** Gaste 1 Medo para escolher um alvo que tenha três ou mais Piratas dentro do alcance Corpo a Corpo dele. O Capitão lidera os Piratas em ameaças e promessas de uma sepultura aquática. O alvo deve fazer uma Jogada de Reação de Presença. Em caso de falha, o alvo marca 1d4+1 Estresse. Em caso de sucesso, deve marcar 1 Estresse.
 
-***Momentum - Reaction:*** When the Captain makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Capitão realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

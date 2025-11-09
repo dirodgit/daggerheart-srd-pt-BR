@@ -1,17 +1,17 @@
-﻿# SYLVAN SOLDIER
+﻿# SOLDADO SILVANO
 
-***Tier 1 Standard***  
-*A faerie warrior adorned in armor made of leaves and bark.*  
-**Motives & Tactics:** Ambush, hide, overwhelm, protect, trail
+***Padrão de Nível 1***  
+*Um guerreiro fada adornado com armadura feita de folhas e casca.*  
+**Motivações & Táticas:** Emboscada, esconder, sobrepujar, proteger, rastrear
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2  
-> **ATK:** 0 | **Scythe:** Melee | 1d8+1 phy  
-> **Experience:** Tracker +2
+> **Dificuldade:** 11 | **Limiares:** 6/11 | **PV:** 4 | **Estresse:** 2  
+> **ATQ:** 0 | **Foice:** Corpo a corpo | 1d8+1 físico  
+> **Experiência:** Rastreador +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Pack Tactics - Passive:*** If the Soldier makes a standard attack and another Sylvan Soldier is within Melee range of the target, deal 1d8+5 physical damage instead of their standard damage.
+***Táticas de Matilha - Passiva:*** Se o Soldado fizer um ataque padrão e outro Soldado Silvano estiver dentro do alcance Corpo a Corpo do alvo, cause 1d8+5 de dano físico em vez do dano padrão.
 
-***Forest Control - Action:*** Spend a Fear to pull down a tree within Close range. A creature hit by the tree must succeed on an Agility Reaction Roll (15) or take 1d10 physical damage.
+***Controle da Floresta - Ação:*** Gaste um Medo para derrubar uma árvore dentro do alcance Próximo. Uma criatura atingida pela árvore deve ter sucesso em um Teste de Reação de Agilidade (15) ou sofrer 1d10 de dano físico.
 
-***Blend In - Reaction:*** When the Soldier makes a successful attack, you can mark a Stress to become Hidden until the Soldier’s next attack or a PC succeeds on an Instinct Roll (14) to find them.
+***Camuflagem - Reação:*** Quando o Soldado fizer um ataque bem-sucedido, você pode marcar um Estresse para ficar Oculto até o próximo ataque do Soldado ou até que um PJ tenha sucesso em um Teste de Instinto (14) para encontrá-lo.

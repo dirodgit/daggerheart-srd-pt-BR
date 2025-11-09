@@ -1,15 +1,15 @@
-﻿# SIREN
+﻿# SIRENA
 
-***Tier 2 Skulk***  
-*A half fish person with shimmering scales and an irresistible voice.*  
-**Motives & Tactics:** Consume, lure prey, subdue with song
+***Esconderijo de Nível 2***  
+*Uma criatura meio peixe com escamas cintilantes e uma voz irresistível.*  
+**Motivações & Táticas:** Consumir, atrair presas, subjugar com canção
 
-> **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Distended Jaw Bite:** Melee | 2d6+3 phy  
-> **Experience:** Song Repertoire +3
+> **Dificuldade:** 14 | **Limiares:** 9/18 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +2 | **Mordida com Mandíbula Distendida:** Corpo a corpo | 2d6+3 físico  
+> **Experiência:** Repertório de Canções +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Captive Audience - Passive:*** If the Siren makes a standard attack against a target Entranced by their song, the attack deals 2d10+1 damage instead of their standard damage.
+***Audiência Cativa - Passiva:*** Se a Sirena realizar um ataque padrão contra um alvo Enfeitiçado por sua canção, o ataque causa 2d10+1 de dano em vez do dano padrão.
 
-***Enchanting Song - Action:*** Spend a Fear to sing a song that affects all targets within Close range. Targets must succeed on an Instinct Reaction Roll or become Entranced until they mark 2 Stress. Other Sirens within Close range of the target can mark a Stress to each add a +1 bonus to the Difficulty of the reaction roll. While Entranced, a target can’t act and is Vulnerable.
+***Canção Encantadora - Ação:*** Gaste um Medo para cantar uma canção que afeta todos os alvos em alcance Próximo. Os alvos devem obter sucesso em uma Jogada de Reação de Instinto ou ficar Enfeitiçados até acumularem 2 pontos de Estresse. Outras Sirenas em alcance Próximo do alvo podem marcar um Estresse para cada uma para adicionar +1 de bônus na Dificuldade da jogada de reação. Enquanto Enfeitiçado, o alvo não pode agir e está Vulnerável.

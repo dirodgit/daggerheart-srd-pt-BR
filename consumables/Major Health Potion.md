@@ -1,5 +1,5 @@
-﻿# MAJOR HEALTH POTION
+﻿# POÇÃO MAIOR DE VIDA
 
-Clear 1d4+2 HP.
+Restaura 1d4+2 PV.
 
-*Consumable*
+*Consumível*

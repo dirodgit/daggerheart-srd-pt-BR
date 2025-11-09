@@ -1,78 +1,78 @@
 # DAGGERHEART SRD
 
-***Welcome to DAGGERHEART,*** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
+***Bem-vindo ao DAGGERHEART,*** *um jogo de RPG de mesa colaborativo de fantasia com magia incrível e aventuras heroicas e emocionantes.*
 
-## SYSTEM REFERENCE DOCUMENT 1.0
+## DOCUMENTO DE REFERÊNCIA DO SISTEMA 1.0
 
-**SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee | Layout: Matt Paquette & Co. | Producer: Madigan Hunt**
+**Autor do SRD: Rob Hebert | Editor Técnico: Shawn Banerjee | Layout: Matt Paquette & Co. | Produtor: Madigan Hunt**
 
-This document, including the Witherwild Campaign Frame, is considered Public Game Content per the Darrington Press Community Gaming License. Please read the Darrington Press Community Gaming License before using this material.
+Este documento, incluindo o Arquétipo de Campanha Witherwild, é considerado Conteúdo de Jogo Público conforme a Licença de Jogos Comunitários da Darrington Press. Por favor, leia a Licença de Jogos Comunitários da Darrington Press antes de usar este material.
 
-© 2025 Critical Role LLC. All rights reserved. For more information, please visit [www.darringtonpress.com/license](http://www.darringtonpress.com/license).
+© 2025 Critical Role LLC. Todos os direitos reservados. Para mais informações, visite [www.darringtonpress.com/license](http://www.darringtonpress.com/license).
 
-## CONTENTS
+## CONTEÚDO
 
-### INTRODUCTION
+### INTRODUÇÃO
 
-- [What Is This](contents/What%20Is%20This.md)
-- [The Basics](contents/The%20Basics.md)
+- [O Que É Isto](contents/What%20Is%20This.md)
+- [O Básico](contents/The%20Basics.md)
 
-### [CHARACTER CREATION](contents/Character%20Creation.md)
+### [CRIAÇÃO DE PERSONAGEM](contents/Character%20Creation.md)
 
-### CORE MATERIALS
+### MATERIAIS PRINCIPAIS
 
-- [Domains](contents/Domains.md)
+- [Domínios](contents/Domains.md)
 - [Classes](contents/Classes.md)
-- [Ancestries](contents/Ancestries.md)
-- [Communities](contents/Communities.md)
+- [Ancestralidades](contents/Ancestries.md)
+- [Comunidades](contents/Communities.md)
 
-### CORE MECHANICS
+### MECÂNICAS PRINCIPAIS
 
-- [Flow of the Game](contents/Flow%20of%20the%20Game.md)
-- [Core Gameplay Loop](contents/Core%20Gameplay%20Loop.md)
-- [The Spotlight](contents/The%20Spotlight.md)
-- [Turn Order & Action Economy](contents/Turn%20Order%20and%20Action%20Economy.md)
-- [Making Moves & Taking Action](contents/Making%20Moves%20and%20Taking%20Action.md)
-- [Combat](contents/Combat.md)
-- [Stress](contents/Stress.md)
-- [Attacking](contents/Attacking.md)
-- [Maps, Range, and Movement](contents/Maps,%20Range,%20and%20Movement.md)
-- [Conditions](contents/Conditions.md)
-- [Downtime](contents/Downtime.md)
-- [Death](contents/Death.md)
-- [Additional Rules](contents/Additional%20Rules.md)
-- [Leveling Up](contents/Leveling%20Up.md)
-- [Multiclassing](contents/Multiclassing.md)
-- [Equipment](contents/Equipment.md)
-- [Weapons](contents/Weapons.md)
-- [Combat Wheelchair](contents/Combat%20Wheelchair.md)
-- [Armor](contents/Armor.md)
-- [Loot](contents/Loot.md)
-- [Consumables](contents/Consumables.md)
-- [Gold](contents/Gold.md)
+- [Fluxo do Jogo](contents/Flow%20of%20the%20Game.md)
+- [Ciclo Principal de Jogabilidade](contents/Core%20Gameplay%20Loop.md)
+- [O Holofote](contents/The%20Spotlight.md)
+- [Ordem de Turno & Economia de Ação](contents/Turn%20Order%20and%20Action%20Economy.md)
+- [Fazendo Movimentos & Tomando Ação](contents/Making%20Moves%20and%20Taking%20Action.md)
+- [Combate](contents/Combat.md)
+- [Estresse](contents/Stress.md)
+- [Atacando](contents/Attacking.md)
+- [Mapas, Alcance e Movimento](contents/Maps,%20Range,%20and%20Movement.md)
+- [Condições](contents/Conditions.md)
+- [Tempo de Inatividade](contents/Downtime.md)
+- [Morte](contents/Death.md)
+- [Regras Adicionais](contents/Additional%20Rules.md)
+- [Subindo de Nível](contents/Leveling%20Up.md)
+- [Multiclasse](contents/Multiclassing.md)
+- [Equipamento](contents/Equipment.md)
+- [Armas](contents/Weapons.md)
+- [Cadeira de Rodas de Combate](contents/Combat%20Wheelchair.md)
+- [Armadura](contents/Armor.md)
+- [Saques](contents/Loot.md)
+- [Consumíveis](contents/Consumables.md)
+- [Ouro](contents/Gold.md)
 
-### RUNNING AN ADVENTURE
+### CONDUZINDO UMA AVENTURA
 
-- [GM Guidance](contents/GM%20Guidance.md)
-- [Core GM Mechanics](contents/Core%20GM%20Mechanics.md)
-- [Adversaries](contents/Adversaries.md)
-- [Environments](contents/Environments.md)
-- [Additional GM Guidance](contents/Additional%20GM%20Guidance.md)
-- [Campaign Frames](contents/Campaign%20Frames.md)
+- [Orientação para o GM](contents/GM%20Guidance.md)
+- [Mecânicas Principais do GM](contents/Core%20GM%20Mechanics.md)
+- [Adversários](contents/Adversaries.md)
+- [Ambientes](contents/Environments.md)
+- [Orientações Adicionais para o GM](contents/Additional%20GM%20Guidance.md)
+- [Arquétipos de Campanha](contents/Campaign%20Frames.md)
 
-### APPENDIX
+### APÊNDICE
 
-- [Domain Card Reference](contents/Domain%20Card%20Reference.md)
+- [Referência de Cartas de Domínio](contents/Domain%20Card%20Reference.md)
 
 ---
 
-## REPOSITORY CONTENT LICENSE
+## LICENÇA DE CONTEÚDO DO REPOSITÓRIO
 
-This repository includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com/. There are minor modifications to format and structure. No previous modifications by others.
+Este repositório inclui materiais do Documento de Referência do Sistema Daggerheart 1.0, © Critical Role, LLC. sob os termos da Licença de Jogos Comunitários Darrington Press (DPCGL). Mais informações podem ser encontradas em https://www.daggerheart.com/. Há pequenas modificações no formato e estrutura. Nenhuma modificação prévia por terceiros.
 
-Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
+Daggerheart e todas as marcas relacionadas são marcas registradas da Critical Role, LLC e usadas com permissão. Este projeto não é afiliado, endossado ou patrocinado pela Critical Role ou Darrington Press.
 
-For full license terms, see: https://www.daggerheart.com/
+Para os termos completos da licença, veja: https://www.daggerheart.com/
 
 ---
 

@@ -1,5 +1,5 @@
-﻿# DEATH TEA
+﻿# CHÁ DA MORTE
 
-After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don’t critically succeed on an attack before your next long rest, you die.
+Após beber este chá, você mata instantaneamente seu alvo quando obtém um sucesso crítico em um ataque. Se você não obtiver um sucesso crítico em um ataque antes do seu próximo descanso longo, você morre.
 
-*Consumable*
+*Consumível*

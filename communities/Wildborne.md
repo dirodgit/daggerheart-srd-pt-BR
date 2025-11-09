@@ -1,9 +1,9 @@
 ﻿# WILDBORNE
 
-Being part of a wildborne community means you lived deep within the forest. Wildborne communities are defined by their dedication to the conservation of their homelands, and many have strong religious or cultural ties to the fauna they live among. This results in unique architectural and technological advancements that favor sustainability over short-term, high-yield results. It is a hallmark of wildborne societies to integrate their villages and cities with the natural environment and avoid disturbing the lives of the plants and animals. While some construct their lodgings high in the branches of trees, others establish their homes on the ground beneath the forest canopy. It’s not uncommon for wildborne to remain reclusive and hidden within their woodland homes.
+Fazer parte de uma comunidade wildborne significa que você viveu profundamente dentro da floresta. As comunidades wildborne são definidas por sua dedicação à conservação de suas terras natais, e muitas possuem fortes laços religiosos ou culturais com a fauna com a qual convivem. Isso resulta em avanços arquitetônicos e tecnológicos únicos que favorecem a sustentabilidade em vez de resultados de curto prazo e alto rendimento. É uma característica das sociedades wildborne integrar suas aldeias e cidades ao ambiente natural, evitando perturbar a vida das plantas e dos animais. Enquanto alguns constroem suas moradias no alto dos galhos das árvores, outros estabelecem suas casas no solo sob o dossel da floresta. Não é incomum que os wildborne permaneçam reclusos e escondidos em seus lares na mata.
 
-*Wildborne are often hardy, loyal, nurturing, reclusive, sagacious, and vibrant.*
+*Wildborne são frequentemente resistentes, leais, cuidadosos, reclusos, sagazes e vibrantes.*
 
-## COMMUNITY FEATURE
+## CARACTERÍSTICA DA COMUNIDADE
 
-***Lightfoot:*** Your movement is naturally silent. You have advantage on rolls to move without being heard.
+***Lightfoot:*** Seu movimento é naturalmente silencioso. Você tem vantagem em testes para se mover sem ser ouvido.

@@ -1,5 +1,5 @@
-﻿# GRINDELTOOTH VENOM
+﻿# VENENO DE DENTE-ENFERRUJADO
 
-You can apply this venom to a weapon that deals physical damage to add a d6 to your next damage roll with that weapon.
+Você pode aplicar este veneno a uma arma que cause dano físico para adicionar um d6 ao seu próximo teste de dano com essa arma.
 
-*Consumable*
+*Consumível*

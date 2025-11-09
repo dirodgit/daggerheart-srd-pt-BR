@@ -1,5 +1,5 @@
-﻿# PARAGON’S CHAIN
+﻿# CORRENTE DO PARAGON
 
-As a downtime move, you can meditate on an ideal or principle you hold dear and focus your will into this chain. Once per long rest, you can spend a Hope to roll a d20 as your Hope Die for rolls that directly align with that principle.
+Como uma ação de tempo livre, você pode meditar sobre um ideal ou princípio que valoriza e concentrar sua vontade nesta corrente. Uma vez por descanso longo, você pode gastar uma Esperança para rolar um d20 como seu Dado de Esperança para testes que estejam diretamente alinhados com esse princípio.
 
 *Item*

@@ -1,5 +1,5 @@
-﻿# HOPEKEEPER LOCKET
+﻿# RELICÁRIO DO GUARDA-ESPERANÇA
 
-During a long rest, if you have 6 Hope, you can spend a Hope to imbue this locket with your bountiful resolve. When you have 0 Hope, you can use the locket to immediately gain a Hope. The locket must be re-imbued before it can be used this way again.
+Durante um descanso longo, se você tiver 6 de Esperança, pode gastar 1 de Esperança para imbuir este relicário com sua resolução abundante. Quando você estiver com 0 de Esperança, pode usar o relicário para ganhar imediatamente 1 de Esperança. O relicário deve ser reimbuído antes que possa ser usado dessa forma novamente.
 
 *Item*

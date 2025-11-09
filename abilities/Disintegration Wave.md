@@ -1,6 +1,6 @@
-﻿# DISINTEGRATION WAVE
+﻿# ONDA DE DESINTEGRAÇÃO
 
-> **Level 9 Codex Spell**  
-> **Recall Cost:** 4
+> **Magia de Codex de Nível 9**  
+> **Custo de Recordação:** 4
 
-Make a Spellcast Roll (18). Once per long rest on a success, the GM tells you which adversaries within Far range have a Difficulty of 18 or lower. Mark a Stress for each one you wish to hit with this spell. They are killed and can’t come back to life by any means.
+Faça uma Jogada de Conjuração de Magia (18). Uma vez por descanso longo, em caso de sucesso, o Mestre informa quais adversários em alcance Longo têm uma Dificuldade de 18 ou menor. Marque um Estresse para cada um que desejar atingir com esta magia. Eles são mortos e não podem voltar à vida por nenhum meio.

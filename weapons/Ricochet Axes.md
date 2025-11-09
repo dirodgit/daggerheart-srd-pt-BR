@@ -1,7 +1,7 @@
-﻿# RICOCHET AXES
+﻿# MACHADOS RICHOCHET
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+11 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Longo; **Dano:** d6+11 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Bouncing:*** Mark 1 or more Stress to hit that many targets in range of the attack.
+**Característica:** ***Quicar:*** Marque 1 ou mais Estresse para atingir esse número de alvos no alcance do ataque.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

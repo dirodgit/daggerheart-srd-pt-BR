@@ -1,7 +1,7 @@
-﻿# HAND RUNES
+﻿# RUNAS DE MÃO
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Muito Próximo; **Dano:** d10 mágico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

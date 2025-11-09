@@ -1,15 +1,15 @@
-﻿# MERCHANT
+﻿# MERCADOR
 
-***Tier 1 Social***  
-*A finely dressed trader with a keen eye for financial gain.*  
-**Motives & Tactics:** Buy low and sell high, create demand, inflate prices, seek profit
+***Social de Nível 1***  
+*Um comerciante bem vestido com um olhar atento para ganhos financeiros.*  
+**Motivações & Táticas:** Comprar barato e vender caro, criar demanda, inflacionar preços, buscar lucro
 
-> **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3  
-> **ATK:** -4 | **Club:** Melee | 1d4+1 phy  
-> **Experience:** Shrewd Negotiator +3
+> **Dificuldade:** 12 | **Limiares:** 4/8 | **PV:** 3 | **Estresse:** 3  
+> **ATQ:** -4 | **Clava:** Corpo a corpo | 1d4+1 físico  
+> **Experiência:** Negociador Astuto +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Preferential Treatment - Passive:*** A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant.
+***Tratamento Preferencial - Passivo:*** Um PJ que obtiver sucesso em um Teste de Presença contra o Mercador ganha desconto nas compras. Um PJ que falhar em um Teste de Presença contra o Mercador deve pagar mais e sofre desvantagem em futuros Testes de Presença contra o Mercador.
 
-***The Runaround - Passive:*** When a PC rolls a 14 or lower on a Presence Roll made against the Merchant, they must mark a Stress.
+***O Enrolado - Passivo:*** Quando um PJ rolar 14 ou menos em um Teste de Presença contra o Mercador, ele deve marcar um Estresse.

@@ -1,6 +1,6 @@
-﻿# PICK AND PULL
+﻿# ESCOLHER E ARROMBAR
 
-> **Level 1 Midnight Ability**  
-> **Recall Cost:** 0
+> **Habilidade da Meia-Noite de Nível 1**  
+> **Custo para Recordar:** 0
 
-You have advantage on action rolls to pick nonmagical locks, disarm nonmagical traps, or steal items from a target (either through stealth or by force).
+Você tem vantagem em testes de ação para arrombar fechaduras não mágicas, desarmar armadilhas não mágicas ou roubar itens de um alvo (seja furtivamente ou pela força).

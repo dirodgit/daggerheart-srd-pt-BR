@@ -1,42 +1,42 @@
-# LEVELING UP
+# SUBINDO DE NÍVEL
 
-Your party levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
+Seu grupo sobe de nível sempre que o Mestre decide que vocês alcançaram um marco narrativo (geralmente a cada 3 sessões). Todos os membros do grupo sobem de nível ao mesmo tempo.
 
-Daggerheart has 10 PC levels divided into 4 tiers:
+Daggerheart tem 10 níveis de Personagem Jogador divididos em 4 patamares:
 
-> **→ Tier 1** encompasses level 1 only.
-> **→ Tier 2** encompasses levels 2–4.
-> **→ Tier 3** encompasses levels 5–7.
-> **→ Tier 4** encompasses levels 8–10.
+> **→ Patamar 1** abrange apenas o nível 1.  
+> **→ Patamar 2** abrange os níveis 2 a 4.  
+> **→ Patamar 3** abrange os níveis 5 a 7.  
+> **→ Patamar 4** abrange os níveis 8 a 10.
 
-Your tier affects your damage thresholds, tier achievements, and access to advancements.
+Seu patamar afeta seus limiares de dano, conquistas de patamar e acesso a avanços.
 
-## STEP ONE: TIER ACHIEVEMENTS
+## PASSO UM: CONQUISTAS DE PATAMAR
 
-Take any applicable tier **achievements**.
+Pegue quaisquer **conquistas** de patamar aplicáveis.
 
-- At level 2, you gain a new Experience at +2 and permanently increase your Proficiency by 1.
-- At level 5, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
-- At level 8, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
+- No nível 2, você ganha uma nova Experiência com +2 e aumenta permanentemente sua Proficiência em 1.
+- No nível 5, você ganha uma nova Experiência com +2, aumenta permanentemente sua Proficiência em 1 e limpa quaisquer traços marcados.
+- No nível 8, você ganha uma nova Experiência com +2, aumenta permanentemente sua Proficiência em 1 e limpa quaisquer traços marcados.
 
-## STEP TWO: ADVANCEMENTS
+## PASSO DOIS: AVANÇOS
 
-Choose any two **advancements** with at least one unmarked slot from your tier or below. Options with multiple slots can be chosen more than once. When you choose an advancement, mark one of its slots.
+Escolha dois **avanços** com pelo menos um espaço não marcado do seu patamar ou inferior. Opções com múltiplos espaços podem ser escolhidas mais de uma vez. Ao escolher um avanço, marque um dos seus espaços.
 
-- *When you choose to **increase two unmarked character traits** and mark them:* Choose two unmarked character traits and gain a permanent +1 bonus to them. You can’t increase these stats again until the next tier (when your tier achievement allows you to clear those marks).
-- *When you choose to **permanently add 1 or more Hit Point slots:*** Darken the outline of the next rectangle in the Hit Point section of your character sheet in pen or permanent marker.
-- *When you choose to **permanently add 1 or more Stress slots:*** Darken the outline of the next rectangle in the Stress section of your character sheet in pen or permanent marker.
-- *When you choose to **increase your Experience:*** Choose two Experiences on your character sheet and gain a permanent +1 bonus to both.
-- *When you take an **additional domain card:*** You can choose an additional domain card at or below your level for your class’s domains. If you’ve multiclassed, you can instead select a card at or below half your level from your chosen multiclass domain.
-- *When you choose to **increase your Evasion:*** Gain a permanent +1 bonus to your Evasion.
-- *When you choose to **take an upgraded subclass card:*** Take the next card for your subclass. If you have only the foundation card, take a specialization; if you have a specialization already, take a mastery. Then cross out this tier’s multiclass option.
-- *When you choose to **increase your Proficiency:*** Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option.*
-- When you choose to **multiclass:*** Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around this advancement’s slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option.*
+- *Quando você escolher **aumentar dois traços de personagem não marcados** e marcá-los:* Escolha dois traços de personagem não marcados e ganhe um bônus permanente de +1 neles. Você não pode aumentar esses atributos novamente até o próximo patamar (quando sua conquista de patamar permitir limpar essas marcas).
+- *Quando você escolher **adicionar permanentemente 1 ou mais espaços de Pontos de Vida:** * Escureça o contorno do próximo retângulo na seção de Pontos de Vida da sua ficha com caneta ou marcador permanente.
+- *Quando você escolher **adicionar permanentemente 1 ou mais espaços de Estresse:** * Escureça o contorno do próximo retângulo na seção de Estresse da sua ficha com caneta ou marcador permanente.
+- *Quando você escolher **aumentar sua Experiência:** * Escolha duas Experiências na sua ficha e ganhe um bônus permanente de +1 em ambas.
+- *Quando você escolher **pegar uma carta de domínio adicional:** * Você pode escolher uma carta de domínio adicional no seu nível ou inferior para os domínios da sua classe. Se você tiver multiclasse, pode em vez disso selecionar uma carta no seu nível ou inferior pela metade do nível da sua multiclasse no domínio escolhido.
+- *Quando você escolher **aumentar sua Evasão:** * Ganhe um bônus permanente de +1 na sua Evasão.
+- *Quando você escolher **pegar uma carta de subclasse aprimorada:** * Pegue a próxima carta da sua subclasse. Se você tiver apenas a carta base, pegue uma especialização; se já tiver uma especialização, pegue uma maestria. Depois risque a opção de multiclasse deste patamar.
+- *Quando você escolher **aumentar sua Proficiência:** * Preencha um dos círculos abertos na seção “Proficiência” da sua ficha, depois aumente o número de dados de dano da sua arma em 1. *A caixa preta ao redor dos espaços deste avanço indica que você deve gastar dois avanços e marcar ambos os espaços de subida de nível para escolhê-lo como opção.*
+- Quando você escolher **multiclasse:** Escolha uma classe adicional, selecione um de seus domínios e ganhe sua habilidade de classe. Adicione o **módulo de multiclasse** apropriado à sua ficha e pegue a carta base de uma de suas subclasses. Depois risque a opção de “subclasse aprimorada” deste patamar e todas as outras opções de “multiclasse” na sua ficha. *A caixa preta ao redor dos espaços deste avanço indica que você deve gastar dois avanços e marcar ambos os espaços de subida de nível para escolhê-lo como opção.*
 
-## STEP THREE: DAMAGE THRESHOLDS
+## PASSO TRÊS: LIMIARES DE DANO
 
-Increase all damage thresholds by 1.
+Aumente todos os limiares de dano em 1.
 
-## STEP FOUR: DOMAIN CARDS
+## PASSO QUATRO: CARTAS DE DOMÍNIO
 
-Acquire a new domain card at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
+Adquira uma nova carta de domínio no seu nível ou inferior de um dos domínios da sua classe e adicione-a ao seu equipamento ou cofre. Se seu equipamento já estiver cheio, você não pode adicionar a nova carta até mover outra para o cofre. Você também pode trocar uma carta de domínio que já adquiriu por uma carta diferente do mesmo nível ou inferior.

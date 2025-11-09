@@ -1,10 +1,10 @@
-﻿# BOOK OF GRYNN
+﻿# LIVRO DE GRYNN
 
-> **Level 4 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Códice Grimório de Nível 4**  
+> **Custo de Recordação:** 2
 
-**Arcane Deflection:** Once per long rest, spend a Hope to negate the damage of an attack targeting you or an ally within Very Close range.
+**Deflexão Arcana:** Uma vez por descanso longo, gaste uma Esperança para anular o dano de um ataque que tenha você ou um aliado em Alcance Muito Próximo como alvo.
 
-**Time Lock:** Target an object within Far range. That object stops in time and space exactly where it is until your next rest. If a creature tries to move it, make a Spellcast Roll against them to maintain this spell.
+**Bloqueio Temporal:** Mire em um objeto em Alcance Distante. Esse objeto para no tempo e espaço exatamente onde está até seu próximo descanso. Se uma criatura tentar movê-lo, faça uma Jogada de Conjuração contra ela para manter este feitiço.
 
-**Wall of Flame:** Make a Spellcast Roll (15). On a success, create a temporary wall of magical flame between two points within Far range. All creatures in its path must choose a side to be on, and anything that subsequently passes through the wall takes 4d10+3 magic damage.
+**Muralha de Chamas:** Faça uma Jogada de Conjuração (15). Em caso de sucesso, crie uma parede temporária de chamas mágicas entre dois pontos em Alcance Distante. Todas as criaturas em seu caminho devem escolher um lado para ficar, e qualquer coisa que posteriormente atravesse a parede sofre 4d10+3 de dano mágico.

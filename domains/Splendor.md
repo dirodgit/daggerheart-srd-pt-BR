@@ -1,10 +1,10 @@
 # SPLENDOR
 
-Splendor is the domain of life. Through this magic, followers gain the ability to heal and, to an extent, control death. Splendor offers its disciples the magnificent ability to both give and end life. The Splendor domain can be accessed by the Seraph and Wizard classes.
+Splendor é o domínio da vida. Através dessa magia, os seguidores ganham a habilidade de curar e, até certo ponto, controlar a morte. Splendor oferece aos seus discípulos a magnífica capacidade de tanto dar quanto terminar a vida. O domínio Splendor pode ser acessado pelas classes Seraph e Wizard.
 
-## DOMAIN CARDS
+## CARTAS DO DOMÍNIO
 
-| **Level** | **Option 1**                                             | **Option 2**                                                 | **Option 3**                               |
+| **Nível** | **Opção 1**                                             | **Opção 2**                                                 | **Opção 3**                               |
 | :-------: | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------ |
 |   **1**   | [Bolt Beacon](../abilities/Bolt%20Beacon.md)             | [Mending Touch](../abilities/Mending%20Touch.md)             | [Reassurance](../abilities/Reassurance.md) |
 |   **2**   | [Final Words](../abilities/Final%20Words.md)             | [Healing Hands](../abilities/Healing%20Hands.md)             | —                                          |

@@ -1,12 +1,12 @@
-﻿# FORCE OF NATURE
+﻿# FORÇA DA NATUREZA
 
-> **Level 10 Sage Spell**  
-> **Recall Cost:** 2
+> **Magia de Sábio de Nível 10**  
+> **Custo de Recordação:** 2
 
-Mark a Stress to transform into a hulking nature spirit, gaining the following benefits:
+Marque um Estresse para se transformar em um espírito da natureza imponente, ganhando os seguintes benefícios:
 
-- When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll.
-- When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot.
-- You can’t be Restrained.
+- Quando você obtiver sucesso em um ataque ou Rolagem de Conjuração, ganhe um bônus de +10 na rolagem de dano.
+- Quando você causar dano suficiente para derrotar uma criatura em alcance Próximo, você a absorve e libera um Espaço de Armadura.
+- Você não pode ser Imobilizado.
 
-Before you make an action roll, you must spend a Hope. If you can’t, you revert to your normal form.
+Antes de fazer uma rolagem de ação, você deve gastar uma Esperança. Se não puder, retorna à sua forma normal.

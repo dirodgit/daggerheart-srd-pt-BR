@@ -1,7 +1,7 @@
-﻿# SHORTSTAFF
+﻿# BASTÃO CURTO
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+1 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Próximo; **Dano:** d8+1 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

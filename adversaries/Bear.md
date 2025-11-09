@@ -1,17 +1,17 @@
-﻿# BEAR
+﻿# URSO
 
-***Tier 1 Bruiser***  
-*A large bear with thick fur and powerful claws.*  
-**Motives & Tactics:** Climb, defend territory, pummel, track
+***Brutamontes de Nível 1***  
+*Um grande urso com pelagem espessa e garras poderosas.*  
+**Motivações & Táticas:** Escalar, defender território, golpear, rastrear
 
-> **Difficulty:** 14 | **Thresholds:** 9/17 | **HP:** 7 | **Stress:** 2  
-> **ATK:** +1 | **Claws:** Melee | 1d8+3 phy  
-> **Experience:** Ambusher +3, Keen Senses +2
+> **Dificuldade:** 14 | **Limiares:** 9/17 | **PV:** 7 | **Estresse:** 2  
+> **ATQ:** +1 | **Garras:** Corpo a corpo | 1d8+3 físico  
+> **Experiência:** Emboscador +3, Sentidos Aguçados +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Overwhelming Force - Passive:*** Targets who mark HP from the Bear’s standard attack are knocked back to Very Close range.
+***Força Avassaladora - Passiva:*** Alvos que recebem dano nos PV do ataque padrão do Urso são empurrados para a distância Muito Próxima.
 
-***Bite - Action:*** Mark a Stress to make an attack against a target within Melee range. On a success, deal 3d4+10 physical damage and the target is Restrained until they break free with a successful Strength Roll.
+***Mordida - Ação:*** Marque 1 Estresse para fazer um ataque contra um alvo em alcance Corpo a Corpo. Em caso de sucesso, cause 3d4+10 de dano físico e o alvo fica Preso até se libertar com um teste bem-sucedido de Força.
 
-***Momentum - Reaction:*** When the Bear makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Urso realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

@@ -1,14 +1,14 @@
-﻿# SKELETON WARRIOR
+﻿# GUERREIRO ESQUELETO
 
-***Tier 1 Standard***  
-*A dirt-covered skeleton armed with a rusted blade.*  
-**Motives & Tactics:** Feign death, gang up, steal skin
+***Padrão de Nível 1***  
+*Um esqueleto coberto de terra armado com uma lâmina enferrujada.*  
+**Motivações & Táticas:** Fingir morte, atacar em grupo, roubar pele
 
-> **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2  
-> **ATK:** 0 | **Sword:** Melee | 1d6+2 phy  
+> **Dificuldade:** 10 | **Limiares:** 4/8 | **PV:** 3 | **Estresse:** 2  
+> **ATQ:** 0 | **Espada:** Corpo a corpo | 1d6+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Only Bones - Passive:*** The Warrior is resistant to physical damage.
+***Apenas Ossos - Passiva:*** O Guerreiro é resistente a dano físico.
 
-***Reform - Reaction:*** When the Warrior is defeated, roll a d6. On a result of 6, if there are other adversaries on the battlefield, the Warrior re-forms with no marked HP.
+***Reformar - Reação:*** Quando o Guerreiro é derrotado, role um d6. Com resultado 6, se houver outros adversários no campo de batalha, o Guerreiro se reformula sem PV marcados.

@@ -1,7 +1,7 @@
-﻿# IMPROVED HAND RUNES
+﻿# RUNAS MANUAIS APRIMORADAS
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+3 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Muito Próximo; **Dano:** d10+3 mag; **Peso:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

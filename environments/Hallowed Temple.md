@@ -1,31 +1,31 @@
-﻿# HALLOWED TEMPLE
+﻿# TEMPLO SAGRADO
 
-***Tier 2 Social***  
-*A bustling yet well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.*  
-**Impulses:** Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful
+***Social de Nível 2***  
+*Um templo movimentado, porém bem cuidado, que oferece cura e realiza serviços regulares, supervisionado por um sacerdote ou serafim.*  
+**Impulsos:** Conectar o Reino Mortal com os Santos Acima, exibir o poder do divino, fornecer ajuda e amparo aos fiéis
 
-> **Difficulty:** 13  
-> **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
+> **Dificuldade:** 13  
+> **Adversários Potenciais:** Guardas (Guarda Arqueiro, Guarda com Lâmina, Guarda Chefe)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***A Place of Healing - Passive:*** A PC who takes a rest in the Hallowed Temple automatically clears all HP.
+***Um Lugar de Cura - Passivo:*** Um PJ que descansa no Templo Sagrado automaticamente recupera todos os Pontos de Vida.
 
-  *What does the incense smell like? What kinds of songs do the acolytes sing?*
+  *Qual o cheiro do incenso? Que tipo de canções os acólitos cantam?*
 
-***Divine Guidance - Passive:*** A PC who prays to a deity while in the Hallowed Temple can make an Instinct Roll to receive answers. If the god they beseech isn’t welcome in this temple, roll this made with disadvantage.
+***Orientação Divina - Passivo:*** Um PJ que ora a uma divindade enquanto está no Templo Sagrado pode fazer uma Jogada de Instinto para receber respostas. Se o deus a quem ele suplica não for bem-vindo neste templo, a jogada é feita com desvantagem.
 
-  - Critical Success: The PC gains clear information. Additionally, they gain 1d4 Hope, which can be distributed between the party if they share the vision and guidance they received.
-  - Success with Hope: The PC receives clear information.
-  - Success with Fear: The PC receives brief flashes of insight and an emotional impression conveying an answer.
-  - Any Failure: The PC receives only vague flashes. They can mark a Stress to receive one clear image without context.
+  - Sucesso Crítico: O PJ recebe informações claras. Além disso, ganha 1d4 de Esperança, que pode ser distribuída entre o grupo se compartilharem a visão e a orientação recebidas.
+  - Sucesso com Esperança: O PJ recebe informações claras.
+  - Sucesso com Medo: O PJ recebe breves lampejos de insight e uma impressão emocional que transmite uma resposta.
+  - Qualquer Falha: O PJ recebe apenas lampejos vagos. Pode marcar um Estresse para receber uma imagem clara sem contexto.
 
-  *What does it feel like as you are touched by this vision? What feeling lingers after the images have passed?*
+  *Como é a sensação de ser tocado por essa visão? Que sentimento permanece após as imagens passarem?*
 
-***Restless Hope - Reaction:*** Once per scene, each PC can mark a Stress to turn a result with Fear into a result with Hope.
+***Esperança Inquieta - Reação:*** Uma vez por cena, cada PJ pode marcar um Estresse para transformar um resultado com Medo em um resultado com Esperança.
 
-  *What emotions or memories do you connect with when fear presses in?*
+  *Que emoções ou memórias você conecta quando o medo aperta?*
 
-***Divine Censure - Reaction:*** When the PCs have trespassed, blasphemed, or offended the clergy, you can spend a Fear to summon a High Seraph and 1d4 Bladed Guards within Close range of the senior priest to reinforce their will.
+***Censura Divina - Reação:*** Quando os PJs transgridem, blasfemam ou ofendem o clero, você pode gastar um Medo para invocar um Serafim Superior e 1d4 Guardas com Lâmina dentro do alcance Próximo do sacerdote principal para reforçar sua vontade.
 
-  *What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?*
+  *Que símbolos ou ícones eles carregam que sinalizam que são agentes ungidos da divindade? Quem lidera o grupo e o que o levou a essa vocação?*

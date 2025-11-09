@@ -1,7 +1,7 @@
 ﻿# KNUCKLE BLADES
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+6 físico; **Carga:** Uma mão
 
-**Feature:** ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+**Característica:** ***Brutal:*** Quando você rolar o valor máximo em um dado de dano, role um dado de dano adicional.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

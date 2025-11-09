@@ -1,7 +1,7 @@
-﻿# DUAL-ENDED SWORD
+﻿# ESPADA DE PONTA DUPLA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d10+9 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Característica:** ***Rápida:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

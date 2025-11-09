@@ -1,5 +1,5 @@
-﻿# SPEAKING ORBS
+﻿# ORBS FALANTES
 
-This pair of orbs allows any creatures holding them to communicate with each other across any distance.
+Este par de orbes permite que quaisquer criaturas que os estejam segurando se comuniquem entre si a qualquer distância.
 
 *Item*

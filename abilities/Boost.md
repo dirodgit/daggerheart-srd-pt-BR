@@ -1,6 +1,6 @@
-﻿# BOOST
+﻿# IMPULSO
 
-> **Level 4 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 4**  
+> **Custo de Recordação:** 1
 
-Mark a Stress to boost off a willing ally within Close range, fling yourself into the air, and perform an aerial attack against a target within Far range. You have advantage on the attack, add a d10 to the damage roll, and end your move within Melee range of the target.
+Marque um Estresse para impulsionar um aliado voluntário dentro do alcance Próximo, lance-se no ar e execute um ataque aéreo contra um alvo dentro do alcance Distante. Você tem vantagem no ataque, adiciona um d10 à rolagem de dano e termina seu movimento dentro do alcance Corpo a Corpo do alvo.

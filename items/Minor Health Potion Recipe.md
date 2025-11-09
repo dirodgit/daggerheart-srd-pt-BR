@@ -1,5 +1,5 @@
-﻿# MINOR HEALTH POTION RECIPE
+﻿# RECEITA DE POÇÃO DE VIDA MENOR
 
-As a downtime move, you can use a vial of blood to craft a Minor Health Potion.
+Como uma ação de tempo livre, você pode usar um frasco de sangue para criar uma Poção de Vida Menor.
 
 *Item*

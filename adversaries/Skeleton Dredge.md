@@ -1,14 +1,14 @@
 ﻿# SKELETON DREDGE
 
-***Tier 1 Minion***  
-*A clattering pile of bones.*  
-**Motives & Tactics:** Fall apart, overwhelm, play dead, steal skin
+***Capanga de Nível 1***  
+*Um amontoado de ossos barulhentos.*  
+**Motivações & Táticas:** Despedaçar, sobrecarregar, fingir de morto, roubar pele
 
-> **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -1 | **Bone Claws:** Melee | 1 phy  
+> **Dificuldade:** 8 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -1 | **Garras Ósseas:** Corpo a corpo | 1 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (4) - Passive:*** The Dredge is defeated when they take any damage. For every 4 damage a PC deals to the Dredge, defeat an additional Minion within range the attack would succeed against.
+***Capanga (4) - Passivo:*** O Dredge é derrotado ao receber qualquer dano. Para cada 4 de dano que um PJ causar ao Dredge, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Dredges within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 1 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Dredges dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 1 de dano físico. Combine esse dano.

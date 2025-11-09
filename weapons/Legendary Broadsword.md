@@ -1,7 +1,7 @@
-﻿# LEGENDARY BROADSWORD
+﻿# ESPADA LARGA LENDÁRIA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d8+9 físico; **Carga:** Uma mão
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 nas jogadas de ataque
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

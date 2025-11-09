@@ -1,5 +1,5 @@
-﻿# CONTROL POTION
+﻿# POÇÃO DE CONTROLE
 
-You gain a +1 bonus to your next Finesse Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Destreza.
 
-*Consumable*
+*Consumível*

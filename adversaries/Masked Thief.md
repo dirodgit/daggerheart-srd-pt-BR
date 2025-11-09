@@ -1,15 +1,15 @@
-﻿# MASKED THIEF
+﻿# LADRÃO MASCARADO
 
-***Tier 2 Skulk***  
-*A cunning thief with acrobatic skill and a flair for the dramatic.*  
-**Motives & Tactics:** Evade, hide, pilfer, profit
+***Esconderijo de Nível 2***  
+*Um ladrão astuto com habilidade acrobática e um toque dramático.*  
+**Motivações & Táticas:** Evadir, esconder, furtar, lucrar
 
-> **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5  
-> **ATK:** +3 | **Backsword:** Melee | 2d8+3 phy  
-> **Experience:** Acrobatics +3
+> **Dificuldade:** 14 | **Limiares:** 8/17 | **PV:** 4 | **Estresse:** 5  
+> **ATQ:** +3 | **Espada Curta:** Corpo a Corpo | 2d8+3 físico  
+> **Experiência:** Acrobacia +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Quick Hands - Action:*** Make an attack against a target within Melee range. On a success, deal 1d8+2 physical damage and the Thief steals one item or consumable from the target’s inventory.
+***Mãos Rápidas - Ação:*** Faça um ataque contra um alvo em alcance Corpo a Corpo. Em caso de sucesso, cause 1d8+2 de dano físico e o Ladrão rouba um item ou consumível do inventário do alvo.
 
-***Escape Plan - Action:*** Mark a Stress to reveal a snare trap set anywhere on the battlefield by the Thief. All targets within Very Close range of the trap must succeed on an Agility Reaction Roll (13) or be pulled off their feet and suspended upside down. The target is Restrained and Vulnerable until they break free, ending both conditions, with a successful Finesse or Strength Roll (13).
+***Plano de Fuga - Ação:*** Marque um Estresse para revelar uma armadilha de laço posicionada em qualquer lugar do campo de batalha pelo Ladrão. Todos os alvos em alcance Muito Próximo da armadilha devem passar em um Teste de Reação de Agilidade (13) ou serão derrubados e suspensos de cabeça para baixo. O alvo fica Imobilizado e Vulnerável até se libertar, encerrando ambas as condições, com um Teste bem-sucedido de Destreza ou Força (13).

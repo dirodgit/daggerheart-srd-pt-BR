@@ -1,7 +1,7 @@
-﻿# LEATHER ARMOR
+﻿# ARMADURA DE COURO
 
-**Base Thresholds:** 6 / 13; **Base Score:** 3
+**Limiares Base:** 6 / 13; **Pontuação Base:** 3
 
-**Feature:** —
+**Característica:** —
 
-*Armor - Tier 1*
+*Armadura - Nível 1*

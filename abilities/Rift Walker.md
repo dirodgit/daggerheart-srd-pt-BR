@@ -1,8 +1,8 @@
-﻿# RIFT WALKER
+﻿# CAMINHANTE DO VÃO
 
-> **Level 6 Arcana Spell**  
-> **Recall Cost:** 2
+> **Magia Arcana de Nível 6**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll (15). On a success, you place an arcane marking on the ground where you currently stand. The next time you successfully cast Rift Walker, a rift in space opens up, providing safe passage back to the exact spot where the marking was placed. This rift stays open until you choose to close it or you cast another spell.
+Faça uma Jogada de Conjuração de Magia (15). Em caso de sucesso, você coloca uma marcação arcana no chão onde está atualmente. Na próxima vez que você conjurar Caminhante do Vão com sucesso, uma fenda no espaço se abre, proporcionando passagem segura de volta ao exato local onde a marcação foi colocada. Essa fenda permanece aberta até que você escolha fechá-la ou conjure outra magia.
 
-You can drop the spell at any time to cast Rift Walker again and place the marking somewhere new.
+Você pode abandonar a magia a qualquer momento para conjurar Caminhante do Vão novamente e colocar a marcação em um novo local.

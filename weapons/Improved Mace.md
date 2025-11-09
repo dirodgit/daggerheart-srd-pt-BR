@@ -1,7 +1,7 @@
-﻿# IMPROVED MACE
+﻿# MAÇA APRIMORADA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d8+4 físico; **Carga:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

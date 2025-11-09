@@ -1,19 +1,19 @@
-﻿# DEMON OF JEALOUSY
+﻿# DEMÔNIO DO CIÚME
 
-***Tier 3 Ranged***  
-*A fickle creature of spindly limbs and insatiable desires.*  
-**Motives & Tactics:** Join in on others’ success, take what belongs to others, hold grudges
+***Nível 3 à Distância***  
+*Uma criatura volúvel de membros finos e desejos insaciáveis.*  
+**Motivações & Táticas:** Participar do sucesso dos outros, tomar o que pertence a outros, guardar rancores
 
-> **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6  
-> **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag  
-> **Experience:** Manipulation +3
+> **Dificuldade:** 17 | **Limiares:** 17/30 | **PV:** 6 | **Estresse:** 6  
+> **ATAQ:** +4 | **Assalto Psíquico:** Longo alcance | 3d8+3 mag  
+> **Experiência:** Manipulação +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Unprotected Mind - Passive:*** The Demon’s standard attack deals direct damage.
+***Mente Desprotegida - Passiva:*** O ataque padrão do Demônio causa dano direto.
 
-***My Turn - Reaction:*** When the Demon marks HP from an attack, spend a number of Fear equal to the HP marked by the Demon to cause the attacker to mark the same number of HP.
+***Minha Vez - Reação:*** Quando o Demônio marca PV de um ataque, gaste uma quantidade de Medo igual ao PV marcado pelo Demônio para fazer o atacante marcar a mesma quantidade de PV.
 
-***Rivalry - Reaction:*** When a creature within Close range takes damage from a different adversary, you can mark a Stress to add a d4 to the damage roll.
+***Rivalidade - Reação:*** Quando uma criatura em alcance Próximo sofre dano de um adversário diferente, você pode marcar um Estresse para adicionar um d4 à rolagem de dano.
 
-***What’s Yours Is Mine - Reaction:*** When a PC takes severe damage within Very Close range of the Demon, you can spend a Fear to cause the target to make a Finesse Reaction Roll. On a failure, the Demon seizes one item or consumable of their choice from the target’s inventory.
+***O Que É Seu É Meu - Reação:*** Quando um PJ sofre dano severo em alcance Muito Próximo do Demônio, você pode gastar um Medo para fazer o alvo realizar uma Rolagem de Reação de Destreza. Em caso de falha, o Demônio apreende um item ou consumível de sua escolha do inventário do alvo.

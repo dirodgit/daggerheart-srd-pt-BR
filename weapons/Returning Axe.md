@@ -1,7 +1,7 @@
-﻿# RETURNING AXE
+﻿# MACHADO RETORNANTE
 
-**Trait:** Agility; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Curto; **Dano:** d6+4 físico; **Peso:** Uma Mão
 
-**Feature:** ***Returning:*** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+**Característica:** ***Retornante:*** Quando esta arma é arremessada dentro do seu alcance, ela aparece em sua mão imediatamente após o ataque.
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

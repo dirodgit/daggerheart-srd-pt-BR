@@ -1,15 +1,15 @@
-﻿# VAMPIRE
+﻿# VAMPIRO
 
-***Tier 3 Standard***  
-*An intelligent undead with blood-stained lips and a predator’s smile.*  
-**Motives & Tactics:** Bite, charm, deceive, feed, intimidate
+***Nível 3 Padrão***  
+*Um morto-vivo inteligente com lábios manchados de sangue e um sorriso de predador.*  
+**Motivações & Táticas:** Morder, encantar, enganar, alimentar-se, intimidar
 
-> **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4  
-> **ATK:** +3 | **Rapier:** Melee | 3d8 phy  
-> **Experience:** Nocturnal Hunter +3
+> **Dificuldade:** 16 | **Limiares:** 18/35 | **PV:** 5 | **Estresse:** 4  
+> **ATQ:** +3 | **Rapière:** Corpo a corpo | 3d8 físico  
+> **Experiência:** Caçador Noturno +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Draining Bite - Action:*** Make an attack against a target within Melee range. On a success, deal 4d physical damage. A target who marks HP from this attack loses a Hope and must mark a Stress. The Vampire then clears a HP.
+***Mordida Sugadora - Ação:*** Faça um ataque contra um alvo dentro do alcance de Corpo a Corpo. Em caso de sucesso, cause 4d de dano físico. Um alvo que marque PV por este ataque perde uma Esperança e deve marcar um Estresse. O Vampiro então limpa um PV.
 
-***Mistform - Reaction:*** When the Vampire takes physical damage, you can spend a Fear to take half damage.
+***Forma de Névoa - Reação:*** Quando o Vampiro sofre dano físico, você pode gastar um Medo para receber metade do dano.

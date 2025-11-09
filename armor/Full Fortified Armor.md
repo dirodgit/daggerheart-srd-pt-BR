@@ -1,7 +1,7 @@
-﻿# FULL FORTIFIED ARMOR
+﻿# ARMADURA TOTALMENTE FORTIFICADA
 
-**Base Thresholds:** 15 / 40; **Base Score:** 4
+**Limiares Base:** 15 / 40; **Pontuação Base:** 4
 
-**Feature:** ***Fortified:*** When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.
+**Característica:** ***Fortificada:*** Quando você marca um Espaço de Armadura, você reduz a severidade de um ataque em dois limiares ao invés de um.
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

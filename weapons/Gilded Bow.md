@@ -1,7 +1,7 @@
-﻿# GILDED BOW
+﻿# ARCO DOURADO
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 mag; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+7 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Self-Correcting:*** When you roll a 1 on a damage die, it deals 6 damage instead.
+**Característica:** ***Auto-Corretivo:*** Quando você rolar 1 em um dado de dano, ele causará 6 de dano em vez disso.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

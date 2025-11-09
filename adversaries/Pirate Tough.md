@@ -1,15 +1,15 @@
-﻿# PIRATE TOUGH
+﻿# PIRATA DURÃO
 
-***Tier 1 Bruiser***  
-*A thickly muscled and tattooed pirate with melon-sized fists.*  
-**Motives & Tactics:** Plunder, raid, smash, terrorize
+***Brutamontes de Nível 1***  
+*Um pirata fortemente musculoso e tatuado, com punhos do tamanho de melões.*  
+**Motivações & Táticas:** Saquear, atacar, esmagar, aterrorizar
 
-> **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +1 | **Massive Fists:** Melee | 2d6 phy  
-> **Experience:** Sailor +2
+> **Dificuldade:** 13 | **Limiares:** 8/15 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +1 | **Punhos Massivos:** Corpo a corpo | 2d6 físico  
+> **Experiência:** Marinheiro +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Swashbuckler - Passive:*** When the Tough marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
+***Espadachim - Passiva:*** Quando o Durão recebe 2 ou menos PV de dano de um ataque dentro do alcance Corpo a Corpo, o atacante deve marcar 1 Estresse.
 
-***Clear the Decks - Action:*** Make an attack against a target within Very Close range. On a success, mark a Stress to move into Melee range of the target, dealing 3d4 physical damage and knocking the target back to Close range.
+***Limpar o Convés - Ação:*** Faça um ataque contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, marque 1 Estresse para se mover até o alcance Corpo a Corpo do alvo, causando 3d4 de dano físico e empurrando o alvo para o alcance Próximo.

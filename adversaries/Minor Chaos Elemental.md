@@ -1,20 +1,20 @@
-﻿# MINOR CHAOS ELEMENTAL
+﻿# ELEMENTAL DO CAOS MENOR
 
-***Tier 1 Solo***  
-*A coruscating mass of uncontrollable magic.*  
-**Motives & Tactics:** Confound, destabilize, transmogrify
+***Nível 1 Solo***  
+*Uma massa cintilante de magia incontrolável.*  
+**Motivações & Táticas:** Confundir, desestabilizar, transmogrificar
 
-> **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag  
+> **Dificuldade:** 14 | **Limiares:** 7/14 | **PV:** 7 | **Estresse:** 3  
+> **ATAQ:** +3 | **Explosão de Distorção:** Próximo | 1d12+6 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Arcane Master - Passive:*** The Elemental is resistant to magic damage.
+***Mestre Arcano - Passivo:*** O Elemental é resistente a dano mágico.
 
-***Sickening Flux - Action:*** Mark a HP to force all targets within Close range to mark a Stress and become Vulnerable until their next rest or they clear a HP.
+***Fluxo Enjoativo - Ação:*** Marque um PV para forçar todos os alvos em alcance Próximo a marcarem um Estresse e ficarem Vulneráveis até seu próximo descanso ou até que limpem um PV.
 
-***Remake Reality - Action:*** Spend a Fear to transform the area within Very Close range into a different biome. All targets within this area take 2d6+3 direct magic damage.
+***Refazer a Realidade - Ação:*** Gaste um Medo para transformar a área em alcance Muito Próximo em um bioma diferente. Todos os alvos nessa área sofrem 2d6+3 de dano mágico direto.
 
-***Magical Reflection - Reaction:*** When the Elemental takes damage from an attack within Close range, deal an amount of damage to the attacker equal to half of the damage they dealt.
+***Reflexão Mágica - Reação:*** Quando o Elemental sofre dano de um ataque em alcance Próximo, cause ao atacante um dano igual à metade do dano que ele causou.
 
-***Momentum - Reaction:*** When the Elemental makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Elemental realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

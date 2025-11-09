@@ -1,5 +1,5 @@
-﻿# ELUSIVE AMULET
+﻿# AMULETO ESCORREGADIO
 
-Once per long rest, you can activate this amulet to become **Hidden** until you move. While **Hidden** in this way, you remain unseen even if an adversary moves to where they would normally see you.
+Uma vez por descanso longo, você pode ativar este amuleto para se tornar **Oculto** até se mover. Enquanto estiver **Oculto** dessa forma, você permanece invisível mesmo que um adversário se mova para onde normalmente o veria.
 
 *Item*

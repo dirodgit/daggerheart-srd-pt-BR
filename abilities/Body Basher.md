@@ -1,6 +1,6 @@
-﻿# BODY BASHER
+﻿# IMPACTO CORPORAL
 
-> **Level 2 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 2**  
+> **Custo para Recordar:** 1
 
-You use the full force of your body in a fight. On a successful attack using a weapon with a Melee range, gain a bonus to your damage roll equal to your Strength.
+Você usa toda a força do seu corpo em uma luta. Em um ataque bem-sucedido usando uma arma com alcance Corpo a Corpo, ganhe um bônus na sua rolagem de dano igual à sua Força.

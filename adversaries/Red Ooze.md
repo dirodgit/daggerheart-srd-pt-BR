@@ -1,17 +1,17 @@
-﻿# RED OOZE
+﻿# LAMA VERMELHA
 
-***Tier 1 Skulk***  
-*A moving mound of translucent flaming red slime.*  
-**Motives & Tactics:** Camouflage, consume and multiply, ignite, start fires
+***Esconderijo de Nível 1***  
+*Um monte em movimento de gosma translúcida vermelha flamejante.*  
+**Motivações & Táticas:** Camuflagem, consumir e multiplicar, incendiar, iniciar incêndios
 
-> **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d8+3 mag  
-> **Experience:** Camouflage +3
+> **Dificuldade:** 10 | **Limiares:** 6/11 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +1 | **Apêndice de Lama:** Corpo a corpo | 1d8+3 mágico  
+> **Experiência:** Camuflagem +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Creeping Fire - Passive:*** The Ooze can only move within Very Close range as their normal movement. They light any flammable object they touch on fire.
+***Fogo Rastejante - Passivo:*** A Lama só pode se mover dentro do alcance Muito Próximo como seu movimento normal. Ela incendeia qualquer objeto inflamável que tocar.
 
-***Ignite - Action:*** Make an attack against a target within Very Close range. On a success, the target takes 1d8 magic damage and is ignited until they’re extinguished with a successful Finesse Roll (14). While ignited, the target takes 1d4 magic damage when they make an action roll.
+***Incendiar - Ação:*** Faça um ataque contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, o alvo sofre 1d8 de dano mágico e é incendiado até ser apagado com um teste de Destreza bem-sucedido (14). Enquanto incendiado, o alvo sofre 1d4 de dano mágico sempre que fizer um teste de ação.
 
-***Split - Reaction:*** When the Ooze has 3 or more HP marked, you can spend a Fear to split them into two Tiny Red Oozes (with no marked HP or Stress). Immediately spotlight both of them.
+***Dividir - Reação:*** Quando a Lama tiver 3 ou mais PV marcados, você pode gastar um Medo para dividi-la em duas Lamas Vermelhas Minúsculas (sem PV ou Estresse marcados). Imediatamente destaque ambas.

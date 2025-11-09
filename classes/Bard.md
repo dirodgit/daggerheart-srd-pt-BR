@@ -1,36 +1,36 @@
 ﻿# BARD
 
-Bards are the most charismatic people in all the realms. Members of this class are masters of captivation and specialize in a variety of performance types, including singing, playing musical instruments, weaving tales, or telling jokes. Whether performing for an audience or speaking to an individual, bards thrive in social situations. Members of this profession bond and train at schools or guilds, but a current of egotism runs through those of the bardic persuasion. While they may be the most likely class to bring people together, a bard of ill temper can just as easily tear a party apart.
+Bardos são as pessoas mais carismáticas de todos os reinos. Membros desta classe são mestres da cativação e se especializam em vários tipos de performance, incluindo cantar, tocar instrumentos musicais, tecer histórias ou contar piadas. Seja se apresentando para uma audiência ou falando com um indivíduo, bardos prosperam em situações sociais. Membros desta profissão se unem e treinam em escolas ou guildas, mas uma corrente de egoísmo corre através daqueles da persuasão bardica. Embora possam ser a classe mais provável a unir as pessoas, um bardo de mau humor pode tão facilmente despedaçar um grupo.
 
-> **• DOMAINS:** [Grace](../domains/Grace.md) & [Codex](../domains/Codex.md)  
-> **• STARTING EVASION:** 10  
-> **• STARTING HIT POINTS:** 5  
-> **• CLASS ITEMS:** A romance novel or a letter never opened
+> **• DOMÍNIOS:** [Graça](../domains/Grace.md) & [Códex](../domains/Codex.md)  
+> **• EVASÃO INICIAL:** 10  
+> **• PONTOS DE VIDA INICIAIS:** 5  
+> **• ITENS DE CLASSE:** Um romance ou uma carta nunca aberta
 
-## BARD’S HOPE FEATURE
+## HABILIDADE DE ESPERANÇA DO BARDO
 
-***Make a Scene:*** Spend 3 Hope to temporarily Distract a target within Close range, giving them a -2 penalty to their Difficulty.
+***Fazer Cena:*** Gaste 3 de Esperança para Distrair temporariamente um alvo em alcance Próximo, dando a ele uma penalidade de -2 na sua Dificuldade.
 
-## CLASS FEATURE
+## HABILIDADE DE CLASSE
 
-***Rally:*** Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die. At level 1, your Rally Die is a d6. A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result. At the end of each session, clear all unspent Rally Dice. At level 5, your Rally Die increases to a d8.
+***Encontro:*** Uma vez por sessão, descreva como você reúne o grupo e dê a si mesmo e a cada um de seus aliados um Dado de Encontro. No nível 1, seu Dado de Encontro é um d6. Um personagem jogador pode gastar seu Dado de Encontro para rolá-lo, adicionando o resultado à sua rolagem de ação, rolagem de reação, rolagem de dano, ou para limpar uma quantidade de Estresse igual ao resultado. No final de cada sessão, limpe todos os Dados de Encontro não usados. No nível 5, seu Dado de Encontro aumenta para um d8.
 
-## BARD SUBCLASSES
+## SUBCLASSES DO BARDO
 
-Choose either the **[Troubadour](../subclasses/Troubadour.md)** or **[Wordsmith](../subclasses/Wordsmith.md)** subclass.
+Escolha a subclasse **[Trovador](../subclasses/Troubadour.md)** ou **[Artífice das Palavras](../subclasses/Wordsmith.md)**.
 
-## BACKGROUND QUESTIONS
+## PERGUNTAS DE HISTÓRICO
 
-*Answer any of the following background questions. You can also create your own questions.*
+*Responda a qualquer uma das seguintes perguntas de histórico. Você também pode criar suas próprias perguntas.*
 
-- Who from your community taught you to have such confidence in yourself?
-- You were in love once. Who did you adore, and how did they hurt you?
-- You’ve always looked up to another bard. Who are they, and why do you idolize them?
+- Quem da sua comunidade te ensinou a ter tanta confiança em si mesmo?
+- Você já esteve apaixonado. Quem você adorava, e como essa pessoa te machucou?
+- Você sempre admirou outro bardo. Quem é essa pessoa, e por que você a idolatra?
 
-## CONNECTIONS
+## CONEXÕES
 
-*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+*Pergunte a seus companheiros jogadores uma das seguintes perguntas para que o personagem deles responda, ou crie suas próprias perguntas.*
 
-- What made you realize we were going to be such good friends?
-- What do I do that annoys you?
-- Why do you grab my hand at night?
+- O que fez você perceber que seríamos tão bons amigos?
+- O que eu faço que te irrita?
+- Por que você segura minha mão à noite?

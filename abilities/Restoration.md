@@ -1,10 +1,10 @@
-﻿# RESTORATION
+﻿# RESTAURAÇÃO
 
-> **Level 6 Splendor Spell**  
-> **Recall Cost:** 2
+> **Magia de Esplendor de Nível 6**  
+> **Custo de Recordação:** 2
 
-After a long rest, place a number of tokens equal to your Spellcast trait on this card. Touch a creature and spend any number of tokens to clear 2 Hit Points or 2 Stress for each token spent.
+Após um descanso longo, coloque um número de marcadores igual ao seu traço de Conjuração de Magia nesta carta. Toque uma criatura e gaste qualquer número de marcadores para curar 2 Pontos de Vida ou 2 de Estresse para cada marcador gasto.
 
-You can also spend a token from this card when touching a creature to clear the Vulnerable condition or heal a physical or magical ailment (the GM might require additional tokens depending on the strength of the ailment).
+Você também pode gastar um marcador desta carta ao tocar uma criatura para remover a condição Vulnerável ou curar uma enfermidade física ou mágica (o Mestre pode exigir marcadores adicionais dependendo da gravidade da enfermidade).
 
-When you take a long rest, clear all unspent tokens.
+Quando você fizer um descanso longo, remova todos os marcadores não gastos.

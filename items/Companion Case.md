@@ -1,5 +1,5 @@
-﻿# COMPANION CASE
+﻿# ESTOJO DE COMPANHEIRO
 
-This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects.
+Este estojo pode acomodar um pequeno companheiro animal. Enquanto o companheiro estiver dentro, o animal e o estojo são imunes a todos os danos e efeitos nocivos.
 
 *Item*

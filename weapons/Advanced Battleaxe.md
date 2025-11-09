@@ -1,7 +1,7 @@
-﻿# ADVANCED BATTLEAXE
+﻿# MACHADO DE BATALHA AVANÇADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+9 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

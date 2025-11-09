@@ -1,15 +1,15 @@
-﻿# JAGGED KNIFE LACKEY
+﻿# LACAIOS DA FACA CORTANTE
 
-***Tier 1 Minion***  
-*A thief with simple clothes and small daggers, eager to prove themselves.*  
-**Motives & Tactics:** Escape, profit, throw smoke
+***Capanga de Nível 1***  
+*Um ladrão com roupas simples e pequenas adagas, ansioso para provar seu valor.*  
+**Motivações & Táticas:** Fugir, lucrar, lançar fumaça
 
-> **Difficulty:** 9 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -2 | **Daggers:** Melee | 2 phy  
-> **Experience:** Thief +2
+> **Dificuldade:** 9 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -2 | **Adagas:** Corpo a corpo | 2 físico  
+> **Experiência:** Ladrão +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (3) - Passive:*** The Lackey is defeated when they take any damage. For every 3 damage a PC deals to the Lackey, defeat an additional Minion within range the attack would succeed against.
+***Capanga (3) - Passivo:*** O Lacaios é derrotado ao receber qualquer dano. Para cada 3 de dano que um PJ causar ao Lacaios, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Jagged Knife Lackeys within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Lacaios da Faca Cortante dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 2 de dano físico. Combine esse dano.

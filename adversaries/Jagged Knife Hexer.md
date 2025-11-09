@@ -1,15 +1,15 @@
-﻿# JAGGED KNIFE HEXER
+﻿# HEXER FACA IRREGULAR
 
-***Tier 1 Support***  
-*A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*  
-**Motives & Tactics:** Command, hex, profit
+***Suporte de Nível 1***  
+*Um bandido empunhando um cajado, vestido com um manto adornado com parafernália mágica, usando maldições para atormentar seus inimigos.*  
+**Motivações & Táticas:** Comando, maldição, lucro
 
-> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +2 | **Staff:** Far | 1d6+2 mag  
-> **Experience:** Magical Knowledge +2
+> **Dificuldade:** 13 | **Limiares:** 5/9 | **PV:** 4 | **Estresse:** 4  
+> **ATQ:** +2 | **Cajado:** Distante | 1d6+2 mágico  
+> **Experiência:** Conhecimento Mágico +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Curse - Action:*** Choose a target within Far range and temporarily Curse them. While the target is Cursed, you can mark a Stress so that target rolls with Hope to make the roll be with Fear instead.
+***Maldição - Ação:*** Escolha um alvo dentro do alcance Distante e amaldiçoe-o temporariamente. Enquanto o alvo estiver Amaldiçoado, você pode marcar um Estresse para que o alvo role com Esperança para que a rolagem seja feita com Medo em vez disso.
 
-***Chaotic Flux - Action:*** Make an attack against up to three targets within Very Close range. Mark a Stress to deal 2d6+3 magic damage to targets the Hexer succeeded against.
+***Fluxo Caótico - Ação:*** Faça um ataque contra até três alvos dentro do alcance Muito Próximo. Marque um Estresse para causar 2d6+3 de dano mágico aos alvos contra os quais o Hexer teve sucesso.

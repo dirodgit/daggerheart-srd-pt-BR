@@ -1,7 +1,7 @@
-﻿# POWERED GAUNTLET
+﻿# MANOPLA POTENTE
 
-**Trait:** Knowledge; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Próximo; **Dano:** d6+4 físico; **Encargo:** Uma Mão
 
-**Feature:** ***Charged:*** Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack.
+**Característica:** ***Carregado:*** Marque um Estresse para ganhar +1 de bônus na sua Proficiência em um ataque com arma primária.
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

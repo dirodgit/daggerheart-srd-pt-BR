@@ -1,5 +1,5 @@
-﻿# GEM OF SAGACITY
+﻿# GEMA DE SAGACIDADE
 
-You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon.
+Você pode anexar esta gema a uma arma, permitindo que você use seu Conhecimento ao fazer um ataque com essa arma.
 
 *Item*

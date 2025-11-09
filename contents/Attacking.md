@@ -1,45 +1,45 @@
-# ATTACKING
+# ATACANDO
 
-## ATTACK ROLLS
+## TESTES DE ATAQUE
 
-An **attack roll** is an action roll intended to inflict harm. The trait that applies to an attack roll is specified by the weapon or spell being used. Unarmed attack rolls use either Strength or Finesse (GM’s choice). An attack roll’s Difficulty, unless otherwise noted, is equal to the Difficulty score of its target.
+Um **teste de ataque** é um teste de ação destinado a causar dano. O traço que se aplica a um teste de ataque é especificado pela arma ou feitiço utilizado. Testes de ataque desarmados usam Força ou Destreza (escolha do Mestre). A Dificuldade de um teste de ataque, salvo indicação em contrário, é igual à pontuação de Dificuldade do seu alvo.
 
-## DAMAGE ROLLS
+## TESTES DE DANO
 
-On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack’s description with the format “xdy+[modifier]” *(e.g., for a spell that inflicts “1d8+2” damage, you roll an eight-sided die and add 2 to the result; the damage dealt is equal to the total).*
+Em um ataque bem-sucedido, role o dano. O dano é calculado a partir do **teste de dano** listado na descrição do ataque no formato “xdy+[modificador]” *(por exemplo, para um feitiço que causa “1d8+2” de dano, você rola um dado de oito faces e adiciona 2 ao resultado; o dano causado é igual ao total).*
 
-Any time an effect says to deal damage using your Spellcast trait, you roll a number of dice equal to your Spellcast trait.
+Sempre que um efeito indicar que você deve causar dano usando seu traço de Conjuração, role um número de dados igual ao seu traço de Conjuração.
 
-> ***Note:*** *If your Spellcast trait is +0 or lower, you don’t roll anything.*
+> ***Nota:*** *Se seu traço de Conjuração for +0 ou menor, você não rola nada.*
 
-For weapons, the number of damage dice you roll is equal to your **Proficiency**. *Note that your Proficiency multiplies the number of dice you roll, but doesn’t affect the modifier. For example, a PC with Proficiency 2 and wielding a weapon with a damage rating of “d8+2” deals damage equal to “2d8+2” on a successful attack.*
+Para armas, o número de dados de dano que você rola é igual à sua **Proficiência**. *Note que sua Proficiência multiplica o número de dados que você rola, mas não afeta o modificador. Por exemplo, um personagem com Proficiência 2 e empunhando uma arma com dano “d8+2” causa dano igual a “2d8+2” em um ataque bem-sucedido.*
 
-Successful unarmed attacks inflict [Proficiency]d4 damage.
+Ataques desarmados bem-sucedidos causam [Proficiência]d4 de dano.
 
-## CRITICAL DAMAGE
+## DANO CRÍTICO
 
-When you get a critical success (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.
+Quando você obtém um sucesso crítico (isto é, rola valores iguais nos seus Dados de Dualidade) em um teste de ataque, você causa dano extra. Faça o teste de dano normalmente, mas adicione o resultado máximo possível dos dados de dano ao total final. Por exemplo, se um ataque normalmente causaria 2d8+1 de dano, um sucesso crítico causaria 2d8+1+16.
 
-## DAMAGE TYPES
+## TIPOS DE DANO
 
-There are two damage types: **physical damage (phy)** and **magic damage (mag)**. Unless stated otherwise, mundane weapons and unarmed attacks deal physical damage, and spells deal magic damage.
+Existem dois tipos de dano: **dano físico (phy)** e **dano mágico (mag)**. A menos que indicado de outra forma, armas comuns e ataques desarmados causam dano físico, e feitiços causam dano mágico.
 
-## RESISTANCE, IMMUNITY, AND DIRECT DAMAGE
+## RESISTÊNCIA, IMUNIDADE E DANO DIRETO
 
-If a target has **resistance** to a damage type, they reduce incoming damage of that type by half before comparing it to their Hit Point Thresholds. If the target has additional ways of reducing incoming damage, such as marking Armor Slots, they apply the resistance effect first. The effects of multiple resistances to the same damage type do not stack.
+Se um alvo possui **resistência** a um tipo de dano, ele reduz o dano recebido desse tipo pela metade antes de compará-lo aos seus Limites de Pontos de Vida. Se o alvo tiver outras formas de reduzir o dano recebido, como marcar Espaços de Armadura, ele aplica o efeito da resistência primeiro. Os efeitos de múltiplas resistências ao mesmo tipo de dano não se acumulam.
 
-If a target has **immunity** to a damage type, they ignore incoming damage of that type.
+Se um alvo possui **imunidade** a um tipo de dano, ele ignora o dano recebido desse tipo.
 
-If an attack deals both physical and magic damage, a character can only benefit from resistance or immunity if they are resistant or immune to both damage types.
+Se um ataque causar dano físico e mágico simultaneamente, um personagem só pode se beneficiar de resistência ou imunidade se for resistente ou imune a ambos os tipos de dano.
 
-**Direct damage** is damage that can’t be reduced by marking Armor Slots.
+**Dano direto** é dano que não pode ser reduzido marcando Espaços de Armadura.
 
-## MULTI-TARGET ATTACK ROLLS
+## TESTES DE ATAQUE MULTI-ALVO
 
-If a spell or ability allows you to target multiple adversaries, make one attack roll and one damage roll, then apply the same attack roll result individually.
+Se um feitiço ou habilidade permite que você mire em múltiplos adversários, faça um único teste de ataque e um único teste de dano, e então aplique o resultado do teste de ataque individualmente para cada alvo.
 
-## MULTIPLE DAMAGE SOURCES
+## MÚLTIPLAS FONTES DE DANO
 
-Damage dealt simultaneously from multiple sources is always totaled before it’s compared to its target’s damage thresholds.
+Danos causados simultaneamente por múltiplas fontes são sempre somados antes de serem comparados aos limites de dano do alvo.
 
-> *For example, if a PC with or ancestry makes a successful attack against a target in Melee range and decides to spend a Hope to use their “Tusks” feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.*
+> *Por exemplo, se um personagem com uma ancestralidade faz um ataque bem-sucedido contra um alvo em alcance corpo a corpo e decide gastar uma Esperança para usar sua característica “Presas” (que lhe concede 1d6 de dano extra em um teste de dano), ele rolaria o dano normal da arma e adicionaria um d6 ao resultado, então causaria esse dano total ao adversário.*

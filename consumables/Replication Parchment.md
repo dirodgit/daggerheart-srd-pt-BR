@@ -1,5 +1,5 @@
-﻿# REPLICATION PARCHMENT
+﻿# PÁRCHMENTO DE REPLICAÇÃO
 
-By touching this piece of parchment to another, you can perfectly copy the second parchment’s contents. Once used, this parchment becomes mundane paper.
+Ao tocar este pedaço de párchmento em outro, você pode copiar perfeitamente o conteúdo do segundo párchmento. Uma vez usado, este párchmento se torna papel comum.
 
-*Consumable*
+*Consumível*

@@ -1,7 +1,7 @@
 ﻿# DUNAMIS SILKCHAIN
 
-**Base Thresholds:** 13 / 36; **Base Score:** 7
+**Limiares Base:** 13 / 36; **Pontuação Base:** 7
 
-**Feature:** ***Timeslowing:*** Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack.
+**Habilidade:** ***Ralentização Temporal:*** Marque um Espaço de Armadura para rolar um d4 e adicionar seu resultado como bônus à sua Evasão contra um ataque recebido.
 
-*Armor - Tier 4*
+*Armadura - Nível 4*

@@ -1,26 +1,26 @@
-﻿# BUSTLING MARKETPLACE
+﻿# MERCADO AGITADO
 
-***Tier 1 Social***  
-*The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.*  
-**Impulses:** Buy low, sell high, tempt and tantalize with wares from near and far
+***Social de Nível 1***  
+*O coração econômico do assentamento, com artesãos locais, mercadores itinerantes e clientes de diversas classes sociais.*  
+**Impulsos:** Comprar barato, vender caro, atrair e seduzir com mercadorias de perto e de longe
 
-> **Difficulty:** 10  
-> **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
+> **Dificuldade:** 10  
+> **Adversários Potenciais:** Guardas (Guarda com Lâmina, Guarda-Chefe), Ladrão Mascarado, Mercador
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Tip the Scales - Passive:*** PCs can gain advantage on a Presence Roll by offering a handful of gold as part of the interaction.
+***Inclinar a Balança - Passivo:*** Os personagens podem ganhar vantagem em uma Jogada de Presença ao oferecer uma pequena quantia em ouro como parte da interação.
 
-  *Will any coin be accepted, or only local currency? How overt are the PCs in offering this bribe?*
+  *Qual moeda será aceita, qualquer moeda ou apenas a local? Quão explícitos os personagens são ao oferecer essa propina?*
 
-***Unexpected Find - Action:*** Reveal to the PCs that one of the merchants has something they want or need, such as food from their home, a rare book, magical components, a dubious treasure map, or a magical key.
+***Achado Inesperado - Ação:*** Revele aos personagens que um dos mercadores possui algo que eles querem ou precisam, como comida de sua terra natal, um livro raro, componentes mágicos, um mapa do tesouro duvidoso ou uma chave mágica.
 
-  *What cost beyond gold will the merchant ask for in exchange for this rarity?*
+  *Qual custo além do ouro o mercador pedirá em troca dessa raridade?*
 
-***Sticky Fingers - Action:*** A thief tries to steal something from a PC. The PC must succeed on an Instinct Roll to notice the thief or lose an item of the GM’s choice as the thief escapes to a Close distance. To retrieve the stolen item, the PCs must complete a Progress Countdown (6) to chase down the thief before the thief completes a Consequence Countdown (4) and escapes to their hideout.
+***Dedos Leves - Ação:*** Um ladrão tenta roubar algo de um personagem. O personagem deve ter sucesso em uma Jogada de Instinto para perceber o ladrão ou perder um item escolhido pelo Mestre enquanto o ladrão foge para uma distância Próxima. Para recuperar o item roubado, os personagens devem completar uma Contagem Regressiva de Progresso (6) para perseguir o ladrão antes que ele complete uma Contagem Regressiva de Consequência (4) e escape para seu esconderijo.
 
-  *What drove this person to pickpocketing? Where is the thief’s hideout and how has it avoided notice?*
+  *O que levou essa pessoa a se tornar um batedor de carteiras? Onde fica o esconderijo do ladrão e como ele passou despercebido?*
 
-***Crowd Control - Reaction:*** When one of the PCs splits from the group, the crowds shift and cut them off from the party.
+***Controle da Multidão - Reação:*** Quando um dos personagens se afasta do grupo, a multidão se move e o isola do restante da equipe.
 
-  *Where does the crowd’s movement carry them? How do they feel about being alone but surrounded?*
+  *Para onde o movimento da multidão o leva? Como ele se sente estando sozinho, mas cercado?*

@@ -1,7 +1,7 @@
-﻿# IMPROVED CROSSBOW
+﻿# BESTA APRIMORADA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+4 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

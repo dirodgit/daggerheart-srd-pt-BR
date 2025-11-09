@@ -1,6 +1,6 @@
-﻿# ENDLESS CHARISMA
+﻿# CARISMA INFINITO
 
-> **Level 7 Grace Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Graça de Nível 7**  
+> **Custo de Recordação:** 1
 
-After you make an action roll to persuade, lie, or garner favor, you can spend a Hope to reroll the Hope or Fear Die.
+Após fazer uma rolagem de ação para persuadir, mentir ou conquistar favor, você pode gastar uma Esperança para rerrolar o Dado de Esperança ou Medo.

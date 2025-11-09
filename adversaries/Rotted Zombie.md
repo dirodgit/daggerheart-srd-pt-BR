@@ -1,14 +1,14 @@
-﻿# ROTTED ZOMBIE
+﻿# ZUMBI PODRE
 
-***Tier 1 Minion***  
-*A decaying corpse ambling toward their prey.*  
-**Motives & Tactics:** Eat flesh, hunger, maul, surround
+***Capanga de Nível 1***  
+*Um cadáver em decomposição que caminha em direção à sua presa.*  
+**Motivações & Táticas:** Comer carne, fome, atacar, cercar
 
-> **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -3 | **Bite:** Melee | 2 phy  
+> **Dificuldade:** 8 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -3 | **Mordida:** Corpo a corpo | 2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (3) - Passive:*** The Zombie is defeated when they take any damage. For every 3 damage a PC deals to the Zombie, defeat an additional Minion within range the attack would succeed against.
+***Capanga (3) - Passiva:*** O Zumbi é derrotado ao receber qualquer dano. Para cada 3 de dano que um PJ causar ao Zumbi, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Rotted Zombies within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Zumbis Podres dentro do alcance Próximo dele. Esses Capangas se movem para o alcance de Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 2 de dano físico. Combine esse dano.

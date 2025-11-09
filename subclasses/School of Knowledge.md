@@ -1,25 +1,25 @@
-﻿# SCHOOL OF KNOWLEDGE
+﻿# ESCOLA DO CONHECIMENTO
 
-Play the School of Knowledge if you want a keen understanding of the world around you.
+Jogue com a Escola do Conhecimento se você deseja uma compreensão aguçada do mundo ao seu redor.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Knowledge
+Conhecimento
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS DE FUNDAÇÃO
 
-***Prepared:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Preparado:*** Pegue uma carta de domínio adicional do seu nível ou inferior de um domínio ao qual você tenha acesso.
 
-***Adept:*** When you Utilize an Experience, you can mark a Stress instead of spending a Hope. If you do, double your Experience modifier for that roll.
+***Apto:*** Quando você Utiliza uma Experiência, pode marcar um Estresse ao invés de gastar uma Esperança. Se fizer isso, dobre seu modificador de Experiência para essa rolagem.
 
-## SPECIALIZATION FEATURES
+## CARACTERÍSTICAS DE ESPECIALIZAÇÃO
 
-***Accomplished:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Realizado:*** Pegue uma carta de domínio adicional do seu nível ou inferior de um domínio ao qual você tenha acesso.
 
-***Perfect Recall:*** Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1.
+***Memória Perfeita:*** Uma vez por descanso, quando você recuperar uma carta de domínio em seu cofre, pode reduzir seu Custo de Recuperação em 1.
 
-## MASTERY FEATURES
+## CARACTERÍSTICAS DE MESTRIA
 
-***Brilliant:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Brilhante:*** Pegue uma carta de domínio adicional do seu nível ou inferior de um domínio ao qual você tenha acesso.
 
-***Honed Expertise:*** When you use an Experience, roll a d6. On a result of 5 or higher, you can use it without spending Hope.
+***Especialização Apurada:*** Quando você usa uma Experiência, role um d6. Com um resultado de 5 ou mais, você pode usá-la sem gastar Esperança.

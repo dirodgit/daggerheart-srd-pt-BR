@@ -1,7 +1,7 @@
-﻿# FLOATING BLADESHARDS
+﻿# FRAGMENTOS DE LÂMINAS FLUTUANTES
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+9 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Próximo; **Dano:** d8+9 mag; **Peso:** Uma Mão
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

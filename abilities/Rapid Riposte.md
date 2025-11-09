@@ -1,6 +1,6 @@
-﻿# RAPID RIPOSTE
+﻿# RIPOSTA RÁPIDA
 
-> **Level 6 Bone Ability**  
-> **Recall Cost:** 0
+> **Habilidade Óssea de Nível 6**  
+> **Custo de Recordação:** 0
 
-When an attack made against you from within Melee range fails, you can mark a Stress and seize the opportunity to deal the weapon damage of one of your active weapons to the attacker.
+Quando um ataque feito contra você a partir de alcance Corpo a Corpo falha, você pode marcar um Estresse e aproveitar a oportunidade para causar o dano da arma de uma de suas armas ativas ao atacante.

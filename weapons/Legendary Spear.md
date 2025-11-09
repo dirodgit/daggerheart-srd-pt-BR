@@ -1,7 +1,7 @@
-﻿# LEGENDARY SPEAR
+﻿# LANÇA LENDÁRIA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+12 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

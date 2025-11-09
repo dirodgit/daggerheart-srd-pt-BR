@@ -1,15 +1,15 @@
-﻿# JAGGED KNIFE KNEEBREAKER
+﻿# JAGGED KNIFE QUEBRADOR DE JOELHOS
 
-***Tier 1 Bruiser***  
-*An imposing brawler carrying a large club.*  
-**Motives & Tactics:** Grapple, intimidate, profit, steal
+***Brutamontes de Nível 1***  
+*Um lutador imponente carregando um grande porrete.*  
+**Motivações & Táticas:** Agarrar, intimidar, lucrar, roubar
 
-> **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4  
-> **ATK:** -3 | **Club:** Melee | 1d4+6 phy  
-> **Experience:** Thief +2, Unveiled Threats +3
+> **Dificuldade:** 12 | **Limiares:** 7/14 | **PV:** 7 | **Estresse:** 4  
+> **ATQ:** -3 | **Porrrete:** Corpo a corpo | 1d4+6 físico  
+> **Experiência:** Ladrão +2, Ameaças Reveladas +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***I’ve Got ‘Em - Passive:*** Creatures Restrained by the Kneebreaker take double damage from attacks by other adversaries.
+***Eu os Tenho - Passiva:*** Criaturas Presas pelo Quebrador de Joelhos recebem dano em dobro de ataques de outros adversários.
 
-***Hold Them Down - Action:*** Make an attack against a target within Melee range. On a success, the target takes no damage but is Restrained and Vulnerable. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage.
+***Segure-os - Ação:*** Faça um ataque contra um alvo em alcance de Corpo a Corpo. Em caso de sucesso, o alvo não sofre dano, mas fica Preso e Vulnerável. O alvo pode se libertar, removendo ambas as condições, com um teste bem-sucedido de Força ou é liberado automaticamente se o Quebrador de Joelhos sofrer dano Maior ou superior.

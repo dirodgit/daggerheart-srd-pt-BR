@@ -1,16 +1,16 @@
-﻿# GREATER WATER ELEMENTAL
+﻿# ELEMENTAL DE ÁGUA MAIOR
 
-***Tier 3 Support***  
-*A huge living wave that crashes down upon enemies.*  
-**Motives & Tactics:** Deluge, disperse, drown
+***Suporte de Nível 3***  
+*Uma enorme onda viva que desaba sobre os inimigos.*  
+**Motivações & Táticas:** Dilúvio, dispersar, afogar
 
-> **Difficulty:** 17 | **Thresholds:** 17/34 | **HP:** 5 | **Stress:** 5  
-> **ATK:** +3 | **Crashing Wave:** Very Close | 3d4+1 mag  
+> **Dificuldade:** 17 | **Limiares:** 17/34 | **PV:** 5 | **Estresse:** 5  
+> **ATQ:** +3 | **Onda Quebrante:** Muito Próximo | 3d4+1 mágico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Water Jet - Action:*** Mark a Stress to attack a target within Very Close range. On a success, deal 2d4+7 physical damage and the target’s next action has disadvantage. On a failure, the target must mark a Stress.
+***Jato de Água - Ação:*** Marque um Estresse para atacar um alvo dentro do alcance Muito Próximo. Em um sucesso, cause 2d4+7 de dano físico e a próxima ação do alvo terá desvantagem. Em uma falha, o alvo deve marcar um Estresse.
 
-***Drowning Embrace - Action:*** Spend a Fear to make an attack against all targets within Very Close range. Targets the Elemental succeeds against become Restrained and Vulnerable as they begin drowning. A target can break free, ending both conditions, with a successful Strength or Instinct Roll.
+***Abraço Afogante - Ação:*** Gaste um Medo para fazer um ataque contra todos os alvos dentro do alcance Muito Próximo. Os alvos contra os quais o Elemental tiver sucesso ficam Presos e Vulneráveis enquanto começam a se afogar. Um alvo pode se libertar, encerrando ambas as condições, com um teste bem-sucedido de Força ou Instinto.
 
-***High Tide - Reaction:*** When the Elemental makes a successful standard attack, you can mark a Stress to knock the target back to Close range.
+***Maré Alta - Reação:*** Quando o Elemental realiza um ataque padrão bem-sucedido, você pode marcar um Estresse para empurrar o alvo para o alcance Próximo.

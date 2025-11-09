@@ -1,7 +1,7 @@
-﻿# ADVANCED QUARTERSTAFF
+﻿# BASTÃO AVANÇADO
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Corpo a corpo; **Dano:** d10+9 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

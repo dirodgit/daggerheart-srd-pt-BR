@@ -1,43 +1,43 @@
-﻿# ROGUE
+﻿# LADINO
 
-Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.
+Ladinos são canalhas, muitas vezes tanto na atitude quanto na prática. Amplamente conhecidos como mentirosos e ladrões, os melhores dessa classe se movem pelo mundo anonimamente. Utilizando sua astúcia afiada e lâminas, ladinos enganam seus inimigos tanto por manipulação social quanto arrombando fechaduras, escalando janelas ou desferindo golpes traiçoeiros. Esses mestres da arte mágica manipulam sombras e movimentos, adicionando uma variedade de ferramentas úteis e letais ao seu repertório. Ladinos frequentemente estabelecem guildas para encontrar futuros cúmplices, contratar trabalhos e aprimorar habilidades secretas, provando que há honra entre ladrões para aqueles que sabem onde procurar.
 
-> **• DOMAINS:** [Midnight](../domains/Midnight.md) & [Grace](../domains/Grace.md)  
-> **• STARTING EVASION:** 12  
-> **• STARTING HIT POINTS:** 6  
-> **• CLASS ITEMS:** A set of forgery tools or a grappling hook
+> **• DOMÍNIOS:** [Meia-Noite](../domains/Midnight.md) & [Graça](../domains/Grace.md)  
+> **• EVASÃO INICIAL:** 12  
+> **• PONTOS DE VIDA INICIAIS:** 6  
+> **• ITENS DE CLASSE:** Um conjunto de ferramentas de falsificação ou um gancho de escalada
 
-## ROGUE’S HOPE FEATURE
+## HABILIDADE DE ESPERANÇA DO LADINO
 
-***Rogue’s Dodge:*** Spend 3 Hope to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
+***Esquiva do Ladino:*** Gaste 3 de Esperança para ganhar um bônus de +2 na sua Evasão até a próxima vez que um ataque for bem-sucedido contra você. Caso contrário, esse bônus dura até seu próximo descanso.
 
-## CLASS FEATURES
+## HABILIDADES DE CLASSE
 
-***Cloaked:*** Any time you would be Hidden, you are instead Cloaked. In addition to the benefits of the Hidden condition, while Cloaked you remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within line of sight of an adversary, you are no longer Cloaked.
+***Encoberto:*** Sempre que você estaria Oculto, você está em vez disso Encoberto. Além dos benefícios da condição Oculto, enquanto estiver Encoberto você permanece invisível se estiver parado quando um adversário se mover para um local onde normalmente veria você. Após fazer um ataque ou terminar um movimento dentro da linha de visão de um adversário, você deixa de estar Encoberto.
 
-***Sneak Attack:*** When you succeed on an attack while Cloaked or while an ally is within Melee range of your target, add a number of d6s equal to your tier to your damage roll.
+***Ataque Furtivo:*** Quando você obtém sucesso em um ataque enquanto estiver Encoberto ou enquanto um aliado estiver em alcance de Combate Corpo a Corpo do seu alvo, adicione um número de d6 igual ao seu nível de tier na sua rolagem de dano.
 
-- Level 1 → Tier 1
-- Levels 2–4 → Tier 2
-- Levels 5–7 → Tier 3
-- Levels 8–10 → Tier 4
+- Nível 1 → Tier 1  
+- Níveis 2–4 → Tier 2  
+- Níveis 5–7 → Tier 3  
+- Níveis 8–10 → Tier 4
 
-## ROGUE SUBCLASSES
+## SUBCLASSES DO LADINO
 
-Choose either the **[Nightwalker](../subclasses/Nightwalker.md)** or **[Syndicate](../subclasses/Syndicate.md)** subclass.
+Escolha a subclasse **[Andarilho Noturno](../subclasses/Nightwalker.md)** ou **[Sindicato](../subclasses/Syndicate.md)**.
 
-## BACKGROUND QUESTIONS
+## PERGUNTAS DE HISTÓRICO
 
-*Answer any of the following background questions. You can also create your own questions.*
+*Responda qualquer uma das seguintes perguntas de histórico. Você também pode criar suas próprias perguntas.*
 
-- What did you get caught doing that got you exiled from your home community?
-- You used to have a different life, but you’ve tried to leave it behind. Who from your past is still chasing you?
-- Who from your past were you most sad to say goodbye to?
+- Pelo que você foi pego fazendo que resultou no seu exílio da sua comunidade de origem?  
+- Você costumava ter uma vida diferente, mas tentou deixá-la para trás. Quem do seu passado ainda está atrás de você?  
+- De quem do seu passado você ficou mais triste ao se despedir?
 
-## CONNECTIONS
+## CONEXÕES
 
-*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+*Pergunte a seus companheiros jogadores uma das seguintes perguntas para que o personagem deles responda, ou crie suas próprias perguntas.*
 
-- What did I recently convince you to do that got us both in trouble?
-- What have I discovered about your past that I hold secret from the others?
-- Who do you know from my past, and how have they influenced your feelings about me?
+- O que eu te convenci a fazer recentemente que nos colocou em apuros?  
+- O que eu descobri sobre seu passado que mantenho em segredo dos outros?  
+- Quem você conhece do meu passado, e como essa pessoa influenciou seus sentimentos sobre mim?

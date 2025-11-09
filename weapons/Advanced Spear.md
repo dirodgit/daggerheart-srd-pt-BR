@@ -1,7 +1,7 @@
-﻿# ADVANCED SPEAR
+﻿# LANÇA AVANÇADA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+9 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+9 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

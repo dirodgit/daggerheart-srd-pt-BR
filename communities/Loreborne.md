@@ -1,9 +1,9 @@
 ﻿# LOREBORNE
 
-Being part of a loreborne community means you’re from a society that favors strong academic or political prowess. Loreborne communities highly value knowledge, frequently in the form of historical preservation, political advancement, scientific study, skill development, or lore and mythology compilation. Most members of these communities research in institutions built in bastions of civilization, while some eclectic few thrive in gathering information from the natural world. Some may be isolationists, operating in smaller enclaves, schools, or guilds and following their own unique ethos. Others still wield their knowledge on a larger scale, making deft political maneuvers across governmental landscapes.
+Fazer parte de uma comunidade loreborne significa que você pertence a uma sociedade que valoriza grande habilidade acadêmica ou política. Comunidades loreborne valorizam muito o conhecimento, frequentemente na forma de preservação histórica, avanço político, estudo científico, desenvolvimento de habilidades ou compilação de tradições e mitologias. A maioria dos membros dessas comunidades pesquisa em instituições construídas em bastiões da civilização, enquanto alguns poucos ecléticos prosperam coletando informações do mundo natural. Alguns podem ser isolacionistas, operando em enclaves menores, escolas ou guildas e seguindo seu próprio ethos único. Outros ainda utilizam seu conhecimento em uma escala maior, realizando manobras políticas habilidosas em paisagens governamentais.
 
-*Loreborne are often direct, eloquent, inquisitive, patient, rhapsodic, and witty.*
+*Os loreborne costumam ser diretos, eloquentes, inquisitivos, pacientes, rapsódicos e espirituosos.*
 
-## COMMUNITY FEATURE
+## RECURSO DA COMUNIDADE
 
-***Well-Read:*** You have advantage on rolls that involve the history, culture, or politics of a prominent person or place.
+***Bem Lido:*** Você tem vantagem em testes que envolvam a história, cultura ou política de uma pessoa ou lugar proeminente.

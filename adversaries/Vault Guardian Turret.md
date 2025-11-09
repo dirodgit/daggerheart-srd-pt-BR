@@ -1,18 +1,18 @@
-﻿# VAULT GUARDIAN TURRET
+﻿# TORRE DE GUARDA DO COFRE
 
-***Tier 3 Ranged***  
-*A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  
-**Motives & Tactics:** Concentrate fire, lock down, mark, protect
+***Alcance Nível 3***  
+*Uma torre maciça e imponente com armadura reforçada e doze pernas mecânicas acionadas por pistões.*  
+**Motivações & Táticas:** Concentrar fogo, bloquear, marcar, proteger
 
-> **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4  
-> **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 mag  
+> **Dificuldade:** 16 | **Limiares:** 20/32 | **PV:** 5 | **Estresse:** 4  
+> **ATQ:** +3 | **Canhão Magitécnico:** Longo | 3d10+3 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Slow Firing - Passive:*** When you spotlight the Turret and they don’t have a token on their stat block, they can’t make a standard attack. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Turret and they have a token on their stat block, clear the token and they can attack.
+***Disparo Lento - Passivo:*** Quando você destaca a Torre e ela não tem um token em seu bloco de estatísticas, ela não pode fazer um ataque padrão. Coloque um token em seu bloco de estatísticas e descreva o que ela está se preparando para fazer. Quando você destaca a Torre e ela tem um token em seu bloco de estatísticas, remova o token e ela pode atacar.
 
-***Mark Target - Action:*** Spend a Fear to Mark a target within Far range until the Turret is destroyed or the Marked target becomes Hidden. While the target is Marked, their Evasion is halved.
+***Marcar Alvo - Ação:*** Gaste um Medo para Marcar um alvo dentro do alcance Longo até que a Torre seja destruída ou o alvo Marcado se torne Oculto. Enquanto o alvo estiver Marcado, sua Evasão é reduzida pela metade.
 
-***Concentrate Fire - Reaction:*** When another adversary deals damage to a target within Far range of the Turret, you can mark a Stress to add the Turret’s standard attack damage to the damage roll.
+***Concentrar Fogo - Reação:*** Quando outro adversário causar dano a um alvo dentro do alcance Longo da Torre, você pode marcar um Estresse para adicionar o dano do ataque padrão da Torre à rolagem de dano.
 
-***Detonation - Reaction:*** When the Turret is destroyed, they explode. All targets within Close range must make an Agility Reaction Roll. Targets who fail take 3d20 physical damage. Targets who succeed take half damage.
+***Detonação - Reação:*** Quando a Torre é destruída, ela explode. Todos os alvos dentro do alcance Próximo devem fazer uma Rolagem de Reação de Agilidade. Alvos que falharem sofrem 3d20 de dano físico. Alvos que tiverem sucesso sofrem metade do dano.

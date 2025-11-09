@@ -1,7 +1,7 @@
-﻿# LEGENDARY WARHAMMER
+﻿# WARHAMMER LENDÁRIO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+12 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+12 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesado:*** -1 na Evasão
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

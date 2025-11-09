@@ -1,19 +1,19 @@
-﻿# FALLEN SORCERER
+﻿# FEITICEIRO CAÍDO
 
-***Tier 4 Support***  
-*Warped mage bound by the bargains they made in life.*  
-**Motives & Tactics:** Acquire, dishearten, dominate, torment
+***Suporte de Nível 4***  
+*Mago corrompido preso pelos acordos que fez em vida.*  
+**Motivações & Táticas:** Adquirir, desanimar, dominar, atormentar
 
-> **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag  
-> **Experience:** Ancient Knowledge +2
+> **Dificuldade:** 19 | **Limiares:** 26/42 | **PV:** 6 | **Estresse:** 5  
+> **ATAQ:** +4 | **Cajado Corrompido:** Distante | 4d6+10 mágico  
+> **Experiência:** Conhecimento Antigo +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Conflagration - Action:*** Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take 2d10+6 direct magic damage.
+***Conflagração - Ação:*** Gaste um Medo para desencadear uma tempestade de fogo avassaladora e faça um ataque contra todos os alvos em alcance Próximo. Os alvos contra os quais o Feiticeiro obtiver sucesso recebem 2d10+6 de dano mágico direto.
 
-***Nightmare Tableau - Action:*** Mark a Stress to trap a target within Far range in a powerful illusion of their worst fears. While trapped, the target is Restrained and Vulnerable until they break free, ending both conditions, with a successful Instinct Roll.
+***Tableau do Pesadelo - Ação:*** Marque um Estresse para aprisionar um alvo em alcance Distante em uma poderosa ilusão de seus piores medos. Enquanto aprisionado, o alvo fica Restrito e Vulnerável até se libertar, encerrando ambas as condições, com uma Rolagem de Instinto bem-sucedida.
 
-***Slippery - Reaction:*** When the Sorcerer takes damage from an attack, they can teleport up to Far range.
+***Escorregadio - Reação:*** Quando o Feiticeiro sofre dano de um ataque, ele pode se teleportar até alcance Distante.
 
-***Shackles of Guilt - Reaction:*** Countdown (Loop 2d6). When the Sorcerer is in the spotlight for the first time, activate the countdown. When it triggers, all targets within Far range become Vulnerable and must mark a Stress as they relive their greatest regrets. A target can break free from their regret with a successful Presence or Strength Roll. When a PC fails to break free, they lose a Hope.
+***Grilhões da Culpa - Reação:*** Contagem regressiva (Loop 2d6). Quando o Feiticeiro estiver no centro das atenções pela primeira vez, ative a contagem regressiva. Quando ela disparar, todos os alvos em alcance Distante ficam Vulneráveis e devem marcar um Estresse enquanto revivem seus maiores arrependimentos. Um alvo pode se libertar do arrependimento com uma Rolagem bem-sucedida de Presença ou Força. Quando um PJ falha em se libertar, ele perde uma Esperança.

@@ -1,7 +1,7 @@
-﻿# WAND
+﻿# VARINHA
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+1 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+1 mágico; **Peso:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

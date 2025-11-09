@@ -1,8 +1,8 @@
-﻿# WILD SURGE
+﻿# SURTO SELVAGEM
 
-> **Level 7 Sage Spell**  
-> **Recall Cost:** 2
+> **Magia de Sábio de Nível 7**  
+> **Custo de Recordação:** 2
 
-Once per long rest, mark a Stress to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a d6 on this card with the 1 value facing up.
+Uma vez por descanso longo, marque um Estresse para canalizar o mundo natural ao seu redor e se aprimorar. Descreva como sua aparência muda, então coloque um d6 nesta carta com o valor 1 virado para cima.
 
-While the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die’s value by one. When the die’s value would exceed 6 or you take a rest, this form drops and you must mark an additional Stress.
+Enquanto o Dado de Encontro do Surto Selvagem estiver ativo, você adiciona seu valor a toda jogada de ação que fizer. Após adicionar seu valor a uma jogada, aumente o valor do Dado de Encontro do Surto Selvagem em um. Quando o valor do dado ultrapassar 6 ou você fizer um descanso, essa forma termina e você deve marcar um Estresse adicional.

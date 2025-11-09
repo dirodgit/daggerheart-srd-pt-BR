@@ -1,8 +1,8 @@
-﻿# ASTRAL PROJECTION
+﻿# PROJEÇÃO ASTRAL
 
-> **Level 8 Grace Spell**  
-> **Recall Cost:** 0
+> **Magia de Graça de Nível 8**  
+> **Custo de Recordação:** 0
 
-Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you’ve been before.
+Uma vez por descanso longo, marque 1 ponto de Estresse para criar uma cópia projetada de si mesmo que pode aparecer em qualquer lugar onde você já esteve antes.
 
-You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it’s of magical origin. This effect lasts until your next rest or your projection takes any damage.
+Você pode ver e ouvir através da projeção como se fosse você e afetar o mundo como se estivesse lá. Uma criatura que investigar a projeção pode perceber que ela é de origem mágica. Esse efeito dura até seu próximo descanso ou até sua projeção sofrer qualquer dano.

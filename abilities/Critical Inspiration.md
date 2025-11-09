@@ -1,6 +1,6 @@
-﻿# CRITICAL INSPIRATION
+﻿# INSPIRAÇÃO CRÍTICA
 
-> **Level 3 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 3**  
+> **Custo para Usar:** 1
 
-Once per rest, when you critically succeed on an attack, all allies within Very Close range can clear a Stress or gain a Hope.
+Uma vez por descanso, quando você obtiver um sucesso crítico em um ataque, todos os aliados em alcance Muito Próximo podem remover um Estresse ou ganhar uma Esperança.

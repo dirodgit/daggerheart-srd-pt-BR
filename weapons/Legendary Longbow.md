@@ -1,7 +1,7 @@
-﻿# LEGENDARY LONGBOW
+﻿# ARCO LONGO LENDÁRIO
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Longo; **Dano:** d8+12 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitado:*** -1 na Destreza
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

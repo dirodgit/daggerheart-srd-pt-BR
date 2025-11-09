@@ -1,5 +1,5 @@
-﻿# CHANNELSTONE
+﻿# PEDRA DE CANALIZAÇÃO
 
-You can use this stone to take a spell or grimoire from your vault, use it once, and return it to your vault.
+Você pode usar esta pedra para pegar um feitiço ou grimório do seu cofre, usá-lo uma vez e devolvê-lo ao seu cofre.
 
-*Consumable*
+*Consumível*

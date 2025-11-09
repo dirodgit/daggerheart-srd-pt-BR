@@ -1,11 +1,11 @@
-﻿# DARK WHISPERS
+﻿# SUSSURROS SOMBRIOS
 
-> **Level 6 Midnight Spell**  
-> **Recall Cost:** 0
+> **Magia da Meia-Noite de Nível 6**  
+> **Custo para Recordar:** 0
 
-You can speak into the mind of any person with whom you’ve made physical contact. Once you’ve opened a channel with them, they can speak back into your mind. Additionally, you can mark a Stress to make a Spellcast Roll against them. On a success, you can ask the GM one of the following questions and receive an answer:
+Você pode falar na mente de qualquer pessoa com quem tenha tido contato físico. Uma vez que você tenha aberto um canal com ela, ela pode responder falando de volta na sua mente. Além disso, você pode marcar um Estresse para fazer uma Jogada de Magia contra ela. Em caso de sucesso, você pode fazer ao Mestre uma das seguintes perguntas e receber uma resposta:
 
-- Where are they?
-- What are they doing?
-- What are they afraid of?
-- What do they cherish most in the world?
+- Onde ela está?
+- O que ela está fazendo?
+- Do que ela tem medo?
+- O que ela mais valoriza no mundo?

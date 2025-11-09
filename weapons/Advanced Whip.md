@@ -1,7 +1,7 @@
-﻿# ADVANCED WHIP
+﻿# CHICOTE AVANÇADO
 
-**Trait:** Presence; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Muito Próximo; **Dano:** d6+4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Startling:*** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+**Característica:** ***Assustador:*** Marque um Estresse para estalar o chicote e forçar todos os adversários em alcance de Combate Corpo a Corpo a recuar para alcance Próximo.
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

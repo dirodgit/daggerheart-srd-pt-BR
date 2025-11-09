@@ -1,7 +1,7 @@
-﻿# LEGENDARY SHORTSTAFF
+﻿# BASTÃO CURTO LENDÁRIO
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+10 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Próximo; **Dano:** d8+10 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

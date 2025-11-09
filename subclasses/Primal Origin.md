@@ -1,24 +1,24 @@
-﻿# PRIMAL ORIGIN
+﻿# ORIGEM PRIMAL
 
-Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
+Jogue com a Origem Primal se quiser ampliar a versatilidade de seus feitiços de maneiras poderosas.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Instinct
+Instinto
 
-## FOUNDATION FEATURE
+## RECURSO DE FUNDAÇÃO
 
-***Manipulate Magic:*** Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals magic damage, you can mark a Stress to do one of the following:
+***Manipular Magia:*** Sua origem primal permite que você modifique a essência da própria magia. Depois de conjurar um feitiço ou fazer um ataque usando uma arma que cause dano mágico, você pode marcar um Estresse para fazer uma das seguintes ações:
 
-- Extend the spell or attack’s reach by one range
-- Gain a +2 bonus to the action roll’s result
-- Double a damage die of your choice
-- Hit an additional target within range
+- Estender o alcance do feitiço ou ataque em uma distância
+- Ganhar um bônus de +2 no resultado da rolagem da ação
+- Dobrar um dado de dano de sua escolha
+- Acertar um alvo adicional dentro do alcance
 
-## SPECIALIZATION FEATURE
+## RECURSO DE ESPECIALIZAÇÃO
 
-***Enchanted Aid:*** You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a d8 as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice.
+***Ajuda Encantada:*** Você pode aprimorar a magia dos outros com sua essência. Quando você Ajuda um Aliado em uma Rolagem de Conjuração de Feitiço, pode rolar um d8 como seu dado de vantagem. Uma vez por descanso longo, depois que um aliado fizer uma Rolagem de Conjuração de Feitiço com sua ajuda, você pode trocar os resultados dos Dados de Dualidade dele.
 
-## MASTERY FEATURE
+## RECURSO DE MESTRIA
 
-***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take magic damage, you become Charged. Alternatively, you can spend 2 Hope to become Charged. When you successfully make an attack that deals magic damage while Charged, you can clear your Charge to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being Charged at your next long rest.
+***Carga Arcana:*** Você pode reunir energia mágica para aprimorar suas capacidades. Quando você sofre dano mágico, você se torna Carregado. Alternativamente, pode gastar 2 de Esperança para se tornar Carregado. Quando você realiza com sucesso um ataque que causa dano mágico enquanto está Carregado, pode gastar sua Carga para ganhar um bônus de +10 na rolagem de dano ou um bônus de +3 na Dificuldade de uma rolagem de reação que o feitiço faça o alvo realizar. Você deixa de estar Carregado no seu próximo descanso longo.

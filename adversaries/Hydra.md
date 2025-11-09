@@ -1,20 +1,20 @@
-﻿# HYDRA
+﻿# HIDRA
 
-***Tier 3 Solo***  
-*A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*  
-**Motives & Tactics:** Devour, regenerate, terrify
+***Nível 3 Solo***  
+*Uma besta quadrúpede escamosa com múltiplas cabeças de pescoço longo, cada uma cheia de presas ameaçadoras.*  
+**Motivações & Táticas:** Devorar, regenerar, aterrorizar
 
-> **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5  
-> **ATK:** +3 | **Bite:** Close | 2d12+2 phy  
+> **Dificuldade:** 18 | **Limiares:** 19/35 | **PV:** 10 | **Estresse:** 5  
+> **ATQ:** +3 | **Mordida:** Corpo a corpo | 2d12+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Many-Headed Menace - Passive:*** The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
+***Ameaça de Muitas Cabeças - Passiva:*** A Hidra começa com três cabeças e pode ter até cinco. Quando a Hidra sofre dano Maior ou superior, ela perde uma cabeça.
 
-***Relentless (X) - Passive:*** The Hydra can be spotlighted X times per GM turn, where X is the Hydra’s number of heads. Spend Fear as usual to spotlight them.
+***Implacável (X) - Passiva:*** A Hidra pode ser destacada X vezes por turno do GM, onde X é o número de cabeças da Hidra. Gaste Medo normalmente para destacá-la.
 
-***Regeneration - Action:*** If the Hydra has any marked HP, spend a Fear to clear a HP and grow two heads.
+***Regeneração - Ação:*** Se a Hidra tiver algum PV marcado, gaste um Medo para recuperar um PV e crescer duas cabeças.
 
-***Terrifying Chorus - Action:*** All PCs within Far range lose 2 Hope.
+***Coro Aterrorizante - Ação:*** Todos os PCs dentro do alcance Longo perdem 2 de Esperança.
 
-***Magical Weakness - Reaction:*** When the Hydra takes magic damage, they become Dazed until the next roll with Fear. While Dazed, they can’t use their Regeneration action but are immune to magic damage.
+***Fraqueza Mágica - Reação:*** Quando a Hidra sofre dano mágico, ela fica Atordoada até a próxima rolagem com Medo. Enquanto Atordoada, não pode usar a ação Regeneração, mas é imune a dano mágico.

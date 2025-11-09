@@ -1,32 +1,32 @@
-﻿# SYNDICATE
+﻿# SINDICATO
 
-Play the Syndicate if you want to have a web of contacts everywhere you go.
+Jogue com o Sindicato se quiser ter uma rede de contatos em todos os lugares que visitar.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Finesse
+Destreza
 
-## FOUNDATION FEATURE
+## RECURSO DE FUNDAÇÃO
 
-***Well-Connected:*** When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
+***Bem Conectado:*** Quando você chega em uma cidade ou ambiente importante, conhece alguém que considera esse lugar como lar. Dê um nome a essa pessoa, anote como você acha que ela pode ser útil e escolha um fato da lista a seguir:
 
-- They owe me a favor, but they’ll be hard to find.
-- They’re going to ask for something in exchange.
-- They’re always in a great deal of trouble.
-- We used to be together. It’s a long story.
-- We didn’t part on great terms.
+- Eles me devem um favor, mas serão difíceis de encontrar.
+- Eles vão pedir algo em troca.
+- Eles estão sempre em grandes encrencas.
+- Nós costumávamos estar juntos. É uma longa história.
+- Não nos separamos em bons termos.
 
-## SPECIALIZATION FEATURE
+## RECURSO DE ESPECIALIZAÇÃO
 
-***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
+***Contatos em Todo Lugar:*** Uma vez por sessão, você pode chamar brevemente um contato suspeito. Escolha um dos seguintes benefícios e descreva o que o trouxe para ajudar você neste momento:
 
-- They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires.
-- On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.
-- The next time you deal damage, they snipe from the shadows, adding 2d8 to your damage roll.
+- Eles fornecem 1 punhado de ouro, uma ferramenta única ou um objeto mundano que a situação exige.
+- Na sua próxima rolagem de ação, a ajuda deles fornece um bônus de +3 no resultado do seu Dado de Esperança ou Medo.
+- Na próxima vez que você causar dano, eles atiram das sombras, adicionando 2d8 à sua rolagem de dano.
 
-## MASTERY FEATURE
+## RECURSO DE MESTRIA
 
-***Reliable Backup:*** You can use your “Contacts Everywhere” feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:
+***Apoio Confiável:*** Você pode usar seu recurso “Contatos em Todo Lugar” três vezes por sessão. As seguintes opções são adicionadas à lista de benefícios que você pode escolher ao usar esse recurso:
 
-- When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1.
-- When you make a Presence Roll in conversation, they back you up. You can roll a d20 as your Hope Die.
+- Quando você marcar 1 ou mais Pontos de Vida, eles podem correr para protegê-lo, reduzindo os Pontos de Vida marcados em 1.
+- Quando você fizer uma Rolagem de Presença em uma conversa, eles te apoiam. Você pode rolar um d20 como seu Dado de Esperança.

@@ -1,7 +1,7 @@
-﻿# AANTARI BOW
+﻿# ARCO AANTARI
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+11 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+11 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 em testes de ataque
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

@@ -1,8 +1,8 @@
-﻿# RISE UP
+﻿# LEVANTE-SE
 
-> **Level 6 Valor Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Valor de Nível 6**  
+> **Custo para Recordar:** 2
 
-Gain a bonus to your Severe threshold equal to your Proficiency.
+Ganhe um bônus no seu limite de Gravidade igual à sua Proficiência.
 
-When you mark 1 or more Hit Points from an attack, clear a Stress.
+Quando você marcar 1 ou mais Pontos de Vida de um ataque, remova 1 Estresse.

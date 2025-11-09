@@ -1,12 +1,12 @@
-﻿# CHAMPION’S EDGE
+﻿# BORDA DO CAMPEÃO
 
-> **Level 5 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 5**  
+> **Custo para Usar:** 1
 
-When you critically succeed on an attack, you can spend up to 3 Hope and choose one of the following options for each Hope spent:
+Quando você obtém um sucesso crítico em um ataque, pode gastar até 3 de Esperança e escolher uma das seguintes opções para cada ponto de Esperança gasto:
 
-- You clear a Hit Point.
-- You clear an Armor Slot.
-- The target must mark an additional Hit Point.
+- Você remove um Ponto de Vida.
+- Você remove um Espaço de Armadura.
+- O alvo deve marcar um Ponto de Vida adicional.
 
-You can’t choose the same option more than once.
+Você não pode escolher a mesma opção mais de uma vez.

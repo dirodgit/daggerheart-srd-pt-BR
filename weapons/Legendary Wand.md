@@ -1,7 +1,7 @@
-﻿# LEGENDARY WAND
+﻿# VARINHA LENDÁRIA
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+10 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+10 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

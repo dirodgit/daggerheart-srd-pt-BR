@@ -1,13 +1,13 @@
-﻿# FORAGER
+﻿# FORRAGEADOR
 
-> **Level 6 Sage Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Sábio de Nível 6**  
+> **Custo de Recordação:** 1
 
-As an additional downtime move you can choose, roll a d6 to see what you forage. Work with the GM to describe it and add it to your inventory as a consumable. Your party can carry up to five foraged consumables at a time.
+Como um movimento adicional durante o tempo livre, você pode escolher rolar um d6 para ver o que você forrageia. Trabalhe com o Mestre para descrevê-lo e adicioná-lo ao seu inventário como um consumível. Seu grupo pode carregar até cinco consumíveis forrageados ao mesmo tempo.
 
-1. An unusual flower (Clear 2 Stress)
-1. A beautiful relic (Gain 2 Hope)
-1. An arcane rune (+2 to a Spellcast Roll)
-1. A healing vial (Clear 2 Hit Points)
-1. A luck charm (Reroll any die)
-1. Choose one of the options above.
+1. Uma flor incomum (Remove 2 de Estresse)  
+2. Uma relíquia bonita (Ganha 2 de Esperança)  
+3. Uma runa arcana (+2 em uma Jogada de Conjuração de Feitiço)  
+4. Um frasco de cura (Recupera 2 Pontos de Vida)  
+5. Um amuleto da sorte (Refaça qualquer dado)  
+6. Escolha uma das opções acima.

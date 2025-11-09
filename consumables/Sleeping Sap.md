@@ -1,5 +1,5 @@
-﻿# SLEEPING SAP
+﻿# SONÍFERO
 
-You can drink this potion to fall asleep for a full night’s rest. You clear all Stress upon waking.
+Você pode beber esta poção para adormecer e ter uma noite inteira de descanso. Você elimina todo o Estresse ao acordar.
 
-*Consumable*
+*Consumível*

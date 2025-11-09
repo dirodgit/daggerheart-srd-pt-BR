@@ -1,5 +1,5 @@
-﻿# FLICKERFLY PENDANT
+﻿# PINGENTE FLICKERFLY
 
-While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.
+Enquanto você carregar este pingente, suas armas com alcance Corpo a Corpo que causam dano físico terão um brilho delicado e poderão atacar alvos em alcance Muito Próximo.
 
 *Item*

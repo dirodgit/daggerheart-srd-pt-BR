@@ -1,7 +1,7 @@
-﻿# HAND CANNON
+﻿# CANHÃO DE MÃO
 
-**Trait:** Finesse; **Range:** Very Far; **Damage:** d6+12 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Muito Longo; **Dano:** d6+12 físico; **Peso:** Uma Mão
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Característica:** ***Recarregar:*** Após realizar um ataque, role um d6. Se sair 1, você deve marcar um Estresse para recarregar esta arma antes de poder dispará-la novamente.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

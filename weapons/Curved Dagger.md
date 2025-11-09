@@ -1,7 +1,7 @@
-﻿# CURVED DAGGER
+﻿# ADAGA CURVA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+9 físico; **Carga:** Uma mão
 
-**Feature:** ***Serrated:*** When you roll a 1 on a damage die, it deals 8 damage instead.
+**Característica:** ***Serrilhada:*** Quando você rolar 1 em um dado de dano, ele causará 8 de dano em vez disso.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

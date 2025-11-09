@@ -1,8 +1,8 @@
-﻿# CONJURE SWARM
+﻿# CONVOCAR ENXAME
 
-> **Level 2 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 2**  
+> **Custo de Recordação:** 1
 
-Tekaira Armored Beetles: Mark a Stress to conjure armored beetles that encircle you. When you next take damage, reduce the severity by one threshold. You can spend a Hope to keep the beetles conjured after taking damage.
+Besouros Blindados Tekaira: Marque 1 ponto de Estresse para conjurar besouros blindados que o cercam. Quando você sofrer dano pela próxima vez, reduza a gravidade em um limiar. Você pode gastar 1 ponto de Esperança para manter os besouros conjurados após sofrer dano.
 
-Fire Flies: Make a Spellcast Roll against all adversaries within Close range. Spend a Hope to deal 2d8+3 magic damage to targets you succeed against.
+Vagalumes: Faça uma Jogada de Conjuração de Magia contra todos os adversários em alcance Próximo. Gaste 1 ponto de Esperança para causar 2d8+3 de dano mágico aos alvos contra os quais você obtiver sucesso.

@@ -1,14 +1,14 @@
-﻿# ELECTRIC EELS
+﻿# ENGUIAS ELÉTRICAS
 
-***Tier 2 Horde (2/HP)***  
-*A swarm of eels that encircle and electrocute.*  
-**Motives & Tactics:** Avoid larger predators, shock prey, tear apart
+***Horda de Nível 2 (2/HP)***  
+*Um enxame de enguias que circulam e eletrocutam.*  
+**Motivações & Táticas:** Evitar predadores maiores, eletrocutar presas, despedaçar
 
-> **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3  
-> **ATK:** 0 | **Shocking Bite:** Melee | 2d6+4 phy  
+> **Dificuldade:** 14 | **Limiares:** 10/20 | **HP:** 5 | **Estresse:** 3  
+> **ATQ:** 0 | **Mordida Choque:** Corpo a corpo | 2d6+4 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (2d4+1) - Passive:*** When the Eels have marked half or more of their HP, their standard attack deals 2d4+1 physical damage instead.
+***Horda (2d4+1) - Passiva:*** Quando as Enguias tiverem marcado metade ou mais do seu HP, seu ataque padrão causa 2d4+1 de dano físico em vez disso.
 
-***Paralyzing Shock - Action:*** Mark a Stress to make a standard attack against all targets within Very Close range. You gain a Fear for each target that marks HP.
+***Choque Paralisante - Ação:*** Marque um Estresse para fazer um ataque padrão contra todos os alvos em alcance Muito Próximo. Você ganha um Medo para cada alvo que marcar HP.

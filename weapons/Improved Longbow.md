@@ -1,7 +1,7 @@
-﻿# IMPROVED LONGBOW
+﻿# ARCO LONGO APRIMORADO
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Longo; **Dano:** d8+6 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitado:*** -1 em Destreza
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

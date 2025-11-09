@@ -1,7 +1,7 @@
-﻿# KNUCKLE CLAWS
+﻿# GARRAS DE NÓS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+8 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d6+8 físico; **Carga:** Uma mão
 
-**Feature:** ***Doubled Up:*** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.
+**Característica:** ***Duplo Ataque:*** Quando você realiza um ataque com sua arma primária, pode causar dano a outro alvo dentro do alcance de Corpo a corpo.
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

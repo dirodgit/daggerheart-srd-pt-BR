@@ -1,18 +1,18 @@
-﻿# VAULT GUARDIAN SENTINEL
+﻿# SENTINELA GUARDIÃO DO COFRE
 
-***Tier 3 Bruiser***  
-*A dust-covered golden construct with boxy limbs and a huge mace for a hand.*  
-**Motives & Tactics:** Destroy at any cost, expunge, protect
+***Brutamontes de Nível 3***  
+*Um construto dourado coberto de poeira, com membros quadrados e uma enorme maça no lugar da mão.*  
+**Motivações & Táticas:** Destruir a qualquer custo, expurgar, proteger
 
-> **Difficulty:** 17 | **Thresholds:** 21/40 | **HP:** 6 | **Stress:** 3  
-> **ATK:** +3 | **Charged Mace:** Very Close | 2d12+1 phy  
+> **Dificuldade:** 17 | **Limiares:** 21/40 | **PV:** 6 | **Estresse:** 3  
+> **ATAQ:** +3 | **Maça Carregada:** Muito Próximo | 2d12+1 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Kinetic Slam - Passive:*** Targets who take damage from the Sentinel’s standard attack are knocked back to Very Close range.
+***Golpe Cinético - Passivo:*** Alvos que sofrerem dano do ataque padrão do Sentinela são empurrados para a distância Muito Próximo.
 
-***Box In - Action:*** Mark a Stress to choose a target within Very Close range to focus on. That target has disadvantage on attack rolls when they’re within Very Close range of the Sentinel. The Sentinel can only focus on one target at a time.
+***Encurralar - Ação:*** Marque um Estresse para escolher um alvo dentro da distância Muito Próximo para focar. Esse alvo tem desvantagem em testes de ataque quando estiver dentro da distância Muito Próximo do Sentinela. O Sentinela só pode focar em um alvo por vez.
 
-***Mana Bolt - Action:*** Spend a Fear to lob explosive magic at a point within Far range. All targets within Very Close range of that point must make an Agility Reaction Roll. Targets who fail take 8d20 magic damage and are knocked back to Close range. Targets who succeed take half damage and aren’t knocked back.
+***Projétil de Mana - Ação:*** Gaste um Medo para lançar uma magia explosiva em um ponto dentro da distância Longe. Todos os alvos dentro da distância Muito Próximo desse ponto devem fazer um Teste de Reação de Agilidade. Alvos que falharem sofrem 8d20 de dano mágico e são empurrados para a distância Próximo. Alvos que tiverem sucesso recebem metade do dano e não são empurrados.
 
-***Momentum - Reaction:*** When the Sentinel makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Sentinela realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

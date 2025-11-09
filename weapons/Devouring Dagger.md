@@ -1,7 +1,7 @@
-﻿# DEVOURING DAGGER
+﻿# ADAGA DEVORADORA
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Corpo a corpo; **Dano:** d8+4 mag; **Peso:** Uma mão
 
-**Feature:** ***Scary:*** On a successful attack, the target must mark a Stress.
+**Característica:** ***Assustadora:*** Em um ataque bem-sucedido, o alvo deve marcar um Estresse.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

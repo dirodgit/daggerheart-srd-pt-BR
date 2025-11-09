@@ -1,5 +1,5 @@
-﻿# INFINITE BAG
+﻿# SACO INFINITO
 
-When you store items in this bag, they are kept in a pocket dimension that never runs out of space. You can retrieve an item at any time.
+Quando você guarda itens neste saco, eles são mantidos em uma dimensão de bolso que nunca fica sem espaço. Você pode recuperar um item a qualquer momento.
 
 *Item*

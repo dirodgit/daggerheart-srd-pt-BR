@@ -1,7 +1,7 @@
-﻿# HARROWBONE ARMOR
+﻿# ARMADURA HARROWBONE
 
-**Base Thresholds:** 9 / 21; **Base Score:** 4
+**Limiares Base:** 9 / 21; **Pontuação Base:** 4
 
-**Feature:** ***Resilient:*** Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot.
+**Habilidade:** ***Resiliente:*** Antes de marcar seu último Espaço de Armadura, role um d6. Com um resultado 6, reduza a severidade em um limiar sem marcar um Espaço de Armadura.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

@@ -1,14 +1,14 @@
-﻿# TREANT SAPLING
+﻿# MUDINHO DE TREANT
 
-***Tier 3 Minion***  
-*A small, sentient tree sapling.*  
-**Motives & Tactics:** Blend in, preserve the forest, pummel, surround
+***Capanga de Nível 3***  
+*Um pequeno mudinho de árvore senciente.*  
+**Motivações & Táticas:** Misturar-se, preservar a floresta, golpear, cercar
 
-> **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +0 | **Branches:** Melee | 8 phy  
+> **Dificuldade:** 14 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** +0 | **Ramos:** Corpo a corpo | 8 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (6) - Passive:*** The Sapling is defeated when they take any damage. For every 6 damage a PC deals to the Sapling, defeat an additional Minion within range the attack would succeed against.
+***Capanga (6) - Passivo:*** O Mudinho é derrotado ao receber qualquer dano. Para cada 6 de dano que um PJ causar ao Mudinho, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Treant Saplings within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 8 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Mudinhos de Treant dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 8 de dano físico. Combine esse dano.

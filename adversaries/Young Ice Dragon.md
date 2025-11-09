@@ -1,25 +1,25 @@
-﻿# YOUNG ICE DRAGON
+﻿# JOVEM DRAGÃO DE GELO
 
-***Tier 3 Solo***  
-*A glacier-blue dragon with four powerful limbs and frost-tinged wings.*  
-**Motives & Tactics:** Avalanche, defend lair, fly, freeze, defend what is mine, maul
+***Nível 3 Solo***  
+*Um dragão azul-gelo com quatro membros poderosos e asas tingidas de geada.*  
+**Motivações & Táticas:** Avalanche, defender a toca, voar, congelar, defender o que é meu, dilacerar
 
-> **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6  
-> **ATK:** +7 | **Bite and Claws:** Close | 4d10 phy  
-> **Experience:** Protect What Is Mine +3
+> **Dificuldade:** 18 | **Limiares:** 21/41 | **PV:** 10 | **Estresse:** 6  
+> **ATQ:** +7 | **Mordida e Garras:** Corpo a Corpo | 4d10 físico  
+> **Experiência:** Proteger o Que É Meu +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (3) - Passive:*** The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (3) - Passiva:*** O Dragão pode ser destacado até três vezes por turno do Mestre. Gaste Medo normalmente para destacá-lo.
 
-***Rend and Crush - Passive:*** If a target damaged by the Dragon doesn’t mark an Armor Slot to reduce the damage, they must mark a Stress.
+***Rasgar e Esmagar - Passiva:*** Se um alvo danificado pelo Dragão não marcar um Espaço de Armadura para reduzir o dano, ele deve marcar um Estresse.
 
-***No Hope - Passive:*** When a PC rolls with Fear while within Far range of the Dragon, they lose a Hope.
+***Sem Esperança - Passiva:*** Quando um PJ rolar com Medo enquanto estiver a uma distância Longínqua do Dragão, ele perde uma Esperança.
 
-***Blizzard Breath - Action:*** Spend 2 Fear to release an icy whirlwind in an area within Close range. All targets in this area must make an Agility Reaction Roll. Targets who fail take 4d6+5 magic damage and are Restrained by ice until they break free with a successful Strength Roll. Targets who succeed must mark 2 Stress or take half damage.
+***Sopro de Nevasca - Ação:*** Gaste 2 Medo para liberar um redemoinho gelado em uma área dentro da distância Corpo a Corpo. Todos os alvos nessa área devem fazer um Teste de Reação de Agilidade. Alvos que falharem sofrem 4d6+5 de dano mágico e ficam Presos pelo gelo até se libertarem com um Teste de Força bem-sucedido. Alvos que tiverem sucesso devem marcar 2 Estresses ou sofrer metade do dano.
 
-***Avalanche - Action:*** Spend a Fear to have the Dragon unleash a huge downfall of snow and ice, covering all other creatures within Far range. All targets within this area must succeed on an Instinct Reaction Roll or be buried in snow and rocks, becoming Vulnerable until they dig themselves out from the debris. For each PC that fails the reaction roll, you gain a Fear.
+***Avalanche - Ação:*** Gaste 1 Medo para fazer o Dragão desencadear uma enorme queda de neve e gelo, cobrindo todas as outras criaturas dentro da distância Longínqua. Todos os alvos nessa área devem passar em um Teste de Reação de Instinto ou ficar enterrados em neve e pedras, tornando-se Vulneráveis até se desenterrarem dos destroços. Para cada PJ que falhar no teste de reação, você ganha 1 Medo.
 
-***Frozen Scales - Reaction:*** When a creature makes a successful attack against the Dragon from within Very Close range, they must mark a Stress and become Chilled until their next rest or they clear a Stress. While they are Chilled, they have disadvantage on attack rolls.
+***Escamas Congeladas - Reação:*** Quando uma criatura fizer um ataque bem-sucedido contra o Dragão a partir da distância Muito Próxima, ela deve marcar 1 Estresse e ficar Resfriada até seu próximo descanso ou até limpar um Estresse. Enquanto estiver Resfriada, ela sofre desvantagem em testes de ataque.
 
-***Momentum - Reaction:*** When the Dragon makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Dragão fizer um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

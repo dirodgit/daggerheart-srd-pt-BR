@@ -1,18 +1,18 @@
-# GRACE
+# GRAÇA
 
-Grace is the domain of charisma. Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the Bard and Rogue classes.
+Graça é o domínio do carisma. Por meio de narrativas arrebatadoras, feitiços encantadores ou um véu de mentiras, aqueles que canalizam esse poder definem as realidades de seus adversários, moldando a percepção à sua vontade. Graça oferece aos seus portadores magnetismo bruto e domínio sobre a linguagem. O domínio Graça pode ser acessado pelas classes Bardo e Ladino.
 
-## DOMAIN CARDS
+## CARTAS DE DOMÍNIO
 
-| **Level** | **Option 1**                                             | **Option 2**                                                     | **Option 3**                                                 |
+| **Nível** | **Opção 1**                                             | **Opção 2**                                                     | **Opção 3**                                                 |
 | :-------: | -------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
-|   **1**   | [Deft Deceiver](../abilities/Deft%20Deceiver.md)         | [Enrapture](../abilities/Enrapture.md)                           | [Inspirational Words](../abilities/Inspirational%20Words.md) |
-|   **2**   | [Tell No Lies](../abilities/Tell%20No%20Lies.md)         | [Troublemaker](../abilities/Troublemaker.md)                     | —                                                            |
-|   **3**   | [Hypnotic Shimmer](../abilities/Hypnotic%20Shimmer.md)   | [Invisibility](../abilities/Invisibility.md)                     | —                                                            |
-|   **4**   | [Soothing Speech](../abilities/Soothing%20Speech.md)     | [Through Your Eyes](../abilities/Through%20Your%20Eyes.md)       | —                                                            |
-|   **5**   | [Thought Delver](../abilities/Thought%20Delver.md)       | [Words of Discord](../abilities/Words%20of%20Discord.md)         | —                                                            |
-|   **6**   | [Never Upstaged](../abilities/Never%20Upstaged.md)       | [Share The Burden](../abilities/Share%20the%20Burden.md)         | —                                                            |
-|   **7**   | [Endless Charisma](../abilities/Endless%20Charisma.md)   | [Grace-Touched](../abilities/Grace-Touched.md)                   | —                                                            |
-|   **8**   | [Astral Projection](../abilities/Astral%20Projection.md) | [Mass Enrapture](../abilities/Mass%20Enrapture.md)               | —                                                            |
-|   **9**   | [Copycat](../abilities/Copycat.md)                       | [Master of The Craft](../abilities/Master%20of%20the%20Craft.md) | —                                                            |
-|  **10**   | [Encore](../abilities/Encore.md)                         | [Notorious](../abilities/Notorious.md)                           | —                                                            |
+|   **1**   | [Enganador Hábil](../abilities/Deft%20Deceiver.md)         | [Arrebatamento](../abilities/Enrapture.md)                           | [Palavras Inspiradoras](../abilities/Inspirational%20Words.md) |
+|   **2**   | [Não Conte Mentiras](../abilities/Tell%20No%20Lies.md)         | [Encrenqueiro](../abilities/Troublemaker.md)                     | —                                                            |
+|   **3**   | [Brilho Hipnótico](../abilities/Hypnotic%20Shimmer.md)   | [Invisibilidade](../abilities/Invisibility.md)                     | —                                                            |
+|   **4**   | [Discurso Acalmante](../abilities/Soothing%20Speech.md)     | [Através dos Seus Olhos](../abilities/Through%20Your%20Eyes.md)       | —                                                            |
+|   **5**   | [Explorador de Pensamentos](../abilities/Thought%20Delver.md)       | [Palavras de Discórdia](../abilities/Words%20of%20Discord.md)         | —                                                            |
+|   **6**   | [Nunca Ofuscado](../abilities/Never%20Upstaged.md)       | [Compartilhe o Fardo](../abilities/Share%20the%20Burden.md)         | —                                                            |
+|   **7**   | [Carisma Infinito](../abilities/Endless%20Charisma.md)   | [Tocado pela Graça](../abilities/Grace-Touched.md)                   | —                                                            |
+|   **8**   | [Projeção Astral](../abilities/Astral%20Projection.md) | [Arrebatamento em Massa](../abilities/Mass%20Enrapture.md)               | —                                                            |
+|   **9**   | [Imitador](../abilities/Copycat.md)                       | [Mestre do Ofício](../abilities/Master%20of%20the%20Craft.md) | —                                                            |
+|  **10**   | [Bis](../abilities/Encore.md)                         | [Notório](../abilities/Notorious.md)                           | —                                                            |

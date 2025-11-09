@@ -1,19 +1,19 @@
-﻿# SPECTRAL CAPTAIN
+﻿# CAPITÃO ESPECTRAL
 
-***Tier 2 Leader***  
-*A ghostly commander leading their troops beyond death.*  
-**Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
+***Líder de Nível 2***  
+*Um comandante fantasmagórico que lidera suas tropas além da morte.*  
+**Motivações & Táticas:** Mover-se através de objetos sólidos, reunir tropas, relembrar batalhas antigas
 
-> **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
-> **ATK:** +3 | **Longbow:** Far | 2d10+3 phy  
-> **Experience:** Ancient Knowledge +3
+> **Dificuldade:** 16 | **Limiares:** 13/26 | **PV:** 6 | **Estresse:** 4  
+> **ATAQ:** +3 | **Arco Longo:** Distante | 2d10+3 físico  
+> **Experiência:** Conhecimento Antigo +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Ghost - Passive:*** The Captain has resistance to physical damage. Mark a Stress to move up to Close range through solid objects.
+***Fantasma - Passiva:*** O Capitão tem resistência a dano físico. Marque 1 Estresse para se mover até Alcance Próximo através de objetos sólidos.
 
-***Unending Battle - Action:*** Spend 2 Fear to return up to 1d4+1 defeated Spectral allies to the battle at the points where they first appeared (with no marked HP or Stress).
+***Batalha Sem Fim - Ação:*** Gaste 2 Medo para retornar até 1d4+1 aliados Espectrais derrotados à batalha nos pontos onde apareceram pela primeira vez (sem PV ou Estresse marcados).
 
-***Hold Fast - Reaction:*** When the Captain’s Spectral allies are forced to make a reaction roll, you can mark a Stress to give those allies a +2 bonus to the roll.
+***Firmeza - Reação:*** Quando os aliados Espectrais do Capitão forem obrigados a fazer uma rolagem de reação, você pode marcar 1 Estresse para dar a esses aliados um bônus de +2 na rolagem.
 
-***Momentum - Reaction:*** When the Captain makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Capitão realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

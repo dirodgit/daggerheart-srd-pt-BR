@@ -1,12 +1,12 @@
-﻿# INSPIRATIONAL WORDS
+﻿# PALAVRAS INSPIRADORAS
 
-> **Level 1 Grace Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Graça de Nível 1**  
+> **Custo de Recordação:** 1
 
-Your speech is imbued with power. After a long rest, place a number of tokens on this card equal to your Presence. When you speak with an ally, you can spend a token from this card to give them one benefit from the following options:
+Seu discurso está imbuído de poder. Após um descanso longo, coloque um número de marcadores nesta carta igual à sua Presença. Quando você falar com um aliado, pode gastar um marcador desta carta para conceder a ele um dos seguintes benefícios:
 
-- Your ally clears a Stress.
-- Your ally clears a Hit Point.
-- Your ally gains a Hope.
+- Seu aliado remove um Estresse.
+- Seu aliado recupera um Ponto de Vida.
+- Seu aliado ganha uma Esperança.
 
-When you take a long rest, clear all unspent tokens.
+Quando você fizer um descanso longo, remova todos os marcadores não gastos.

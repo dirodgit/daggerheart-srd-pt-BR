@@ -1,29 +1,29 @@
-﻿# CASTLE SIEGE
+﻿# CERCO AO CASTELO
 
-***Tier 3 Event***  
-*An active siege with an attacking force fighting to gain entry to a fortified castle.*  
-**Impulses:** Bleed out the will to fight, breach the walls, build tension
+***Evento de Nível 3***  
+*Um cerco ativo com uma força atacante lutando para entrar em um castelo fortificado.*  
+**Impulsos:** Esgotar a vontade de lutar, romper as muralhas, aumentar a tensão
 
-> **Difficulty:** 17  
-> **Potential Adversaries:** Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
+> **Dificuldade:** 17  
+> **Adversários Potenciais:** Mercenários (Perseguidor, Mercenário, Espadachim Mágico, Mestre de Armas), Forças Nobres (Esquadrão de Arqueiros, Recruta, Soldado de Elite, Cavaleiro do Reino)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Secret Entrance - Passive:*** A PC can find or recall a secret way into the castle with a successful Instinct or Knowledge Roll.
+***Entrada Secreta - Passiva:*** Um PJ pode encontrar ou lembrar de uma passagem secreta para dentro do castelo com um teste bem-sucedido de Instinto ou Conhecimento.
 
-  *How do they get in without revealing the pathway to the attackers? Are any of the defenders monitoring this path?*
+  *Como eles entram sem revelar o caminho para os atacantes? Algum dos defensores está vigiando essa passagem?*
 
-***Siege Weapons (Environment Change) - Action:*** Consequence Countdown (5). The attacking force deploys siege weapons to try to raze the defenders’ fortifications. Activate the countdown when the siege begins (for a protracted siege, make this a long-term countdown instead). When it triggers, the defenders’ fortifications have been breached and the attackers flood in. You gain 2 Fear, then shift to the Pitched Battle environment and spotlight it.
+***Armas de Cerco (Mudança de Ambiente) - Ação:*** Contagem Regressiva de Consequência (5). A força atacante posiciona armas de cerco para tentar destruir as fortificações dos defensores. Ative a contagem regressiva quando o cerco começar (para um cerco prolongado, faça uma contagem regressiva de longo prazo). Quando ela disparar, as fortificações dos defensores foram rompidas e os atacantes invadem. Você ganha 2 Medo, então mude para o ambiente Batalha Campal e dê destaque a ele.
 
-  *What siege weapons are being deployed? Are they magical, mundane, or a mixture of both? What defenses must the characters overcome to storm the castle?*
+  *Quais armas de cerco estão sendo usadas? São mágicas, comuns ou uma mistura de ambas? Que defesas os personagens precisam superar para invadir o castelo?*
 
-***Reinforcements - Action:*** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight.
+***Reforços - Ação:*** Invoque um Cavaleiro do Reino, um número de Lacaios de Nível 3 igual ao número de PJs, e dois adversários à sua escolha dentro do alcance Longo de um PJ escolhido como reforços. O Cavaleiro do Reino imediatamente assume o destaque.
 
-  *Who are they targeting first? What formation do they take?*
+  *Quem eles atacam primeiro? Qual formação adotam?*
 
-***Collateral Damage - Reaction:*** When an adversary is defeated, you can spend a Fear to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll.
+***Danos Colaterais - Reação:*** Quando um adversário é derrotado, você pode gastar um Medo para que um ataque perdido de uma arma de cerco atinja um ponto no campo de batalha. Todos os alvos dentro do alcance Muito Próximo desse ponto devem fazer um teste de Reação de Agilidade.
 
-  - Targets who fail take 3d8+3 physical or magic damage and must mark a Stress.
-  - Targets who succeed must mark a Stress.
+  - Alvos que falharem recebem 3d8+3 de dano físico ou mágico e devem marcar um Estresse.
+  - Alvos que tiverem sucesso devem marcar um Estresse.
 
-  *What debris is scattered by the attack? What is broken by the strike that can’t be easily mended?*
+  *Que destroços são espalhados pelo ataque? O que é quebrado pelo impacto que não pode ser facilmente consertado?*

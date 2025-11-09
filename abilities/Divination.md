@@ -1,6 +1,6 @@
-﻿# DIVINATION
+﻿# ADIVINHAÇÃO
 
-> **Level 4 Splendor Spell**  
-> **Recall Cost:** 1
+> **Magia de Esplendor de Nível 4**  
+> **Custo de Recordação:** 1
 
-Once per long rest, spend 3 Hope to reach out to the forces beyond and ask one “yes or no” question about an event, person, place, or situation in the near future. For a moment, the present falls away and you see the answer before you.
+Uma vez por descanso longo, gaste 3 de Esperança para alcançar as forças além e fazer uma pergunta de “sim ou não” sobre um evento, pessoa, lugar ou situação no futuro próximo. Por um momento, o presente desaparece e você vê a resposta diante de si.

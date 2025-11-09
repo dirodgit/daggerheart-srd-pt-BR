@@ -1,5 +1,5 @@
-﻿# VIAL OF DARKSMOKE
+﻿# FRASCO DE FUMO NEGRO
 
-When an adversary attacks you, use this vial and roll a number of d6 equal to your Agility. Add the highest result to your Evasion against the attack.
+Quando um adversário atacar você, use este frasco e role um número de d6 igual à sua Agilidade. Adicione o resultado mais alto à sua Evasão contra o ataque.
 
-*Consumable*
+*Consumível*

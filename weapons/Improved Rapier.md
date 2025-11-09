@@ -1,7 +1,7 @@
-﻿# IMPROVED RAPIER
+﻿# ESPADA RÁPIDA APRIMORADA
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8+3 físico; **Carga:** Uma mão
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Característica:** ***Rápida:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

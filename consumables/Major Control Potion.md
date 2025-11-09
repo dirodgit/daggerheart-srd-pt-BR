@@ -1,5 +1,5 @@
-﻿# MAJOR CONTROL POTION
+﻿# POÇÃO DE CONTROLE MAIOR
 
-You gain a +1 bonus to your Finesse until your next rest.
+Você ganha um bônus de +1 na sua Destreza até seu próximo descanso.
 
-*Consumable*
+*Consumível*

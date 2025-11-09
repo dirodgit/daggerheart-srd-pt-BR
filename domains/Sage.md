@@ -1,18 +1,18 @@
-# SAGE
+# SÁBIO
 
-Sage is the domain of the natural world. Those who walk this path tap into the unfettered power of the earth and its creatures to unleash raw magic. Sage grants its adherents the vitality of a blooming flower and the ferocity of a ravenous predator. The Sage domain can be accessed by the Druid and Ranger classes.
+Sábio é o domínio do mundo natural. Aqueles que trilham este caminho acessam o poder livre da terra e de suas criaturas para liberar magia bruta. O domínio do Sábio concede aos seus seguidores a vitalidade de uma flor em flor e a ferocidade de um predador voraz. O domínio do Sábio pode ser acessado pelas classes Druida e Patrulheiro.
 
-## DOMAIN CARDS
+## CARTAS DE DOMÍNIO
 
-| **Level** | **Option 1**                                                   | **Option 2**                                                   | **Option 3**                                           |
+| **Nível** | **Opção 1**                                                   | **Opção 2**                                                   | **Opção 3**                                           |
 | :-------: | -------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
-|   **1**   | [Gifted Tracker](../abilities/Gifted%20Tracker.md)             | [Nature's Tongue](../abilities/Natures%20Tongue.md)            | [Vicious Entangle](../abilities/Vicious%20Entangle.md) |
-|   **2**   | [Conjure Swarm](../abilities/Conjure%20Swarm.md)               | [Natural Familiar](../abilities/Natural%20Familiar.md)         | —                                                      |
-|   **3**   | [Corrosive Projectile](../abilities/Corrosive%20Projectile.md) | [Towering Stalk](../abilities/Towering%20Stalk.md)             | —                                                      |
-|   **4**   | [Death Grip](../abilities/Death%20Grip.md)                     | [Healing Field](../abilities/Healing%20Field.md)               | —                                                      |
-|   **5**   | [Thorn Skin](../abilities/Thorn%20Skin.md)                     | [Wild Fortress](../abilities/Wild%20Fortress.md)               | —                                                      |
-|   **6**   | [Conjured Steeds](../abilities/Conjured%20Steeds.md)           | [Forager](../abilities/Forager.md)                             | —                                                      |
-|   **7**   | [Sage-Touched](../abilities/Sage-Touched.md)                   | [Wild Surge](../abilities/Wild%20Surge.md)                     | —                                                      |
-|   **8**   | [Forest Sprites](../abilities/Forest%20Sprites.md)             | [Rejuvenation Barrier](../abilities/Rejuvenation%20Barrier.md) | —                                                      |
-|   **9**   | [Fane of The Wilds](../abilities/Fane%20of%20the%20Wilds.md)   | [Plant Dominion](../abilities/Plant%20Dominion.md)             | —                                                      |
-|  **10**   | [Force of Nature](../abilities/Force%20of%20Nature.md)         | [Tempest](../abilities/Tempest.md)                             | —                                                      |
+|   **1**   | [Rastreador Talentoso](../abilities/Gifted%20Tracker.md)       | [Língua da Natureza](../abilities/Natures%20Tongue.md)         | [Enredar Feroz](../abilities/Vicious%20Entangle.md)    |
+|   **2**   | [Invocar Enxame](../abilities/Conjure%20Swarm.md)             | [Familiar Natural](../abilities/Natural%20Familiar.md)         | —                                                      |
+|   **3**   | [Projétil Corrosivo](../abilities/Corrosive%20Projectile.md)   | [Caule Imponente](../abilities/Towering%20Stalk.md)            | —                                                      |
+|   **4**   | [Aperto da Morte](../abilities/Death%20Grip.md)                | [Campo de Cura](../abilities/Healing%20Field.md)               | —                                                      |
+|   **5**   | [Pele de Espinhos](../abilities/Thorn%20Skin.md)               | [Fortaleza Selvagem](../abilities/Wild%20Fortress.md)          | —                                                      |
+|   **6**   | [Montarias Conjuradas](../abilities/Conjured%20Steeds.md)      | [Catador](../abilities/Forager.md)                              | —                                                      |
+|   **7**   | [Toque do Sábio](../abilities/Sage-Touched.md)                 | [Surto Selvagem](../abilities/Wild%20Surge.md)                 | —                                                      |
+|   **8**   | [Fadas da Floresta](../abilities/Forest%20Sprites.md)          | [Barreira de Rejuvenescimento](../abilities/Rejuvenation%20Barrier.md) | —                                                      |
+|   **9**   | [Templo das Terras Selvagens](../abilities/Fane%20of%20the%20Wilds.md) | [Domínio das Plantas](../abilities/Plant%20Dominion.md)        | —                                                      |
+|  **10**   | [Força da Natureza](../abilities/Force%20of%20Nature.md)       | [Tempestade](../abilities/Tempest.md)                           | —                                                      |

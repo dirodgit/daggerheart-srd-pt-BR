@@ -1,5 +1,5 @@
-﻿# SUSPENDED ROD
+﻿# VARA SUSPENSA
 
-This flat rod is inscribed with runes. When you activate the rod, it is immediately suspended in place. Until the rod is deactivated, it can’t move, doesn’t abide by the rules of gravity, and remains in place.
+Esta vara plana está inscrita com runas. Quando você ativa a vara, ela fica imediatamente suspensa no lugar. Até que a vara seja desativada, ela não pode se mover, não obedece às regras da gravidade e permanece no lugar.
 
 *Item*

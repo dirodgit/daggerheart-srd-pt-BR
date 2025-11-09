@@ -1,17 +1,17 @@
-﻿# GIANT MOSQUITOES
+﻿# MOSQUITOS GIGANTES
 
-***Tier 1 Horde (5/HP)***  
-*Dozens of fist-sized mosquitoes, flying together for protection.*  
-**Motives & Tactics:** Fly away, harass, steal blood
+***Horda de Nível 1 (5/HP)***  
+*Dezenas de mosquitos do tamanho de um punho, voando juntos para proteção.*  
+**Motivações & Táticas:** Fugir, incomodar, roubar sangue
 
-> **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3  
-> **ATK:** -2 | **Proboscis:** Melee | 1d8+3 phy  
-> **Experience:** Camouflage +2
+> **Dificuldade:** 10 | **Limiares:** 5/9 | **HP:** 6 | **Estresse:** 3  
+> **ATQ:** -2 | **Probóscide:** Corpo a corpo | 1d8+3 físico  
+> **Experiência:** Camuflagem +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
+***Horda (1d4+1) - Passiva:*** Quando os Mosquitos tiverem marcado metade ou mais do seu HP, seu ataque padrão causa 1d4+1 de dano físico em vez disso.
 
-***Flying - Passive:*** While flying, the Mosquitoes have a +2 bonus to their Difficulty.
+***Voador - Passiva:*** Enquanto estiverem voando, os Mosquitos recebem um bônus de +2 na Dificuldade.
 
-***Bloodseeker - Reaction:*** When the Mosquitoes’ attack causes a target to mark HP, you can mark a Stress to force the target to mark an additional HP.
+***Caçador de Sangue - Reação:*** Quando o ataque dos Mosquitos faz com que um alvo marque HP, você pode marcar um Estresse para forçar o alvo a marcar um HP adicional.

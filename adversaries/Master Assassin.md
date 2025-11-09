@@ -1,19 +1,19 @@
-﻿# MASTER ASSASSIN
+﻿# ASSASSINO MESTRE
 
-***Tier 2 Leader***  
-*A seasoned killer with a threatening voice and a deadly blade.*  
-**Motives & Tactics:** Ambush, get out alive, kill, prepare for all scenarios
+***Líder de Nível 2***  
+*Um assassino experiente com uma voz ameaçadora e uma lâmina mortal.*  
+**Motivações & Táticas:** Emboscada, sair vivo, matar, preparar-se para todos os cenários
 
-> **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy  
-> **Experience:** Command +3, Intrusion +3
+> **Dificuldade:** 15 | **Limiares:** 12/25 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +5 | **Adaga Serrilhada:** Corpo a corpo | 2d10+2 físico  
+> **Experiência:** Comando +3, Intrusão +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Won’t See It Coming - Passive:*** The Assassin deals direct damage while they’re Hidden.
+***Não Vai Ver Chegar - Passiva:*** O Assassino causa dano direto enquanto estiver Oculto.
 
-***Strike as One - Action:*** Mark a Stress to spotlight a number of other Assassins equal to the Assassin’s unmarked Stress.
+***Golpe em Unidade - Ação:*** Marque um Estresse para destacar um número de outros Assassinos igual ao Estresse não marcado do Assassino.
 
-***The Subtle Blade - Reaction:*** When the Assassin successfully makes a standard attack against a Vulnerable target, you can spend a Fear to deal Severe damage instead of their standard damage.
+***A Lâmina Sutil - Reação:*** Quando o Assassino realiza um ataque padrão bem-sucedido contra um alvo Vulnerável, você pode gastar um Medo para causar dano Severo em vez do dano padrão.
 
-***Momentum - Reaction:*** When the Assassin makes a successful attack against a PC, you gain a Fear.
+***Momentum - Reação:*** Quando o Assassino realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

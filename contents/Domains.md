@@ -1,8 +1,8 @@
-# DOMAINS
+# DOMÍNIOS
 
-The Daggerheart core set includes 9 Domain Decks, each comprising a collection of cards granting features or special abilities expressing a particular theme.
+O conjunto básico de Daggerheart inclui 9 Baralhos de Domínio, cada um composto por uma coleção de cartas que concedem características ou habilidades especiais que expressam um tema particular.
 
-**The 9 Domains are:**
+**Os 9 Domínios são:**
 
 - [Arcana](../domains/Arcana.md)
 - [Blade](../domains/Blade.md)

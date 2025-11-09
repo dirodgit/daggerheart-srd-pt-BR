@@ -1,14 +1,14 @@
-﻿# HALLOWED ARCHER
+﻿# ARQUEIRO SAGRADO
 
-***Tier 4 Ranged***  
-*Spirit soldiers with sanctified bows.*  
-**Motives & Tactics:** Focus fire, obey, retribution, volley
+***Nível 4 à Distância***  
+*Soldados espirituais com arcos santificados.*  
+**Motivações & Táticas:** Fogo concentrado, obediência, retaliação, rajada
 
-> **Difficulty:** 19 | **Thresholds:** 25/45 | **HP:** 3 | **Stress:** 2  
-> **ATK:** +4 | **Sanctified Longbow:** Far | 4d8+8 phy  
+> **Dificuldade:** 19 | **Limiares:** 25/45 | **PV:** 3 | **Estresse:** 2  
+> **ATQ:** +4 | **Arco Longo Santificado:** Distante | 4d8+8 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Punish the Guilty - Passive:*** The Archer deals double damage to targets marked Guilty by a High Seraph.
+***Punir os Culpados - Passiva:*** O Arqueiro causa dano dobrado a alvos marcados como Culpados por um Alto Seráfico.
 
-***Divine Volley - Action:*** Mark a Stress to make a standard attack against up to three targets.
+***Rajada Divina - Ação:*** Marque um Estresse para realizar um ataque padrão contra até três alvos.

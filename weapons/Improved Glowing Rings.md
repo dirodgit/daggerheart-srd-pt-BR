@@ -1,7 +1,7 @@
-﻿# IMPROVED GLOWING RINGS
+﻿# ANÉIS BRILHANTES APRIMORADOS
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+5 mag; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Próximo; **Dano:** d10+5 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

@@ -1,5 +1,5 @@
-﻿# MINOR STAMINA POTION
+﻿# POÇÃO MÍNIMA DE VIGOR
 
-Clear 1d4 Stress.
+Remove 1d4 de Estresse.
 
-*Consumable*
+*Consumível*

@@ -1,8 +1,8 @@
-﻿# CHOKEHOLD
+﻿# CHOKEHOLD (GOLPE DE ESTRANGULAMENTO)
 
-> **Level 3 Midnight Ability**  
-> **Recall Cost:** 1
+> **Habilidade da Meia-Noite de Nível 3**  
+> **Custo para Recordar:** 1
 
-When you position yourself behind a creature who’s about your size, you can mark a Stress to pull them into a chokehold, making them temporarily Vulnerable.
+Quando você se posiciona atrás de uma criatura do seu tamanho, pode marcar 1 Estresse para puxá-la para um golpe de estrangulamento, tornando-a temporariamente Vulnerável.
 
-When a creature attacks a target who is Vulnerable in this way, they deal an extra 2d6 damage.
+Quando uma criatura ataca um alvo que está Vulnerável dessa forma, ela causa 2d6 de dano extra.

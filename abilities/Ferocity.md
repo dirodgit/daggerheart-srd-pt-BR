@@ -1,6 +1,6 @@
-﻿# FEROCITY
+﻿# FEROCIDADE
 
-> **Level 2 Bone Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Osso de Nível 2**  
+> **Custo de Recordação:** 2
 
-When you cause an adversary to mark 1 or more Hit Points, you can spend 2 Hope to increase your Evasion by the number of Hit Points they marked. This bonus lasts until after the next attack made against you.
+Quando você faz um adversário marcar 1 ou mais Pontos de Vida, pode gastar 2 de Esperança para aumentar sua Evasão pelo número de Pontos de Vida que ele marcou. Esse bônus dura até depois do próximo ataque feito contra você.

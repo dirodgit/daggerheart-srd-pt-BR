@@ -1,7 +1,7 @@
-﻿# LONGSWORD
+﻿# ESPADA LONGA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d10+3 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

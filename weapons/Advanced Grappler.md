@@ -1,7 +1,7 @@
-﻿# ADVANCED GRAPPLER
+﻿# LUTADOR AVANÇADO
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Próximo; **Dano:** d6+4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Hooked:*** On a successful attack, you can pull the target into Melee range.
+**Característica:** ***Enroscado:*** Em um ataque bem-sucedido, você pode puxar o alvo para o alcance de Combate Corpo a Corpo.
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

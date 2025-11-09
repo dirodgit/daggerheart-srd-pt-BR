@@ -1,8 +1,8 @@
-﻿# NATURAL FAMILIAR
+﻿# FAMILIAR NATURAL
 
-> **Level 2 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 2**  
+> **Custo de Recordação:** 1
 
-Spend a Hope to summon a small nature spirit or forest critter to your side until your next rest, you cast Natural Familiar again, or the familiar is targeted by an attack. If you spend an additional Hope, you can summon a familiar that flies. You can communicate with them, make a Spellcast Roll to command them to perform simple tasks, and mark a Stress to see through their eyes.
+Gaste uma Esperança para invocar um pequeno espírito da natureza ou um bichinho da floresta ao seu lado até seu próximo descanso, você lançar Familiar Natural novamente, ou o familiar for alvo de um ataque. Se gastar uma Esperança adicional, você pode invocar um familiar que voe. Você pode se comunicar com eles, fazer uma Jogada de Conjuração para comandá-los a realizar tarefas simples, e marcar um Estresse para ver através dos olhos deles.
 
-When you deal damage to an adversary within Melee range of your familiar, you add a d6 to your damage roll.
+Quando você causar dano a um adversário dentro do alcance Corpo a Corpo do seu familiar, você adiciona um d6 à sua rolagem de dano.

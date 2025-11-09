@@ -1,7 +1,7 @@
-﻿# ADVANCED DUALSTAFF
+﻿# BASTÃO DUPLO AVANÇADO
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d6+9 mag; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

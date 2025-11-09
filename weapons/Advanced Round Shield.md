@@ -1,7 +1,7 @@
-﻿# ADVANCED ROUND SHIELD
+﻿# ESCUDO REDONDO AVANÇADO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d4+4 físico; **Carga:** Uma mão
 
-**Feature:** ***Protective:*** +3 to Armor Score
+**Característica:** ***Protetor:*** +3 na Pontuação de Armadura
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

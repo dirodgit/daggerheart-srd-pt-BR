@@ -1,8 +1,8 @@
-﻿# BOOK OF NORAI
+﻿# LIVRO DE NORAI
 
-> **Level 3 Codex Grimoire**  
-> **Recall Cost:** 2
+> **Grimório do Códice Nível 3**  
+> **Custo de Recordação:** 2
 
-**Mystic Tether:** Make a Spellcast Roll against a target within Far range. On a success, they’re temporarily Restrained and must mark a Stress. If you target a flying creature, this spell grounds and temporarily Restrains them.
+**Vínculo Místico:** Faça uma Jogada de Conjuração de Feitiço contra um alvo dentro do alcance Longo. Em caso de sucesso, ele fica temporariamente Imobilizado e deve marcar um Estresse. Se você mirar em uma criatura voadora, este feitiço a faz aterrissar e a Imobiliza temporariamente.
 
-**Fireball:** Make a Spellcast Roll against a target within Very Far range. On a success, hurl a sphere of fire toward them that explodes on impact. The target and all creatures within Very Close range of them must make a Reaction Roll (13). Targets who fail take 4d20+5 magic damage using your Proficiency. Targets who succeed take half damage.
+**Bola de Fogo:** Faça uma Jogada de Conjuração de Feitiço contra um alvo dentro do alcance Muito Longo. Em caso de sucesso, arremesse uma esfera de fogo em direção a ele que explode ao impactar. O alvo e todas as criaturas dentro do alcance Muito Próximo dele devem fazer uma Jogada de Reação (13). Alvos que falharem recebem 4d20+5 de dano mágico usando sua Proficiência. Alvos que tiverem sucesso recebem metade do dano.

@@ -1,11 +1,11 @@
 ﻿# CLANK
 
-Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry.
+Clanks são seres mecânicos sencientes construídos a partir de uma variedade de materiais, incluindo metal, madeira e pedra. Eles podem se assemelhar a humanoides, animais ou até mesmo objetos inanimados. Assim como seres orgânicos, seus corpos apresentam uma ampla variedade de tamanhos. Devido à sua construção personalizada, muitos clanks possuem configurações físicas altamente especializadas. Exemplos incluem mãos com garras para agarrar, rodas para locomoção ou armamentos embutidos.
 
-Many clanks embrace body modifications for style as well as function, and members of other ancestries often turn to clank artisans to construct customized mobility aids and physical adornments. Other ancestries can create clanks, even using their own physical characteristics as inspiration, but it’s also common for clanks to build one another. A clank’s lifespan extends as long as they’re able to acquire or craft new parts, making their physical form effectively immortal. That said, their minds are subject to the effects of time, and deteriorate as the magic that powers them loses potency.
+Muitos clanks adotam modificações corporais tanto por estilo quanto por função, e membros de outras ancestralidades frequentemente recorrem a artesãos clanks para construir dispositivos de mobilidade personalizados e adornos físicos. Outras ancestralidades podem criar clanks, até mesmo usando suas próprias características físicas como inspiração, mas também é comum que clanks construam uns aos outros. A vida útil de um clank se estende enquanto ele for capaz de adquirir ou fabricar novas peças, tornando sua forma física efetivamente imortal. Dito isso, suas mentes estão sujeitas aos efeitos do tempo e se deterioram à medida que a magia que os alimenta perde potência.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***Purposeful Design:*** Decide who made you and for what purpose. At character creation, choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it.
+***Design Intencional:*** Decida quem o criou e para qual propósito. Na criação do personagem, escolha uma de suas Experiências que melhor se alinhe a esse propósito e ganhe um bônus permanente de +1 nela.
 
-***Efficient:*** When you take a short rest, you can choose a long rest move instead of a short rest move.
+***Eficiente:*** Quando você fizer um descanso curto, pode escolher realizar um movimento de descanso longo em vez de um movimento de descanso curto.

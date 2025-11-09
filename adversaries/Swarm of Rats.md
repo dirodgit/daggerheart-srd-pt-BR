@@ -1,14 +1,14 @@
-﻿# SWARM OF RATS
+﻿# ENXAME DE RATOS
 
-***Tier 1 Horde (10/HP)***  
-*A skittering mass of ordinary rodents moving as one like a ravenous wave.*  
-**Motives & Tactics:** Consume, obscure, swarm
+***Horda de Nível 1 (10/HP)***  
+*Uma massa ágil de roedores comuns movendo-se como uma onda voraz.*  
+**Motivações & Táticas:** Consumir, obscurecer, enxamear
 
-> **Difficulty:** 10 | **Thresholds:** 6/10 | **HP:** 6 | **Stress:** 2  
-> **ATK:** -3 | **Claws:** Melee | 1d8+2 phy  
+> **Dificuldade:** 10 | **Limiares:** 6/10 | **HP:** 6 | **Estresse:** 2  
+> **ATQ:** -3 | **Garras:** Corpo a corpo | 1d8+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d4+1) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
+***Horda (1d4+1) - Passiva:*** Quando o Enxame tiver marcado metade ou mais do seu HP, seu ataque padrão causa 1d4+1 de dano físico em vez disso.
 
-***In Your Face - Passive:*** All targets within Melee range have disadvantage on attacks against targets other than the Swarm.
+***Na Sua Cara - Passiva:*** Todos os alvos dentro do alcance de Corpo a Corpo têm desvantagem em ataques contra alvos que não sejam o Enxame.

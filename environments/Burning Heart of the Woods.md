@@ -1,34 +1,34 @@
-﻿# BURNING HEART OF THE WOODS
+﻿# CORAÇÃO ARDENTE DA FLORESTA
 
-***Tier 3 Exploration***  
-*Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.*  
-**Impulses:** Beat out an uncanny rhythm for all to follow, corrupt the woods
+***Exploração de Nível 3***  
+*Uma densa fumaça índigo preenche o ar ao redor de uma árvore imensa coberta de musgo que arde eternamente com chamas de um tom doentio de azul.*  
+**Impulsos:** Marcar um ritmo estranho para todos seguirem, corromper a floresta
 
-> **Difficulty:** 16  
-> **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
+> **Dificuldade:** 16  
+> **Adversários Potenciais:** Bestas (Urso, Cobra de Vidro), Elementais (Faísca Elemental), Defensores Verdes (Dríade, Treant de Carvalho, Cavaleiro Cervo)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Chaos Magic Locus - Passive:*** When a PC makes a Spellcast Roll, they must roll two Fear Dice and take the higher result.
+***Lócus de Magia do Caos - Passivo:*** Quando um PJ realiza uma Jogada de Conjuração de Feitiço, ele deve rolar dois Dados de Medo e usar o resultado mais alto.
 
-  *What does it feel like to work magic in this chaos-touched place? What do you fear will happen if you lose control of the spell?*
+  *Como é sentir a magia funcionando neste lugar tocado pelo caos? O que você teme que aconteça se perder o controle do feitiço?*
 
-***The Indigo Flame - Passive:*** PCs who approach the central tree can make a Knowledge Roll to try to identify the magic that consumed this environment.
+***A Chama Índigo - Passivo:*** PJs que se aproximam da árvore central podem fazer uma Jogada de Conhecimento para tentar identificar a magia que consumiu este ambiente.
 
-  - On a success: They learn three of the below details. On a success with Fear, they learn two.
-  - On a failure: They can mark a Stress to learn one and gain advantage on the next action roll to investigate this environment.
-  - Details: This is a result of Fallen magic. The corruption is spread through the ashen moss. It can be cleansed only by a ritual of nature magic with a Progress Countdown (8).
+  - Em um sucesso: Eles aprendem três dos detalhes abaixo. Em um sucesso com Medo, aprendem dois.
+  - Em uma falha: Podem marcar um Estresse para aprender um detalhe e ganham vantagem na próxima jogada de ação para investigar este ambiente.
+  - Detalhes: Isto é resultado de magia Caída. A corrupção se espalha pelo musgo cinzento. Só pode ser purificada por um ritual de magia da natureza com uma Contagem Regressiva de Progresso (8).
 
-  *What fell cult corrupted these woods? What have they already done with the cursed wood and sap from this tree?*
+  *Que culto caído corrompeu esta floresta? O que eles já fizeram com a madeira e a seiva amaldiçoadas desta árvore?*
 
-***Grasping Vines - Action:*** Animate vines bristling with thorns whip out from the underbrush to ensnare the PCs. A target must succeed on an Agility Reaction Roll or become Restrained and Vulnerable until they break free, clearing both conditions, with a successful Finesse or Strength Roll or by dealing 10 damage to the vines. When the target makes a roll to escape, they take 1d8+4 physical damage and lose a Hope.
+***Vinhas Agarradoras - Ação:*** Vinhas animadas, cobertas de espinhos, surgem do mato para prender os PJs. Um alvo deve ter sucesso em uma Jogada de Reação de Agilidade ou fica Preso e Vulnerável até se libertar, limpando ambas as condições, com uma Jogada bem-sucedida de Destreza ou Força ou causando 10 de dano às vinhas. Quando o alvo faz a jogada para escapar, sofre 1d8+4 de dano físico e perde uma Esperança.
 
-  *What painful memories do the vines bring to the surface as they pierce flesh?*
+  *Que memórias dolorosas as vinhas trazem à tona ao perfurar a carne?*
 
-***Charcoal Constructs - Action:*** Warped animals wreathed in indigo flame trample through a point of your choice. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take 3d12+3 physical damage. Targets who succeed take half damage instead.
+***Constructos de Carvão - Ação:*** Animais deformados, envoltos em chamas índigo, atropelam um ponto à sua escolha. Todos os alvos em alcance Próximo desse ponto devem fazer uma Jogada de Reação de Agilidade. Alvos que falharem sofrem 3d12+3 de dano físico. Alvos que tiverem sucesso recebem metade do dano.
 
-  *Are these real animals consumed by the flame or merely constructs of the corrupting magic?*
+  *São esses animais reais consumidos pela chama ou meros constructos da magia corruptora?*
 
-***Choking Ash - Reaction:*** Countdown (Loop 6). When the PCs enter the Burning Heart of the Woods, activate the countdown. When it triggers, all characters must make a Strength or Instinct Reaction Roll. Targets who fail take 4d6+5 direct physical damage. Targets who succeed take half damage. Protective masks or clothes give advantage on the reaction roll.
+***Cinzas Asfixiantes - Reação:*** Contagem Regressiva (Loop 6). Quando os PJs entram no Coração Ardente da Floresta, ative a contagem regressiva. Quando ela disparar, todos os personagens devem fazer uma Jogada de Reação de Força ou Instinto. Alvos que falharem sofrem 4d6+5 de dano físico direto. Alvos que tiverem sucesso recebem metade do dano. Máscaras ou roupas protetoras dão vantagem na jogada de reação.
 
-  *What hallucinations does the ash induce? What incongruous taste does it possess?*
+  *Que alucinações as cinzas induzem? Que sabor incongruente elas possuem?*

@@ -1,8 +1,8 @@
-﻿# STEALTH EXPERTISE
+﻿# PERÍCIA EM FURTIVIDADE
 
-> **Level 4 Midnight Ability**  
-> **Recall Cost:** 0
+> **Habilidade da Meia-Noite de Nível 4**  
+> **Custo para Recordar:** 0
 
-When you roll with Fear while attempting to move unnoticed through a dangerous area, you can mark a Stress to roll with Hope instead.
+Quando você rolar com Medo ao tentar se mover despercebido por uma área perigosa, pode marcar um Estresse para rolar com Esperança em vez disso.
 
-If an ally within Close range is also attempting to move unnoticed and rolls with Fear, you can mark a Stress to change their result to a roll with Hope.
+Se um aliado a até Alcance Próximo também estiver tentando se mover despercebido e rolar com Medo, você pode marcar um Estresse para mudar o resultado dele para uma rolagem com Esperança.

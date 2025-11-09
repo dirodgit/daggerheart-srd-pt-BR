@@ -1,6 +1,6 @@
-﻿# CONJURED STEEDS
+﻿# MONTARIAS CONJURADAS
 
-> **Level 6 Sage Spell**  
-> **Recall Cost:** 0
+> **Magia de Sábio de Nível 6**  
+> **Custo de Recordação:** 0
 
-Spend any number of Hope to conjure that many magical steeds (such as horses, camels, or elephants) that you and your allies can ride until your next long rest or the steeds take any damage. The steeds double your land speed while traveling and, when in danger, allow you to move within Far range without having to roll. Creatures riding a steed gain a –2 penalty to attack rolls and a +2 bonus to damage rolls.
+Gaste qualquer quantidade de Esperança para conjurar esse número de montarias mágicas (como cavalos, camelos ou elefantes) que você e seus aliados podem montar até seu próximo descanso longo ou até que as montarias sofram qualquer dano. As montarias dobram sua velocidade terrestre enquanto viajam e, quando em perigo, permitem que você se mova dentro do alcance Distante sem precisar rolar. Criaturas montando uma montaria recebem uma penalidade de –2 nas jogadas de ataque e um bônus de +2 nas jogadas de dano.

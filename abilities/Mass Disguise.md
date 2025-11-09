@@ -1,8 +1,8 @@
-﻿# MASS DISGUISE
+﻿# DISFARCE EM MASSA
 
-> **Level 6 Midnight Spell**  
-> **Recall Cost:** 0
+> **Magia da Meia-Noite de Nível 6**  
+> **Custo de Recordação:** 0
 
-When you have a few minutes of silence to focus, you can mark a Stress to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you’ve seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny.
+Quando você tem alguns minutos de silêncio para se concentrar, pode marcar um Estresse para mudar a aparência de todas as criaturas dispostas dentro do alcance Próximo. Suas novas formas devem compartilhar uma estrutura corporal geral e tamanho, e podem ser alguém ou algo que você já viu antes ou totalmente fabricado. Uma criatura disfarçada tem vantagem em Testes de Presença para evitar escrutínio.
 
-Activate a Countdown (8). It ticks down as a consequence the GM chooses. When it triggers, the disguise drops.
+Ative uma Contagem Regressiva (8). Ela diminui conforme uma consequência escolhida pelo Mestre. Quando ela dispara, o disfarce cai.

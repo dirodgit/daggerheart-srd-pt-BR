@@ -1,5 +1,5 @@
-﻿# PORTAL SEED
+﻿# SEMENTE DE PORTAL
 
-You can plant this seed in the ground to grow a portal in that spot. The portal is ready to use in 24 hours. You can use this portal to travel to any other location where you planted a portal seed. A portal can be destroyed by dealing any amount of magic damage to it.
+Você pode plantar esta semente no chão para fazer crescer um portal naquele local. O portal estará pronto para uso em 24 horas. Você pode usar este portal para viajar para qualquer outro local onde tenha plantado uma semente de portal. Um portal pode ser destruído ao receber qualquer quantidade de dano mágico.
 
 *Item*

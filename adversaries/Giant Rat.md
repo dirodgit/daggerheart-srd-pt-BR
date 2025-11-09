@@ -1,15 +1,15 @@
-﻿# GIANT RAT
+﻿# RATO GIGANTE
 
-***Tier 1 Minion***  
-*A cat-sized rodent skilled at scavenging and survival.*  
-**Motives & Tactics:** Burrow, hunger, scavenge, wear down
+***Capanga de Nível 1***  
+*Um roedor do tamanho de um gato, habilidoso em buscar restos e sobreviver.*  
+**Motivações & Táticas:** Escavar, fome, buscar restos, desgastar
 
-> **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -4 | **Claws:** Melee | 1 phy  
-> **Experience:** Keen Senses +3
+> **Dificuldade:** 10 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -4 | **Garras:** Corpo a corpo | 1 físico  
+> **Experiência:** Sentidos Aguçados +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (3) - Passive:*** The Rat is defeated when they take any damage. For every 3 damage a PC deals to the Rat, defeat an additional Minion within range the attack would succeed against.
+***Capanga (3) - Passivo:*** O Rato é derrotado ao receber qualquer dano. Para cada 3 de dano que um PJ causar ao Rato, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Giant Rats within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 1 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Ratos Gigantes dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 1 de dano físico. Combine esse dano.

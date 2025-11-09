@@ -1,5 +1,5 @@
-﻿# MIRROR OF MARIGOLD
+﻿# ESPELHO DE MARIGOLD
 
-When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.
+Quando você sofre dano, pode gastar uma Esperança para anular esse dano, após o que o espelho se estilhaça.
 
-*Consumable*
+*Consumível*

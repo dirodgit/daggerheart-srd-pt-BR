@@ -1,7 +1,7 @@
-﻿# ARCANE GAUNTLETS
+﻿# MANOPLAS ARCANAS
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+3 mag; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+3 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

@@ -1,7 +1,7 @@
-﻿# TOWER SHIELD
+﻿# ESCUDO TORRE
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d6 físico; **Carga:** Uma Mão
 
-**Feature:** ***Barrier:*** +2 to Armor Score; -1 to Evasion
+**Característica:** ***Barreira:*** +2 na Pontuação de Armadura; -1 na Evasão
 
-*Secondary Weapon - Tier 1*
+*Arma Secundária - Nível 1*

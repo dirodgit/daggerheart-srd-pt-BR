@@ -1,10 +1,10 @@
-﻿# UNLEASH CHAOS
+﻿# LIBERAR O CAOS
 
-> **Level 1 Arcana Spell**  
-> **Recall Cost:** 1
+> **Magia Arcana de Nível 1**  
+> **Custo de Recordação:** 1
 
-At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.
+No início de uma sessão, coloque um número de marcadores igual ao seu traço de Conjuração de Feitiço nesta carta.
 
-Make a Spellcast Roll against a target within Far range and spend any number of tokens to channel raw energy from within yourself to unleash against them. On a success, roll a number of d10s equal to the tokens you spent and deal that much magic damage to the target. Mark a Stress to replenish this card with tokens (up to your Spellcast trait).
+Faça uma Jogada de Conjuração de Feitiço contra um alvo dentro do alcance Longínquo e gaste qualquer número de marcadores para canalizar energia bruta de dentro de si para liberá-la contra ele. Em caso de sucesso, role um número de d10s igual aos marcadores gastos e cause esse tanto de dano mágico ao alvo. Marque um Estresse para reabastecer esta carta com marcadores (até o seu traço de Conjuração de Feitiço).
 
-At the end of each session, clear all unspent tokens.
+No final de cada sessão, remova todos os marcadores não gastos.

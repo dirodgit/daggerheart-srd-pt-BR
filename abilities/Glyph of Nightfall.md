@@ -1,6 +1,6 @@
-﻿# GLYPH OF NIGHTFALL
+﻿# GLIFO DO ANOITECER
 
-> **Level 4 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 4**  
+> **Custo para Recordar:** 1
 
-Make a Spellcast Roll against a target within Very Close range. On a success, spend a Hope to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target’s Difficulty by a value equal to your Knowledge (minimum 1).
+Faça uma Jogada de Conjuração de Magia contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, gaste 1 Esperança para conjurar um glifo sombrio sobre o corpo do alvo que expõe seus pontos fracos, reduzindo temporariamente a Dificuldade do alvo em um valor igual ao seu Conhecimento (mínimo 1).

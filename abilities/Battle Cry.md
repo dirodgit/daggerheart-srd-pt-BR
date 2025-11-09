@@ -1,6 +1,6 @@
-﻿# BATTLE CRY
+﻿# GRITO DE BATALHA
 
-> **Level 8 Blade Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Lâmina de Nível 8**  
+> **Custo para Recordar:** 2
 
-Once per long rest, while you’re charging into danger, you can muster a rousing call that inspires your allies. All allies who can hear you each clear a Stress and gain a Hope. Additionally, your allies gain advantage on attack rolls until you or an ally rolls a failure with Fear.
+Uma vez por descanso longo, enquanto você avança para o perigo, pode reunir um chamado vibrante que inspira seus aliados. Todos os aliados que puderem ouvi-lo limpam 1 Estresse e ganham 1 Esperança. Além disso, seus aliados ganham vantagem em jogadas de ataque até que você ou um aliado role uma falha com Medo.

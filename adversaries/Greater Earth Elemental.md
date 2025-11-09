@@ -1,20 +1,20 @@
-﻿# GREATER EARTH ELEMENTAL
+﻿# ELEMENTAL MAIOR DA TERRA
 
-***Tier 3 Bruiser***  
-*A living landslide of boulders and dust, as large as a house.*  
-**Motives & Tactics:** Avalanche, knock over, pummel
+***Brutamontes de Nível 3***  
+*Um deslizamento de terra vivo feito de rochas e poeira, do tamanho de uma casa.*  
+**Motivações & Táticas:** Avalanche, derrubar, golpear
 
-> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 10 | **Stress:** 4  
-> **ATK:** +7 | **Boulder Fist:** Very Close | 3d10+1 phy  
+> **Dificuldade:** 17 | **Limiares:** 22/40 | **PV:** 10 | **Estresse:** 4  
+> **ATAQ:** +7 | **Punho de Rocha:** Muito Perto | 3d10+1 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Slow - Passive:*** When you spotlight the Elemental and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Elemental and they have a token on their stat block, clear the token and they can act.
+***Lento - Passivo:*** Quando você destaca o Elemental e ele não tem um token em seu bloco de estatísticas, ele ainda não pode agir. Coloque um token em seu bloco de estatísticas e descreva o que ele está se preparando para fazer. Quando você destaca o Elemental e ele tem um token em seu bloco de estatísticas, remova o token e ele pode agir.
 
-***Crushing Blows - Passive:*** When the Elemental makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
+***Golpes Esmagadores - Passivo:*** Quando o Elemental realiza um ataque bem-sucedido, o alvo deve marcar um Espaço de Armadura sem receber seus benefícios (ele ainda pode usar a armadura para reduzir o dano). Se não puder marcar um Espaço de Armadura, deve marcar um PV adicional.
 
-***Immovable Object - Passive:*** An attack that would move the Elemental moves them two fewer ranges (for example, Far becomes Very Close). When the Elemental takes physical damage, reduce it by 7.
+***Objeto Imóvel - Passivo:*** Um ataque que moveria o Elemental o move duas faixas a menos (por exemplo, Longe se torna Muito Perto). Quando o Elemental sofre dano físico, reduza-o em 7.
 
-***Rockslide - Action:*** Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
+***Deslizamento de Rochas - Ação:*** Marque um Estresse para criar um deslizamento de pedras que enterra toda a terra à frente do Elemental dentro do alcance Perto com queda de pedras. Todos os alvos nessa área devem fazer um Teste de Reação de Agilidade (19). Alvos que falharem sofrem 2d12+5 de dano físico e ficam Vulneráveis até seu próximo teste com Esperança. Alvos que tiverem sucesso recebem metade do dano.
 
-***Momentum - Reaction:*** When the Elemental makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Elemental realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

@@ -1,22 +1,22 @@
-﻿# RAGING RIVER
+﻿# RIO FURIOSO
 
-***Tier 1 Traversal***  
-*A swift-moving river without a bridge crossing, deep enough to sweep away most people.*  
-**Impulses:** Bar crossing, carry away the unready, divide the land
+***Travessia de Nível 1***  
+*Um rio de correnteza rápida sem ponte para atravessar, profundo o suficiente para arrastar a maioria das pessoas.*  
+**Impulsos:** Atravessar a barra, carregar os despreparados, dividir a terra
 
-> **Difficulty:** 10  
-> **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
+> **Dificuldade:** 10  
+> **Adversários Potenciais:** Feras (Urso, Cobra de Vidro), Bandidos Faca Serrilhada (Hexer, Quebrador de Joelhos, Capanga, Tenente, Sombra, Atirador)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Dangerous Crossing - Passive:*** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the “Undertow” action without requiring a Fear to be spent on the feature.
+***Travessia Perigosa - Passiva:*** A travessia do rio exige que o grupo complete uma Contagem Regressiva de Progresso (4). Um PJ que falhar em uma rolagem com Medo é imediatamente alvo da ação “Correnteza” sem precisar gastar um Medo para usar a característica.
 
-  *Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?*
+  *Algum dos PJs já atravessou rios assim antes? Algum deles tem medo de se afogar?*
 
-***Undertow - Action:*** Spend a Fear to catch a PC in the undertow. They must make an Agility Reaction Roll. On a failure, they take 1d6+1 physical damage and are moved a Close distance down the river, becoming Vulnerable until they get out of the river. On a success, they must mark a Stress.
+***Correnteza - Ação:*** Gaste um Medo para pegar um PJ na correnteza. Ele deve fazer uma Rolagem de Reação de Agilidade. Em caso de falha, sofre 1d6+1 de dano físico e é movido uma distância Próxima rio abaixo, ficando Vulnerável até sair do rio. Em caso de sucesso, deve marcar um Estresse.
 
-  *What trinkets and baubles lie along the bottom of the riverbed? Do predators swim these rivers?*
+  *Que bugigangas e quinquilharias estão no fundo do leito do rio? Predadores nadam nesses rios?*
 
-***Patient Hunter - Action:*** Spend a Fear to summon a Glass Snake within Close range of a chosen PC. The Snake appears in or near the river and immediately takes the spotlight to use their “Spinning Serpent” action.
+***Caçador Paciente - Ação:*** Gaste um Medo para invocar uma Cobra de Vidro a uma distância Próxima de um PJ escolhido. A Cobra aparece dentro ou perto do rio e imediatamente assume o foco para usar sua ação “Serpente Giratória”.
 
-  *What treasures does the beast have in their burrow? What travelers have already fallen victim to this predator?*
+  *Que tesouros a fera guarda em sua toca? Que viajantes já caíram vítima desse predador?*

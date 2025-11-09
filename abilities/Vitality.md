@@ -1,12 +1,12 @@
-﻿# VITALITY
+﻿# VITALIDADE
 
-> **Level 5 Blade Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Lâmina Nível 5**  
+> **Custo de Recordação:** 0
 
-When you choose this card, permanently gain two of the following benefits:
+Quando você escolhe esta carta, ganha permanentemente dois dos seguintes benefícios:
 
-- One Stress slot
-- One Hit Point slot
-- +2 bonus to your damage thresholds
+- Um espaço de Estresse
+- Um espaço de Pontos de Vida
+- +2 de bônus nos seus limiares de dano
 
-Then place this card in your vault permanently.
+Então, coloque esta carta em seu cofre permanentemente.

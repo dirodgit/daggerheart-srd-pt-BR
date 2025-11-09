@@ -1,6 +1,6 @@
-﻿# NIGHT TERROR
+﻿# TERROR NOTURNO
 
-> **Level 9 Midnight Spell**  
-> **Recall Cost:** 2
+> **Magia da Meia-Noite de Nível 9**  
+> **Custo para Recordar:** 2
 
-Once per long rest, choose any targets within Very Close range to perceive you as a nightmarish horror. The targets must succeed on a Reaction Roll (16) or become temporarily Horrified. While Horrified, they’re Vulnerable. Steal a number of Fear from the GM equal to the number of targets that are Horrified (up to the number of Fear in the GM’s pool). Roll a number of d6s equal to the number of stolen Fear and deal the total damage to each Horrified target. Discard the stolen Fear.
+Uma vez por descanso longo, escolha quaisquer alvos dentro do alcance Muito Próximo para que o percebam como um horror de pesadelo. Os alvos devem ter sucesso em uma Jogada de Reação (16) ou ficar Temporariamente Amedrontados. Enquanto Amedrontados, eles ficam Vulneráveis. Roube um número de Medo do GM igual ao número de alvos que estão Amedrontados (até o número de Medo no reservatório do GM). Role um número de d6 igual ao número de Medo roubado e cause o dano total a cada alvo Amedrontado. Descarte o Medo roubado.

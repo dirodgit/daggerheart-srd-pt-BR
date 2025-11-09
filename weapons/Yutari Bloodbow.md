@@ -1,7 +1,7 @@
-﻿# YUTARI BLOODBOW
+﻿# YUTARI ARCO DE SANGUE
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+4 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+**Característica:** ***Brutal:*** Quando você rolar o valor máximo em um dado de dano, role um dado de dano adicional.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

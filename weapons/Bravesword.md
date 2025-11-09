@@ -1,7 +1,7 @@
 ﻿# BRAVESWORD
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+7 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+7 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Brave:*** -1 to Evasion; +3 to Severe damage threshold
+**Característica:** ***Corajoso:*** -1 na Evasão; +3 no limite de dano Grave
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

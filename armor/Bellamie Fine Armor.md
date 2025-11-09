@@ -1,7 +1,7 @@
-﻿# BELLAMIE FINE ARMOR
+﻿# ARMADURA FINO BELLAMIE
 
-**Base Thresholds:** 11 / 27; **Base Score:** 5
+**Limiares Base:** 11 / 27; **Pontuação Base:** 5
 
-**Feature:** ***Gilded:*** +1 to Presence
+**Característica:** ***Dourada:*** +1 em Presença
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

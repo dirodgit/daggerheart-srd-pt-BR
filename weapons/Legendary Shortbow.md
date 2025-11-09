@@ -1,7 +1,7 @@
-﻿# LEGENDARY SHORTBOW
+﻿# ARCO CURTO LENDÁRIO
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+12 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Longo; **Dano:** d6+12 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

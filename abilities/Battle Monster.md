@@ -1,6 +1,6 @@
-﻿# BATTLE MONSTER
+﻿# MONSTRO DE BATALHA
 
-> **Level 10 Blade Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Lâmina Nível 10**  
+> **Custo para Recordar:** 0
 
-When you make a successful attack against an adversary, you can mark 4 Stress to force the target to mark a number of Hit Points equal to the number of Hit Points you currently have marked instead of rolling for damage.
+Quando você realiza um ataque bem-sucedido contra um adversário, pode marcar 4 de Estresse para forçar o alvo a marcar um número de Pontos de Vida igual ao número de Pontos de Vida que você atualmente tem marcado, ao invés de rolar para dano.

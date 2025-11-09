@@ -1,25 +1,25 @@
-﻿# WORDSMITH
+﻿# ARTÍFICE DAS PALAVRAS
 
-Play the Wordsmith if you want to use clever wordplay and captivate crowds.
+Jogue como Artífice das Palavras se quiser usar jogos de palavras inteligentes e cativar multidões.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Presence
+Presença
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***Rousing Speech:*** Once per long rest, you can give a heartfelt, inspiring speech. All allies within Far range clear 2 Stress.
+***Discurso Inspirador:*** Uma vez por descanso longo, você pode fazer um discurso sincero e inspirador. Todos os aliados em alcance Longo limpam 2 de Estresse.
 
-***Heart of a Poet:*** After you make an action roll to impress, persuade, or offend someone, you can spend a Hope to add a d4 to the roll.
+***Coração de Poeta:*** Depois de fazer uma rolagem de ação para impressionar, persuadir ou ofender alguém, você pode gastar uma Esperança para adicionar um d4 à rolagem.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Eloquent:*** Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:
+***Eloquente:*** Suas palavras comoventes aumentam o moral. Uma vez por sessão, quando você encoraja um aliado, pode fazer uma das seguintes ações:
 
-- Allow them to find a mundane object or tool they need.
-- Help an Ally without spending Hope.
-- Give them an additional downtime move during their next rest.
+- Permitir que ele encontre um objeto ou ferramenta mundana que precise.
+- Ajudar um aliado sem gastar Esperança.
+- Dar a ele um movimento adicional de descanso durante sua próxima pausa.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Epic Poetry:*** Your Rally Die increases to a d10. Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a d10 as your advantage die.
+***Poesia Épica:*** Seu Dado de Encontro aumenta para d10. Além disso, quando você Ajuda um Aliado, pode narrar o momento como se estivesse escrevendo a história do heroísmo dele em uma memória. Quando fizer isso, role um d10 como seu dado de vantagem.

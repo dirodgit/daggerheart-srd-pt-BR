@@ -1,7 +1,7 @@
-﻿# HAMMER OF EXOTA
+﻿# MARTELO DE EXOTA
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d8+6 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Corpo a corpo; **Dano:** d8+6 mag; **Encargo:** Duas Mãos
 
-**Feature:** ***Eruptive:*** On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage.
+**Característica:** ***Eruptivo:*** Em um ataque bem-sucedido contra um alvo dentro do alcance Corpo a corpo, todos os outros adversários em alcance Muito Próximo devem passar em um teste de reação (14) ou sofrer metade do dano.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

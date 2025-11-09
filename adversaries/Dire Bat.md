@@ -1,17 +1,17 @@
-﻿# DIRE BAT
+﻿# MORCEGO DIRE
 
-***Tier 3 Skulk***  
-*A winged pet endlessly loyal to their vampire owner.*  
-**Motives & Tactics:** Dive-bomb, hide, protect leader
+***Esconderijo de Nível 3***  
+*Um animal alado eternamente leal ao seu dono vampiro.*  
+**Motivações & Táticas:** Ataque em mergulho, esconder-se, proteger o líder
 
-> **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy  
-> **Experience:** Bloodthirsty +3
+> **Dificuldade:** 14 | **Limiares:** 16/30 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +2 | **Garras e Dentes:** Corpo a corpo | 2d6+7 físico  
+> **Experiência:** Sanguinário +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Flying - Passive:*** While flying, the Bat gains a +3 bonus to their Difficulty.
+***Voo - Passivo:*** Enquanto estiver voando, o Morcego Dire recebe um bônus de +3 na sua Dificuldade.
 
-***Screech - Action:*** Mark a Stress to send a high-pitch screech out toward all targets in front of the Bat within Far range. Those targets must mark 1d4 Stress.
+***Grito Estridente - Ação:*** Marque 1 Estresse para emitir um grito agudo em direção a todos os alvos à frente do Morcego Dire dentro do alcance Longo. Esses alvos devem marcar 1d4 Estresse.
 
-***Guardian - Reaction:*** When an allied Vampire marks HP, you can mark a Stress to fly into Melee range of the attacker and make an attack with advantage against them. On a success, deal 2d6+2 physical damage.
+***Guardião - Reação:*** Quando um Vampiro aliado marcar PV, você pode marcar 1 Estresse para voar até o alcance de Corpo a Corpo do atacante e fazer um ataque com vantagem contra ele. Em caso de sucesso, cause 2d6+2 de dano físico.

@@ -1,6 +1,6 @@
 ﻿# BRACE
 
-> **Level 3 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Osso de Nível 3**  
+> **Custo de Recordação:** 1
 
-When you mark an Armor Slot to reduce incoming damage, you can mark a Stress to mark an additional Armor Slot.
+Quando você marca um Espaço de Armadura para reduzir o dano recebido, pode marcar um Estresse para marcar um Espaço de Armadura adicional.

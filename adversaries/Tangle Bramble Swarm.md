@@ -1,17 +1,17 @@
-﻿# TANGLE BRAMBLE SWARM
+﻿# ENXAME DE SARÇA EMBARAÇADA
 
-***Tier 1 Horde (3/HP)***  
-*A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd.*  
-**Motives & Tactics:** Digest, entangle, immobilize
+***Horda de Nível 1 (3/HP)***  
+*Um aglomerado de arbustos animados que sugam sangue, cada um do tamanho de uma grande cabaça.*  
+**Motivações & Táticas:** Digerir, enredar, imobilizar
 
-> **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3  
-> **ATK:** 0 | **Thorns:** Melee | 1d6+3 phy  
-> **Experience:** Camouflage +2
+> **Dificuldade:** 12 | **Limiares:** 6/11 | **HP:** 6 | **Estresse:** 3  
+> **ATQ:** 0 | **Espinhos:** Corpo a corpo | 1d6+3 físico  
+> **Experiência:** Camuflagem +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Horde (1d4+2) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead.
+***Horda (1d4+2) - Passiva:*** Quando o Enxame tiver marcado metade ou mais do seu HP, seu ataque padrão causa 1d4+2 de dano físico em vez disso.
 
-***Crush - Action:*** Mark a Stress to deal 2d6+8 direct physical damage to a target with 3 or more bramble tokens.
+***Esmagar - Ação:*** Marque um Estresse para causar 2d6+8 de dano físico direto a um alvo com 3 ou mais marcadores de sarça.
 
-***Encumber - Reaction:*** When the Swarm succeeds on an attack, give the target a bramble token. If a target has any bramble tokens, they are Restrained. If a target has 3 or more bramble tokens, they are also Vulnerable. All bramble tokens can be removed by succeeding on a Finesse Roll (12 + the number of bramble tokens) or dealing Major or greater damage to the Swarm. If bramble tokens are removed from a target using a Finesse Roll, a number of Tangle Bramble Minions spawn within Melee range equal to the number of tokens removed.
+***Sobrecarregar - Reação:*** Quando o Enxame obtém sucesso em um ataque, dê ao alvo um marcador de sarça. Se um alvo tiver qualquer marcador de sarça, ele fica Restrito. Se um alvo tiver 3 ou mais marcadores de sarça, ele também fica Vulnerável. Todos os marcadores de sarça podem ser removidos ao obter sucesso em uma Jogada de Destreza (12 + o número de marcadores de sarça) ou ao causar dano Maior ou superior ao Enxame. Se os marcadores de sarça forem removidos de um alvo usando uma Jogada de Destreza, um número de Lacaios de Sarça Emaranhada surgem em alcance Corpo a Corpo igual ao número de marcadores removidos.

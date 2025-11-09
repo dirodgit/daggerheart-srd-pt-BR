@@ -1,21 +1,21 @@
-﻿# WAR WIZARD
+﻿# MAGO DE GUERRA
 
-***Tier 2 Ranged***  
-*A battle-hardened mage trained in destructive magic.*  
-**Motives & Tactics:** Develop new spells, seek power, conquer
+***Tier 2 à Distância***  
+*Um mago endurecido pela batalha, treinado em magia destrutiva.*  
+**Motivações & Táticas:** Desenvolver novos feitiços, buscar poder, conquistar
 
-> **Difficulty:** 16 | **Thresholds:** 11/23 | **HP:** 5 | **Stress:** 6  
-> **ATK:** +4 | **Staff:** Far | 2d10+4 mag  
-> **Experience:** Magical Knowledge +2, Strategize +2
+> **Dificuldade:** 16 | **Limiares:** 11/23 | **PV:** 5 | **Estresse:** 6  
+> **ATQ:** +4 | **Cajado:** Distante | 2d10+4 mag  
+> **Experiência:** Conhecimento Mágico +2, Estratégia +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Battle Teleport - Passive:*** Before or after making a standard attack, you can mark a Stress to teleport to a location within Far range.
+***Teleporte de Batalha - Passivo:*** Antes ou depois de realizar um ataque padrão, você pode marcar um Estresse para se teleportar para um local dentro do alcance Distante.
 
-***Refresh Warding Sphere - Action:*** Mark a Stress to refresh the Wizard’s “Warding Sphere” reaction.
+***Renovar Esfera de Proteção - Ação:*** Marque um Estresse para renovar a reação “Esfera de Proteção” do Mago.
 
-***Eruption - Action:*** Spend a Fear and choose a point within Far range. A Very Close area around that point erupts into impassable terrain. All targets within that area must make an Agility Reaction Roll (14). Targets who fail take 2d10 physical damage and are thrown out of the area. Targets who succeed take half damage and aren’t moved.
+***Erupção - Ação:*** Gaste um Medo e escolha um ponto dentro do alcance Distante. Uma área Muito Próxima ao redor desse ponto entra em erupção, tornando-se terreno intransponível. Todos os alvos dentro dessa área devem fazer um Teste de Reação de Agilidade (14). Alvos que falharem recebem 2d10 de dano físico e são lançados para fora da área. Alvos que tiverem sucesso recebem metade do dano e não são movidos.
 
-***Arcane Artillery - Action:*** Spend a Fear to unleash a precise hail of magical blasts. All targets in the scene must make an Agility Reaction Roll. Targets who fail take 2d12 magic damage. Targets who succeed take half damage.
+***Artilharia Arcana - Ação:*** Gaste um Medo para desencadear uma chuva precisa de explosões mágicas. Todos os alvos na cena devem fazer um Teste de Reação de Agilidade. Alvos que falharem recebem 2d12 de dano mágico. Alvos que tiverem sucesso recebem metade do dano.
 
-***Warding Sphere - Reaction:*** When the Wizard takes damage from an attack within Close range, deal 2d6 magic damage to the attacker. This reaction can’t be used again until the Wizard refreshes it with their “Refresh Warding Sphere” action.
+***Esfera de Proteção - Reação:*** Quando o Mago sofre dano de um ataque dentro do alcance Próximo, cause 2d6 de dano mágico ao atacante. Essa reação não pode ser usada novamente até que o Mago a renove com sua ação “Renovar Esfera de Proteção”.

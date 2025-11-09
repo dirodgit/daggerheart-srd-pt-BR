@@ -1,8 +1,8 @@
-﻿# EARTHQUAKE
+﻿# TERREMOTO
 
-> **Level 9 Arcana Spell**  
-> **Recall Cost:** 2
+> **Magia Arcana de Nível 9**  
+> **Custo de Recuperação:** 2
 
-Make a Spellcast Roll (16). Once per rest on a success, all targets within Very Far range who aren’t flying must make a Reaction Roll (18). Targets who fail take 3d10+8 physical damage and are temporarily Vulnerable. Targets who succeed take half damage.
+Faça uma Jogada de Conjuração de Magia (16). Uma vez por descanso, em caso de sucesso, todos os alvos dentro do alcance Muito Distante que não estejam voando devem fazer uma Jogada de Reação (18). Alvos que falharem recebem 3d10+8 de dano físico e ficam temporariamente Vulneráveis. Alvos que tiverem sucesso recebem metade do dano.
 
-Additionally, when you succeed on the Spellcast Roll, all terrain within Very Far range becomes difficult to move through and structures within this range might sustain damage or crumble.
+Além disso, quando você obtiver sucesso na Jogada de Conjuração de Magia, todo o terreno dentro do alcance Muito Distante se torna difícil de atravessar e estruturas dentro desse alcance podem sofrer danos ou desmoronar.

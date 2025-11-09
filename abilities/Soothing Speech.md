@@ -1,6 +1,6 @@
-﻿# SOOTHING SPEECH
+﻿# DISCURSO CONSOLO
 
-> **Level 4 Grace Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Graça de Nível 4**  
+> **Custo de Recordação:** 1
 
-During a short rest, when you take the time to comfort another character while using the Tend to Wounds downtime move on them, clear an additional Hit Point on that character. When you do, you also clear 2 Hit Points.
+Durante um descanso curto, quando você dedica tempo para confortar outro personagem enquanto usa o movimento de inatividade Cuidar de Ferimentos nele, cure 1 Ponto de Vida adicional nesse personagem. Quando fizer isso, você também cura 2 Pontos de Vida.

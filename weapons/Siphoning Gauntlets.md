@@ -1,7 +1,7 @@
-﻿# SIPHONING GAUNTLETS
+﻿# MANOPLAS DRENANTES
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d10+9 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Lifestealing:*** On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress.
+**Característica:** ***Roubo de Vida:*** Em um ataque bem-sucedido, role um d6. Com resultado 6, recupere um Ponto de Vida ou remova um Estresse.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

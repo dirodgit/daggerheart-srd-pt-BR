@@ -1,7 +1,7 @@
-﻿# IMPROVED SHORTBOW
+﻿# ARCO CURTO APRIMORADO
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Longo; **Dano:** d6+6 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

@@ -1,7 +1,7 @@
 ﻿# WARHAMMER
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+3 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+3 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

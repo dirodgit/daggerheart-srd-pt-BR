@@ -1,17 +1,17 @@
-﻿# YOUNG DRYAD
+﻿# JOVEM DRÍADE
 
-***Tier 1 Leader***  
-*An imperious tree-person leading their forest’s defenses.*  
-**Motives & Tactics:** Command, nurture, prune the unwelcome
+***Líder de Nível 1***  
+*Uma pessoa-árvore imperiosa liderando as defesas de sua floresta.*  
+**Motivações & Táticas:** Comandar, nutrir, podar os indesejados
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2  
-> **ATK:** 0 | **Scythe:** Melee | 1d8+5 phy  
-> **Experience:** Leadership +3
+> **Dificuldade:** 11 | **Limiares:** 6/11 | **PV:** 6 | **Estresse:** 2  
+> **ATQ:** 0 | **Foice:** Corpo a corpo | 1d8+5 físico  
+> **Experiência:** Liderança +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Voice of the Forest - Action:*** Mark a Stress to spotlight 1d4 allies within range of a target they can attack without moving. On a success, their attacks deal half damage.
+***Voz da Floresta - Ação:*** Marque um Estresse para destacar 1d4 aliados dentro do alcance de um alvo que eles possam atacar sem se mover. Em caso de sucesso, os ataques deles causam metade do dano.
 
-***Thorny Cage - Action:*** Spend a Fear to form a cage around a target within Very Close range and Restrain them until they’re freed with a successful Strength Roll. When a creature makes an action roll against the cage, they must mark a Stress.
+***Gaiola Espinhosa - Ação:*** Gaste um Medo para formar uma gaiola ao redor de um alvo em alcance Muito Próximo e Prendê-lo até que seja libertado com um teste de Força bem-sucedido. Quando uma criatura fizer um teste de ação contra a gaiola, deve marcar um Estresse.
 
-***Momentum - Reaction:*** When the Dryad makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando a Dríade fizer um ataque bem-sucedido contra um PJ, você ganha um Medo.

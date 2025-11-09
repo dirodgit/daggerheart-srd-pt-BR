@@ -1,6 +1,6 @@
 ﻿# BATTLE-HARDENED
 
-> **Level 6 Blade Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Lâmina Nível 6**  
+> **Custo para Usar:** 2
 
-Once per long rest when you would make a Death Move, you can spend a Hope to clear a Hit Point instead.
+Uma vez por descanso longo, quando você for realizar um Movimento de Morte, pode gastar uma Esperança para limpar um Ponto de Vida em vez disso.

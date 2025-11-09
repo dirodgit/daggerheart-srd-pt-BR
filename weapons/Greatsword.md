@@ -1,7 +1,7 @@
-﻿# GREATSWORD
+﻿# ESPADÃO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+3 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Massive:*** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Massivo:*** -1 na Evasão; em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

@@ -1,7 +1,7 @@
-﻿# WIDGAST PENDANT
+﻿# PENDENTE WIDGAST
 
-**Trait:** Knowledge; **Range:** Close; **Damage:** d10+5 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Próximo; **Dano:** d10+5 mag; **Carga:** Uma Mão
 
-**Feature:** ***Timebending:*** You choose the target of your attack after making your attack roll.
+**Característica:** ***Distorção Temporal:*** Você escolhe o alvo do seu ataque após realizar a rolagem de ataque.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

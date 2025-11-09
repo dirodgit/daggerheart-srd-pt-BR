@@ -1,6 +1,6 @@
-﻿# SECOND WIND
+﻿# SEGUNDA FÔLEGA
 
-> **Level 3 Splendor Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Esplendor de Nível 3**  
+> **Custo para Usar:** 2
 
-Once per rest, when you succeed on an attack against an adversary, you can clear 3 Stress or a Hit Point. On a success with Hope, you also clear 3 Stress or a Hit Point on an ally within Close range of you.
+Uma vez por descanso, quando você obtiver sucesso em um ataque contra um adversário, pode remover 3 de Estresse ou 1 Ponto de Vida. Se obtiver sucesso com Esperança, você também remove 3 de Estresse ou 1 Ponto de Vida de um aliado que esteja a Alcance Próximo de você.

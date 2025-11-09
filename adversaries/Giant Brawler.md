@@ -1,17 +1,17 @@
-﻿# GIANT BRAWLER
+﻿# BRIGÃO GIGANTE
 
-***Tier 2 Bruiser***  
-*An especially muscular giant wielding a warhammer larger than a human.*  
-**Motives & Tactics:** Make a living, overwhelm, slam, topple
+***Brutamontes de Nível 2***  
+*Um gigante especialmente musculoso empunhando um martelo de guerra maior que um humano.*  
+**Motivações & Táticas:** Ganhar a vida, sobrepujar, arremessar, derrubar
 
-> **Difficulty:** 15 | **Thresholds:** 12/28 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +2 | **Warhammer:** Very Close | 2d12+3 phy  
-> **Experience:** Intrusion +2
+> **Dificuldade:** 15 | **Limiares:** 12/28 | **PV:** 7 | **Estresse:** 4  
+> **ATQ:** +2 | **Martelo de Guerra:** Muito Próximo | 2d12+3 físico  
+> **Experiência:** Intrusão +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Battering Ram - Action:*** Mark a Stress to have the Brawler charge at an inanimate object within Close range they could feasibly smash (such as a wall, cart, or market stand) and destroy it. All targets within Very Close range of the object must succeed on an Agility Reaction Roll or take 2d4+3 physical damage from the shrapnel.
+***Aríete - Ação:*** Marque um Estresse para que o Brigão avance contra um objeto inanimado dentro do alcance Próximo que ele possa destruir (como uma parede, carrinho ou barraca de mercado) e o destrua. Todos os alvos dentro do alcance Muito Próximo do objeto devem ter sucesso em um Teste de Reação de Agilidade ou sofrer 2d4+3 de dano físico causado pelos estilhaços.
 
-***Bloody Reprisal - Reaction:*** When the Brawler marks 2 or more HP from an attack within Very Close range, you can make a standard attack against the attacker. On a success, the Brawler deals 2d6+15 physical damage instead of their standard damage.
+***Reprisal Sangrento - Reação:*** Quando o Brigão marcar 2 ou mais PV de um ataque dentro do alcance Muito Próximo, você pode fazer um ataque padrão contra o atacante. Em caso de sucesso, o Brigão causa 2d6+15 de dano físico em vez do dano padrão.
 
-***Momentum - Reaction:*** When the Brawler makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Brigão fizer um ataque bem-sucedido contra um PJ, você ganha um Medo.

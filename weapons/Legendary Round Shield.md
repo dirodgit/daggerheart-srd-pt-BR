@@ -1,7 +1,7 @@
-﻿# LEGENDARY ROUND SHIELD
+﻿# ESCUDO REDONDO LENDÁRIO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d4+6 físico; **Carga:** Uma Mão
 
-**Feature:** ***Protective:*** +4 to Armor Score
+**Característica:** ***Protetor:*** +4 na Pontuação de Armadura
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

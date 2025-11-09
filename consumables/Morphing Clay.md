@@ -1,5 +1,5 @@
-﻿# MORPHING CLAY
+﻿# ARGILA MOLDÁVEL
 
-You can spend 4 Hope to use this clay, altering your face enough to make you unrecognizable until your next rest.
+Você pode gastar 4 de Esperança para usar esta argila, alterando seu rosto o suficiente para torná-lo irreconhecível até seu próximo descanso.
 
-*Consumable*
+*Consumível*

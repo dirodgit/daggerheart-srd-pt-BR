@@ -1,5 +1,5 @@
-﻿# MAJOR ENLIGHTEN POTION
+﻿# POÇÃO MAIOR DE ILUMINAÇÃO
 
-You gain a +1 bonus to your Knowledge until your next rest.
+Você ganha um bônus de +1 em seu Conhecimento até seu próximo descanso.
 
-*Consumable*
+*Consumível*

@@ -1,8 +1,8 @@
-﻿# VICIOUS ENTANGLE
+﻿# ENREDOAMENTO VICIOSO
 
-> **Level 1 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 1**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against a target within Far range. On a success, roots and vines reach out from the ground, dealing 1d8+1 physical damage and temporarily Restraining the target.
+Faça uma Jogada de Conjuração de Magia contra um alvo dentro do alcance Longo. Em caso de sucesso, raízes e vinhas surgem do chão, causando 1d8+1 de dano físico e Imobilizando temporariamente o alvo.
 
-Additionally on a success, you can spend a Hope to temporarily Restrain another adversary within Very Close range of your target.
+Além disso, em caso de sucesso, você pode gastar uma Esperança para Imobilizar temporariamente outro adversário dentro do alcance Muito Próximo do seu alvo.

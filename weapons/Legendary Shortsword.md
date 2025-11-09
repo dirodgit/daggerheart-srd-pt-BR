@@ -1,7 +1,7 @@
-﻿# LEGENDARY SHORTSWORD
+﻿# ESPADA CURTA LENDÁRIA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d8+6 físico; **Carga:** Uma mão
 
-**Feature:** ***Paired:*** +5 to primary weapon damage to targets within Melee range
+**Característica:** ***Emparelhada:*** +5 no dano da arma primária contra alvos em alcance de Corpo a corpo
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

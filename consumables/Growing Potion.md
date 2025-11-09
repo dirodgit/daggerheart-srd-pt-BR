@@ -1,5 +1,5 @@
-﻿# GROWING POTION
+﻿# POÇÃO DE CRESCIMENTO
 
-You can drink this potion to double your size until you choose to drop this form or your next rest. While in this form, you have a +2 bonus to Strength and a +1 bonus to your Proficiency.
+Você pode beber esta poção para dobrar seu tamanho até escolher abandonar essa forma ou até seu próximo descanso. Enquanto estiver nessa forma, você recebe um bônus de +2 em Força e um bônus de +1 em sua Proficiência.
 
-*Consumable*
+*Consumível*

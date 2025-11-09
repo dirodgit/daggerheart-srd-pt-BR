@@ -1,7 +1,7 @@
-﻿# RUNETAN FLOATING ARMOR
+﻿# ARMADURA FLUTUANTE RUNETAN
 
-**Base Thresholds:** 9 / 20; **Base Score:** 4
+**Limiares Base:** 9 / 20; **Pontuação Base:** 4
 
-**Feature:** ***Shifting:*** When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.
+**Habilidade:** ***Mudança:*** Quando você for alvo de um ataque, pode marcar um Espaço de Armadura para dar desvantagem na jogada de ataque contra você.
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

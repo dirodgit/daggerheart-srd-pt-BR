@@ -1,8 +1,8 @@
-﻿# GORE AND GLORY
+﻿# SANGUE E GLÓRIA
 
-> **Level 9 Blade Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Lâmina de Nível 9**  
+> **Custo de Recordação:** 2
 
-When you critically succeed on a weapon attack, gain an additional Hope or clear an additional Stress.
+Quando você obtém um sucesso crítico em um ataque com arma, ganha uma Esperança adicional ou remove um Estresse adicional.
 
-Additionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress.
+Além disso, quando você causa dano suficiente para derrotar um adversário, ganha uma Esperança ou remove um Estresse.

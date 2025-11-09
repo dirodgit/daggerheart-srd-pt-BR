@@ -1,7 +1,7 @@
-﻿# SPEAR
+﻿# LANÇA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+3 físico; **Carga:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

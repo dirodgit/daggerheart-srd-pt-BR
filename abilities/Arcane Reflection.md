@@ -1,6 +1,6 @@
-﻿# ARCANE REFLECTION
+﻿# REFLEXÃO ARCANA
 
-> **Level 8 Arcana Spell**  
-> **Recall Cost:** 1
+> **Magia Arcana de Nível 8**  
+> **Custo de Recordação:** 1
 
-When you would take magic damage, you can spend any number of Hope to roll that many d6s. If any roll a 6, the attack is reflected back to the caster, dealing the damage to them instead.
+Quando você for receber dano mágico, pode gastar qualquer quantidade de Esperança para rolar essa quantidade de d6. Se algum deles tirar 6, o ataque é refletido de volta para o conjurador, causando o dano nele em vez de você.

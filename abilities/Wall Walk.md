@@ -1,6 +1,6 @@
-﻿# WALL WALK
+﻿# CAMINHAR NA PAREDE
 
-> **Level 1 Arcana Spell**  
-> **Recall Cost:** 1
+> **Magia Arcana de Nível 1**  
+> **Custo de Recordação:** 1
 
-Spend a Hope to allow a creature you can touch to climb on walls and ceilings as easily as walking on the ground. This lasts until the end of the scene or you cast Wall Walk again.
+Gaste 1 ponto de Esperança para permitir que uma criatura que você possa tocar escale paredes e tetos tão facilmente quanto anda no chão. Isso dura até o final da cena ou até você lançar Caminhar na Parede novamente.

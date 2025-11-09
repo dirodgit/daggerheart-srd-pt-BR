@@ -1,7 +1,7 @@
-﻿# IMPROVED CHAINMAIL ARMOR
+﻿# ARMADURA DE MALHA APRIMORADA
 
-**Base Thresholds:** 11 / 24; **Base Score:** 5
+**Limiares Base:** 11 / 24; **Pontuação Base:** 5
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

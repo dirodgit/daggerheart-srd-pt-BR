@@ -1,21 +1,21 @@
-﻿# STALWART
+﻿# FIRME
 
-Play the Stalwart if you want to take heavy blows and keep fighting.
+Jogue com o Firme se quiser suportar golpes pesados e continuar lutando.
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS DE FUNDAÇÃO
 
-***Unwavering:*** Gain a permanent +1 bonus to your damage thresholds.
+***Inabalável:*** Ganhe um bônus permanente de +1 nos seus limiares de dano.
 
-***Iron Will:*** When you take physical damage, you can mark an additional Armor Slot to reduce the severity.
+***Vontade de Ferro:*** Quando você sofrer dano físico, pode marcar um Espaço de Armadura adicional para reduzir a severidade.
 
-## SPECIALIZATION FEATURES
+## CARACTERÍSTICAS DE ESPECIALIZAÇÃO
 
-***Unrelenting:*** Gain a permanent +2 bonus to your damage thresholds.
+***Implacável:*** Ganhe um bônus permanente de +2 nos seus limiares de dano.
 
-***Partners-in-Arms:*** When an ally within Very Close range takes damage, you can mark an Armor Slot to reduce the severity by one threshold.
+***Parceiros de Armas:*** Quando um aliado em alcance Muito Próximo sofrer dano, você pode marcar um Espaço de Armadura para reduzir a severidade em um limiar.
 
-## MASTERY FEATURES
+## CARACTERÍSTICAS DE MESTRIA
 
-***Undaunted:*** Gain a permanent +3 bonus to your damage thresholds.
+***Destemido:*** Ganhe um bônus permanente de +3 nos seus limiares de dano.
 
-***Loyal Protector:*** When an ally within Close range has 2 or fewer Hit Points and would take damage, you can mark a Stress to sprint to their side and take the damage instead.
+***Protetor Leal:*** Quando um aliado em alcance Próximo tiver 2 ou menos Pontos de Vida e fosse sofrer dano, você pode marcar um Estresse para correr até o lado dele e sofrer o dano no lugar.

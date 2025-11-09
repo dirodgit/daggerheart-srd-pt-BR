@@ -1,30 +1,30 @@
-﻿# CHAOS REALM
+﻿# REINO DO CAOS
 
-***Tier 4 Traversal***  
-*An otherworldly space where the laws of reality are unstable and dangerous.*  
-**Impulses:** Annihilate certainty, consume power, defy logic
+***Travessia de Nível 4***  
+*Um espaço de outro mundo onde as leis da realidade são instáveis e perigosas.*  
+**Impulsos:** Aniquilar a certeza, consumir poder, desafiar a lógica
 
-> **Difficulty:** 20  
-> **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
+> **Dificuldade:** 20  
+> **Adversários Potenciais:** Monstruosidades dos Reinos Exteriores (Abominação, Corruptor, Servos)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Impossible Architecture - Passive:*** Up is down, down is right, right is a stairway. Gravity and directionality themselves are in flux, and any attempt to move through this realm is an odyssey unto itself, requiring a Progress Countdown (8). On a failure, a PC must mark a Stress in addition to the roll’s other consequences.
+***Arquitetura Impossível - Passiva:*** Cima é baixo, baixo é direita, direita é uma escada. A gravidade e a direcionalidade estão em fluxo, e qualquer tentativa de se mover por este reino é uma odisseia em si, exigindo uma Contagem Regressiva de Progresso (8). Em uma falha, um PJ deve marcar um Estresse além das outras consequências da rolagem.
 
-  *What does it feel like to move in a space so alien to the Mortal Realm? What landmark or point do you fixate on to maintain your balance? What bizarre landmarks do you traverse on your journey?*
+  *Como é a sensação de se mover em um espaço tão alienígena ao Reino Mortal? Em qual ponto de referência ou marco você se fixa para manter o equilíbrio? Que marcos bizarros você atravessa em sua jornada?*
 
-***Everything You Are This Place Will Take from You - Action:*** Countdown (Loop 14). Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by 1d4 unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm.
+***Tudo Que Você É Este Lugar Vai Tirar de Você - Ação:*** Contagem Regressiva (Loop 14). Ative a contagem regressiva. Quando ela disparar, todos os PJs devem ter sucesso em uma Rolagem de Reação de Presença ou seu traço mais alto será temporariamente reduzido em 1d4, a menos que marquem um número de Estresse igual ao seu valor. Quaisquer pontos de traço perdidos são recuperados se o PJ obtiver um sucesso crítico ou escapar do Reino do Caos.
 
-  *How does this place try to steal from you that which makes you legendary? What does it feel like to have this power taken from you?*
+  *Como este lugar tenta roubar de você aquilo que o torna lendário? Como é a sensação de ter esse poder tirado de você?*
 
-***Unmake - Action:*** On a failure, they take 4d10 direct magic damage. On a success, they must mark a Stress.
+***Desfazer - Ação:*** Em uma falha, o personagem sofre 4d10 de dano mágico direto. Em um sucesso, deve marcar um Estresse.
 
-  *What glimpse of other worlds do you catch while this place tries to unmake you? What core facet of your personality does the unmaking try to erase?*
+  *Que vislumbre de outros mundos você captura enquanto este lugar tenta desfazê-lo? Que aspecto central da sua personalidade o desfazer tenta apagar?*
 
-***Outer Realms Predators - Action:*** Spend a Fear to summon an Outer Realms Abomination, an Outer Realms Corruptor, and 2d6 Outer Realms Thralls, who appear at Close range of a chosen PC in defiance of logic and causality. Immediately spotlight one of these adversaries, and you can spend an additional Fear to automatically succeed on that adversary’s standard attack.
+***Predadores dos Reinos Exteriores - Ação:*** Gaste um Medo para invocar uma Abominação dos Reinos Exteriores, um Corruptor dos Reinos Exteriores e 2d6 Servos dos Reinos Exteriores, que aparecem em alcance Próximo de um PJ escolhido, desafiando a lógica e a causalidade. Imediatamente destaque um desses adversários, e você pode gastar um Medo adicional para obter sucesso automático no ataque padrão desse adversário.
 
-  *What half-consumed remnants of the shattered soul do these monstrosities cast aside in pursuit of living flesh? What jagged reflections of former personhood do you catch between moments of unquenching malice?*
+  *Que restos meio consumidos da alma fragmentada essas monstruosidades descartam em busca de carne viva? Que reflexos irregulares da antiga personalidade você percebe entre momentos de malícia insaciável?*
 
-***Disorienting Reality - Reaction:*** On a result with Fear, you can ask the PC to describe which of their fears the Chaos Realm evokes as a vision of reality unmakes and reconstitutes itself to the PC. The PC loses a Hope. If it is their last Hope, you gain a Fear.
+***Realidade Desorientadora - Reação:*** Em um resultado com Medo, você pode pedir ao PJ para descrever qual de seus medos o Reino do Caos evoca como uma visão da realidade que se desfaz e se reconstitui para o PJ. O PJ perde uma Esperança. Se for sua última Esperança, você ganha um Medo.
 
-  *What moment do they see? If it’s a memory, how is it usurped by this place? How hard will it be to hold on to the real memory?*
+  *Que momento eles veem? Se for uma memória, como ela é usurpada por este lugar? Quão difícil será manter a memória real?*

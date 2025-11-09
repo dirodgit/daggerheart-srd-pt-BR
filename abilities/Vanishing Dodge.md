@@ -1,6 +1,6 @@
-﻿# VANISHING DODGE
+﻿# DESVIO DESAPARECIDO
 
-> **Level 7 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 7**  
+> **Custo para Recordar:** 1
 
-When an attack made against you that would deal physical damage fails, you can spend a Hope to envelop yourself in shadow, becoming Hidden and teleporting to a point within Close range of the attacker. You remain Hidden until the next time you make an action roll.
+Quando um ataque feito contra você que causaria dano físico falha, você pode gastar 1 Esperança para se envolver em sombras, tornando-se Oculto e teleportando-se para um ponto dentro do alcance Próximo do atacante. Você permanece Oculto até a próxima vez que fizer uma rolagem de ação.

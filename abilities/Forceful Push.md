@@ -1,8 +1,8 @@
-﻿# FORCEFUL PUSH
+﻿# IMPULSO FORTE
 
-> **Level 1 Valor Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Valor de Nível 1**  
+> **Custo de Recordação:** 0
 
-Make an attack with your primary weapon against a target within Melee range. On a success, you deal damage and knock them back to Close range. On a success with Hope, add a d6 to your damage roll.
+Faça um ataque com sua arma primária contra um alvo dentro do alcance Corpo a Corpo. Em um sucesso, você causa dano e o empurra para o alcance Próximo. Em um sucesso com Esperança, adicione um d6 à sua rolagem de dano.
 
-Additionally, you can spend a Hope to make them temporarily Vulnerable.
+Além disso, você pode gastar uma Esperança para torná-los temporariamente Vulneráveis.

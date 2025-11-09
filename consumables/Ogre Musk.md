@@ -1,5 +1,5 @@
-﻿# OGRE MUSK
+﻿# MUSGO DE OGRO
 
-You can use this musk to prevent anyone from tracking you by mundane or magical means until your next rest.
+Você pode usar este musgo para impedir que qualquer pessoa o rastreie por meios mundanos ou mágicos até seu próximo descanso.
 
-*Consumable*
+*Consumível*

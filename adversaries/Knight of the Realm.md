@@ -1,19 +1,19 @@
-﻿# KNIGHT OF THE REALM
+﻿# CAVALEIRO DO REINO
 
-***Tier 2 Leader***  
-*A decorated soldier with heavy armor and a powerful steed.*  
-**Motives & Tactics:** Run down, seek glory, show dominance
+***Líder de Nível 2***  
+*Um soldado condecorado com armadura pesada e uma montaria poderosa.*  
+**Motivações & Táticas:** Perseguir, buscar glória, mostrar domínio
 
-> **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
-> **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy  
-> **Experience:** Ancient Knowledge +3, High Society +2, Tactics +2
+> **Dificuldade:** 15 | **Limiares:** 13/26 | **PV:** 6 | **Estresse:** 4  
+> **ATQ:** +4 | **Espada Longa:** Corpo a corpo | 2d10+4 físico  
+> **Experiência:** Conhecimento Antigo +3, Alta Sociedade +2, Táticas +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Chevalier - Passive:*** While the Knight is on a mount, they gain a +2 bonus to their Difficulty. When they take Severe damage, they’re knocked from their mount and lose this benefit until they’re next spotlighted.
+***Chevalier - Passiva:*** Enquanto o Cavaleiro estiver montado, ele ganha um bônus de +2 na Dificuldade. Quando sofrer dano Grave, ele é derrubado da montaria e perde esse benefício até ser destacado novamente.
 
-***Heavily Armored - Passive:*** When the Knight takes physical damage, reduce it by 3.
+***Fortemente Armado - Passiva:*** Quando o Cavaleiro sofre dano físico, reduza-o em 3.
 
-***Cavalry Charge - Action:*** If the Knight is mounted, move up to Far range and make a standard attack against a target. On a success, deal 2d8+4 physical damage and the target must mark a Stress.
+***Carga da Cavalaria - Ação:*** Se o Cavaleiro estiver montado, mova-se até o alcance Longínquo e faça um ataque padrão contra um alvo. Em caso de sucesso, cause 2d8+4 de dano físico e o alvo deve marcar um Estresse.
 
-***For the Realm! - Action:*** Mark a Stress to spotlight 1d4+1 allies. Attacks they make while spotlighted in this way deal half damage.
+***Pelo Reino! - Ação:*** Marque um Estresse para destacar 1d4+1 aliados. Ataques feitos por eles enquanto estiverem destacados dessa forma causam metade do dano.

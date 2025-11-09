@@ -1,6 +1,6 @@
-﻿# RECKLESS
+﻿# IMPULSIVO
 
-> **Level 2 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 2**  
+> **Custo de Recordação:** 1
 
-Mark a Stress to gain advantage on an attack.
+Marque 1 Estresse para ganhar vantagem em um ataque.

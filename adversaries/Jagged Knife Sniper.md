@@ -1,13 +1,13 @@
-﻿# JAGGED KNIFE SNIPER
+﻿# ATIRADOR DE FACA IRREGULAR
 
-***Tier 1 Ranged***  
-*A lanky bandit striking from cover with a shortbow.*  
-**Motives & Tactics:** Ambush, hide, profit, reposition
+***Tier 1 à Distância***  
+*Um bandido magro que ataca de cobertura com um arco curto.*  
+**Motivações & Táticas:** Emboscada, esconder, lucrar, reposicionar
 
-> **Difficulty:** 13 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2  
-> **ATK:** -1 | **Shortbow:** Far | 1d10+2 phy  
-> **Experience:** Stealth +2
+> **Dificuldade:** 13 | **Limiares:** 4/7 | **PV:** 3 | **Estresse:** 2  
+> **ATQ:** -1 | **Arco Curto:** Distante | 1d10+2 físico  
+> **Experiência:** Furtividade +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Unseen Strike - Passive:*** If the Sniper is Hidden when they make a successful standard attack against a target, they deal 1d10+4 physical damage instead of their standard damage.
+***Golpe Invisível - Passivo:*** Se o Atirador estiver Escondido quando fizer um ataque padrão bem-sucedido contra um alvo, ele causa 1d10+4 de dano físico em vez do seu dano padrão.

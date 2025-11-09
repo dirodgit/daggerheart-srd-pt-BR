@@ -1,6 +1,6 @@
-﻿# PRESERVATION BLAST
+﻿# EXPLOSÃO DE PRESERVAÇÃO
 
-> **Level 4 Arcana Spell**  
-> **Recall Cost:** 2
+> **Magia Arcana de Nível 4**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll against all targets within Melee range. Targets you succeed against are forced back to Far range and take 8d8+3 magic damage using your Spellcast trait.
+Faça uma Jogada de Conjuração contra todos os alvos em alcance Corpo a Corpo. Os alvos contra os quais você obtiver sucesso são forçados a recuar para alcance Distante e recebem 8d8+3 de dano mágico usando seu traço de Conjuração.

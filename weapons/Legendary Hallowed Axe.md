@@ -1,7 +1,7 @@
-﻿# LEGENDARY HALLOWED AXE
+﻿# MACHADO SAGRADO LENDÁRIO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+10 mag; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d8+10 mag; **Peso:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

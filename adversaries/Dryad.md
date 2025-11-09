@@ -1,17 +1,17 @@
-﻿# DRYAD
+﻿# DRÍADE
 
-***Tier 3 Leader***  
-*A nature spirit in the form of a humanoid tree.*  
-**Motives & Tactics:** Camouflage, drive out, preserve the forest
+***Líder de Nível 3***  
+*Um espírito da natureza na forma de uma árvore humanóide.*  
+**Motivações & Táticas:** Camuflagem, expulsar, preservar a floresta
 
-> **Difficulty:** 16 | **Thresholds:** 24/38 | **HP:** 8 | **Stress:** 5  
-> **ATK:** +4 | **Deadfall Shortbow:** Far | 3d10+1 phy  
-> **Experience:** Forest Knowledge +4
+> **Dificuldade:** 16 | **Limiares:** 24/38 | **PV:** 8 | **Estresse:** 5  
+> **ATQ:** +4 | **Arco Curto Armadilha:** Distante | 3d10+1 físico  
+> **Experiência:** Conhecimento da Floresta +4
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Bramble Patch - Action:*** Mark a Stress to target a point within Far range. Create a patch of thorns that covers an area within Close range of that point. All targets within that area take 2d6+2 physical damage when they act. A target must succeed on a Finesse Roll or take more than 20 damage to the Dryad with an attack to leave the area.
+***Mato de Espinheiros - Ação:*** Marque 1 Estresse para mirar em um ponto dentro do alcance Distante. Crie um mato de espinhos que cobre uma área dentro do alcance Próximo desse ponto. Todos os alvos dentro dessa área sofrem 2d6+2 de dano físico quando agem. Um alvo deve ter sucesso em um Teste de Destreza ou causar mais de 20 de dano à Dríade com um ataque para sair da área.
 
-***Group Saplings - Action:*** Spend a Fear to grow three Treant Sapling Minions, who appear at Close range and immediately take the spotlight.
+***Mudas em Grupo - Ação:*** Gaste 1 Medo para fazer crescer três Mudas de Treant, que aparecem no alcance Próximo e imediatamente assumem o foco da ação.
 
-***We Are All One - Reaction:*** When an ally dies within Close range, you can spend a Fear to clear 2 HP and 2 Stress as the fallen ally’s life force is returned to the forest.
+***Somos Todos Um - Reação:*** Quando um aliado morrer dentro do alcance Próximo, você pode gastar 1 Medo para recuperar 2 PV e 2 Estresse enquanto a força vital do aliado caído retorna à floresta.

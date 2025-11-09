@@ -1,25 +1,25 @@
-# FLOW OF THE GAME
+# FLUXO DO JOGO
 
-Daggerheart is a conversation. The GM describes fictional scenarios involving the PCs, and the players take turns describing how their characters react. The goal of every person at the table is to build upon everyone else’s ideas and collaboratively tell a satisfying story. The system facilitates this collaborative process by providing structure to the conversation and mechanics for resolving moments of tension where fate or fortune determine the outcome of events.
+Daggerheart é uma conversa. O Mestre descreve cenários fictícios envolvendo os Personagens Jogadores (PCs), e os jogadores se revezam descrevendo como seus personagens reagem. O objetivo de cada pessoa à mesa é construir a partir das ideias dos outros e contar colaborativamente uma história satisfatória. O sistema facilita esse processo colaborativo ao fornecer estrutura para a conversa e mecânicas para resolver momentos de tensão onde o destino ou a sorte determinam o desfecho dos eventos.
 
-## PLAYER PRINCIPLES & BEST PRACTICES
+## PRINCÍPIOS DO JOGADOR E MELHORES PRÁTICAS
 
-To get the most out of Daggerheart, we recommend players keep the following principles and practices in mind throughout each session:
+Para aproveitar ao máximo o Daggerheart, recomendamos que os jogadores mantenham os seguintes princípios e práticas em mente durante cada sessão:
 
-### PRINCIPLES
+### PRINCÍPIOS
 
-- Be a fan of your character and their journey.
-- Spotlight your friends.
-- Address the characters and address the players.
-- Build the world together.
-- Play to find out what happens.
-- Hold on gently.
+- Seja fã do seu personagem e de sua jornada.
+- Dê destaque aos seus amigos.
+- Dirija-se aos personagens e também aos jogadores.
+- Construam o mundo juntos.
+- Jogue para descobrir o que acontece.
+- Segure com delicadeza.
 
-### BEST PRACTICES
+### MELHORES PRÁTICAS
 
-- Embrace danger.
-- Use your resources.
-- Tell the story.
-- Discover your character.
+- Abrace o perigo.
+- Use seus recursos.
+- Conte a história.
+- Descubra seu personagem.
 
-> *For more information, see the Daggerheart Core Rulebook, pages 9 and 108.*
+> *Para mais informações, veja o Livro de Regras Básicas de Daggerheart, páginas 9 e 108.*

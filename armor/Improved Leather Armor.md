@@ -1,7 +1,7 @@
-﻿# IMPROVED LEATHER ARMOR
+﻿# ARMADURA DE COURO APRIMORADA
 
-**Base Thresholds:** 9 / 20; **Base Score:** 4
+**Limiares Base:** 9 / 20; **Pontuação Base:** 4
 
-**Feature:** —
+**Característica:** —
 
-*Armor - Tier 2*
+*Armadura - Nível 2*

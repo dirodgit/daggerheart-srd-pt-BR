@@ -1,6 +1,6 @@
-﻿# DEADLY FOCUS
+﻿# FOCO MORTAL
 
-> **Level 4 Blade Ability**  
-> **Recall Cost:** 2
+> **Habilidade de Lâmina de Nível 4**  
+> **Custo de Recordação:** 2
 
-Once per rest, you can apply all your focus toward a target of your choice. Until you attack another creature, you defeat the target, or the battle ends, gain a +1 bonus to your Proficiency.
+Uma vez por descanso, você pode aplicar todo o seu foco em um alvo de sua escolha. Até atacar outra criatura, derrotar o alvo ou a batalha terminar, você ganha um bônus de +1 na sua Proficiência.

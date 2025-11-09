@@ -1,16 +1,16 @@
-﻿# WEAPONMASTER
+﻿# MESTRE DAS ARMAS
 
-***Tier 1 Bruiser***  
-*A master-at-arms wielding a sword twice their size.*  
-**Motives & Tactics:** Act first, aim for the weakest, intimidate
+***Brutamontes de Nível 1***  
+*Um mestre de armas empunhando uma espada duas vezes maior que ele.*  
+**Motivações & Táticas:** Age primeiro, mira no mais fraco, intimida
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 6 | **Stress:** 3  
-> **ATK:** +2 | **Claymore:** Very Close | 1d12+2 phy  
+> **Dificuldade:** 14 | **Limiares:** 8/15 | **PV:** 6 | **Estresse:** 3  
+> **ATQ:** +2 | **Claymore:** Muito Próximo | 1d12+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Goading Strike - Action:*** Make a standard attack against a target. On a success, mark a Stress to Taunt the target until their next successful attack. The next time the Taunted target attacks, they have disadvantage against targets other than the Weaponmaster.
+***Golpe Provocador - Ação:*** Faça um ataque padrão contra um alvo. Em caso de sucesso, marque 1 Estresse para Provocar o alvo até o próximo ataque bem-sucedido dele. Na próxima vez que o alvo Provocado atacar, ele terá desvantagem contra alvos que não sejam o Mestre das Armas.
 
-***Adrenaline Burst - Action:*** Once per scene, spend a Fear to clear 2 HP and 2 Stress.
+***Explosão de Adrenalina - Ação:*** Uma vez por cena, gaste 1 Medo para recuperar 2 PV e 2 Estresse.
 
-***Momentum - Reaction:*** When the Weaponmaster makes a successful attack against a PC, you gain a Fear.
+***Momentum - Reação:*** Quando o Mestre das Armas fizer um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

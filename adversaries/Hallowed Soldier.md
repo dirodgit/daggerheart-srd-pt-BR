@@ -1,16 +1,16 @@
-﻿# HALLOWED SOLDIER
+﻿# SOLDADO SAGRADO
 
-***Tier 4 Minion***  
-*Souls of the faithful, lifted up with divine weaponry.*  
-**Motives & Tactics:** Obey, outmaneuver, punish, swarm
+***Capanga de Nível 4***  
+*Almas dos fiéis, elevadas com armamento divino.*  
+**Motivações & Táticas:** Obedecer, manobrar, punir, atacar em grupo
 
-> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2  
-> **ATK:** +2 | **Sword and Shield:** Melee | 10 phy  
+> **Dificuldade:** 18 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 2  
+> **ATQ:** +2 | **Espada e Escudo:** Corpo a corpo | 10 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (13) - Passive:*** The Soldier is defeated when they take any damage. For every 13 damage a PC deals to the Soldier, defeat an additional Minion within range the attack would succeed against.
+***Capanga (13) - Passiva:*** O Soldado é derrotado ao receber qualquer dano. Para cada 13 de dano que um PJ causar ao Soldado, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Divine Flight - Passive:*** While the Soldier is flying, spend a Fear to move up to Far range instead of Close range before taking an action.
+***Voo Divino - Passiva:*** Enquanto o Soldado estiver voando, gaste um Medo para se mover até o alcance Distante ao invés do alcance Próximo antes de realizar uma ação.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Hallowed Soldiers within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 10 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Soldados Sagrados dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 10 de dano físico. Combine esse dano.

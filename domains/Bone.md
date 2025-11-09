@@ -1,18 +1,18 @@
-# BONE
+# OSSO
 
-Bone is the domain of tactics and the body. Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat. Adherents to Bone gain an unparalleled understanding of bodies and their movements. The Bone domain can be accessed by the Ranger & Warrior classes.
+Osso é o domínio da tática e do corpo. Praticantes deste domínio possuem um controle impressionante sobre suas próprias habilidades físicas e um olhar aguçado para prever os comportamentos dos outros em combate. Adeptos do domínio Osso adquirem uma compreensão incomparável dos corpos e seus movimentos. O domínio Osso pode ser acessado pelas classes Ranger e Guerreiro.
 
-## DOMAIN CARDS
+## CARTAS DO DOMÍNIO
 
-| **Level** | **Option 1**                                         | **Option 2**                                               | **Option 3**                               |
-| :-------: | ---------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------ |
-|   **1**   | [Deft Maneuvers](../abilities/Deft%20Maneuvers.md)   | [I See It Coming](../abilities/I%20See%20It%20Coming.md)   | [Untouchable](../abilities/Untouchable.md) |
-|   **2**   | [Ferocity](../abilities/Ferocity.md)                 | [Strategic Approach](../abilities/Strategic%20Approach.md) | —                                          |
-|   **3**   | [Brace](../abilities/Brace.md)                       | [Tactician](../abilities/Tactician.md)                     | —                                          |
-|   **4**   | [Boost](../abilities/Boost.md)                       | [Redirect](../abilities/Redirect.md)                       | —                                          |
-|   **5**   | [Know Thy Enemy](../abilities/Know%20Thy%20Enemy.md) | [Signature Move](../abilities/Signature%20Move.md)         | —                                          |
-|   **6**   | [Rapid Riposte](../abilities/Rapid%20Riposte.md)     | [Recovery](../abilities/Recovery.md)                       | —                                          |
-|   **7**   | [Bone-Touched](../abilities/Bone-Touched.md)         | [Cruel Precision](../abilities/Cruel%20Precision.md)       | —                                          |
-|   **8**   | [Breaking Blow](../abilities/Breaking%20Blow.md)     | [Wrangle](../abilities/Wrangle.md)                         | —                                          |
-|   **9**   | [On The Brink](../abilities/On%20the%20Brink.md)     | [Splintering Strike](../abilities/Splintering%20Strike.md) | —                                          |
-|  **10**   | [Deathrun](../abilities/Deathrun.md)                 | [Swift Step](../abilities/Swift%20Step.md)                 | —                                          |
+| **Nível** | **Opção 1**                                         | **Opção 2**                                               | **Opção 3**                               |
+| :-------: | -------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------- |
+|   **1**   | [Manobras Ágeis](../abilities/Deft%20Maneuvers.md) | [Eu Vejo Chegando](../abilities/I%20See%20It%20Coming.md) | [Intocável](../abilities/Untouchable.md) |
+|   **2**   | [Ferocidade](../abilities/Ferocity.md)             | [Abordagem Estratégica](../abilities/Strategic%20Approach.md) | —                                        |
+|   **3**   | [Apoio](../abilities/Brace.md)                      | [Tático](../abilities/Tactician.md)                       | —                                        |
+|   **4**   | [Impulso](../abilities/Boost.md)                    | [Redirecionar](../abilities/Redirect.md)                  | —                                        |
+|   **5**   | [Conheça Seu Inimigo](../abilities/Know%20Thy%20Enemy.md) | [Movimento Assinatura](../abilities/Signature%20Move.md) | —                                        |
+|   **6**   | [Riposta Rápida](../abilities/Rapid%20Riposte.md)  | [Recuperação](../abilities/Recovery.md)                   | —                                        |
+|   **7**   | [Tocado pelo Osso](../abilities/Bone-Touched.md)   | [Precisão Cruel](../abilities/Cruel%20Precision.md)       | —                                        |
+|   **8**   | [Golpe Quebrador](../abilities/Breaking%20Blow.md) | [Domar](../abilities/Wrangle.md)                          | —                                        |
+|   **9**   | [À Beira](../abilities/On%20the%20Brink.md)         | [Golpe Fragmentador](../abilities/Splintering%20Strike.md) | —                                        |
+|  **10**   | [Corrida da Morte](../abilities/Deathrun.md)        | [Passo Ágil](../abilities/Swift%20Step.md)                | —                                        |

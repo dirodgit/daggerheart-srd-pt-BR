@@ -1,171 +1,171 @@
-# MAKING MOVES & TAKING ACTION
+# FAZENDO MOVIMENTOS & TOMANDO AÇÃO
 
-Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
+Sempre que um personagem faz algo para avançar a história, como falar com outro personagem, interagir com o ambiente, fazer um ataque, lançar uma magia ou usar uma habilidade de classe, ele está fazendo um movimento.
 
-## ACTION ROLLS
+## TESTES DE AÇÃO
 
-Any move where success would be trivial or failure would be boring automatically succeeds, but any move that’s difficult to accomplish or risky to attempt triggers an **action roll**.
+Qualquer movimento em que o sucesso seria trivial ou a falha seria entediante tem sucesso automático, mas qualquer movimento difícil de realizar ou arriscado de tentar desencadeia um **teste de ação**.
 
-## OVERVIEW
+## VISÃO GERAL
 
-All action rolls require a pair of d12s called **Duality Dice**. These are two visually distinct twelve-sided dice, with one die representing Hope and the other representing Fear.
+Todos os testes de ação exigem um par de d12 chamados **Dados de Dualidade**. São dois dados de doze faces visualmente distintos, com um dado representando a Esperança e o outro representando o Medo.
 
-To make an action roll, you roll the Duality Dice, sum the results, apply any relevant modifiers, and compare the total to a Difficulty number to determine the outcome:
+Para fazer um teste de ação, você rola os Dados de Dualidade, soma os resultados, aplica quaisquer modificadores relevantes e compara o total com um número de Dificuldade para determinar o resultado:
 
-- **Success with Hope:** If your total meets or beats the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Success with Hope.” You succeed and gain a Hope.
-- **Success with Fear:** If your total meets or beats the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Success with Fear.” You succeed with a cost or complication, but the GM gains a Fear.
-- **Failure with Hope:** If your total is less than the Difficulty AND your Hope Die shows a higher result than your Fear Die, you rolled a “Failure with Hope.” You fail with a minor consequence and gain a Hope, then the spotlight swings to the GM.
-- **Failure with Fear:** If your total is less than the Difficulty AND your Fear Die shows a higher result than your Hope Die, you rolled a “Failure with Fear.” You fail with a major consequence and the GM gains a Fear, then the spotlight swings to the GM.
-- **Critical Success:** If the Duality Dice show matching results, you rolled a “Critical Success” (“Crit”). You automatically succeed with a bonus, gain a Hope, and clear a Stress. If this was an attack roll, you deal critical damage.
+- **Sucesso com Esperança:** Se seu total for igual ou maior que a Dificuldade E seu Dado de Esperança mostrar um resultado maior que o Dado de Medo, você rolou um “Sucesso com Esperança.” Você tem sucesso e ganha uma Esperança.
+- **Sucesso com Medo:** Se seu total for igual ou maior que a Dificuldade E seu Dado de Medo mostrar um resultado maior que o Dado de Esperança, você rolou um “Sucesso com Medo.” Você tem sucesso com um custo ou complicação, mas o GM ganha um Medo.
+- **Falha com Esperança:** Se seu total for menor que a Dificuldade E seu Dado de Esperança mostrar um resultado maior que o Dado de Medo, você rolou uma “Falha com Esperança.” Você falha com uma consequência menor e ganha uma Esperança, então o foco passa para o GM.
+- **Falha com Medo:** Se seu total for menor que a Dificuldade E seu Dado de Medo mostrar um resultado maior que o Dado de Esperança, você rolou uma “Falha com Medo.” Você falha com uma consequência maior e o GM ganha um Medo, então o foco passa para o GM.
+- **Sucesso Crítico:** Se os Dados de Dualidade mostrarem resultados iguais, você rolou um “Sucesso Crítico” (“Crit”). Você tem sucesso automático com um bônus, ganha uma Esperança e limpa um Estresse. Se este foi um teste de ataque, você causa dano crítico.
 
-> ***Note:*** *A Critical Success counts as a roll “with Hope.”*
+> ***Nota:*** *Um Sucesso Crítico conta como um teste “com Esperança.”*
 
-After resolving the action roll, the table works together to weave the outcome into the narrative and play continues.
+Após resolver o teste de ação, a mesa trabalha em conjunto para entrelaçar o resultado na narrativa e o jogo continua.
 
-## FAILING FORWARD
+## FALHANDO PARA AVANÇAR
 
-In Daggerheart, every time you roll the dice, the scene changes in some way. There is no such thing as a roll where “nothing happens,” because the fiction constantly evolves based on the successes and failures of the characters.
+Em Daggerheart, toda vez que você rola os dados, a cena muda de alguma forma. Não existe um teste onde “nada acontece”, porque a ficção evolui constantemente com base nos sucessos e falhas dos personagens.
 
-## PROCEDURE
+## PROCEDIMENTO
 
-The following steps describe in more detail the procedure that all action rolls utilize:
+Os passos a seguir descrevem com mais detalhes o procedimento que todos os testes de ação utilizam:
 
-### STEP 1: PICK AN APPROPRIATE TRAIT
+### PASSO 1: ESCOLHA UMA CARACTERÍSTICA APROPRIADA
 
-Some actions and effects specify in their description which trait applies to the roll; otherwise, the GM tells the acting player which character trait best applies to the action being attempted. If more than one trait could apply to the roll, the GM chooses or lets the acting player decide.
+Algumas ações e efeitos especificam em sua descrição qual característica se aplica ao teste; caso contrário, o GM informa ao jogador qual característica do personagem melhor se aplica à ação que está sendo tentada. Se mais de uma característica puder se aplicar ao teste, o GM escolhe ou deixa o jogador decidir.
 
-### STEP 2: DETERMINE THE DIFFICULTY
+### PASSO 2: DETERMINE A DIFICULDADE
 
-Some actions and features say in their description what the Difficulty is. Otherwise, the GM determines the Difficulty based on the scenario. The GM can choose whether to share the Difficulty with the table. In either case, the GM should communicate the potential consequences of failure to the acting player.
+Algumas ações e habilidades dizem em sua descrição qual é a Dificuldade. Caso contrário, o GM determina a Dificuldade com base no cenário. O GM pode escolher se compartilha a Dificuldade com a mesa. Em qualquer caso, o GM deve comunicar as possíveis consequências da falha ao jogador que está agindo.
 
-### STEP 3: APPLY EXTRA DICE AND MODIFIERS
+### PASSO 3: APLIQUE DADOS E MODIFICADORES EXTRAS
 
-The acting player decides whether to Utilize an Experience or activate other effects, then, if applicable, adds the appropriate tokens and dice (such as advantage or Rally dice) to their dice pool.
+O jogador que está agindo decide se vai Utilizar uma Experiência ou ativar outros efeitos, então, se aplicável, adiciona os tokens e dados apropriados (como vantagem ou Dados de Encontro) ao seu conjunto de dados.
 
-> ***Note:*** *Unless an action, ability, or feature specifically allows for it, a player must declare the use of any Experiences, extra dice, or other modifiers before the roll.*
+> ***Nota:*** *A menos que uma ação, habilidade ou recurso permita especificamente, o jogador deve declarar o uso de quaisquer Experiências, dados extras ou outros modificadores antes do teste.*
 
-### STEP 4: ROLL THE DICE
+### PASSO 4: ROLE OS DADOS
 
-The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]”—or “Critical Success!” in the case of matching Duality Dice.
+O jogador que está agindo rola todo o seu conjunto de dados e anuncia os resultados no formato “[resultado total] com [Esperança/Medo]”—ou “Sucesso Crítico!” no caso dos Dados de Dualidade mostrarem resultados iguais.
 
-> ***Example:*** *A player is making an action roll with a +1 in the relevant trait and no other modifiers; they roll the Duality Dice and get a result of 5 on their Hope Die and 7 on their Fear Die, then announce “I rolled a 13 with Fear!”*
+> ***Exemplo:*** *Um jogador está fazendo um teste de ação com +1 na característica relevante e sem outros modificadores; ele rola os Dados de Dualidade e obtém 5 no Dado de Esperança e 7 no Dado de Medo, então anuncia “Eu rolei 13 com Medo!”*
 
-### STEP 5: RESOLVE THE OUTCOME
+### PASSO 5: RESOLVA O RESULTADO
 
-The active player and the GM work together, along with the suggestions and support of the rest of the table, to resolve the outcome of the action.
+O jogador ativo e o GM trabalham juntos, com as sugestões e apoio do restante da mesa, para resolver o resultado da ação.
 
-## GM MOVES AND ADVERSARY ACTIONS
+## MOVIMENTOS DO GM E AÇÕES DE ADVERSÁRIOS
 
-GMs also make moves. They should consider making a move when a player does one of the following things:
+Os GMs também fazem movimentos. Eles devem considerar fazer um movimento quando um jogador faz uma das seguintes coisas:
 
-- Rolls with Fear on an action roll.
-- Fails an action roll.
-- Does something that would have consequences.
-- Gives them a golden opportunity.
-- Looks to them for what happens next.
+- Rola com Medo em um teste de ação.
+- Falha em um teste de ação.
+- Faz algo que teria consequências.
+- Dá a eles uma oportunidade de ouro.
+- Olha para eles para saber o que acontece a seguir.
 
-After the GM turn is done, the spotlight goes back to the PCs.
+Após o turno do GM, o foco volta para os PCs.
 
-Many adversaries and environments have **Fear features**, especially powerful or consequential moves that the GM must spend Fear to activate.
+Muitos adversários e ambientes têm **habilidades de Medo**, especialmente movimentos poderosos ou consequentes que o GM deve gastar Medo para ativar.
 
-> ***Note:*** *This Fear is in addition to any Fear the GM has previously spent to seize the spotlight or activate another action or ability.*
+> ***Nota:*** *Este Medo é além de qualquer Medo que o GM já tenha gasto para tomar o foco ou ativar outra ação ou habilidade.*
 
-## ADVERSARY ACTIONS
+## AÇÕES DE ADVERSÁRIOS
 
-When play passes to the GM, the GM can make a GM move to spotlight an adversary. A spotlighted adversary can:
+Quando o jogo passa para o GM, ele pode fazer um movimento de GM para destacar um adversário. Um adversário destacado pode:
 
-- Move within Close range and make a standard attack
-- Move within Close range and use an adversary action
-- Clear a condition
-- Sprint within Far or Very Far range on the battlefield
-- Do anything else the fiction demands or the GM deems appropriate
+- Mover-se para uma distância Próxima e fazer um ataque padrão
+- Mover-se para uma distância Próxima e usar uma ação de adversário
+- Limpar uma condição
+- Correr dentro de uma distância Longe ou Muito Longe no campo de batalha
+- Fazer qualquer outra coisa que a ficção exigir ou que o GM julgar apropriado
 
-The GM can spend additional Fear to spotlight additional adversaries. Once the GM has finished, the spotlight swings back to the PCs.
+O GM pode gastar Medo adicional para destacar adversários adicionais. Quando o GM terminar, o foco volta para os PCs.
 
-## SPECIAL ROLLS
+## TESTES ESPECIAIS
 
-Some rolls have unique specifications or otherwise modify the action roll procedure: trait rolls, Spellcast Rolls, attack rolls, and damage rolls. Unless otherwise noted, you can apply any bonus, modifier, or effect to a special roll as if it were a standard action roll.
+Alguns testes têm especificações únicas ou modificam o procedimento do teste de ação: testes de característica, testes de Magia, testes de ataque e testes de dano. A menos que indicado o contrário, você pode aplicar qualquer bônus, modificador ou efeito a um teste especial como se fosse um teste de ação padrão.
 
-### TRAIT ROLLS
+### TESTES DE CARACTERÍSTICA
 
-An action roll that specifies which character trait applies to it is called a **trait roll**. In the text of a feature or effect, a trait roll is referenced with the format “[Trait] Roll (Difficulty)” (e.g., “Agility Roll (12)”). If the text of an effect doesn’t specify a trait roll’s Difficulty, the GM sets the Difficulty based on the circumstances.
+Um teste de ação que especifica qual característica do personagem se aplica é chamado de **teste de característica**. No texto de uma habilidade ou efeito, um teste de característica é referenciado no formato “[Característica] Roll (Dificuldade)” (ex.: “Teste de Agilidade (12)”). Se o texto de um efeito não especificar a Dificuldade do teste, o GM define a Dificuldade com base nas circunstâncias.
 
-Features and effects that affect a trait roll also affect any action roll that uses the same trait, including attack rolls, Spellcast rolls, and standard action rolls.
+Habilidades e efeitos que afetam um teste de característica também afetam qualquer teste de ação que use a mesma característica, incluindo testes de ataque, testes de Magia e testes de ação padrão.
 
-> ***Example:*** *The katari’s ancestry feature “Feline Instincts,” which allows the katari to reroll an Agility Roll, can also be used on a standard action roll using Agility to traverse dangerous terrain or on an attack roll made with a weapon that uses Agility.*
+> ***Exemplo:*** *A habilidade de ancestralidade do katari “Instintos Felinos”, que permite rerrolar um Teste de Agilidade, também pode ser usada em um teste de ação padrão usando Agilidade para atravessar terreno perigoso ou em um teste de ataque feito com uma arma que usa Agilidade.*
 
-### SPELLCAST ROLLS
+### TESTES DE MAGIA
 
-**Spellcast Rolls** are trait rolls that require you to use your Spellcast trait. Your Spellcast trait, if you have one, is determined by your subclass.
+**Testes de Magia** são testes de característica que exigem que você use sua característica de Magia. Sua característica de Magia, se você tiver uma, é determinada pela sua subclasse.
 
-Spellcast Rolls are only made when a character uses a feature that requires one. A successful Spellcast Roll activates the effect as described by the feature.
+Testes de Magia são feitos apenas quando um personagem usa uma habilidade que exige um. Um Teste de Magia bem-sucedido ativa o efeito conforme descrito pela habilidade.
 
-> ***Notes:***
+> ***Notas:***
 >
-> *A Spellcast Roll that can damage a target is also considered an attack roll.*
+> *Um Teste de Magia que pode causar dano a um alvo também é considerado um teste de ataque.*
 > 
-> *When you cast a spell, the text tells you when the effect ends. The GM can spend a Fear to end a temporary effect. If your spell doesn’t specify when it ends, it ends when you choose or at a natural moment of the story. You can choose to end your spell early.*
+> *Quando você lança uma magia, o texto informa quando o efeito termina. O GM pode gastar um Medo para encerrar um efeito temporário. Se sua magia não especificar quando termina, ela termina quando você escolher ou em um momento natural da história. Você pode escolher terminar sua magia antecipadamente.*
 >
-> *You can cast and maintain the effects of more than one spell at the same time.*
+> *Você pode lançar e manter os efeitos de mais de uma magia ao mesmo tempo.*
 
-### REACTION ROLLS
+### TESTES DE REAÇÃO
 
-A **reaction roll** is made in response to an attack or a hazard, representing a character’s attempt to avoid or withstand an imminent effect.
+Um **teste de reação** é feito em resposta a um ataque ou perigo, representando a tentativa do personagem de evitar ou resistir a um efeito iminente.
 
-Reaction rolls work like action rolls, except they don’t generate Hope or Fear, don’t trigger additional GM moves, and other characters can’t aid you with Help an Ally.
+Testes de reação funcionam como testes de ação, exceto que não geram Esperança ou Medo, não desencadeiam movimentos adicionais do GM e outros personagens não podem ajudar você com Ajuda a um Aliado.
 
-If you critically succeed on a reaction roll, you don’t clear a Stress or gain a Hope, but you do ignore any effects that would have impacted you on a success, such as taking damage or marking Stress.
+Se você obtiver um sucesso crítico em um teste de reação, você não limpa um Estresse nem ganha uma Esperança, mas ignora quaisquer efeitos que teriam impactado você em um sucesso, como receber dano ou marcar Estresse.
 
-### GROUP ACTION ROLLS
+### TESTES DE AÇÃO EM GRUPO
 
-When multiple PCs take action together, the party chooses one PC to **lead the action**. Each other player then describes how their character collaborates on the task. The leader makes an action roll as usual, while the other players make reaction rolls using whichever traits they and the GM decide fit best.
+Quando vários PCs agem juntos, o grupo escolhe um PC para **liderar a ação**. Cada outro jogador então descreve como seu personagem colabora na tarefa. O líder faz um teste de ação normalmente, enquanto os outros jogadores fazem testes de reação usando as características que eles e o GM decidirem serem as mais adequadas.
 
-The lead character gains a +1 bonus to their lead action roll for each of these reaction rolls that succeeded and a –1 penalty for each these reaction rolls that failed.
+O personagem líder ganha um bônus de +1 no teste de ação liderado para cada um desses testes de reação que teve sucesso e uma penalidade de –1 para cada um desses testes de reação que falhou.
 
-### TAG TEAM ROLLS
+### TESTES EM DUPLA
 
-Each player can, once per session, initiate a **Tag Team Roll** between their character and another PC by spending 3 Hope. The players work with one another to describe how they combine their actions in a unique and exciting way. Both players make separate action rolls; before resolving the roll’s outcome, choose one of the rolls to apply to both actions. On a roll with Hope, all PCs involved gain a Hope. On a roll with Fear, the GM gains a Fear token for each PC involved.
+Cada jogador pode, uma vez por sessão, iniciar um **Teste em Dupla** entre seu personagem e outro PC gastando 3 Esperanças. Os jogadores trabalham juntos para descrever como combinam suas ações de forma única e empolgante. Ambos fazem testes de ação separados; antes de resolver o resultado, escolhem um dos testes para aplicar a ambas as ações. Em um teste com Esperança, todos os PCs envolvidos ganham uma Esperança. Em um teste com Medo, o GM ganha um token de Medo para cada PC envolvido.
 
-On a successful Tag Team attack roll, both players roll damage and add the totals together to determine the damage dealt, which is resolved as if it came from a single source. If the attacks deal different types of damage, the players choose which type to deal.
+Em um teste de ataque em dupla bem-sucedido, ambos os jogadores rolam dano e somam os totais para determinar o dano causado, que é resolvido como se viesse de uma única fonte. Se os ataques causarem tipos diferentes de dano, os jogadores escolhem qual tipo causar.
 
-> ***Notes:***
+> ***Notas:***
 >
-> *A Tag Team Roll counts as a single action roll for the purposes of any countdowns or features that track action rolls.*
+> *Um Teste em Dupla conta como um único teste de ação para fins de quaisquer contadores ou habilidades que acompanhem testes de ação.*
 > 
-> *Though each player may only initiate one Tag Team Roll per session, one PC can be involved in multiple Tag Team Rolls.*
+> *Embora cada jogador possa iniciar apenas um Teste em Dupla por sessão, um PC pode estar envolvido em múltiplos Testes em Dupla.*
 
-## ADVANTAGE & DISADVANTAGE
+## VANTAGEM & DESVANTAGEM
 
-Some features and effects let you roll with advantage or disadvantage on an action or reaction roll:
+Algumas habilidades e efeitos permitem que você role com vantagem ou desvantagem em um teste de ação ou reação:
 
-- **Advantage** represents an opportunity that you seize to increase your chances of success. When you roll with advantage, you roll a d6 advantage die with your dice pool and add its result to your total.
-- **Disadvantage** represents an additional difficulty, hardship, or challenge you face when attempting an action. When you roll with disadvantage, you roll a d6 disadvantage die with your dice pool and subtract its result from your total.
+- **Vantagem** representa uma oportunidade que você aproveita para aumentar suas chances de sucesso. Quando você rola com vantagem, você rola um dado de vantagem d6 junto com seu conjunto de dados e adiciona seu resultado ao total.
+- **Desvantagem** representa uma dificuldade adicional, obstáculo ou desafio que você enfrenta ao tentar uma ação. Quando você rola com desvantagem, você rola um dado de desvantagem d6 junto com seu conjunto de dados e subtrai seu resultado do total.
 
-Advantage or disadvantage can be granted or imposed by mechanical triggers or at the GM’s discretion. When a PC aids you with Help an Ally, they roll their own advantage die and you add it to your total.
+Vantagem ou desvantagem podem ser concedidas ou impostas por gatilhos mecânicos ou a critério do GM. Quando um PC ajuda você com Ajuda a um Aliado, ele rola seu próprio dado de vantagem e você o adiciona ao seu total.
 
-Advantage and disadvantage dice cancel each out, one-for-one, when they would be added to the same dice pool, so you’ll never roll both at the same time. If you have advantage or disadvantage from other sources that don’t affect your own dice pool, such as another player’s Help an Ally move, their effects stack with your rolled results.
+Dados de vantagem e desvantagem se anulam um ao outro, um para um, quando seriam adicionados ao mesmo conjunto de dados, então você nunca rolará ambos ao mesmo tempo. Se você tiver vantagem ou desvantagem de outras fontes que não afetam seu próprio conjunto de dados, como o movimento Ajuda a um Aliado de outro jogador, seus efeitos se acumulam com seus resultados rolados.
 
-## HOPE & FEAR
+## ESPERANÇA & MEDO
 
-**Hope** and **Fear** are metacurrencies representing the cosmic forces that shape the events of your table’s story. Hope powers PC abilities and features, while Fear powers the abilities of the GM and the adversaries and environments they control.
+**Esperança** e **Medo** são metacorrências que representam as forças cósmicas que moldam os eventos da história da sua mesa. A Esperança alimenta as habilidades e recursos dos PCs, enquanto o Medo alimenta as habilidades do GM e dos adversários e ambientes que ele controla.
 
-### HOPE
+### ESPERANÇA
 
-Every PC starts with 2 Hope at character creation and gains more throughout play. A PC can have a maximum of 6 Hope at one time, and Hope carries over between sessions.
+Cada PC começa com 2 Esperanças na criação do personagem e ganha mais ao longo do jogo. Um PC pode ter no máximo 6 Esperanças ao mesmo tempo, e a Esperança carrega entre sessões.
 
-Players can spend Hope to:
+Os jogadores podem gastar Esperança para:
 
-- **Help an Ally**  
-  When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
-- **Utilize an Experience**  
-  When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
-- **Initiate a Tag Team Roll**  
-  Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their own rolls and choose which set of results to apply to the outcome.
-- **Activate a Hope Feature**  
-  A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. Class Hope features are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
+- **Ajudar um Aliado**  
+  Quando você ajuda um aliado que está fazendo um teste de ação, descreva como faz isso e role um dado de vantagem. Vários jogadores podem gastar Esperança para ajudar o mesmo jogador ativo, mas esse jogador só adiciona o maior resultado ao total final.
+- **Utilizar uma Experiência**  
+  Quando você utiliza uma Experiência em um teste relevante, adicione seu modificador ao resultado. Você pode gastar múltiplas Esperanças para utilizar múltiplas Experiências.
+- **Iniciar um Teste em Dupla**  
+  Gaste 3 Esperanças para iniciar um Teste em Dupla, combinando as ações de dois PCs em um ato impressionante de sinergia. Quando você faz um Teste em Dupla, ambos os jogadores rolam seus próprios testes e escolhem qual conjunto de resultados aplicar ao resultado.
+- **Ativar uma Habilidade de Esperança**  
+  Uma Habilidade de Esperança é qualquer efeito que permite (ou exige) que você gaste uma quantidade especificada de Esperança para ativá-la. Habilidades de Esperança de classe são habilidades específicas da classe, detalhadas na sua ficha de personagem, que custam 3 Esperanças para ativar.
 
-> ***Note:*** *When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires spending multiple Hope).*
+> ***Nota:*** *Ao usar uma Habilidade de Esperança, se você rolou com Esperança para aquela ação, a Esperança que você ganha com aquele teste pode ser gasta nessa habilidade (ou para ela, se exigir gastar múltiplas Esperanças).*
 
-### FEAR
+### MEDO
 
-The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
+O GM ganha Medo sempre que um jogador rola com Medo e pode gastar Medo a qualquer momento para fazer ou melhorar um movimento de GM ou usar uma Habilidade de Medo. O GM pode ter até 12 Medos ao mesmo tempo. O Medo carrega entre sessões.

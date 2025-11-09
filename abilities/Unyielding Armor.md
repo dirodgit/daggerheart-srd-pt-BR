@@ -1,6 +1,6 @@
-﻿# UNYIELDING ARMOR
+﻿# ARMADURA INABALÁVEL
 
-> **Level 10 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor Nível 10**  
+> **Custo para Usar:** 1
 
-When you would mark an Armor Slot, roll a number of d6s equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot.
+Quando você for marcar um Espaço de Armadura, role um número de d6s igual à sua Proficiência. Se algum deles tirar 6, reduza a severidade em um nível sem marcar um Espaço de Armadura.

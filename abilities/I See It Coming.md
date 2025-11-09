@@ -1,6 +1,6 @@
-﻿# I SEE IT COMING
+﻿# EU VEJO CHEGANDO
 
-> **Level 1 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 1**  
+> **Custo de Recordação:** 1
 
-When you’re targeted by an attack made from beyond Melee range, you can mark a Stress to roll a d4 and gain a bonus to your Evasion equal to the result against the attack.
+Quando você for alvo de um ataque feito de além do alcance de Combate Corpo a Corpo, você pode marcar 1 Estresse para rolar um d4 e ganhar um bônus na sua Evasão igual ao resultado contra o ataque.

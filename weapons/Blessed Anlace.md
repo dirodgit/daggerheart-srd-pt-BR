@@ -1,7 +1,7 @@
 ﻿# BLESSED ANLACE
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+6 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Corpo a corpo; **Dano:** d10+6 mag; **Peso:** Uma mão
 
-**Feature:** ***Healing:*** During downtime, automatically clear a Hit Point.
+**Característica:** ***Cura:*** Durante o tempo de inatividade, cura automaticamente 1 Ponto de Vida.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

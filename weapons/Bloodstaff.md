@@ -1,7 +1,7 @@
-﻿# BLOODSTAFF
+﻿# BASTÃO DE SANGUE
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d20+7 mag; **Burden:** Two-Handed
+**Traço:** Instinto; **Alcance:** Longo; **Dano:** d20+7 mag; **Carga:** Duas Mãos
 
-**Feature:** ***Painful:*** Each time you make a successful attack, you must mark a Stress.
+**Característica:** ***Doloroso:*** Cada vez que você realiza um ataque bem-sucedido, deve marcar um Estresse.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

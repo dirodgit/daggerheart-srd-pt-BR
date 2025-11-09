@@ -1,12 +1,12 @@
-﻿# TINY GREEN OOZE
+﻿# LODO VERDE MINÚSCULO
 
-***Tier 1 Skulk***  
-*A small moving mound of translucent green slime.*  
-**Motives & Tactics:** Camouflage, creep up
+***Esconderijo de Nível 1***  
+*Uma pequena massa móvel de gosma verde translúcida.*  
+**Motivações & Táticas:** Camuflagem, aproximar-se sorrateiramente
 
-> **Difficulty:** 14 | **Thresholds:** 4/None | **HP:** 2 | **Stress:** 1  
-> **ATK:** -1 | **Ooze Appendage:** Melee | 1d4+1 mag  
+> **Dificuldade:** 14 | **Limiares:** 4/Nenhum | **PV:** 2 | **Estresse:** 1  
+> **ATQ:** -1 | **Apêndice de Gosma:** Corpo a corpo | 1d4+1 mágico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Acidic Form - Passive:*** When the Ooze makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
+***Forma Ácida - Passiva:*** Quando a Gosma realiza um ataque bem-sucedido, o alvo deve marcar um Espaço de Armadura sem receber seus benefícios (ainda pode usar a armadura para reduzir o dano). Se não puder marcar um Espaço de Armadura, deve marcar um PV adicional.

@@ -1,7 +1,7 @@
-﻿# LEGENDARY BATTLEAXE
+﻿# MACHADO DE BATALHA LENDÁRIO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a Corpo; **Dano:** d10+12 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

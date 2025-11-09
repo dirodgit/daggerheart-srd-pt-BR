@@ -1,9 +1,9 @@
 ﻿# HIGHBORNE
 
-Being part of a highborne community means you’re accustomed to a life of elegance, opulence, and prestige within the upper echelons of society. Traditionally, members of a highborne community possess incredible material wealth. While this can take a variety of forms depending on the community—including gold and other minerals, land, or controlling the means of production—this status always comes with power and influence. Highborne place great value on titles and possessions, and there is little social mobility within their ranks. Members of a highborne community often control the political and economic status of the areas in which they live due to their ability to influence people and the economy with their substantial wealth. The health and safety of less affluent people who live in those locations often hinges on the ability of this highborne ruling class to prioritize the well-being of their subjects over profit.
+Fazer parte de uma comunidade highborne significa que você está acostumado a uma vida de elegância, opulência e prestígio dentro das camadas superiores da sociedade. Tradicionalmente, os membros de uma comunidade highborne possuem uma riqueza material incrível. Embora isso possa assumir várias formas dependendo da comunidade — incluindo ouro e outros minerais, terras ou controle dos meios de produção — esse status sempre vem acompanhado de poder e influência. Os highborne valorizam muito títulos e posses, e há pouca mobilidade social dentro de suas fileiras. Membros de uma comunidade highborne frequentemente controlam o status político e econômico das áreas em que vivem devido à sua capacidade de influenciar pessoas e a economia com sua riqueza substancial. A saúde e segurança das pessoas menos afluentes que vivem nesses locais muitas vezes dependem da habilidade dessa classe dominante highborne de priorizar o bem-estar de seus súditos em vez do lucro.
 
-*Highborne are often amiable, candid, conniving, enterprising, ostentatious, and unflappable.*
+*Highborne são frequentemente amáveis, francos, ardilosos, empreendedores, ostentadores e imperturbáveis.*
 
-## COMMUNITY FEATURE
+## CARACTERÍSTICA DA COMUNIDADE
 
-***Privilege:*** You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.
+***Privilégio:*** Você tem vantagem em testes para se relacionar com nobres, negociar preços ou usar sua reputação para conseguir o que deseja.

@@ -1,7 +1,7 @@
-﻿# ADVANCED HAND CROSSBOW
+﻿# BESTA DE MÃO AVANÇADA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+5 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+5 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Secondary Weapon - Tier 3*
+*Arma Secundária - Nível 3*

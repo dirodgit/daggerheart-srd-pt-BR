@@ -1,5 +1,5 @@
-﻿# MAJOR STRIDE POTION
+﻿# POÇÃO DE PASSO MAIOR
 
-You gain a +1 bonus to your Agility until your next rest.
+Você ganha um bônus de +1 em sua Agilidade até seu próximo descanso.
 
-*Consumable*
+*Consumível*

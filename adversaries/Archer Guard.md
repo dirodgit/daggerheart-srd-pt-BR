@@ -1,13 +1,13 @@
-﻿# ARCHER GUARD
+﻿# GUARDA ARQUEIRO
 
-***Tier 1 Ranged***  
-*A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors.*  
-**Motives & Tactics:** Arrest, close gates, make it through the day, pin down
+***Nível 1 à Distância***  
+*Um guarda alto portando um arco longo e uma aljava com flechas emplumadas nas cores do assentamento.*  
+**Motivações & Táticas:** Prender, fechar portões, passar o dia, imobilizar
 
-> **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2  
-> **ATK:** +1 | **Longbow:** Far | 1d8+3 phy  
-> **Experience:** Local Knowledge +3
+> **Dificuldade:** 10 | **Limiares:** 4/8 | **PV:** 3 | **Estresse:** 2  
+> **ATQ:** +1 | **Arco Longo:** Distante | 1d8+3 físico  
+> **Experiência:** Conhecimento Local +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Hobbling Shot - Action:*** Make an attack against a target within Far range. On a success, mark a Stress to deal 1d12+3 physical damage. If the target marks HP from this attack, they have disadvantage on Agility Rolls until they clear at least 1 HP.
+***Tiro Mancante - Ação:*** Faça um ataque contra um alvo dentro do alcance Distante. Em caso de sucesso, marque 1 Estresse para causar 1d12+3 de dano físico. Se o alvo marcar PV a partir deste ataque, ele sofre desvantagem em Testes de Agilidade até limpar pelo menos 1 PV.

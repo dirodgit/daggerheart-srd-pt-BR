@@ -1,5 +1,5 @@
-﻿# MYTHIC DUST RECIPE
+﻿# RECEITA DE POEIRA MÍTICA
 
-As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.
+Como uma ação de tempo livre, você pode usar um punhado de pó de ouro fino para criar Poeira Mítica.
 
 *Item*

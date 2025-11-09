@@ -1,9 +1,9 @@
-# EQUIPMENT
+# EQUIPAMENTO
 
-Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher tier than you.
+Suas **armas e armaduras equipadas** são aquelas listadas nas seções “Armas Ativas” e “Armadura Ativa” da sua ficha de personagem. Seu personagem só pode atacar com armas, se beneficiar de armaduras e ganhar características de itens que estejam equipados. Você não pode equipar armas ou armaduras de um nível superior ao seu.
 
-PCs can carry up to two additional weapons in the “Inventory Weapon” area of the character sheet.
+Personagens jogadores (PCs) podem carregar até duas armas adicionais na área “Arma no Inventário” da ficha de personagem.
 
-You can swap an Inventory Weapon with an Active Weapon at no cost during a rest or moment of calm; otherwise, you must mark a Stress to do so.
+Você pode trocar uma Arma do Inventário por uma Arma Ativa sem custo durante um descanso ou momento de calma; caso contrário, deve marcar um Estresse para fazê-lo.
 
-Your character can only have one Active Armor at a time. They can’t equip armor while in danger or under pressure; otherwise, they can equip or unequip armor without cost. Each armor has its own Armor Slots; if your character unequips their armor, track how many of its Armor Slots are marked. You can’t carry armor in your inventory. When your character equips or unequips armor, recalculate your damage thresholds.
+Seu personagem só pode ter uma Armadura Ativa por vez. Ele não pode equipar armadura enquanto estiver em perigo ou sob pressão; caso contrário, pode equipar ou desequipar armadura sem custo. Cada armadura possui seus próprios Espaços de Armadura; se seu personagem desequipar a armadura, acompanhe quantos desses Espaços de Armadura estão marcados. Você não pode carregar armadura no inventário. Quando seu personagem equipa ou desequipa armadura, recalcule seus limiares de dano.

@@ -1,23 +1,23 @@
-﻿# TROUBADOUR
+﻿# TROVADOR
 
-Play the Troubadour if you want to play music to bolster your allies.
+Jogue com o Trovador se quiser tocar música para fortalecer seus aliados.
 
-## SPELLCAST TRAIT
+## TRAÇO DE CONJURAÇÃO
 
-Presence
+Presença
 
-## FOUNDATION FEATURE
+## CARACTERÍSTICA DE FUNDAÇÃO
 
-***Gifted Performer:*** You can play three different types of songs, once each per long rest; describe how you perform for others to gain the listed benefit:
+***Intérprete Talentoso:*** Você pode tocar três tipos diferentes de canções, uma vez cada por descanso longo; descreva como você se apresenta para os outros para obter o benefício listado:
 
-- **Relaxing Song:** You and all allies within Close range clear a Hit Point.
-- **Epic Song:** Make a target within Close range temporarily Vulnerable.
-- **Heartbreaking Song:** You and all allies within Close range gain a Hope.
+- **Canção Relaxante:** Você e todos os aliados em alcance Próximo recuperam 1 Ponto de Vida.
+- **Canção Épica:** Faça um alvo em alcance Próximo ficar temporariamente Vulnerável.
+- **Canção De Partir o Coração:** Você e todos os aliados em alcance Próximo ganham 1 Esperança.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Maestro:*** Your rallying songs steel the courage of those who listen. When you give a Rally Die to an ally, they can gain a Hope or clear a Stress.
+***Maestro:*** Suas canções de encontro fortalecem a coragem de quem as escuta. Quando você dá um Dado de Encontro a um aliado, ele pode ganhar 1 Esperança ou limpar 1 Estresse.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Virtuoso:*** You are among the greatest of your craft and your skill is boundless. You can perform each of your “Gifted Performer” feature’s songs twice per long rest.
+***Virtuose:*** Você está entre os maiores da sua arte e sua habilidade é ilimitada. Você pode executar cada uma das canções da característica “Intérprete Talentoso” duas vezes por descanso longo.

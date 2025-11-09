@@ -1,7 +1,7 @@
-﻿# KEEPER’S STAFF
+﻿# CAJADO DO GUARDIÃO
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d6+4 mágico; **Peso:** Duas Mãos
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 em testes de ataque
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

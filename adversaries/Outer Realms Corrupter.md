@@ -1,14 +1,14 @@
-﻿# OUTER REALMS CORRUPTER
+﻿# CORRUPTOR DOS REINOS EXTERNOS
 
-***Tier 4 Support***  
-*A shifting, formless mass seemingly made of chromatic light.*  
-**Motives & Tactics:** Confuse, distract, overwhelm
+***Suporte de Nível 4***  
+*Uma massa mutável e informe aparentemente feita de luz cromática.*  
+**Motivações & Táticas:** Confundir, distrair, sobrecarregar
 
-> **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3  
-> **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 mag  
+> **Dificuldade:** 19 | **Limiares:** 27/47 | **PV:** 4 | **Estresse:** 3  
+> **ATAQ:** +7 | **Pseudópode Corrosivo:** Muito Próximo | 4d8+5 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Will-Shattering Touch - Passive:*** When a PC takes damage from the Corrupter, they lose a Hope.
+***Toque Quebrador de Vontade - Passivo:*** Quando um PJ sofre dano do Corruptor, ele perde 1 ponto de Esperança.
 
-***Disgorge Reality Flotsam - Action:*** Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress.
+***Regurgitar Detritos da Realidade - Ação:*** Marque 1 Estresse para cuspir porções parcialmente digeridas de realidades consumidas em todos os alvos em alcance Próximo. Os alvos devem ter sucesso em uma Jogada de Reação de Conhecimento ou marcar 2 Estresse.

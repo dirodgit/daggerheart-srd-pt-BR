@@ -1,5 +1,5 @@
-﻿# DRIPFANG POISON
+﻿# VENENO DRIPFANG
 
-A creature who consumes this poison takes 2d10 direct magic damage.
+Uma criatura que consome este veneno sofre 2d10 de dano mágico direto.
 
-*Consumable*
+*Consumível*

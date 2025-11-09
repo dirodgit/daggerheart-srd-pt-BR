@@ -1,5 +1,5 @@
 ﻿# GREATSTONE
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+Você pode anexar esta pedra a uma arma que ainda não possua uma característica. A arma ganha a seguinte característica. ***Poderosa:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
 *Item*

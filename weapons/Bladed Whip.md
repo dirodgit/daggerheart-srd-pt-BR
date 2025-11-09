@@ -1,7 +1,7 @@
-﻿# BLADED WHIP
+﻿# CHICOTE LAMINADO
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Muito Próximo; **Dano:** d8+3 físico; **Carga:** Uma Mão
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Característica:** ***Rápido:*** Quando você realiza um ataque, pode marcar um Estresse para mirar em outra criatura dentro do alcance.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

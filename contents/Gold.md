@@ -1,11 +1,11 @@
-# GOLD
+# OURO
 
-Gold is an abstract measurement of how much wealth a character has, and is measured in **handfuls, bags, and chests,** with 10 handfuls to 1 bag, and 10 bags to 1 chest. When you have marked all of the slots in a category and you gain another gold reward in that category, mark a slot in the following category and clear all the slots in the current one.
+O ouro é uma medida abstrata de quanta riqueza um personagem possui, e é medido em **punhados, sacos e baús**, com 10 punhados para 1 saco, e 10 sacos para 1 baú. Quando você tiver marcado todos os espaços em uma categoria e ganhar outra recompensa de ouro nessa categoria, marque um espaço na categoria seguinte e limpe todos os espaços na categoria atual.
 
-For example, if you have 9 handfuls and gain another, you instead mark 1 bag and erase all handfuls. If you have 9 bags and gain another, you mark 1 chest and erase all bags.
+Por exemplo, se você tem 9 punhados e ganha mais um, você marca 1 saco e apaga todos os punhados. Se você tem 9 sacos e ganha mais um, você marca 1 baú e apaga todos os sacos.
 
-You can’t have more than 1 chest, so if all your Gold slots are marked, you’ll need to spend some of your gold or store it somewhere else before you can acquire more.
+Você não pode ter mais de 1 baú, então se todos os seus espaços de Ouro estiverem marcados, será necessário gastar parte do seu ouro ou guardá-lo em outro lugar antes de poder adquirir mais.
 
-> ***Optional Rule: Gold Coins***
+> ***Regra Opcional: Moedas de Ouro***
 >
-> *If your group wants to track gold with more granularity, you can add **coins** as your lowest denomination. Following the established pattern, 10 coins equal 1 handful.*
+> *Se seu grupo quiser acompanhar o ouro com mais granularidade, vocês podem adicionar **moedas** como a menor denominação. Seguindo o padrão estabelecido, 10 moedas equivalem a 1 punhado.*

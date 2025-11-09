@@ -1,19 +1,19 @@
-﻿# GREEN OOZE
+﻿# LODO VERDE
 
-***Tier 1 Skulk***  
-*A moving mound of translucent green slime.*  
-**Motives & Tactics:** Camouflage, consume and multiply, creep up, envelop
+***Esconderijo de Nível 1***  
+*Uma massa móvel de gosma verde translúcida.*  
+**Motivações & Táticas:** Camuflar, consumir e multiplicar, aproximar-se sorrateiramente, envolver
 
-> **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2  
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag  
-> **Experience:** Camouflage +3
+> **Dificuldade:** 8 | **Limiares:** 5/10 | **PV:** 5 | **Estresse:** 2  
+> **ATQ:** +1 | **Apêndice de Gosma:** Corpo a corpo | 1d6+1 mágico  
+> **Experiência:** Camuflagem +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Slow - Passive:*** When you spotlight the Ooze and they don’t have a token on their stat block, they can’t act. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
+***Lento - Passivo:*** Quando você destaca o Lodo e ele não tem um token em sua ficha de estatísticas, ele não pode agir. Coloque um token na ficha de estatísticas e descreva o que ele está se preparando para fazer. Quando você destaca o Lodo e ele tem um token na ficha de estatísticas, remova o token e ele pode agir.
 
-***Acidic Form - Passive:*** When the Ooze makes a successful attack, the target must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
+***Forma Ácida - Passivo:*** Quando o Lodo realiza um ataque bem-sucedido, o alvo deve marcar um Espaço de Armadura sem receber seus benefícios (ele ainda pode usar a armadura para reduzir o dano). Se não puder marcar um Espaço de Armadura, deve marcar um PV adicional.
 
-***Envelope - Action:*** Make a standard attack against a target within Melee range. On a success, the Ooze envelops them and the target must mark 2 Stress. The target must mark an additional Stress when they make an action roll. If the Ooze takes Severe damage, the target is freed.
+***Envolver - Ação:*** Faça um ataque padrão contra um alvo em alcance de Corpo a Corpo. Em caso de sucesso, o Lodo o envolve e o alvo deve marcar 2 Estresse. O alvo deve marcar Estresse adicional sempre que fizer uma rolagem de ação. Se o Lodo sofrer dano Grave, o alvo é libertado.
 
-***Split - Reaction:*** When the Ooze has 3 or more HP marked, you can spend a Fear to split them into two Tiny Green Oozes (with no marked HP or Stress). Immediately spotlight both of them.
+***Dividir - Reação:*** Quando o Lodo tiver 3 ou mais PV marcados, você pode gastar um Medo para dividi-lo em dois Lodos Verdes Minúsculos (sem PV ou Estresse marcados). Destaque imediatamente ambos.

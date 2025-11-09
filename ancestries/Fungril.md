@@ -1,9 +1,9 @@
 ﻿# FUNGRIL
 
-Fungril resemble humanoid mushrooms. They can be either more humanoid or more fungal in appearance, and they come in an assortment of colors, from earth tones to bright reds, yellows, purples, and blues. Fungril display an incredible variety of bodies, faces, and limbs, as there’s no single common shape among them. Even their heights range from a tiny 2 feet tall to a staggering 7 feet tall. While the common lifespan of a fungril is about 300 years, some have been reported to live much longer. They can communicate nonverbally, and many members of this ancestry use a mycelial array to chemically exchange information with other fungril across long distances.
+Fungril se assemelham a cogumelos humanóides. Eles podem ter uma aparência mais humanóide ou mais fungosa, e vêm em uma variedade de cores, desde tons terrosos até vermelhos, amarelos, roxos e azuis vibrantes. Fungril exibem uma incrível variedade de corpos, rostos e membros, pois não há uma forma comum entre eles. Até mesmo suas alturas variam de pequenos 60 cm a impressionantes 2,1 metros. Enquanto a expectativa de vida comum de um fungril é cerca de 300 anos, alguns foram relatados vivendo muito mais. Eles podem se comunicar de forma não verbal, e muitos membros dessa ancestralidade usam uma rede micelial para trocar informações quimicamente com outros fungril a longas distâncias.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DA ANCESTRALIDADE
 
-***Fungril Network:*** Make an **Instinct Roll (12)** to use your mycelial array to speak with others of your ancestry. On a success, you can communicate across any distance.
+***Rede Fungril:*** Faça uma **Rolagem de Instinto (12)** para usar sua rede micelial e falar com outros da sua ancestralidade. Em caso de sucesso, você pode se comunicar a qualquer distância.
 
-***Death Connection:*** While touching a corpse that died recently, you can **mark a Stress** to extract one memory from the corpse related to a specific emotion or sensation of your choice.
+***Conexão com a Morte:*** Enquanto estiver tocando um cadáver que morreu recentemente, você pode **marcar um Estresse** para extrair uma memória do cadáver relacionada a uma emoção ou sensação específica de sua escolha.

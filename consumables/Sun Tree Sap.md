@@ -1,5 +1,5 @@
-﻿# SUN TREE SAP
+﻿# SEIVA DA ÁRVORE DO SOL
 
-Consume this sap to roll a d6. On a result of 5–6, clear 2 HP. On a result of 2–4, clear 3 Stress. On a result of 1, see through the veil of death and return unscathed, gaining one scar.
+Consuma esta seiva para rolar um d6. Com um resultado de 5–6, recupere 2 PV. Com um resultado de 2–4, recupere 3 de Estresse. Com um resultado de 1, veja através do véu da morte e retorne ileso, ganhando uma cicatriz.
 
-*Consumable*
+*Consumível*

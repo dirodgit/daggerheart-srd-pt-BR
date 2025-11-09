@@ -1,5 +1,5 @@
-﻿# MAJOR CHARM POTION
+﻿# POÇÃO MAIOR DE ENCANTO
 
-You gain a +1 bonus to your Presence until your next rest.
+Você ganha um bônus de +1 em sua Presença até seu próximo descanso.
 
-*Consumable*
+*Consumível*

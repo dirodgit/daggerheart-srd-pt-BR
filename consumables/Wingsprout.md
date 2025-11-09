@@ -1,5 +1,5 @@
 ﻿# WINGSPROUT
 
-You gain magic wings that allow you to fly for a number of minutes equal to your level.
+Você ganha asas mágicas que permitem voar por um número de minutos igual ao seu nível.
 
-*Consumable*
+*Consumível*

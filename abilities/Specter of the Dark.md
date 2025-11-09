@@ -1,6 +1,6 @@
-﻿# SPECTER OF THE DARK
+﻿# ESPECTRO DAS TREVAS
 
-> **Level 10 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 10**  
+> **Custo para Recordar:** 1
 
-Mark a Stress to become Spectral until you make an action roll targeting another creature. While Spectral, you’re immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you’re in this form.
+Marque 1 ponto de Estresse para se tornar Espectral até fazer uma jogada de ação contra outra criatura. Enquanto estiver Espectral, você é imune a dano físico e pode flutuar e atravessar objetos sólidos. Outras criaturas ainda podem vê-lo enquanto você estiver nessa forma.

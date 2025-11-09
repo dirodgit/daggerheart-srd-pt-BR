@@ -1,19 +1,19 @@
-﻿# MORTAL HUNTER
+﻿# CAÇADOR MORTAL
 
-***Tier 2 Leader***  
-*An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  
-**Motives & Tactics:** Devour, hunt, track
+***Líder de Nível 2***  
+*Uma figura morta-viva vestindo um pesado casaco de couro, com olhos atentos e uma expressão cruelmente cortante.*  
+**Motivações & Táticas:** Devorar, caçar, rastrear
 
-> **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4  
-> **ATK:** +5 | **Tear at Flesh:** Very Close | 2d12+1 phy  
-> **Experience:** Bloodhound +3
+> **Dificuldade:** 16 | **Limiares:** 15/27 | **PV:** 6 | **Estresse:** 4  
+> **ATQ:** +5 | **Rasgar a Carne:** Muito Próximo | 2d12+1 físico  
+> **Experiência:** Farejador +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** When the Hunter makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
+***Aterrorizante - Passiva:*** Quando o Caçador realiza um ataque bem-sucedido, todos os PCs em alcance Longínquo perdem 1 Esperança e você ganha 1 Medo.
 
-***Deathlock - Action:*** Spend a Fear to curse a target within Very Close range with a necrotic Deathlock until the end of the scene. Attacks made by the Hunter against a Deathlocked target deal direct damage. The Hunter can only maintain one Deathlock at a time.
+***Bloqueio da Morte - Ação:*** Gaste 1 Medo para amaldiçoar um alvo em alcance Muito Próximo com um Bloqueio da Morte necrótico até o fim da cena. Ataques feitos pelo Caçador contra um alvo com Bloqueio da Morte causam dano direto. O Caçador só pode manter um Bloqueio da Morte por vez.
 
-***Inevitable Death - Action:*** Mark a Stress to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage.
+***Morte Inevitável - Ação:*** Marque 1 Estresse para destacar 1d4 aliados. Ataques que eles fizerem enquanto estiverem destacados dessa forma causam metade do dano.
 
-***Rampage - Reaction:*** Countdown (Loop 1d6). When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take 2d8+2 physical damage.
+***Fúria Desenfreada - Reação:*** Contagem regressiva (Loop 1d6). Quando o Caçador estiver no foco pela primeira vez, ative a contagem regressiva. Quando ela disparar, mova o Caçador em linha reta até um ponto em alcance Longínquo e faça um ataque contra todos os alvos em seu caminho. Alvos contra os quais o Caçador obtiver sucesso recebem 2d8+2 de dano físico.

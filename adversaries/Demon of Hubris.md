@@ -1,21 +1,21 @@
-﻿# DEMON OF HUBRIS
+﻿# DEMÔNIO DA ARROGÂNCIA
 
-***Tier 3 Leader***  
-*A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*  
-**Motives & Tactics:** Condescend, declare premature victory, prove superiority
+***Líder de Nível 3***  
+*Um demônio perfeitamente belo e infinitamente cruel, com uma lança reluzente e vestes elegantes.*  
+**Motivações & Táticas:** Condescender, declarar vitória prematura, provar superioridade
 
-> **Difficulty:** 19 | **Thresholds:** 20/36 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +4 | **Perfect Spear:** Very Close | 3d10 phy  
-> **Experience:** Manipulation +2
+> **Dificuldade:** 19 | **Limiares:** 20/36 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +4 | **Lança Perfeita:** Muito Próximo | 3d10 físico  
+> **Experiência:** Manipulação +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Terrifying - Passive:*** When the Demon makes a successful attack, all PCs within Far range must lose a Hope and you gain a Fear.
+***Aterrorizante - Passiva:*** Quando o Demônio realiza um ataque bem-sucedido, todos os PCs em alcance Longo devem perder 1 Esperança e você ganha 1 Medo.
 
-***Double or Nothing - Passive:*** When a PC within Far range fails a roll, they can choose to reroll their Fear Die and take the new result. If they still fail, they mark 2 Stress and the Demon clears a Stress.
+***Tudo ou Nada - Passiva:*** Quando um PC em alcance Longo falha em uma rolagem, ele pode escolher rerrolar seu Dado de Medo e aceitar o novo resultado. Se ainda falhar, ele marca 2 Estresses e o Demônio remove 1 Estresse.
 
-***Unparalleled Skill - Action:*** Mark a Stress to deal the Demon’s standard attack damage to a target within Close range.
+***Habilidade Incomparável - Ação:*** Marque 1 Estresse para causar o dano padrão de ataque do Demônio a um alvo em alcance Próximo.
 
-***The Root of Villainy - Action:*** Spend a Fear to spotlight two other Demons within Far range.
+***A Raiz da Maldade - Ação:*** Gaste 1 Medo para destacar dois outros Demônios em alcance Longo.
 
-***You Pale in Comparison - Reaction:*** When a PC fails a roll within Close range of the Demon, they must mark a Stress.
+***Você Empalidece em Comparação - Reação:*** Quando um PC falha em uma rolagem em alcance Próximo do Demônio, ele deve marcar 1 Estresse.

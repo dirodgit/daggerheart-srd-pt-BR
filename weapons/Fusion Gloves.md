@@ -1,7 +1,7 @@
-﻿# FUSION GLOVES
+﻿# LUVAS FUSION
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Traço:** Conhecimento; **Alcance:** Muito Longo; **Dano:** d6+9 mag; **Peso:** Duas Mãos
 
-**Feature:** ***Bonded:*** Gain a bonus to your damage rolls equal to your level.
+**Característica:** ***Vinculadas:*** Ganhe um bônus nas suas jogadas de dano igual ao seu nível.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

@@ -1,5 +1,5 @@
-﻿# ARMOR STITCHER
+﻿# ARMADURA COSTUREIRA
 
-You can use this stitcher to spend any number of Hope and clear that many Armor Slots.
+Você pode usar esta costureira para gastar qualquer quantidade de Esperança e liberar essa mesma quantidade de Espaços de Armadura.
 
-*Consumable*
+*Consumível*

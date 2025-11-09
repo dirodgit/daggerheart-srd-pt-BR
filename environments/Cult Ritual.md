@@ -1,31 +1,31 @@
-﻿# CULT RITUAL
+﻿# RITUAL DE CULTO
 
-***Tier 2 Event***  
-*A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.*  
-**Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
+***Evento de Nível 2***  
+*Um culto caído se reúne ao redor de um sigilo dos deuses derrotados e uma fogueira que queima em um tom doentio de verde.*  
+**Impulsos:** Profanar a terra, unir o Reino Mortal com os Círculos Inferiores
 
-> **Difficulty:** 14  
-> **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
+> **Dificuldade:** 14  
+> **Adversários Potenciais:** Culto dos Caídos (Adepto do Culto, Presa do Culto, Iniciado do Culto, Guardião do Segredo)
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Desecrated Ground - Passive:*** Cultists dedicated this place to the Fallen Gods, and their foul influence seeps into it. Reduce the PCs’ Hope Die to a d10 while in this environment. The desecration can be removed with a Progress Countdown (6).
+***Terreno Profanado - Passivo:*** Os cultistas dedicaram este lugar aos Deuses Caídos, e sua influência nefasta penetra nele. Reduza o Dado de Esperança dos PCs para um d10 enquanto estiverem neste ambiente. A profanação pode ser removida com uma Contagem Regressiva de Progresso (6).
 
-  *How do the PCs first notice that something is wrong about this place? What fears resurface while hope is kept at bay?*
+  *Como os PCs percebem pela primeira vez que algo está errado neste lugar? Que medos ressurgem enquanto a esperança é mantida à distância?*
 
-***Blasphemous Might - Action:*** A portion of the ritual’s power is diverted into a cult member to fight off interlopers. Choose one adversary to become Imbued with terrible magic until the scene ends or they’re defeated. An Imbued adversary immediately takes the spotlight and gains one of the following benefits, or all three if you spend a Fear:
+***Força Blasfema - Ação:*** Uma parte do poder do ritual é desviada para um membro do culto para afastar intrusos. Escolha um adversário para se tornar Imbuído com magia terrível até o fim da cena ou até ser derrotado. Um adversário Imbuído imediatamente assume o destaque e ganha um dos seguintes benefícios, ou todos os três se você gastar um Medo:
 
-  - They gain advantage on all attacks.
-  - They deal an extra 1d10 damage on a successful attack.
-  - They gain the following feature:
-    Relentless (2) - Passive: This adversary can be spotlighted multiple times per GM turn. Spend Fear as usual to spotlight them.
+  - Ganha vantagem em todos os ataques.
+  - Causa 1d10 de dano extra em um ataque bem-sucedido.
+  - Ganha a seguinte característica:
+    Implacável (2) - Passivo: Este adversário pode ser destacado múltiplas vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-  *How does the enemy change in appearance? What fears do their blows bring to the surface?*
+  *Como o inimigo muda de aparência? Que medos seus golpes trazem à tona?*
 
-***The Summoning - Reaction:*** Countdown (6). When the PCs enter the scene or the cult begins the ritual to summon a demon, activate the countdown. Designate one adversary to lead the ritual. The countdown ticks down when a PC rolls with Fear. When it triggers, summon a Minor Demon within Very Close range of the ritual’s leader. If the leader is defeated, the countdown ends with no effect as the ritual fails.
+***A Invocação - Reação:*** Contagem Regressiva (6). Quando os PCs entram na cena ou o culto inicia o ritual para invocar um demônio, ative a contagem regressiva. Designe um adversário para liderar o ritual. A contagem regressiva diminui quando um PC rola com Medo. Quando ela dispara, invoque um Demônio Menor dentro do alcance Muito Próximo do líder do ritual. Se o líder for derrotado, a contagem termina sem efeito, pois o ritual falha.
 
-  *What will the cult do with this leashed demon if they succeed? What will they try to summon next?*
+  *O que o culto fará com esse demônio preso se tiver sucesso? O que tentarão invocar em seguida?*
 
-***Complete the Ritual - Reaction:*** If the ritual’s leader is targeted by an attack or spell, an ally within Very Close range of them can mark a Stress to be targeted by that attack or spell instead.
+***Completar o Ritual - Reação:*** Se o líder do ritual for alvo de um ataque ou feitiço, um aliado dentro do alcance Muito Próximo pode marcar um Estresse para ser alvo desse ataque ou feitiço em seu lugar.
 
-  *What does it feel like to see such devotion turned to the pursuit of fear and domination?*
+  *Como é ver tamanha devoção voltada para a busca do medo e da dominação?*

@@ -1,8 +1,8 @@
-﻿# LIFE WARD
+﻿# GUARDA DE VIDA
 
-> **Level 4 Splendor Spell**  
-> **Recall Cost:** 1
+> **Magia de Esplendor de Nível 4**  
+> **Custo de Recordação:** 1
 
-Spend 3 Hope and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead.
+Gaste 3 de Esperança e escolha um aliado a até Alcance Próximo. Ele fica marcado com um sigilo brilhante de proteção. Quando esse aliado for fazer um movimento de morte, ele recupera um Ponto de Vida em vez disso.
 
-This effect ends when it saves the target from a death move, you cast Life Ward on another target, or you take a long rest.
+Esse efeito termina quando ele salva o alvo de um movimento de morte, você conjura Guarda de Vida em outro alvo, ou você faz um descanso longo.

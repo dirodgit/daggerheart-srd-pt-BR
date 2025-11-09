@@ -1,14 +1,14 @@
-﻿# OUTER REALMS THRALL
+﻿# ESCRAVO DOS REINOS EXTERNOS
 
-***Tier 4 Minion***  
-*A vaguely humanoid form stripped of memory and identity.*  
-**Motives & Tactics:** Destroy, disgust, disorient, intimidate
+***Serviçal de Nível 4***  
+*Uma forma vagamente humanoide desprovida de memória e identidade.*  
+**Motivações & Táticas:** Destruir, causar repulsa, desorientar, intimidar
 
-> **Difficulty:** 17 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +3 | **Claws and Teeth:** Very Close | 11 phy  
+> **Dificuldade:** 17 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** +3 | **Garras e Dentes:** Muito Próximo | 11 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (13) - Passive:*** The Thrall is defeated when they take any damage. For every 13 damage a PC deals to the Thrall, defeat an additional Minion within range the attack would succeed against.
+***Serviçal (13) - Passivo:*** O Escravo é derrotado ao receber qualquer dano. Para cada 13 de dano que um PJ causar ao Escravo, derrote um Serviçal adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Outer Realm Thralls within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 11 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Escravos dos Reinos Externos dentro do alcance Próximo dele. Esses Serviçais se movem para o alcance de Combate Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 11 de dano físico. Combine esse dano.

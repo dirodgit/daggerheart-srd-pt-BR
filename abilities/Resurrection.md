@@ -1,8 +1,8 @@
-﻿# RESURRECTION
+﻿# RESSURREIÇÃO
 
-> **Level 10 Splendor Spell**  
-> **Recall Cost:** 2
+> **Magia de Esplendor de Nível 10**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll (20). On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a d6. On a result of 5 or lower, place this card in your vault permanently.
+Faça uma Jogada de Conjuração de Magia (20). Em caso de sucesso, restaure uma criatura que esteja morta há no máximo 100 anos à força total. Em seguida, role um d6. Com um resultado de 5 ou menos, coloque esta carta permanentemente em seu cofre.
 
-On a failure, you can’t cast Resurrection again for a week.
+Em caso de falha, você não poderá conjurar Ressurreição novamente por uma semana.

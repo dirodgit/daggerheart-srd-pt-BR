@@ -1,6 +1,6 @@
-﻿# SPLINTERING STRIKE
+﻿# GOLPE FRAGMENTADO
 
-> **Level 9 Bone Ability**  
-> **Recall Cost:** 3
+> **Habilidade Óssea de Nível 9**  
+> **Custo de Recordação:** 3
 
-Spend a Hope and make an attack against all adversaries within your weapon’s range. Once per long rest, on a success against any targets, roll your weapon’s damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them.
+Gaste uma Esperança e faça um ataque contra todos os adversários dentro do alcance da sua arma. Uma vez por descanso longo, ao obter sucesso contra qualquer alvo, role o dano da sua arma e distribua esse dano como desejar entre os alvos contra os quais você teve sucesso. Antes de causar dano a cada alvo, role um dado de dano adicional e some seu resultado ao dano que você causa a eles.

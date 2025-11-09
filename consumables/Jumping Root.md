@@ -1,5 +1,5 @@
-﻿# JUMPING ROOT
+﻿# RAIZ SALTITANTE
 
-Eat this root to leap up to Far range once without needing to roll.
+Coma esta raiz para saltar até o alcance Longo uma vez sem precisar rolar.
 
-*Consumable*
+*Consumível*

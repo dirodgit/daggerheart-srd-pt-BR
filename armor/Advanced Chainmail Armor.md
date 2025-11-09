@@ -1,7 +1,7 @@
-﻿# ADVANCED CHAINMAIL ARMOR
+﻿# ARMADURA DE MALHA AVANÇADA
 
-**Base Thresholds:** 13 / 31; **Base Score:** 6
+**Limiares Base:** 13 / 31; **Pontuação Base:** 6
 
-**Feature:** ***Heavy:*** -1 to Evasion
+**Característica:** ***Pesada:*** -1 na Evasão
 
-*Armor - Tier 3*
+*Armadura - Nível 3*

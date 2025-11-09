@@ -1,5 +1,5 @@
 ﻿# FEATHERBONE
 
-You can use this bone to control your falling speed for a number of minutes equal to your level.
+Você pode usar este osso para controlar sua velocidade de queda por um número de minutos igual ao seu nível.
 
-*Consumable*
+*Consumível*

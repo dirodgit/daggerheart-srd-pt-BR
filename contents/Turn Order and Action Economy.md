@@ -1,11 +1,11 @@
-# TURN ORDER & ACTION ECONOMY
+# ORDEM DE TURNO & ECONOMIA DE AÇÕES
 
-Daggerheart’s turns don’t follow a traditional, rigid format; there is no explicit initiative mechanic and characters don’t have a set number of actions they can take or things they can do before the spotlight passes to someone else. A player with the spotlight describes what their character does and the spotlight simply swings to whoever:
+Os turnos em Daggerheart não seguem um formato tradicional e rígido; não há uma mecânica explícita de iniciativa e os personagens não têm um número fixo de ações que podem realizar ou coisas que podem fazer antes que o foco passe para outra pessoa. Um jogador com o foco descreve o que seu personagem faz e o foco simplesmente passa para quem:
 
-1. The fiction would naturally turn it toward
-2. Hasn’t had the focus in a while, or
-3. A triggered mechanic puts it on
+1. A ficção naturalmente direcionaria,
+2. Não teve o foco há algum tempo, ou
+3. Uma mecânica acionada o coloca no foco.
 
-> ***Optional: Spotlight Tracker Tool***
+> ***Opcional: Ferramenta de Rastreamento de Foco***
 >
-> *If your group prefers a more traditional action economy, you can use tokens to track how many times a player has had the spotlight: At the start of a session or scene, each player adds a certain number of tokens (we recommend 3) to their character sheet and removes a token each time they take an action. If the spotlight would swing to someone without any tokens, it swings to someone else instead. Once every player has used all their available tokens, players refill their character sheet with the same number of tokens as before, then continue playing.*
+> *Se seu grupo prefere uma economia de ações mais tradicional, vocês podem usar fichas para rastrear quantas vezes um jogador teve o foco: No início de uma sessão ou cena, cada jogador adiciona um certo número de fichas (recomendamos 3) à ficha do personagem e remove uma ficha cada vez que realiza uma ação. Se o foco fosse passar para alguém sem fichas, ele passa para outra pessoa. Quando todos os jogadores tiverem usado todas as fichas disponíveis, eles reabastecem a ficha do personagem com o mesmo número de fichas de antes e continuam jogando.*

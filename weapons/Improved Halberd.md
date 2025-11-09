@@ -1,7 +1,7 @@
-﻿# IMPROVED HALBERD
+﻿# ALABARDA APRIMORADA
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Muito Próximo; **Dano:** d10+5 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitada:*** -1 na Destreza
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

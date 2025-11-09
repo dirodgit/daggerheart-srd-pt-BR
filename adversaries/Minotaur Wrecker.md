@@ -1,17 +1,17 @@
-﻿# MINOTAUR WRECKER
+﻿# DESTRUIDOR MINOTAURO
 
-***Tier 2 Bruiser***  
-*A massive bull-headed hybrid with a quick temper.*  
-**Motives & Tactics:** Consume, gore, navigate, overpower, pursue
+***Brutamontes de Nível 2***  
+*Um híbrido maciço com cabeça de touro e temperamento explosivo.*  
+**Motivações & Táticas:** Consumir, chifrar, navegar, dominar, perseguir
 
-> **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy  
-> **Experience:** Navigation +2
+> **Dificuldade:** 16 | **Limiares:** 14/27 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +2 | **Machado de Batalha:** Muito Próximo | 2d8+5 físico  
+> **Experiência:** Navegação +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Ramp Up - Passive:*** You must spend a Fear to spotlight the Minotaur. While spotlighted, they can make their standard attack against all targets within range.
+***Aquecimento - Passivo:*** Você deve gastar um Medo para destacar o Minotauro. Enquanto destacado, ele pode fazer seu ataque padrão contra todos os alvos dentro do alcance.
 
-***Charging Bull - Action:*** Mark a Stress to charge through a group within Close range and make an attack against all targets in the Minotaur’s path. Targets the Minotaur succeeds against take 2d6+8 physical damage and are knocked back to Very Far range. If a target is knocked into a solid object or another creature, they take an extra 1d6 damage (combine their damage).
+***Touro em Carga - Ação:*** Marque um Estresse para carregar através de um grupo em alcance Próximo e fazer um ataque contra todos os alvos no caminho do Minotauro. Os alvos contra os quais o Minotauro obtiver sucesso recebem 2d6+8 de dano físico e são empurrados para alcance Muito Distante. Se um alvo for empurrado contra um objeto sólido ou outra criatura, ele recebe 1d6 de dano extra (some os danos).
 
-***Gore - Action:*** Make an attack against a target within Very Close range, moving the Minotaur into Melee range of them. On a success, deal 2d8 direct physical damage.
+***Chifrada - Ação:*** Faça um ataque contra um alvo em alcance Muito Próximo, movendo o Minotauro para alcance Corpo a Corpo com ele. Em caso de sucesso, cause 2d8 de dano físico direto.

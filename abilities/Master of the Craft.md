@@ -1,6 +1,6 @@
-﻿# MASTER OF THE CRAFT
+﻿# MESTRE DO OFÍCIO
 
-> **Level 9 Grace Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Graça de Nível 9**  
+> **Custo de Recordação:** 0
 
-Gain a permanent +2 bonus to two of your Experiences or a permanent +3 bonus to one of your Experiences. Then place this card in your vault permanently.
+Ganhe um bônus permanente de +2 em duas de suas Experiências ou um bônus permanente de +3 em uma de suas Experiências. Em seguida, coloque esta carta em seu cofre permanentemente.

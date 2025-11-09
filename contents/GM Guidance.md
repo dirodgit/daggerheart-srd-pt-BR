@@ -1,111 +1,111 @@
-# RUNNING AN ADVENTURE
+# CONDUZINDO UMA AVENTURA
 
-## INTRODUCTION
+## INTRODUÇÃO
 
-The GM is responsible for guiding the narrative and roleplaying the world the PCs inhabit. This section provides you with advice for running Daggerheart: using the core mechanics; creating memorable encounters; planning exciting sessions; selecting, creating, and using GM moves; crafting a full campaign; running dynamic NPCs; and more.
+O GM é responsável por guiar a narrativa e interpretar o mundo que os PCs habitam. Esta seção oferece conselhos para conduzir Daggerheart: usar as mecânicas básicas; criar encontros memoráveis; planejar sessões empolgantes; selecionar, criar e usar movimentos do GM; elaborar uma campanha completa; conduzir NPCs dinâmicos; e muito mais.
 
-These three sections provide a foundation to help you get the most out of this game. The “GM Principles” are your guiding star—when in doubt, return to these principles.
+Estas três seções fornecem uma base para ajudá-lo a aproveitar ao máximo este jogo. Os “Princípios do GM” são sua estrela guia — em caso de dúvida, retorne a esses princípios.
 
-## GM PRINCIPLES
+## PRINCÍPIOS DO GM
 
-### BEGIN AND END WITH THE FICTION
+### COMEÇAR E TERMINAR COM A FICÇÃO
 
-*Use the fiction to drive mechanics, then connect the mechanics back to the fiction.*
+*Use a ficção para guiar as mecânicas, depois conecte as mecânicas de volta à ficção.*
 
-### COLLABORATE AT ALL TIMES, ESPECIALLY DURING CONFLICT
+### COLABORE O TEMPO TODO, ESPECIALMENTE DURANTE CONFLITOS
 
-*The PCs are the protagonists of the campaign; antagonism between player and GM should exist only in the fiction.*
+*Os PCs são os protagonistas da campanha; antagonismo entre jogador e GM deve existir apenas na ficção.*
 
-### FILL THE WORLD WITH LIFE, WONDER, AND DANGER
+### PREENCHA O MUNDO COM VIDA, MARAVILHAS E PERIGO
 
-*Showcase rich cultures, take the PCs to wondrous places, and introduce them to dangerous creatures.*
+*Mostre culturas ricas, leve os PCs a lugares maravilhosos e apresente criaturas perigosas.*
 
-### ASK QUESTIONS AND INCORPORATE THE ANSWERS
+### FAÇA PERGUNTAS E INCORPORE AS RESPOSTAS
 
-*Ensuring that the players’ ideas are included results in a narrative that supports the whole group’s creativity.*
+*Garantir que as ideias dos jogadores sejam incluídas resulta em uma narrativa que apoia a criatividade de todo o grupo.*
 
-### GIVE EVERY ROLL IMPACT
+### DÊ IMPACTO A CADA ROLAGEM
 
-*Only ask the players to roll during meaningful moments.*
+*Peça aos jogadores para rolar apenas em momentos significativos.*
 
-### PLAY TO FIND OUT WHAT HAPPENS
+### JOGUE PARA DESCOBRIR O QUE ACONTECE
 
-*Be surprised by what the characters do, the choices they make, and the people they become.*
+*Surpreenda-se com o que os personagens fazem, as escolhas que tomam e as pessoas que se tornam.*
 
-### HOLD ON GENTLY
+### SEGURE COM CUIDADO
 
-*Don’t worry if you need to abandon or alter something that came before.*
+*Não se preocupe se precisar abandonar ou alterar algo que veio antes.*
 
-## GM PRACTICES
+## PRÁTICAS DO GM
 
-### CULTIVATE A CURIOUS TABLE
+### CULTIVE UMA MESA CURIOSA
 
-*Follow what catches the players’ interest to foster an environment of creative inquiry.*
+*Siga o que chama a atenção dos jogadores para fomentar um ambiente de investigação criativa.*
 
-### GAIN YOUR PLAYERS’ TRUST
+### CONQUISTE A CONFIANÇA DOS JOGADORES
 
-*Act in good faith, follow through on your promises, admit your mistakes.*
+*Atue de boa-fé, cumpra suas promessas, admita seus erros.*
 
-### KEEP THE STORY MOVING FORWARD
+### MANTENHA A HISTÓRIA AVANÇANDO
 
-*Advance the story through escalating action, new information, or changing circumstances after every action roll, whether it succeeds or fails.*
+*Avance a história por meio de ações crescentes, novas informações ou mudanças nas circunstâncias após cada rolagem de ação, seja ela sucesso ou falha.*
 
-### CUT TO THE ACTION
+### VÁ DIRETO À AÇÃO
 
-*Skip past the boring bits. When a scene drags on, end it.*
+*Pule as partes entediantes. Quando uma cena se arrasta, termine-a.*
 
-### HELP THE PLAYERS USE THE GAME
+### AJUDE OS JOGADORES A USAR O JOGO
 
-*Players have more fun when you help them understand the system.*
+*Os jogadores se divertem mais quando você os ajuda a entender o sistema.*
 
-### CREATE A META CONVERSATION
+### CRIE UMA CONVERSA META
 
-*Empower players to speak out of character, use safety tools, and ask for clarification.*
+*Incentive os jogadores a falarem fora do personagem, usarem ferramentas de segurança e pedirem esclarecimentos.*
 
-### TELL THEM WHAT THEY WOULD KNOW
+### DIGA O QUE ELES SABERIAM
 
-*Don’t hide obvious details or important information from the players.*
+*Não esconda detalhes óbvios ou informações importantes dos jogadores.*
 
-### GROUND THE WORLD IN MOTIVE
+### FUNDE O MUNDO NO MOTIVO
 
-*An NPC’s actions flow from their goals and desires.*
+*As ações de um NPC fluem de seus objetivos e desejos.*
 
-### BRING THE GAME’S MECHANICS TO LIFE
+### TRAGA AS MECÂNICAS DO JOGO À VIDA
 
-*Set a good example of how fiction and mechanics work together to enhance the game experience.*
+*Dê um bom exemplo de como ficção e mecânicas trabalham juntas para melhorar a experiência do jogo.*
 
-### REFRAME RATHER THAN REJECT
+### REFORMULE EM VEZ DE REJEITAR
 
-*If a player’s contribution conflicts with the fiction, work with them to reshape it.*
+*Se a contribuição de um jogador conflitar com a ficção, trabalhe com ele para reformulá-la.*
 
-### WORK IN MOMENTS AND MONTAGES
+### TRABALHE EM MOMENTOS E MONTAGENS
 
-*When framing a scene, decide which beats should be savored and which shouldn’t linger.*
+*Ao estruturar uma cena, decida quais momentos devem ser saboreados e quais não devem se prolongar.*
 
-## PITFALLS TO AVOID
+## ARMADILHAS A EVITAR
 
-### UNDERMINING THE HEROES
+### MINAR OS HERÓIS
 
-If a roll doesn’t go well, show how it was impacted by an adversary’s prowess, environmental factors, or unexpected surprises, rather than the PC’s incompetence.
+Se uma rolagem não for bem-sucedida, mostre como ela foi impactada pela perícia de um adversário, fatores ambientais ou surpresas inesperadas, em vez da incompetência do PC.
 
-### ALWAYS TELLING THE PLAYERS WHAT TO ROLL
+### SEMPRE DIZER AOS JOGADORES O QUE ROLAR
 
-Let the players decide how to handle a challenge.
+Deixe os jogadores decidirem como lidar com um desafio.
 
-### LETTING SCENES DRAG
+### DEIXAR AS CENAS SE ARRASTAREM
 
-Shake it up or cut away when a scene has concluded, the table’s energy is flagging, or people are talking in circles.
+Agite a situação ou corte quando uma cena tiver terminado, a energia da mesa estiver baixa ou as pessoas estiverem falando em círculos.
 
-### SINGULAR SOLUTIONS
+### SOLUÇÕES ÚNICAS
 
-Don’t get hung up on one right answer to a problem. If the players have a clever idea, make it work.
+Não fique preso a uma única resposta certa para um problema. Se os jogadores tiverem uma ideia inteligente, faça-a funcionar.
 
-### OVERPLANNING
+### PLANEJAMENTO EXCESSIVO
 
-Spend your prep time inventing situations instead of scripting scenes. If the players surprise you, take a break to think through your options.
+Use seu tempo de preparação para inventar situações em vez de roteirizar cenas. Se os jogadores te surpreenderem, faça uma pausa para pensar nas suas opções.
 
-### HOARDING FEAR
+### ACUMULAR MEDO
 
-Spend Fear when you have the opportunity. The players will enjoy its immediate impact.
+Gaste Medo sempre que tiver oportunidade. Os jogadores vão gostar do impacto imediato.
 
-> *For more in-depth GM guidance, see pg. 140 of the Daggerheart Core Rulebook.*
+> *Para orientações mais detalhadas para GM, veja a pág. 140 do Daggerheart Core Rulebook.*

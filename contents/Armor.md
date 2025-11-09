@@ -1,17 +1,17 @@
-# ARMOR
+# ARMADURA
 
-Every armor has a name, base damage thresholds, and a base Armor Score. Some armor also has a feature.
+Toda armadura possui um nome, limiares de dano base e uma Pontuação de Armadura base. Algumas armaduras também possuem uma característica.
 
-- An armor’s **base armor score** indicates how many Armor Slots it provides its wearer before additional bonuses are added to calculate their total Armor Score. A PC’s Armor Score can’t exceed 12.
-- An armor’s **base thresholds** determine its wearer’s major and severe damage thresholds before adding bonuses to calculate their final damage thresholds.
-- An armor’s **feature** is a special rule that stays in effect while the armor is equipped.
+- A **pontuação de armadura base** de uma armadura indica quantos Espaços de Armadura ela fornece ao seu usuário antes de adicionar bônus adicionais para calcular sua Pontuação de Armadura total. A Pontuação de Armadura de um PJ não pode exceder 12.
+- Os **limiares base** de uma armadura determinam os limiares de dano maior e severo do seu usuário antes de adicionar bônus para calcular seus limiares finais de dano.
+- A **característica** de uma armadura é uma regra especial que permanece em efeito enquanto a armadura estiver equipada.
 
-While **unarmored**, your character’s base Armor Score is 0, their Major threshold is equal to their level, and their Severe threshold is equal to twice their level.
+Enquanto **desarmado**, a Pontuação de Armadura base do seu personagem é 0, seu limiar Maior é igual ao seu nível, e seu limiar Severo é igual ao dobro do seu nível.
 
-## REDUCING INCOMING DAMAGE
+## REDUZINDO O DANO RECEBIDO
 
-When you take damage, you can mark one Armor Slot to reduce the number of Hit Points you would mark by one. If your character has an Armor Score of 0, you can’t mark Armor Slots. If an effect temporarily increases your Armor Score, it increases your available Armor Slots by the same amount; when the effect ends, so does the availability of these Armor Slots.
+Quando você sofre dano, pode marcar um Espaço de Armadura para reduzir em um o número de Pontos de Vida que você marcaria. Se seu personagem tiver uma Pontuação de Armadura de 0, você não pode marcar Espaços de Armadura. Se um efeito aumentar temporariamente sua Pontuação de Armadura, ele aumenta a quantidade de Espaços de Armadura disponíveis na mesma proporção; quando o efeito termina, a disponibilidade desses Espaços de Armadura também termina.
 
-## ARMOR TABLES
+## TABELAS DE ARMADURA
 
-- [Armor Tables](../contents/Armor%20Tables.md)
+- [Tabelas de Armadura](../contents/Armor%20Tables.md)

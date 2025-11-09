@@ -1,14 +1,14 @@
-﻿# ELEMENTAL SPARK
+﻿# FAÍSCA ELEMENTAL
 
-***Tier 3 Minion***  
-*A blazing mote of elemental fire.*  
-**Motives & Tactics:** Blast, consume, gain mass
+***Capanga de Nível 3***  
+*Uma partícula flamejante de fogo elemental.*  
+**Motivações & Táticas:** Explodir, consumir, ganhar massa
 
-> **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +0 | **Burst of Fire:** Close | 5 mag  
+> **Dificuldade:** 15 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** +0 | **Explosão de Fogo:** Curto alcance | 5 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (9) - Passive:*** The Elemental is defeated when they take any damage. For every 9 damage a PC deals to the Elemental, defeat an additional Minion within range the attack would succeed against.
+***Capanga (9) - Passivo:*** O Elemental é derrotado ao receber qualquer dano. Para cada 9 de dano que um PJ causar ao Elemental, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Elemental Sparks within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 5 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todas as Faíscas Elementais dentro do alcance Curto dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 5 de dano físico. Combine esse dano.

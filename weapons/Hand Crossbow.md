@@ -1,7 +1,7 @@
-﻿# HAND CROSSBOW
+﻿# Besta de Mão
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+1 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+1 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Secondary Weapon - Tier 1*
+*Arma Secundária - Nível 1*

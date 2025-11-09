@@ -1,19 +1,19 @@
-# CORE GAMEPLAY LOOP
+# CICLO PRINCIPAL DE JOGO
 
-The core gameplay loop is the procedure that drives every scene, both in and out of combat:
+O ciclo principal de jogo é o procedimento que conduz cada cena, tanto dentro quanto fora de combate:
 
-## STEP 1: SET THE SCENE
+## PASSO 1: DEFINIR A CENA
 
-The GM describes a scenario, establishing the PCs’ surroundings and any dangers, NPCs, or other important details the characters would notice.
+O Mestre descreve um cenário, estabelecendo o ambiente dos Personagens Jogadores (PJs) e quaisquer perigos, NPCs ou outros detalhes importantes que os personagens perceberiam.
 
-## STEP 2: ASK AND ANSWER QUESTIONS
+## PASSO 2: FAZER E RESPONDER PERGUNTAS
 
-The players ask clarifying questions to explore the scene more deeply and gather information that could inform their characters’ actions. The GM responds to these questions by giving the players information their characters could easily obtain, or by asking questions of their own to the players. The players also respond to any questions the GM poses to them. In this way, the table builds out the fiction collaboratively.
+Os jogadores fazem perguntas esclarecedoras para explorar a cena mais profundamente e reunir informações que possam orientar as ações de seus personagens. O Mestre responde a essas perguntas fornecendo aos jogadores informações que seus personagens poderiam facilmente obter, ou fazendo perguntas próprias aos jogadores. Os jogadores também respondem a quaisquer perguntas feitas pelo Mestre. Dessa forma, a mesa constrói a ficção de forma colaborativa.
 
-## STEP 3: BUILD ON THE FICTION
+## PASSO 3: CONSTRUIR SOBRE A FICÇÃO
 
-As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC’s actions have changed things.
+À medida que a cena se desenvolve, os jogadores encontram oportunidades para agir — problemas para resolver, obstáculos para superar, mistérios para investigar, e assim por diante. Os jogadores descrevem como seus personagens procedem; se as ações propostas não tiverem chance de falha (ou se a falha seria entediante), eles têm sucesso automaticamente. Mas se o resultado da ação for incerto, o Mestre solicita uma rolagem de ação. De qualquer forma, a mesa incorpora o resultado à história e avança a ficção, narrando como as ações do PJ mudaram as coisas.
 
-## STEP 4: GO BACK TO STEP 1
+## PASSO 4: VOLTAR AO PASSO 1
 
-The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
+O processo se repete desde o início, com o Mestre transmitindo quaisquer detalhes atualizados ou mudanças materiais aos jogadores. Esse processo continua até que o fim da cena seja acionado por uma mecânica ou ocorra de forma orgânica.

@@ -1,5 +1,5 @@
-﻿# GILL SALVE
+﻿# UNGUENTO DE GILL
 
-You can apply this salve to your neck to breathe underwater for a number of minutes equal to your level.
+Você pode aplicar este unguento no pescoço para respirar debaixo d'água por um número de minutos igual ao seu nível.
 
-*Consumable*
+*Consumível*

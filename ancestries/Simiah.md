@@ -1,9 +1,9 @@
 ﻿# SIMIAH
 
-Simiah resemble anthropomorphic monkeys and apes with long limbs and prehensile feet. While their appearance reflects all simian creatures, from the largest gorilla to the smallest marmoset, their size does not align with their animal counterparts, and they can be anywhere from 2 to 6 feet tall. All simiah can use their dexterous feet for nonverbal communication, work, and combat. Additionally, some also have prehensile tails that can grasp objects or help with balance during difficult maneuvers. These traits grant members of this ancestry unique agility that aids them in a variety of physical tasks. In particular, simiah are skilled climbers and can easily transition from bipedal movement to knuckle-walking and climbing, and back again. On average, simiah live for about 100 years.
+Os simiah assemelham-se a macacos e símios antropomórficos com membros longos e pés preênseis. Embora sua aparência reflita todas as criaturas símias, desde o maior gorila até o menor sagui, seu tamanho não corresponde ao de seus equivalentes animais, podendo variar de 60 cm a 1,80 m de altura. Todos os simiah podem usar seus pés hábeis para comunicação não verbal, trabalho e combate. Além disso, alguns também possuem caudas preênseis que podem agarrar objetos ou ajudar no equilíbrio durante manobras difíceis. Essas características conferem aos membros dessa ancestralidade uma agilidade única que os auxilia em diversas tarefas físicas. Em particular, os simiah são escaladores habilidosos e podem facilmente transitar entre o movimento bípede, a locomoção apoiada nos nós dos dedos e a escalada, e vice-versa. Em média, os simiah vivem cerca de 100 anos.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DA ANCESTRALIDADE
 
-***Natural Climber:*** You have advantage on Agility Rolls that involve balancing and climbing.
+***Escalador Natural:*** Você tem vantagem em Testes de Agilidade que envolvam equilíbrio e escalada.
 
-***Nimble:*** Gain a permanent +1 bonus to your Evasion at character creation.
+***Ágil:*** Receba um bônus permanente de +1 na sua Evasão na criação do personagem.

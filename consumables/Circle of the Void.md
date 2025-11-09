@@ -1,5 +1,5 @@
-﻿# CIRCLE OF THE VOID
+﻿# CÍRCULO DO VAZIO
 
-Mark a Stress to create a void that extends up to Far range. No magic can be cast inside the void, and creatures within the void are immune to magic damage.
+Marque 1 ponto de Estresse para criar um vazio que se estende até o alcance Longínquo. Nenhuma magia pode ser conjurada dentro do vazio, e criaturas dentro do vazio são imunes a dano mágico.
 
-*Consumable*
+*Consumível*

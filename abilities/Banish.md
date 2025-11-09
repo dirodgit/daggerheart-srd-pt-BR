@@ -1,8 +1,8 @@
-﻿# BANISH
+﻿# BANIR
 
-> **Level 6 Codex Spell**  
-> **Recall Cost:** 0
+> **Magia do Códice de Nível 6**  
+> **Custo de Recordação:** 0
 
-Make a Spellcast Roll against a target within Close range. On a success, roll a number of d20s equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn’t banished. Once per rest on a failure, they are banished from this realm.
+Faça uma Jogada de Conjuração de Magia contra um alvo dentro do alcance Próximo. Em caso de sucesso, role um número de d20s igual ao seu traço de Conjuração de Magia. O alvo deve fazer uma jogada de reação com uma Dificuldade igual ao seu maior resultado. Em caso de sucesso, o alvo deve marcar um Estresse, mas não é banido. Uma vez por descanso, em caso de falha, ele é banido deste reino.
 
-When the PCs roll with Fear, the Difficulty gains a -1 penalty and the target makes another reaction roll. On a success, they return from banishment.
+Quando os personagens rolarem com Medo, a Dificuldade recebe uma penalidade de -1 e o alvo faz outra jogada de reação. Em caso de sucesso, ele retorna do banimento.

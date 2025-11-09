@@ -1,11 +1,11 @@
-﻿# ELF
+﻿# ELFO
 
-Elves are typically tall humanoids with pointed ears and acutely attuned senses. Their ears vary in size and pointed shape, and as they age, the tips begin to droop. While elves come in a wide range of body types, they are all fairly tall, with heights ranging from about 6 to 6 ½ feet. All elves have the ability to drop into a celestial trance, rather than sleep. This allows them to rest effectively in a short amount of time.
+Elfos são tipicamente humanoides altos com orelhas pontudas e sentidos aguçados. Suas orelhas variam em tamanho e formato pontiagudo, e à medida que envelhecem, as pontas começam a cair. Embora os elfos apresentem uma ampla variedade de tipos físicos, todos são bastante altos, com alturas que variam de cerca de 1,80 m a 2 m. Todos os elfos têm a habilidade de entrar em um transe celestial, em vez de dormir. Isso lhes permite descansar de forma eficaz em um curto período de tempo.
 
-Some elves possess what is known as a “mystic form,” which occurs when an elf has dedicated themself to the study or protection of the natural world so deeply that their physical form changes. These characteristics can include celestial freckles, the presence of leaves, vines, or flowers in their hair, eyes that flicker like fire, and more. Sometimes these traits are inherited from parents, but if an elf changes their environment or magical focus, their appearance changes over time. Because elves live for about 350 years, these traits can shift more than once throughout their lifespan.
+Alguns elfos possuem o que é conhecido como “forma mística”, que ocorre quando um elfo se dedica profundamente ao estudo ou à proteção do mundo natural, a ponto de sua forma física mudar. Essas características podem incluir sardas celestiais, a presença de folhas, vinhas ou flores no cabelo, olhos que cintilam como fogo, entre outras. Às vezes, esses traços são herdados dos pais, mas se um elfo muda seu ambiente ou foco mágico, sua aparência muda ao longo do tempo. Como os elfos vivem cerca de 350 anos, esses traços podem se modificar mais de uma vez durante sua vida.
 
-## ANCESTRY FEATURES
+## CARACTERÍSTICAS DE ANCESTRALIDADE
 
-***Quick Reactions:*** **Mark a Stress** to gain advantage on a reaction roll.
+***Reações Rápidas:*** **Marque um Estresse** para ganhar vantagem em uma jogada de reação.
 
-***Celestial Trance:*** During a rest, you can drop into a trance to choose an additional downtime move.
+***Transe Celestial:*** Durante um descanso, você pode entrar em transe para escolher um movimento adicional de tempo livre.

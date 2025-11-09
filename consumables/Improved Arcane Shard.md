@@ -1,5 +1,5 @@
-﻿# IMPROVED ARCANE SHARD
+﻿# FRAGMENTO ARCANO APRIMORADO
 
-You can make a Finesse Roll to throw this shard at a group of adversaries within Far range. Targets you succeed against take 2d20 magic damage.
+Você pode fazer um Teste de Destreza para arremessar este fragmento em um grupo de adversários dentro do alcance Longo. Os alvos contra os quais você obtiver sucesso recebem 2d20 de dano mágico.
 
-*Consumable*
+*Consumível*

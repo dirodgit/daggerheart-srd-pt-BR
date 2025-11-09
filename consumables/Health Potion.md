@@ -1,5 +1,5 @@
-﻿# HEALTH POTION
+﻿# POÇÃO DE VIDA
 
-Clear 1d4+1 HP.
+Cura 1d4+1 PV.
 
-*Consumable*
+*Consumível*

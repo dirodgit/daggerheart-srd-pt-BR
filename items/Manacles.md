@@ -1,5 +1,5 @@
-﻿# MANACLES
+﻿# GRILHÕES
 
-This pair of locking cuffs comes with a key.
+Este par de algemas com trava acompanha uma chave.
 
 *Item*

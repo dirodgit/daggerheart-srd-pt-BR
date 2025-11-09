@@ -1,6 +1,6 @@
-﻿# HYPNOTIC SHIMMER
+﻿# BRILHO HIPNÓTICO
 
-> **Level 3 Grace Spell**  
-> **Recall Cost:** 1
+> **Magia de Graça de Nível 3**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against all adversaries in front of you within Close range. Once per rest on a success, create an illusion of flashing colors and lights that temporarily Stuns targets you succeed against and forces them to mark a Stress. While Stunned, they can’t use reactions and can’t take any other actions until they clear this condition.
+Faça uma Jogada de Conjuração de Magia contra todos os adversários à sua frente dentro do alcance Próximo. Uma vez por descanso, em caso de sucesso, crie uma ilusão de cores e luzes piscantes que temporariamente Atordoa os alvos contra os quais você teve sucesso e os força a marcar um Estresse. Enquanto Atordoados, eles não podem usar reações nem realizar quaisquer outras ações até que essa condição seja removida.

@@ -1,7 +1,7 @@
-﻿# ADVANCED RETURNING BLADE
+﻿# LÂMINA RETORNANTE AVANÇADA
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+6 mag; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Próximo; **Dano:** d8+6 mag; **Carga:** Uma Mão
 
-**Feature:** ***Returning:*** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+**Característica:** ***Retorno:*** Quando esta arma é arremessada dentro do seu alcance, ela aparece em sua mão imediatamente após o ataque.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

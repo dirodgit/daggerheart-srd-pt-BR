@@ -1,6 +1,6 @@
 ﻿# SHADOWBIND
 
-> **Level 2 Midnight Spell**  
-> **Recall Cost:** 0
+> **Magia da Meia-Noite de Nível 2**  
+> **Custo de Recordação:** 0
 
-Make a Spellcast Roll against all adversaries within Very Close range. Targets you succeed against are temporarily Restrained as their shadow binds them in place.
+Faça uma Jogada de Conjuração contra todos os adversários em alcance Muito Próximo. Os alvos contra os quais você obtiver sucesso ficam temporariamente Imobilizados enquanto sua sombra os prende no lugar.

@@ -1,7 +1,7 @@
-﻿# RUNES OF RUINATION
+﻿# RUNAS DA RUÍNA
 
-**Trait:** Knowledge; **Range:** Very Close; **Damage:** d20+4 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Muito Próximo; **Dano:** d20+4 mag; **Carga:** Uma Mão
 
-**Feature:** ***Painful:*** Each time you make a successful attack, you must mark a Stress.
+**Característica:** ***Doloroso:*** Cada vez que você realiza um ataque bem-sucedido, deve marcar um Estresse.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

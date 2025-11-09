@@ -1,6 +1,6 @@
-﻿# ZONE OF PROTECTION
+﻿# ZONA DE PROTEÇÃO
 
-> **Level 6 Splendor Spell**  
-> **Recall Cost:** 2
+> **Magia de Esplendor de Nível 6**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll (16). Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a d6 on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die’s value. You then increase the die’s value by one. When the die’s value would exceed 6, this effect ends.
+Faça um Teste de Conjuração de Magia (16). Uma vez por descanso longo, em caso de sucesso, escolha um ponto dentro do alcance Longo e crie uma zona de proteção visível ali para todos os aliados dentro do alcance Muito Próximo desse ponto. Ao fazer isso, coloque um d6 nesta carta com o valor 1 voltado para cima. Quando um aliado nesta zona sofrer dano, ele reduz esse dano pelo valor do dado. Em seguida, você aumenta o valor do dado em um. Quando o valor do dado ultrapassar 6, este efeito termina.

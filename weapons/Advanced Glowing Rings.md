@@ -1,7 +1,7 @@
-﻿# ADVANCED GLOWING RINGS
+﻿# ANÉIS BRILHANTES AVANÇADOS
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 mag; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Próximo; **Dano:** d10+8 mag; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

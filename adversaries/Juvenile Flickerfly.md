@@ -1,18 +1,18 @@
 ﻿# JUVENILE FLICKERFLY
 
-***Tier 2 Solo***  
-*A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*  
-**Motives & Tactics:** Collect shiny things, hunt, swoop
+***Nível 2 Solo***  
+*Um inseto do tamanho de um cavalo com escamas iridescentes e asas cristalinas que se movem mais rápido do que o olho pode ver.*  
+**Motivações & Táticas:** Coletar coisas brilhantes, caçar, mergulhar
 
-> **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5  
-> **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 phy  
+> **Dificuldade:** 14 | **Limiares:** 13/26 | **HP:** 10 | **Estresse:** 5  
+> **ATQ:** +3 | **Corte de Asa:** Muito Próximo | 2d10+4 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (3) - Passive:*** The Flickerfly can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (3) - Passivo:*** O Flickerfly pode ser destacado até três vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***Peerless Accuracy - Passive:*** Before the Flickerfly makes an attack, roll a d6. On a result of 4 or higher, the target’s Evasion is halved against this attack.
+***Precisão Incomparável - Passivo:*** Antes do Flickerfly fazer um ataque, role um d6. Com um resultado de 4 ou mais, a Evasão do alvo é reduzida pela metade contra esse ataque.
 
-***Mind Dance - Action:*** Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears.
+***Dança Mental - Ação:*** Marque um Estresse para criar um espetáculo magicamente deslumbrante que prende as mentes dos inimigos próximos. Todos os alvos em alcance Próximo devem fazer uma Rolagem de Reação de Instinto. Para cada alvo que falhar, você ganha um Medo e o Flickerfly aprende um dos medos do alvo.
 
-***Hallucinatory Breath - Reaction: Countdown (Loop 1d6):*** When the Flickerfly takes damage for the first time, activate the countdown. When it triggers, the Flickerfly breathes hallucinatory gas on all targets in front of them up to Far range. Targets must succeed on an Instinct Reaction Roll or be tormented by fearful hallucinations. Targets whose fears are known to the Flickerfly have disadvantage on this roll. Targets who fail must mark a Stress and lose a Hope.
+***Sopro Alucinatório - Reação: Contagem Regressiva (Loop 1d6):*** Quando o Flickerfly sofre dano pela primeira vez, ative a contagem regressiva. Quando ela disparar, o Flickerfly exala um gás alucinatório em todos os alvos à sua frente até alcance Distante. Os alvos devem ter sucesso em uma Rolagem de Reação de Instinto ou serão atormentados por alucinações temerosas. Alvos cujos medos são conhecidos pelo Flickerfly têm desvantagem nessa rolagem. Alvos que falharem devem marcar um Estresse e perder uma Esperança.

@@ -1,55 +1,55 @@
-# ARMOR TABLES
+# TABELAS DE ARMADURAS
 
-## TIER 1 (LEVEL 1)
+## NÍVEL 1 (TIER 1)
 
-| **NAME**                         | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                    |
+| **NOME**                         | **LIMIARES BASE** | **PONTUAÇÃO BASE** | **CARACTERÍSTICA**                                    |
 | ------------------------------------------------ | ------------------- | -------------- | ---------------------------------------------- |
-| [Gambeson Armor](../armor/Gambeson%20Armor.md)     | 5 / 11              | 3              | ***Flexible:*** +1 to Evasion                  |
-| [Leather Armor](../armor/Leather%20Armor.md)       | 6 / 13              | 3              | —                                              |
-| [Chainmail Armor](../armor/Chainmail%20Armor.md)   | 7 / 15              | 4              | ***Heavy:*** -1 to Evasion                     |
-| [Full Plate Armor](../armor/Full%20Plate%20Armor.md) | 8 / 17              | 4              | ***Very Heavy:*** -2 to Evasion; -1 to Agility |
+| [Armadura Gambeson](../armor/Gambeson%20Armor.md)     | 5 / 11              | 3              | ***Flexível:*** +1 para Evasão                  |
+| [Armadura de Couro](../armor/Leather%20Armor.md)       | 6 / 13              | 3              | —                                              |
+| [Armadura de Malha](../armor/Chainmail%20Armor.md)   | 7 / 15              | 4              | ***Pesada:*** -1 para Evasão                     |
+| [Armadura Completa de Placas](../armor/Full%20Plate%20Armor.md) | 8 / 17              | 4              | ***Muito Pesada:*** -2 para Evasão; -1 para Agilidade |
 
-## TIER 2 (LEVELS 2–4)
+## NÍVEIS 2–4 (TIER 2)
 
-| **NAME**                       | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                                                             |
+| **NOME**                       | **LIMIARES BASE** | **PONTUAÇÃO BASE** | **CARACTERÍSTICA**                                                                                                                                             |
 | ------------------------------ | ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Improved Gambeson Armor](../armor/Improved%20Gambeson%20Armor.md)    | 7 / 16              | 4              | ***Flexible:*** +1 to Evasion                                                                                                                           |
-| [Improved Leather Armor](../armor/Improved%20Leather%20Armor.md)     | 9 / 20              | 4              | —                                                                                                                                                       |
-| [Improved Chainmail Armor](../armor/Improved%20Chainmail%20Armor.md)   | 11 / 24             | 5              | ***Heavy:*** -1 to Evasion                                                                                                                              |
-| [Improved Full Plate Armor](../armor/Improved%20Full%20Plate%20Armor.md)  | 13 / 28             | 5              | ***Very Heavy:*** -2 to Evasion; -1 to Agility                                                                                                          |
-| [Elundrian Chain Armor](../armor/Elundrian%20Chain%20Armor.md)      | 9 / 21              | 4              | ***Warded:*** You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds.                                        |
-| [Harrowbone Armor](../armor/Harrowbone%20Armor.md)           | 9 / 21              | 4              | ***Resilient:*** Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot. |
-| [Irontree Breastplate Armor](../armor/Irontree%20Breastplate%20Armor.md) | 9 / 20              | 4              | ***Reinforced:*** When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot.                      |
-| [Runetan Floating Armor](../armor/Runetan%20Floating%20Armor.md)     | 9 / 20              | 4              | ***Shifting:*** When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage.                       |
-| [Tyris Soft Armor](../armor/Tyris%20Soft%20Armor.md)           | 8 / 18              | 5              | ***Quiet:*** You gain a +2 bonus to rolls you make to move silently.                                                                                    |
-| [Rosewild Armor](../armor/Rosewild%20Armor.md)             | 11 / 23             | 5              | ***Hopeful:*** When you would spend a Hope, you can mark an Armor Slot instead.                                                                         |
+| [Armadura Gambeson Melhorada](../armor/Improved%20Gambeson%20Armor.md)    | 7 / 16              | 4              | ***Flexível:*** +1 para Evasão                                                                                                                           |
+| [Armadura de Couro Melhorada](../armor/Improved%20Leather%20Armor.md)     | 9 / 20              | 4              | —                                                                                                                                                       |
+| [Armadura de Malha Melhorada](../armor/Improved%20Chainmail%20Armor.md)   | 11 / 24             | 5              | ***Pesada:*** -1 para Evasão                                                                                                                              |
+| [Armadura Completa de Placas Melhorada](../armor/Improved%20Full%20Plate%20Armor.md)  | 13 / 28             | 5              | ***Muito Pesada:*** -2 para Evasão; -1 para Agilidade                                                                                                          |
+| [Armadura de Malha Elundriana](../armor/Elundrian%20Chain%20Armor.md)      | 9 / 21              | 4              | ***Protegida:*** Você reduz o dano mágico recebido pela sua Pontuação de Armadura antes de aplicá-lo aos seus limiares de dano.                                        |
+| [Armadura Harrowbone](../armor/Harrowbone%20Armor.md)           | 9 / 21              | 4              | ***Resiliente:*** Antes de marcar seu último Espaço de Armadura, role um d6. Com resultado 6, reduza a severidade em um limiar sem marcar um Espaço de Armadura. |
+| [Peitoral Irontree](../armor/Irontree%20Breastplate%20Armor.md) | 9 / 20              | 4              | ***Reforçada:*** Quando você marcar seu último Espaço de Armadura, aumente seus limiares de dano em +2 até que você libere pelo menos 1 Espaço de Armadura.                      |
+| [Armadura Flutuante Runetan](../armor/Runetan%20Floating%20Armor.md)     | 9 / 20              | 4              | ***Mutável:*** Quando você for alvo de um ataque, pode marcar um Espaço de Armadura para dar desvantagem na rolagem de ataque contra você.                       |
+| [Armadura Macia Tyris](../armor/Tyris%20Soft%20Armor.md)           | 8 / 18              | 5              | ***Silenciosa:*** Você ganha +2 em testes para se mover silenciosamente.                                                                                    |
+| [Armadura Rosewild](../armor/Rosewild%20Armor.md)             | 11 / 23             | 5              | ***Esperançosa:*** Quando você gastaria uma Esperança, pode marcar um Espaço de Armadura em vez disso.                                                                         |
 
-## TIER 3 (LEVELS 5–7)
+## NÍVEIS 5–7 (TIER 3)
 
-| **NAME**                                                                 | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                      |
+| **NOME**                                                                 | **LIMIARES BASE** | **PONTUAÇÃO BASE** | **CARACTERÍSTICA**                                                                                                      |
 | ------------------------------------------------------------------------ | ------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [Advanced Gambeson Armor](../armor/Advanced%20Gambeson%20Armor.md)       | 9 / 23              | 5              | ***Flexible:*** +1 to Evasion                                                                                    |
-| [Advanced Leather Armor](../armor/Advanced%20Leather%20Armor.md)         | 11 / 27             | 5              | —                                                                                                                |
-| [Advanced Chainmail Armor](../armor/Advanced%20Chainmail%20Armor.md)     | 13 / 31             | 6              | ***Heavy:*** -1 to Evasion                                                                                       |
-| [Advanced Full Plate Armor](../armor/Advanced%20Full%20Plate%20Armor.md) | 15 / 35             | 6              | ***Very Heavy:*** -2 to Evasion; -1 to Agility                                                                   |
-| [Bellamie Fine Armor](../armor/Bellamie%20Fine%20Armor.md)               | 11 / 27             | 5              | ***Gilded:*** +1 to Presence                                                                                     |
-| [Dragonscale Armor](../armor/Dragonscale%20Armor.md)                     | 11 / 27             | 5              | ***Impenetrable:*** Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress. |
-| [Spiked Plate Armor](../armor/Spiked%20Plate%20Armor.md)                 | 10 / 25             | 5              | ***Sharp:*** On a successful attack against a target within Melee range, add a d4 to the damage roll.            |
-| [Bladefare Armor](../armor/Bladefare%20Armor.md)                         | 16 / 39             | 6              | ***Physical:*** You can’t mark an Armor Slot to reduce magic damage.                                             |
-| [Monett’s Cloak](../armor/Monetts%20Cloak.md)                            | 16 / 39             | 6              | ***Magic:*** You can’t mark an Armor Slot to reduce physical damage.                                             |
-| [Runes of Fortification](../armor/Runes%20of%20Fortification.md)         | 17 / 43             | 6              | ***Painful:*** Each time you mark an Armor Slot, you must mark a Stress.                                         |
+| [Armadura Gambeson Avançada](../armor/Advanced%20Gambeson%20Armor.md)       | 9 / 23              | 5              | ***Flexível:*** +1 para Evasão                                                                                    |
+| [Armadura de Couro Avançada](../armor/Advanced%20Leather%20Armor.md)         | 11 / 27             | 5              | —                                                                                                                |
+| [Armadura de Malha Avançada](../armor/Advanced%20Chainmail%20Armor.md)     | 13 / 31             | 6              | ***Pesada:*** -1 para Evasão                                                                                       |
+| [Armadura Completa de Placas Avançada](../armor/Advanced%20Full%20Plate%20Armor.md) | 15 / 35             | 6              | ***Muito Pesada:*** -2 para Evasão; -1 para Agilidade                                                                   |
+| [Armadura Fina Bellamie](../armor/Bellamie%20Fine%20Armor.md)               | 11 / 27             | 5              | ***Dourada:*** +1 para Presença                                                                                     |
+| [Armadura de Escamas de Dragão](../armor/Dragonscale%20Armor.md)                     | 11 / 27             | 5              | ***Impenetrável:*** Uma vez por descanso curto, quando você marcaria seu último Ponto de Vida, pode marcar um Estresse em vez disso. |
+| [Armadura de Placas com Espinhos](../armor/Spiked%20Plate%20Armor.md)                 | 10 / 25             | 5              | ***Afiada:*** Em um ataque bem-sucedido contra um alvo em alcance corpo a corpo, adicione um d4 ao dano.            |
+| [Armadura Bladefare](../armor/Bladefare%20Armor.md)                         | 16 / 39             | 6              | ***Física:*** Você não pode marcar um Espaço de Armadura para reduzir dano mágico.                                             |
+| [Manto de Monett](../armor/Monetts%20Cloak.md)                            | 16 / 39             | 6              | ***Mágica:*** Você não pode marcar um Espaço de Armadura para reduzir dano físico.                                             |
+| [Runas de Fortificação](../armor/Runes%20of%20Fortification.md)         | 17 / 43             | 6              | ***Dolorosa:*** Cada vez que você marcar um Espaço de Armadura, deve marcar um Estresse.                                         |
 
-## TIER 4 (LEVELS 8–10)
+## NÍVEIS 8–10 (TIER 4)
 
-| **NAME**                       | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                                  |
+| **NOME**                       | **LIMIARES BASE** | **PONTUAÇÃO BASE** | **CARACTERÍSTICA**                                                                                                                  |
 | ------------------------------ | ------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Legendary Gambeson Armor](../armor/Legendary%20Gambeson%20Armor.md)   | 11 / 32             | 6              | ***Flexible:*** +1 to Evasion                                                                                                |
-| [Legendary Leather Armor](../armor/Legendary%20Leather%20Armor.md)    | 13 / 36             | 6              | —                                                                                                                            |
-| [Legendary Chainmail Armor](../armor/Legendary%20Chainmail%20Armor.md)  | 15 / 40             | 7              | ***Heavy:*** -1 to Evasion                                                                                                   |
-| [Legendary Full Plate Armor](../armor/Legendary%20Full%20Plate%20Armor.md) | 17 / 44             | 7              | ***Very Heavy:*** -2 to Evasion; -1 to Agility                                                                               |
-| [Dunamis Silkchain](../armor/Dunamis%20Silkchain.md)          | 13 / 36             | 7              | ***Timeslowing:*** Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack. |
-| [Channeling Armor](../armor/Channeling%20Armor.md)           | 13 / 36             | 5              | ***Channeling:*** +1 to Spellcast Rolls                                                                                      |
-| [Emberwoven Armor](../armor/Emberwoven%20Armor.md)           | 13 / 36             | 6              | ***Burning:*** When an adversary attacks you within Melee range, they mark a Stress.                                         |
-| [Full Fortified Armor](../armor/Full%20Fortified%20Armor.md)       | 15 / 40             | 4              | ***Fortified:*** When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.         |
-| [Veritas Opal Armor](../armor/Veritas%20Opal%20Armor.md)         | 13 / 36             | 6              | ***Truthseeking:*** This armor glows when another creature within Close range tells a lie.                                   |
-| [Savior Chainmail](../armor/Savior%20Chainmail.md)           | 18 / 48             | 8              | ***Difficult:*** -1 to all character traits and Evasion                                                                      |
+| [Armadura Gambeson Lendária](../armor/Legendary%20Gambeson%20Armor.md)   | 11 / 32             | 6              | ***Flexível:*** +1 para Evasão                                                                                                |
+| [Armadura de Couro Lendária](../armor/Legendary%20Leather%20Armor.md)    | 13 / 36             | 6              | —                                                                                                                            |
+| [Armadura de Malha Lendária](../armor/Legendary%20Chainmail%20Armor.md)  | 15 / 40             | 7              | ***Pesada:*** -1 para Evasão                                                                                                   |
+| [Armadura Completa de Placas Lendária](../armor/Legendary%20Full%20Plate%20Armor.md) | 17 / 44             | 7              | ***Muito Pesada:*** -2 para Evasão; -1 para Agilidade                                                                               |
+| [Corrente de Seda Dunamis](../armor/Dunamis%20Silkchain.md)          | 13 / 36             | 7              | ***Ralentizadora:*** Marque um Espaço de Armadura para rolar um d4 e adicionar o resultado como bônus à sua Evasão contra um ataque recebido. |
+| [Armadura Canalizadora](../armor/Channeling%20Armor.md)           | 13 / 36             | 5              | ***Canalização:*** +1 para Testes de Conjuração                                                                                      |
+| [Armadura Emberwoven](../armor/Emberwoven%20Armor.md)           | 13 / 36             | 6              | ***Queimante:*** Quando um adversário te atacar em alcance corpo a corpo, ele marca um Estresse.                                         |
+| [Armadura Totalmente Fortificada](../armor/Full%20Fortified%20Armor.md)       | 15 / 40             | 4              | ***Fortificada:*** Quando você marcar um Espaço de Armadura, reduz a severidade de um ataque em dois limiares em vez de um.         |
+| [Armadura Opala Veritas](../armor/Veritas%20Opal%20Armor.md)         | 13 / 36             | 6              | ***Buscadora da Verdade:*** Esta armadura brilha quando outra criatura em alcance Próximo conta uma mentira.                                   |
+| [Armadura de Malha Salvador](../armor/Savior%20Chainmail.md)           | 18 / 48             | 8              | ***Difícil:*** -1 para todas as características do personagem e Evasão                                                                      |

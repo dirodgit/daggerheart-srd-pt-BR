@@ -1,6 +1,6 @@
-﻿# SIGNATURE MOVE
+﻿# MOVIMENTO ASSINATURA
 
-> **Level 5 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Osso de Nível 5**  
+> **Custo de Recordação:** 1
 
-Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you’re taking, you can roll a d20 as your Hope Die. On a success, clear a Stress.
+Nomeie e descreva seu movimento de combate assinatura. Uma vez por descanso, quando você realizar esse movimento assinatura como parte de uma ação que está executando, você pode rolar um d20 como seu Dado de Esperança. Em um sucesso, remova um Estresse.

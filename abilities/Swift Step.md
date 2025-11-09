@@ -1,6 +1,6 @@
-﻿# SWIFT STEP
+﻿# PASSO RÁPIDO
 
-> **Level 10 Bone Ability**  
-> **Recall Cost:** 2
+> **Habilidade Óssea de Nível 10**  
+> **Custo de Recordação:** 2
 
-When an attack made against you fails, clear a Stress. If you can’t clear a Stress, gain a Hope.
+Quando um ataque feito contra você falhar, remova 1 Estresse. Se você não puder remover um Estresse, ganhe 1 Esperança.

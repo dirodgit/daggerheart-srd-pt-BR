@@ -1,7 +1,7 @@
-﻿# GREATBOW
+﻿# GRANDE ARCO
 
-**Trait:** Strength; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Longo; **Dano:** d6+6 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Característica:** ***Poderoso:*** Em um ataque bem-sucedido, role um dado de dano adicional e descarte o resultado mais baixo.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

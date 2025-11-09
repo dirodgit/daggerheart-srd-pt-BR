@@ -1,15 +1,15 @@
-﻿# APPRENTICE ASSASSIN
+﻿# ASSASSINO APRENDIZ
 
-***Tier 2 Minion***  
-*A young trainee eager to prove themselves.*  
-**Motives & Tactics:** Act reckless, kill, prove their worth, show off
+***Capanga de Nível 2***  
+*Um jovem aprendiz ansioso para provar seu valor.*  
+**Motivações & Táticas:** Agir de forma imprudente, matar, provar seu valor, se exibir
 
-> **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -1 | **Thrown Dagger:** Very Close | 4 phy  
-> **Experience:** Intrusion +2
+> **Dificuldade:** 13 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -1 | **Adaga Arremessada:** Muito Perto | 4 físico  
+> **Experiência:** Intrusão +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (6) - Passive:*** The Assassin is defeated when they take any damage. For every 6 damage a PC deals to the Assassin, defeat an additional Minion within range the attack would succeed against.
+***Capanga (6) - Passivo:*** O Assassino é derrotado ao receber qualquer dano. Para cada 6 de dano que um PJ causar ao Assassino, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Apprentice Assassins within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Assassinos Aprendizes dentro do alcance Próximo dele. Esses Capangas se movem para o alcance de Combate Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 4 de dano físico. Combine esse dano.

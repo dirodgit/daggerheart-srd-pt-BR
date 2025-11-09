@@ -1,7 +1,7 @@
-﻿# BATTLEAXE
+﻿# MACHADO DE BATALHA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+3 físico; **Peso:** Duas Mãos
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

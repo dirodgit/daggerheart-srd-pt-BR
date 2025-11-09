@@ -1,21 +1,21 @@
 ﻿# KRAKEN
 
-***Tier 4 Solo***  
-*A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*  
-**Motives & Tactics:** Consume, crush, drown, grapple
+***Nível 4 Solo***  
+*Uma besta lendária do mar, maior que o maior dos galeões, com tentáculos cobertos de ventosas e uma boca aterrorizante.*  
+**Motivações & Táticas:** Consumir, esmagar, afogar, agarrar
 
-> **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8  
-> **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy  
-> **Experience:** Swimming +3
+> **Dificuldade:** 20 | **Limiares:** 35/70 | **PV:** 11 | **Estresse:** 8  
+> **ATQ:** +7 | **Tentáculos:** Corpo a Corpo | 4d12+10 físico  
+> **Experiência:** Natação +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (3) - Passive:*** The Kraken can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (3) - Passiva:*** O Kraken pode ser destacado até três vezes por turno do Mestre. Gaste Medo normalmente para destacá-lo.
 
-***Many Tentacles - Passive:*** While the Kraken has 7 or fewer marked HP, they can make their standard attack against two targets within range.
+***Muitos Tentáculos - Passiva:*** Enquanto o Kraken tiver 7 ou menos PV marcados, ele pode fazer seu ataque padrão contra dois alvos dentro do alcance.
 
-***Grapple and Drown - Action:*** Make an attack roll against a target within Close range. On a success, mark a Stress to grab them with a tentacle and drag them beneath the water. The target is Restrained and Vulnerable until they break free with a successful Strength Roll or the Kraken takes Major or greater damage. While Restrained and Vulnerable in this way, a target must mark a Stress when they make an action roll.
+***Agarrar e Afogar - Ação:*** Faça uma rolagem de ataque contra um alvo em alcance Corpo a Corpo. Em caso de sucesso, marque um Estresse para agarrá-lo com um tentáculo e arrastá-lo para debaixo d'água. O alvo fica Imobilizado e Vulnerável até se libertar com uma rolagem de Força bem-sucedida ou até o Kraken sofrer dano Maior ou superior. Enquanto estiver Imobilizado e Vulnerável dessa forma, o alvo deve marcar um Estresse ao fazer uma rolagem de ação.
 
-***Boiling Blast - Action:*** Spend a Fear to spew a line of boiling water at any number of targets in a line up to Far range. All targets must succeed on an Agility Reaction Roll or take 4d6+9 physical damage. If a target marks an Armor Slot to reduce the damage, they must also mark a Stress.
+***Explosão Fervente - Ação:*** Gaste um Medo para cuspir uma linha de água fervente em qualquer número de alvos em linha até alcance Longo. Todos os alvos devem ter sucesso em uma rolagem de Reação de Agilidade ou sofrer 4d6+9 de dano físico. Se um alvo marcar um Espaço de Armadura para reduzir o dano, ele também deve marcar um Estresse.
 
-***Momentum - Reaction:*** When the Kraken makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Kraken fizer um ataque bem-sucedido contra um PJ, você ganha um Medo.

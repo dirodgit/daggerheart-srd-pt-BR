@@ -1,6 +1,6 @@
-﻿# FALLING SKY
+﻿# CÉU CAÍDO
 
-> **Level 10 Arcana Spell**  
-> **Recall Cost:** 1
+> **Magia Arcana de Nível 10**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll against all adversaries within Far range. Mark any number of Stress to make shards of arcana rain down from above. Targets you succeed against take 12d20+2 magic damage for each Stress marked.
+Faça uma Jogada de Conjuração de Magia contra todos os adversários dentro do alcance Longo. Marque qualquer quantidade de Estresse para fazer fragmentos de arcana choverem de cima. Os alvos contra os quais você obtiver sucesso recebem 12d20+2 de dano mágico para cada Estresse marcado.

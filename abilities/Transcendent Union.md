@@ -1,6 +1,6 @@
-﻿# TRANSCENDENT UNION
+﻿# UNIÃO TRANSCENDENTAL
 
-> **Level 10 Codex Spell**  
-> **Recall Cost:** 1
+> **Feitiço do Códice de Nível 10**  
+> **Custo para Recordar:** 1
 
-Once per long rest, spend 5 Hope to cast this spell on two or more willing creatures. Until your next rest, when a creature connected by this union would mark Stress or Hit Points, the connected creatures can choose who marks it.
+Uma vez por descanso longo, gaste 5 de Esperança para lançar este feitiço em duas ou mais criaturas voluntárias. Até seu próximo descanso, quando uma criatura conectada por esta união for marcada com Estresse ou Pontos de Vida, as criaturas conectadas podem escolher quem recebe a marcação.

@@ -1,6 +1,6 @@
-﻿# ON THE BRINK
+﻿# NO LIMIAR
 
-> **Level 9 Bone Ability**  
-> **Recall Cost:** 1
+> **Habilidade Óssea de Nível 9**  
+> **Custo para Recordar:** 1
 
-When you have 2 or fewer Hit Points unmarked, you don’t take Minor damage.
+Quando você tem 2 ou menos Pontos de Vida não marcados, você não sofre dano Menor.

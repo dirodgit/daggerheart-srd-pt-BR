@@ -1,7 +1,7 @@
-﻿# LEGENDARY CROSSBOW
+﻿# BESTA LENDÁRIA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+10 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+10 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

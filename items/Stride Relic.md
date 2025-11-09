@@ -1,5 +1,5 @@
-﻿# STRIDE RELIC
+﻿# RELÍQUIA STRIDE
 
-You gain a +1 bonus to your Agility. You can only carry one relic.
+Você ganha um bônus de +1 em sua Agilidade. Você só pode carregar uma relíquia.
 
 *Item*

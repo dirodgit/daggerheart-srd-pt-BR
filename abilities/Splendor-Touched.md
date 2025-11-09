@@ -1,9 +1,9 @@
-﻿# SPLENDOR-TOUCHED
+﻿# TOCADO PELA SPLENDOR
 
-> **Level 7 Splendor Ability**  
-> **Recall Cost:** 2
+> **Habilidade Splendor de Nível 7**  
+> **Custo para Recordar:** 2
 
-When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Splendor, você ganha os seguintes benefícios:
 
-- +3 bonus to your Severe damage threshold
-- Once per long rest, when incoming damage would require you to mark a number of Hit Points, you can choose to mark that much Stress or spend that much Hope instead.
+- +3 de bônus no seu limite de dano Severo  
+- Uma vez por descanso longo, quando um dano recebido exigir que você marque uma quantidade de Pontos de Vida, você pode escolher marcar essa quantidade em Estresse ou gastar essa quantidade em Esperança em vez disso.

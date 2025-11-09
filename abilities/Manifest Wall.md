@@ -1,6 +1,6 @@
-﻿# MANIFEST WALL
+﻿# PAREDE MANIFESTA
 
-> **Level 5 Codex Spell**  
-> **Recall Cost:** 2
+> **Feitiço do Códice de Nível 5**  
+> **Custo de Recordação:** 2
 
-Make a Spellcast Roll (15). Once per rest on a success, spend a Hope to create a temporary magical wall between two points within Far range. It can be up to 50 feet high and form at any angle. Creatures or objects in its path are shunted to a side of their choice. The wall stays up until your next rest or you cast Manifest Wall again.
+Faça uma Jogada de Conjuração de Feitiço (15). Uma vez por descanso, em um sucesso, gaste uma Esperança para criar uma parede mágica temporária entre dois pontos dentro do alcance Longo. Ela pode ter até 15 metros de altura e formar-se em qualquer ângulo. Criaturas ou objetos em seu caminho são deslocados para um lado de sua escolha. A parede permanece até seu próximo descanso ou até você conjurar Manifest Wall novamente.

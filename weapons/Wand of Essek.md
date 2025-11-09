@@ -1,7 +1,7 @@
-﻿# WAND OF ESSEK
+﻿# VARINHA DE ESSEK
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d8+13 mag; **Burden:** One-Handed
+**Traço:** Conhecimento; **Alcance:** Longo; **Dano:** d8+13 mag; **Peso:** Uma Mão
 
-**Feature:** ***Timebending:*** You can choose the target of your attack after making your attack roll.
+**Característica:** ***Distorção Temporal:*** Você pode escolher o alvo do seu ataque após realizar a rolagem de ataque.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

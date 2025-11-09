@@ -1,44 +1,44 @@
-﻿# GUARDIAN
+﻿# GUARDIÃO
 
-The title of guardian represents an array of martial professions, speaking more to their moral compass and unshakeable fortitude than the means by which they fight. While many guardians join groups of militants for either a country or cause, they’re more likely to follow those few they truly care for, majority be damned. Guardians are known for fighting with remarkable ferocity even against overwhelming odds, defending their cohort above all else. Woe betide those who harm the ally of a guardian, as the guardian will answer this injury in kind.
+O título de guardião representa uma variedade de profissões marciais, referindo-se mais à sua bússola moral e fortaleza inabalável do que aos meios pelos quais lutam. Embora muitos guardiões se juntem a grupos de militantes por um país ou causa, eles têm mais probabilidade de seguir aqueles poucos por quem realmente se importam, que se dane a maioria. Guardiões são conhecidos por lutar com ferocidade notável mesmo contra probabilidades esmagadoras, defendendo seu grupo acima de tudo. Ai de quem ferir um aliado de um guardião, pois o guardião responderá a essa injúria à altura.
 
-> **• DOMAINS:** [Valor](../domains/Valor.md) & [Blade](../domains/Blade.md)  
-> **• STARTING EVASION:** 9  
-> **• STARTING HIT POINTS:** 7  
-> **• CLASS ITEMS:** A totem from your mentor or a secret key
+> **• DOMÍNIOS:** [Valor](../domains/Valor.md) & [Lâmina](../domains/Blade.md)  
+> **• ESQUIVA INICIAL:** 9  
+> **• PONTOS DE VIDA INICIAIS:** 7  
+> **• ITENS DE CLASSE:** Um totem do seu mentor ou uma chave secreta
 
-## GUARDIAN’S HOPE FEATURE
+## HABILIDADE DE ESPERANÇA DO GUARDIÃO
 
-***Frontline Tank:*** Spend 3 Hope to clear 2 Armor Slots.
+***Tanque de Linha de Frente:*** Gaste 3 de Esperança para limpar 2 Espaços de Armadura.
 
-## CLASS FEATURE
+## HABILIDADE DE CLASSE
 
-***Unstoppable:*** Once per long rest, you can become Unstoppable. You gain an Unstoppable Die. At level 1, your Unstoppable Die is a d4. Place it on your character sheet in the space provided, starting with the 1 value facing up. After you make a damage roll that deals 1 or more Hit Points to a target, increase the Unstoppable Die value by one. When the die’s value would exceed its maximum value or when the scene ends, remove the die and drop out of Unstoppable. At level 5, your Unstoppable Die increases to a d6.
+***Imparável:*** Uma vez por descanso longo, você pode se tornar Imparável. Você ganha um Dado Imparável. No nível 1, seu Dado Imparável é um d4. Coloque-o na sua ficha de personagem no espaço fornecido, começando com o valor 1 virado para cima. Após fazer uma rolagem de dano que cause 1 ou mais Pontos de Vida a um alvo, aumente o valor do Dado Imparável em um. Quando o valor do dado ultrapassar seu valor máximo ou quando a cena terminar, remova o dado e saia do estado Imparável. No nível 5, seu Dado Imparável aumenta para um d6.
 
-While Unstoppable, you gain the following benefits:
+Enquanto estiver Imparável, você ganha os seguintes benefícios:
 
-- You reduce the severity of physical damage by one threshold (Severe to Major, Major to Minor, Minor to None).
-- You add the current value of the Unstoppable Die to your damage roll.
-- You can’t be Restrained or Vulnerable.
+- Você reduz a severidade do dano físico em um nível (Grave para Maior, Maior para Menor, Menor para Nenhum).
+- Você adiciona o valor atual do Dado Imparável à sua rolagem de dano.
+- Você não pode ser Restrito ou Vulnerável.
 
-> ***Tip:*** *If your Unstoppable Die is a d4 and the 4 is currently facing up, you remove the die the next time you would increase it. However, if your Unstoppable Die has increased to a d6 and the 4 is currently facing up, you’ll turn it to 5 the next time you would increase it. In this case, you’ll remove the die after you would need to increase it higher than 6.*
+> ***Dica:*** *Se seu Dado Imparável for um d4 e o 4 estiver virado para cima, você remove o dado na próxima vez que precisaria aumentá-lo. No entanto, se seu Dado Imparável tiver aumentado para um d6 e o 4 estiver virado para cima, você o virará para 5 na próxima vez que precisaria aumentá-lo. Nesse caso, você removerá o dado após precisar aumentá-lo para além de 6.*
 
-## GUARDIAN SUBCLASSES
+## SUBCLASSES DO GUARDIÃO
 
-Choose either the **[Stalwart](../subclasses/Stalwart.md)** or **[Vengeance](../subclasses/Vengeance.md)** subclass.
+Escolha a subclasse **[Firme](../subclasses/Stalwart.md)** ou **[Vingança](../subclasses/Vengeance.md)**.
 
-## BACKGROUND QUESTIONS
+## PERGUNTAS DE HISTÓRICO
 
-*Answer any of the following background questions. You can also create your own questions.*
+*Responda a qualquer uma das seguintes perguntas de histórico. Você também pode criar suas próprias perguntas.*
 
-- Who from your community did you fail to protect, and why do you still think of them?
-- You’ve been tasked with protecting something important and delivering it somewhere dangerous. What is it, and where does it need to go?
-- You consider an aspect of yourself to be a weakness. What is it, and how has it affected you?
+- Quem da sua comunidade você falhou em proteger, e por que ainda pensa nessa pessoa?
+- Você foi encarregado de proteger algo importante e entregá-lo em um lugar perigoso. O que é, e para onde precisa ir?
+- Você considera um aspecto seu uma fraqueza. O que é, e como isso te afetou?
 
-## CONNECTIONS
+## CONEXÕES
 
-*Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
+*Pergunte a seus companheiros jogadores uma das seguintes perguntas para que o personagem deles responda, ou crie suas próprias perguntas.*
 
-- How did I save your life the first time we met?
-- What small gift did you give me that you notice I always carry with me?
-- What lie have you told me about yourself that I absolutely believe?
+- Como eu salvei sua vida na primeira vez que nos encontramos?
+- Qual pequeno presente você me deu que percebe que eu sempre carrego comigo?
+- Qual mentira você me contou sobre si mesmo que eu absolutamente acredito?

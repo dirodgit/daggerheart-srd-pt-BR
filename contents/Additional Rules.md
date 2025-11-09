@@ -1,35 +1,35 @@
-# ADDITIONAL RULES
+# REGRAS ADICIONAIS
 
-The following rules apply to many aspects of the game.
+As seguintes regras se aplicam a muitos aspectos do jogo.
 
-## ROUNDING UP
+## ARREDONDAMENTO PARA CIMA
 
-This game doesn’t use fractions; if you need to round to a whole number, round up unless otherwise specified. When in doubt, resolve any ambiguity in favor of the PCs.
+Este jogo não utiliza frações; se for necessário arredondar para um número inteiro, arredonde para cima, a menos que especificado de outra forma. Em caso de dúvida, resolva qualquer ambiguidade em favor dos PCs.
 
-## REROLLING DICE
+## RELANÇANDO DADOS
 
-When a feature allows you to reroll a die, you always take the new result unless the feature specifically says otherwise.
+Quando uma habilidade permite que você relance um dado, você sempre deve aceitar o novo resultado, a menos que a habilidade diga especificamente o contrário.
 
-## INCOMING DAMAGE
+## DANO RECEBIDO
 
-Incoming damage means the total damage from a single attack or source, before Armor Slots are marked.
+Dano recebido significa o dano total de um único ataque ou fonte, antes de marcar os Espaços de Armadura.
 
-## SIMULTANEOUS EFFECTS
+## EFEITOS SIMULTÂNEOS
 
-If the resolution order of multiple effects is unclear, the person in control of the effects (player or GM) decides what order to resolve them in.
+Se a ordem de resolução de múltiplos efeitos não estiver clara, a pessoa que controla os efeitos (jogador ou GM) decide em que ordem resolvê-los.
 
-## STACKING EFFECTS
+## ACÚMULO DE EFEITOS
 
-Unless stated otherwise, all effects beside conditions and advantage/disadvantage can stack.
+A menos que indicado o contrário, todos os efeitos, exceto condições e vantagem/desvantagem, podem se acumular.
 
-## ONGOING SPELL EFFECTS
+## EFEITOS DE MAGIAS CONTÍNUAS
 
-If an effect doesn’t have a listed mechanical expiration, it only ends when decided by the controlling player, the GM, or the demands of the fiction.
+Se um efeito não tiver uma expiração mecânica listada, ele termina apenas quando decidido pelo jogador controlador, pelo GM ou pelas demandas da ficção.
 
-## SPENDING RESOURCES
+## GASTANDO RECURSOS
 
-Unless an effect states otherwise, you can’t spend Hope or mark Stress multiple times on the same feature to increase or repeat its effects on the same roll.
+A menos que um efeito declare o contrário, você não pode gastar Esperança ou marcar Estresse múltiplas vezes na mesma habilidade para aumentar ou repetir seus efeitos na mesma jogada.
 
-## USING FEATURES AFTER A ROLL
+## USANDO HABILIDADES APÓS UMA JOGADA
 
-If a feature allows you to affect a roll after the result has been totaled, you can use it after the GM declares whether the roll succeeds or fails, but not after the consequences unfold or another roll is made.
+Se uma habilidade permite que você afete uma jogada depois que o resultado foi totalizado, você pode usá-la após o GM declarar se a jogada foi um sucesso ou falha, mas não após as consequências se desenrolarem ou outra jogada ser feita.

@@ -1,19 +1,19 @@
-﻿# CULT ADEPT
+﻿# ADEPTA DO CULTO
 
-***Tier 2 Support***  
-*An experienced mage wielding shadow and fear.*  
-**Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
+***Suporte de Nível 2***  
+*Uma maga experiente que manipula sombras e medo.*  
+**Motivações & Táticas:** Ganhar favores, atrapalhar inimigos, descobrir conhecimentos
 
-> **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6  
-> **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 mag  
-> **Experience:** Fallen Lore +2, Rituals +2
+> **Dificuldade:** 14 | **Limiares:** 9/18 | **PV:** 4 | **Estresse:** 6  
+> **ATQ:** +2 | **Cajado Coberto de Runas:** Longo | 2d4+3 mag  
+> **Experiência:** Conhecimento Caído +2, Rituais +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Enervating Blast - Action:*** Spend a Fear to make a standard attack against a target within range. On a success, the target must mark a Stress.
+***Explosão Enervante - Ação:*** Gaste um Medo para fazer um ataque padrão contra um alvo dentro do alcance. Em caso de sucesso, o alvo deve marcar um Estresse.
 
-***Shroud of the Fallen - Action:*** Mark a Stress to wrap an ally within Close range in a shroud of Protection until the Adept marks their last HP. While Protected, the target has resistance to all damage.
+***Manto dos Caídos - Ação:*** Marque um Estresse para envolver um aliado em alcance Próximo com um manto de Proteção até que a Adepta marque seu último PV. Enquanto Protegido, o alvo tem resistência a todo dano.
 
-***Shadow Shackles - Action:*** Spend a Fear and choose a point within Far range. All targets within Close range of that point are Restrained in smoky chains until they break free with a successful Strength or Instinct Roll. A target Restrained by this feature must spend a Hope to make an action roll.
+***Grilhões das Sombras - Ação:*** Gaste um Medo e escolha um ponto dentro do alcance Longo. Todos os alvos dentro do alcance Próximo desse ponto ficam Presos em correntes esfumaçadas até se libertarem com um teste bem-sucedido de Força ou Instinto. Um alvo Preso por essa característica deve gastar uma Esperança para fazer um teste de ação.
 
-***Fear Is Fuel - Reaction:*** Twice per scene, when a PC rolls a failure with Fear, clear a Stress.
+***Medo é Combustível - Reação:*** Duas vezes por cena, quando um PJ falhar em um teste com Medo, remova um Estresse.

@@ -1,7 +1,7 @@
-﻿# LEGENDARY CUTLASS
+﻿# SABRE LENDÁRIO
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+10 phy; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d8+10 físico; **Peso:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

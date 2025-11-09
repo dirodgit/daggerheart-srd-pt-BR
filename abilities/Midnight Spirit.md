@@ -1,8 +1,8 @@
-﻿# MIDNIGHT SPIRIT
+﻿# ESPÍRITO DA MEIA-NOITE
 
-> **Level 2 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 2**  
+> **Custo para Recordar:** 1
 
-Spend a Hope to summon a humanoid-sized spirit that can move or carry things for you until your next rest.
+Gaste 1 ponto de Esperança para invocar um espírito do tamanho de um humano que pode se mover ou carregar coisas para você até seu próximo descanso.
 
-You can also send it to attack an adversary. When you do, make a Spellcast Roll against a target within Very Far range. On a success, the spirit moves into Melee range with that target. Roll a number of d6s equal to your Spellcast trait and deal that much magic damage to the target. The spirit then dissipates. You can only have one spirit at a time.
+Você também pode enviá-lo para atacar um adversário. Quando fizer isso, faça uma Jogada de Conjuração de Magia contra um alvo dentro do alcance Muito Distante. Em caso de sucesso, o espírito se move para o alcance de Combate Corpo a Corpo com esse alvo. Role um número de d6s igual ao seu traço de Conjuração de Magia e cause essa quantidade de dano mágico ao alvo. O espírito então se dissipa. Você só pode ter um espírito por vez.

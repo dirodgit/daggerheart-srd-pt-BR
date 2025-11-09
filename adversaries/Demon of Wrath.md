@@ -1,19 +1,19 @@
-﻿# DEMON OF WRATH
+﻿# DEMÔNIO DA IRA
 
-***Tier 3 Bruiser***  
-*A hulking demon with boulder-sized fists, driven by endless rage.*  
-**Motives & Tactics:** Fuel anger, impress rivals, wreak havoc
+***Brutamontes de Nível 3***  
+*Um demônio imenso com punhos do tamanho de pedras, movido por uma raiva infinita.*  
+**Motivações & Táticas:** Alimentar a raiva, impressionar rivais, causar destruição
 
-> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +3 | **Fists:** Very Close | 3d8+1 mag  
-> **Experience:** Intimidation +2
+> **Dificuldade:** 17 | **Limiares:** 22/40 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +3 | **Punhos:** Muito Próximo | 3d8+1 mag  
+> **Experiência:** Intimidação +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Anger Unrelenting - Passive:*** The Demon’s attacks deal direct damage.
+***Raiva Implacável - Passiva:*** Os ataques do Demônio causam dano direto.
 
-***Battle Lust - Action:*** Spend a Fear to boil the blood of all PCs within Far range. They use a d20 as their Fear Die until the end of the scene.
+***Fúria de Batalha - Ação:*** Gaste um Medo para ferver o sangue de todos os PCs dentro do alcance Longo. Eles usam um d20 como seu Dado de Medo até o fim da cena.
 
-***Retaliation - Reaction:*** When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker.
+***Retaliação - Reação:*** Quando o Demônio sofre dano de um ataque dentro do alcance Próximo, você pode marcar um Estresse para fazer um ataque padrão contra o atacante.
 
-***Blood and Souls - Reaction: Countdown (Loop 6):*** Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon 1d4 Minor Demons, who appear at Close range.
+***Sangue e Almas - Reação: Contagem Regressiva (Loop 6):*** Ativa na primeira vez que um ataque é feito à vista do Demônio. A contagem diminui quando um PC realiza uma ação violenta. Quando disparado, invoca 1d4 Demônios Menores, que aparecem no alcance Próximo.

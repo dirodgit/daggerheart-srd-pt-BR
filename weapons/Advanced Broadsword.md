@@ -1,7 +1,7 @@
-﻿# ADVANCED BROADSWORD
+﻿# ESPADA LARGA AVANÇADA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d8+6 físico; **Carga:** Uma mão
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 nas jogadas de ataque
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

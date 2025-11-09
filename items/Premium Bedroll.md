@@ -1,5 +1,5 @@
-﻿# PREMIUM BEDROLL
+﻿# SACO DE DORMIR PREMIUM
 
-During downtime, you automatically clear a Stress.
+Durante o tempo de inatividade, você automaticamente remove 1 ponto de Estresse.
 
 *Item*

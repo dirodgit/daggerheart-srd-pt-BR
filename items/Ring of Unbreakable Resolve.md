@@ -1,5 +1,5 @@
-﻿# RING OF UNBREAKABLE RESOLVE
+﻿# ANEL DA DETERMINAÇÃO INQUEBRÁVEL
 
-Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.
+Uma vez por sessão, quando o Mestre gastar um Medo, você pode gastar 4 de Esperança para cancelar os efeitos desse Medo gasto.
 
 *Item*

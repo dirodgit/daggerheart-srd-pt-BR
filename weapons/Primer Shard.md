@@ -1,7 +1,7 @@
 ﻿# PRIMER SHARD
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d4 phy; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Muito Próximo; **Dano:** d4 físico; **Carga:** Uma Mão
 
-**Feature:** ***Locked On:*** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.
+**Característica:** ***Focado:*** Em um ataque bem-sucedido, seu próximo ataque contra o mesmo alvo com sua arma primária é automaticamente bem-sucedido.
 
-*Secondary Weapon - Tier 4*
+*Arma Secundária - Nível 4*

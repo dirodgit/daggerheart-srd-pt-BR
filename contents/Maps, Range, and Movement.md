@@ -1,41 +1,41 @@
-# MAPS, RANGE, AND MOVEMENT
+# MAPAS, ALCANCE E MOVIMENTO
 
-You can play Daggerheart using “theater of the mind” or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
+Você pode jogar Daggerheart usando “teatro da mente” ou mapas e miniaturas. As conversões abaixo de alcances abstratos para medidas físicas assumem que 1 polegada no mapa representa cerca de 1,5 metro (5 pés) no espaço fictício.
 
-Daggerheart uses the following **ranges** to translate fictional positioning into relative distance for the purposes of targeting, movement, and other game mechanics:
+Daggerheart usa os seguintes **alcances** para traduzir o posicionamento fictício em distância relativa para fins de mira, movimento e outras mecânicas do jogo:
 
-- **Melee:** Close enough to touch, up to a few feet away.
-- **Very Close:** Close enough to see fine details, about 5–10 feet away. While in danger, a character can move, as part of their action, from Very Close range into Melee range. *On a map: anything within the shortest length of a game card (2-3 inches).*
-- **Close:** Close enough to see prominent details, about 10–30 feet away. While in danger, a character can move, as part of their action, from Close range into Melee range. *On a map: anything within the length of a pencil (5-6 inches).*
-- **Far:** Close enough to see very little detail, about 30–100 feet away. While in danger, a character must make an Agility Roll to safely move from Far range into Melee range. *On a map: anything within the length of the long edge of a piece of copy paper (11–12 inches).*
-- **Very Far:** Too far to make out any details, about 100–300 feet away. While in danger, a character must make an Agility Roll to safely move from Very Far range into Melee range. *On a map: anything beyond Far range, but still within the bounds of the conflict or scene.*
-- **Out of Range:** Anything beyond a character’s Very Far range is Out of Range and usually can’t be targeted.
+- **Corpo a Corpo:** Próximo o suficiente para tocar, até alguns pés de distância.
+- **Muito Próximo:** Próximo o suficiente para ver detalhes finos, cerca de 1,5 a 3 metros (5–10 pés) de distância. Enquanto estiver em perigo, um personagem pode se mover, como parte de sua ação, do alcance Muito Próximo para o alcance Corpo a Corpo. *No mapa: qualquer coisa dentro do menor comprimento de uma carta de jogo (2-3 polegadas).*
+- **Próximo:** Próximo o suficiente para ver detalhes evidentes, cerca de 3 a 9 metros (10–30 pés) de distância. Enquanto estiver em perigo, um personagem pode se mover, como parte de sua ação, do alcance Próximo para o alcance Corpo a Corpo. *No mapa: qualquer coisa dentro do comprimento de um lápis (5-6 polegadas).*
+- **Distante:** Próximo o suficiente para ver muito poucos detalhes, cerca de 9 a 30 metros (30–100 pés) de distância. Enquanto estiver em perigo, um personagem deve fazer uma Jogada de Agilidade para se mover com segurança do alcance Distante para o alcance Corpo a Corpo. *No mapa: qualquer coisa dentro do comprimento da borda longa de uma folha de papel A4 (11–12 polegadas).*
+- **Muito Distante:** Muito longe para distinguir qualquer detalhe, cerca de 30 a 90 metros (100–300 pés) de distância. Enquanto estiver em perigo, um personagem deve fazer uma Jogada de Agilidade para se mover com segurança do alcance Muito Distante para o alcance Corpo a Corpo. *No mapa: qualquer coisa além do alcance Distante, mas ainda dentro dos limites do conflito ou cena.*
+- **Fora de Alcance:** Qualquer coisa além do alcance Muito Distante de um personagem está Fora de Alcance e geralmente não pode ser alvo.
 
-Range is measured from the source of an effect, such as the attacker or spellcaster, to the target or object of an effect.
+O alcance é medido da fonte de um efeito, como o atacante ou conjurador, até o alvo ou objeto do efeito.
 
-A weapon, spell, ability, item, or other effect’s stated range is a maximum range; unless otherwise noted, it can be used at closer distances.
+O alcance declarado de uma arma, feitiço, habilidade, item ou outro efeito é um alcance máximo; salvo indicação em contrário, pode ser usado em distâncias menores.
 
-> ***Optional Rule: Defined Ranges***
+> ***Regra Opcional: Alcances Definidos***
 >
-> *If your table would rather operate with more precise range rules, you can use a 1-inch grid battle map during combat. If you do, use the following guidelines for play:*
+> *Se sua mesa preferir operar com regras de alcance mais precisas, você pode usar um mapa de batalha com grade de 1 polegada durante o combate. Se fizer isso, use as seguintes diretrizes para o jogo:*
 >
-> *- **Melee:** 1 square*
-> *- **Very Close:** 3 squares*
-> *- **Close:** 6 squares*
-> *- **Far:** 12 squares*
-> *- **Very Far:** 13+ squares*
-> *- **Out of Range:** Off the battlemap*
+> *- **Corpo a Corpo:** 1 quadrado*
+> *- **Muito Próximo:** 3 quadrados*
+> *- **Próximo:** 6 quadrados*
+> *- **Distante:** 12 quadrados*
+> *- **Muito Distante:** 13+ quadrados*
+> *- **Fora de Alcance:** Fora do mapa de batalha*
 
-## MOVEMENT UNDER PRESSURE
+## MOVIMENTO SOB PRESSÃO
 
-When you’re under pressure or in danger and make an action roll, you can move to a location within Close range as part of that action. If you’re not already making an action roll, or if you want to move farther than your Close range, you need to succeed on an Agility Roll to safely reposition yourself.
+Quando você está sob pressão ou em perigo e faz uma jogada de ação, pode se mover para um local dentro do alcance Próximo como parte dessa ação. Se você não estiver fazendo uma jogada de ação, ou se quiser se mover além do seu alcance Próximo, precisa ter sucesso em uma Jogada de Agilidade para se reposicionar com segurança.
 
-An adversary can move within Close range for free as part of an action, or within Very Far range as a separate action.
+Um adversário pode se mover dentro do alcance Próximo gratuitamente como parte de uma ação, ou dentro do alcance Muito Distante como uma ação separada.
 
-## AREA OF EFFECT
+## ÁREA DE EFEITO
 
-Unless stated otherwise, all the targets of a group effect must be within Very Close range of a single origin point within your effect’s range.
+Salvo indicação em contrário, todos os alvos de um efeito em grupo devem estar dentro do alcance Muito Próximo de um único ponto de origem dentro do alcance do seu efeito.
 
-## LINE OF SIGHT & COVER
+## LINHA DE VISÃO E COBERTURA
 
-Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has **cover**. Attacks made through cover are rolled with disadvantage. If the obstruction is total, there is no line of sight.
+Salvo indicação em contrário, um atacante à distância deve ter **linha de visão** para seu alvo pretendido para fazer uma jogada de ataque. Se houver uma obstrução parcial entre o atacante e o alvo, o alvo tem **cobertura**. Ataques feitos através de cobertura são rolados com desvantagem. Se a obstrução for total, não há linha de visão.

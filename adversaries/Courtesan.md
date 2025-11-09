@@ -1,13 +1,13 @@
-﻿# COURTESAN
+﻿# CORTESÃ
 
-***Tier 2 Social***  
-*An accomplished manipulator and master of the social arts.*  
-**Motives & Tactics:** Entice, maneuver, secure patrons
+***Nível 2 Social***  
+*Uma manipuladora experiente e mestre nas artes sociais.*  
+**Motivações & Táticas:** Seduzir, manobrar, garantir patronos
 
-> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 3 | **Stress:** 4  
-> **ATK:** -3 | **Dagger:** Melee | 1d4+3 phy  
-> **Experience:** Manipulation +3, Socialite +3
+> **Dificuldade:** 13 | **Limiares:** 7/13 | **PV:** 3 | **Estresse:** 4  
+> **ATQ:** -3 | **Adaga:** Corpo a corpo | 1d4+3 físico  
+> **Experiência:** Manipulação +3, Socialite +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Searing Glance - Reaction:*** When a PC within Close range makes a Presence Roll, you can mark a Stress to cast a gaze toward the aftermath. On the target’s failure, they must mark 2 Stress and are Vulnerable until the scene ends or they succeed on a social action against the Courtesan. On the target’s success, they must mark a Stress.
+***Olhar Incendiário - Reação:*** Quando um PJ dentro do alcance Próximo fizer uma Jogada de Presença, você pode marcar 1 Estresse para lançar um olhar para o resultado. Se o alvo falhar, ele deve marcar 2 Estresses e fica Vulnerável até o fim da cena ou até ter sucesso em uma ação social contra a Cortesã. Se o alvo tiver sucesso, ele deve marcar 1 Estresse.

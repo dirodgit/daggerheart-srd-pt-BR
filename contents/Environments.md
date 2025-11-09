@@ -1,90 +1,90 @@
-# USING ENVIRONMENTS
+# USANDO AMBIENTES
 
-*Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces.*
+*Ambientes representam tudo em uma cena além dos PCs e adversários, como o espaço físico, NPCs de fundo e forças naturais.*
 
-## ENVIRONMENT STAT BLOCK
+## BLOCO DE ESTATÍSTICAS DO AMBIENTE
 
-Each environment’s **stat block** presents their necessary mechanical statistics:
+O **bloco de estatísticas** de cada ambiente apresenta suas estatísticas mecânicas necessárias:
 
-### NAME
+### NOME
 
-### TIER
+### NÍVEL
 
-Their PC tier the environment is designed to challenge.
+O nível de PC que o ambiente foi projetado para desafiar.
 
-### TYPE
+### TIPO
 
-The type of scene it most easily supports:
+O tipo de cena que ele suporta mais facilmente:
 
-- **Explorations** — wondrous locations with mysteries and marvels to discover
-- **Socials** — locations that primarily present interpersonal challenges
-- **Traversals** — dangerous locations where movement through and around the space itself is a challenge
-- **Events** — special activities or occurrences (rather than physical spaces)
+- **Explorações** — locais maravilhosos com mistérios e maravilhas para descobrir
+- **Sociais** — locais que apresentam principalmente desafios interpessoais
+- **Travessias** — locais perigosos onde o movimento através e ao redor do espaço em si é um desafio
+- **Eventos** — atividades ou ocorrências especiais (em vez de espaços físicos)
 
-### DESCRIPTION
+### DESCRIÇÃO
 
-An evocative one-line summary of the environment.
+Um resumo evocativo de uma linha do ambiente.
 
-### IMPULSES
+### IMPULSOS
 
-The manner or mode with which the environment pushes and pulls the people within them.
+A maneira ou modo com que o ambiente empurra e puxa as pessoas dentro dele.
 
-### DIFFICULTY
+### DIFICULDADE
 
-The standard Difficulty for action rolls made to overcome, oppose, or resist the environment or its elements.
+A Dificuldade padrão para testes de ação feitos para superar, opor-se ou resistir ao ambiente ou seus elementos.
 
-### POTENTIAL ADVERSARIES
+### ADVERSÁRIOS POTENCIAIS
 
-### FEATURES
+### CARACTERÍSTICAS
 
-### FEATURE QUESTIONS
+### PERGUNTAS SOBRE CARACTERÍSTICAS
 
-Prompts for plot hooks, narrative engines, and connections to other story elements.
+Sugestões para ganchos de trama, motores narrativos e conexões com outros elementos da história.
 
-## ADAPTING ENVIRONMENTS
+## ADAPTANDO AMBIENTES
 
-Sometimes you want to use an environment but it’s at the wrong tier for your party. Or you might want to replace a feature or two, then present it as an entirely different environment. Whether planning your session or even improvising an environment mid-session, you can adjust an existing environment’s stat block to fit the needs of your scene or improvise elements as needed. The environments framework is there to help organize ideas, not to stifle creativity.
+Às vezes você quer usar um ambiente, mas ele está no nível errado para seu grupo. Ou pode querer substituir uma ou duas características, apresentando-o como um ambiente totalmente diferente. Seja planejando sua sessão ou improvisando um ambiente no meio da sessão, você pode ajustar o bloco de estatísticas de um ambiente existente para atender às necessidades da sua cena ou improvisar elementos conforme necessário. O framework de ambientes está aí para ajudar a organizar ideias, não para sufocar a criatividade.
 
-When you need to quickly adjust a stat block to a different tier, you can simply replace its existing statistics with those listed on the Environment Statistics by Tier table, using the column that corresponds to your party’s tier.
+Quando precisar ajustar rapidamente um bloco de estatísticas para um nível diferente, você pode simplesmente substituir suas estatísticas existentes pelas listadas na tabela Estatísticas de Ambiente por Nível, usando a coluna que corresponde ao nível do seu grupo.
 
-## BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
+## ESTATÍSTICAS DE REFERÊNCIA PARA AMBIENTES POR NÍVEL
 
-| **Environment Statistic** | **Tier 1**         | **Tier 2**          | **Tier 3**          | **Tier 4**           |
-| --------------------- | -------------- | --------------- | --------------- | ---------------- |
-| Damage Dice           | 1d6+1 to 1d8+3 | 2d6+3 to 2d10+2 | 3d8+3 to 3d10+1 | 4d8+3 to 4d10+10 |
-| Difficulty            | 11             | 14              | 17              | 20               |
+| **Estatística do Ambiente** | **Nível 1**         | **Nível 2**          | **Nível 3**          | **Nível 4**           |
+| --------------------------- | ------------------- | -------------------- | -------------------- | --------------------- |
+| Dados de Dano               | 1d6+1 a 1d8+3      | 2d6+3 a 2d10+2       | 3d8+3 a 3d10+1       | 4d8+3 a 4d10+10       |
+| Dificuldade                 | 11                  | 14                   | 17                   | 20                    |
 
-## ENVIRONMENT STAT BLOCKS BY TIER
+## BLOCOS DE ESTATÍSTICAS DE AMBIENTES POR NÍVEL
 
-This section contains the following stat blocks.
+Esta seção contém os seguintes blocos de estatísticas.
 
-### TIER 1 (LEVEL 1)
+### NÍVEL 1 (NÍVEL 1)
 
-- [Abandoned Grove (Exploration)](../environments/Abandoned%20Grove.md)
-- [Ambushed (Event)](../environments/Ambushed.md)
-- [Ambushers (Event)](../environments/Ambushers.md)
-- [Bustling Marketplace (Social)](../environments/Bustling%20Marketplace.md)
-- [Cliffside Ascent (Traversal)](../environments/Cliffside%20Ascent.md)
-- [Local Tavern (Social)](../environments/Local%20Tavern.md)
-- [Outpost Town (Social)](../environments/Outpost%20Town.md)
-- [Raging River (Traversal)](../environments/Raging%20River.md)
+- [Bosque Abandonado (Exploração)](../environments/Abandoned%20Grove.md)
+- [Emboscada (Evento)](../environments/Ambushed.md)
+- [Emboscadores (Evento)](../environments/Ambushers.md)
+- [Mercado Agitado (Social)](../environments/Bustling%20Marketplace.md)
+- [Subida na Falésia (Travessia)](../environments/Cliffside%20Ascent.md)
+- [Taverna Local (Social)](../environments/Local%20Tavern.md)
+- [Cidade Avançada (Social)](../environments/Outpost%20Town.md)
+- [Rio Furioso (Travessia)](../environments/Raging%20River.md)
 
-### TIER 2 (LEVELS 2–4)
+### NÍVEL 2 (NÍVEIS 2–4)
 
-- [Cult Ritual (Event)](../environments/Cult%20Ritual.md)
-- [Hallowed Temple (Social)](../environments/Hallowed%20Temple.md)
-- [Haunted City (Exploration)](../environments/Haunted%20City.md)
-- [Mountain Pass (Traversal)](../environments/Mountain%20Pass.md)
+- [Ritual de Culto (Evento)](../environments/Cult%20Ritual.md)
+- [Templo Sagrado (Social)](../environments/Hallowed%20Temple.md)
+- [Cidade Assombrada (Exploração)](../environments/Haunted%20City.md)
+- [Passagem da Montanha (Travessia)](../environments/Mountain%20Pass.md)
 
-### TIER 3 (LEVELS 5–7)
+### NÍVEL 3 (NÍVEIS 5–7)
 
-- [Burning Heart of the Woods (Exploration)](../environments/Burning%20Heart%20of%20the%20Woods.md)
-- [Castle Siege (Event)](../environments/Castle%20Siege.md)
-- [Pitched Battle (Event)](../environments/Pitched%20Battle.md)
+- [Coração Ardente da Floresta (Exploração)](../environments/Burning%20Heart%20of%20the%20Woods.md)
+- [Cerco ao Castelo (Evento)](../environments/Castle%20Siege.md)
+- [Batalha Acirrada (Evento)](../environments/Pitched%20Battle.md)
 
-### TIER 4 (LEVELS 8–10)
+### NÍVEL 4 (NÍVEIS 8–10)
 
-- [Chaos Realm (Traversal)](../environments/Chaos%20Realm.md)
-- [Divine Usurpation (Event)](../environments/Divine%20Usurpation.md)
-- [Imperial Court (Social)](../environments/Imperial%20Court.md)
-- [Necromancer’s Ossuary (Exploration)](../environments/Necromancers%20Ossuary.md)
+- [Domínio do Caos (Travessia)](../environments/Chaos%20Realm.md)
+- [Usurpação Divina (Evento)](../environments/Divine%20Usurpation.md)
+- [Corte Imperial (Social)](../environments/Imperial%20Court.md)
+- [Ossuário do Necromante (Exploração)](../environments/Necromancers%20Ossuary.md)

@@ -1,7 +1,7 @@
-﻿# FULL PLATE ARMOR
+﻿# ARMADURA DE PLACA COMPLETA
 
-**Base Thresholds:** 8 / 17; **Base Score:** 4
+**Limiares Base:** 8 / 17; **Pontuação Base:** 4
 
-**Feature:** ***Very Heavy:*** -2 to Evasion; -1 to Agility
+**Característica:** ***Muito Pesada:*** -2 na Evasão; -1 na Agilidade
 
-*Armor - Tier 1*
+*Armadura - Nível 1*

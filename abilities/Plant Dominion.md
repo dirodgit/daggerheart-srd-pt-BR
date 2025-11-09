@@ -1,6 +1,6 @@
-﻿# PLANT DOMINION
+﻿# DOMÍNIO DAS PLANTAS
 
-> **Level 9 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 9**  
+> **Custo de Recordação:** 1
 
-Make a Spellcast Roll (18). Once per long rest on a success, you reshape the natural world, changing the surrounding plant life anywhere within Far range of you. For example, you can grow trees instantly, clear a path through dense vines, or create a wall of roots.
+Faça um Teste de Conjuração de Magia (18). Uma vez por descanso longo, em caso de sucesso, você remodela o mundo natural, alterando a vegetação ao seu redor em qualquer lugar dentro do alcance Longo. Por exemplo, você pode fazer árvores crescerem instantaneamente, abrir um caminho através de vinhas densas ou criar uma parede de raízes.

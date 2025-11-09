@@ -1,14 +1,14 @@
-﻿# CULT INITIATE
+﻿# INICIADO DO CULTO
 
-***Tier 2 Minion***  
-*A low-ranking cultist in simple robes, eager to gain power.*  
-**Motives & Tactics:** Follow orders, gain power, seek forbidden knowledge
+***Capanga de Nível 2***  
+*Um cultista de baixo escalão em vestes simples, ansioso para ganhar poder.*  
+**Motivações & Táticas:** Seguir ordens, ganhar poder, buscar conhecimento proibido
 
-> **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** 0 | **Ritual Dagger:** Melee | 5 phy  
+> **Dificuldade:** 13 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** 0 | **Adaga Ritualística:** Corpo a corpo | 5 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (6) - Passive:*** The Initiate is defeated when they take any damage. For every 6 damage a PC deals to the Initiate, defeat an additional Minion within range the attack would succeed against.
+***Capanga (6) - Passivo:*** O Iniciado é derrotado ao receber qualquer dano. Para cada 6 de dano que um PJ causar ao Iniciado, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Cult Initiates within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 5 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Iniciados do Culto dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única jogada de ataque compartilhada. Em caso de sucesso, cada um causa 5 de dano físico. Combine esse dano.

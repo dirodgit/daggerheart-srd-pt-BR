@@ -1,5 +1,5 @@
-﻿# CHARM POTION
+﻿# POÇÃO DE ENCANTO
 
-You gain a +1 bonus to your next Presence Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Presença.
 
-*Consumable*
+*Consumível*

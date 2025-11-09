@@ -1,17 +1,17 @@
-﻿# CALL OF THE BRAVE
+﻿# O CLAMOR DOS BRAVOS
 
-Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.
+Jogue O Clamor dos Bravos se quiser usar a força de seus inimigos para alimentar seu próprio poder.
 
-## FOUNDATION FEATURES
+## CARACTERÍSTICAS FUNDAMENTAIS
 
-***Courage:*** When you fail a roll with Fear, you gain a Hope.
+***Coragem:*** Quando você falhar em uma rolagem com Medo, você ganha uma Esperança.
 
-***Battle Ritual:*** Once per long rest, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, clear 2 Stress and gain 2 Hope.
+***Ritual de Batalha:*** Uma vez por descanso longo, antes de tentar algo incrivelmente perigoso ou enfrentar um inimigo que claramente o supera, descreva qual ritual você realiza ou quais preparativos faz. Ao fazer isso, remova 2 Estresse e ganhe 2 Esperança.
 
-## SPECIALIZATION FEATURE
+## CARACTERÍSTICA DE ESPECIALIZAÇÃO
 
-***Rise to the Challenge:*** You are vigilant in the face of mounting danger. While you have 2 or fewer Hit Points unmarked, you can roll a d20 as your Hope Die.
+***Enfrentar o Desafio:*** Você é vigilante diante do perigo crescente. Enquanto você tiver 2 ou menos Pontos de Vida não marcados, pode rolar um d20 como seu Dado de Esperança.
 
-## MASTERY FEATURE
+## CARACTERÍSTICA DE MESTRIA
 
-***Camaraderie:*** Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll once per additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so.
+***Camaradagem:*** Sua bravura inabalável é um ponto de encontro para seus aliados. Você pode iniciar uma Rolagem em Dupla uma vez a mais por sessão. Além disso, quando um aliado inicia uma Rolagem em Dupla com você, ele precisa gastar apenas 2 Esperança para isso.

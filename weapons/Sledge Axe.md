@@ -1,7 +1,7 @@
-﻿# SLEDGE AXE
+﻿# MACHADO DE GUERRA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+13 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d12+13 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Destructive:*** -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.
+**Característica:** ***Destrutivo:*** -1 em Agilidade; em um ataque bem-sucedido, todos os adversários em alcance Muito Próximo devem marcar 1 Estresse.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

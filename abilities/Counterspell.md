@@ -1,6 +1,6 @@
-﻿# COUNTERSPELL
+﻿# CONTRAFEITIÇO
 
-> **Level 3 Arcana Spell**  
-> **Recall Cost:** 2
+> **Magia de Arcana de Nível 3**  
+> **Custo de Recordação:** 2
 
-You can interrupt a magical effect taking place by making a reaction roll using your Spellcast trait. On a success, the effect stops and any consequences are avoided, and this card is placed in your vault.
+Você pode interromper um efeito mágico em andamento fazendo uma jogada de reação usando sua característica de Conjuração de Feitiço. Em caso de sucesso, o efeito é interrompido e quaisquer consequências são evitadas, e esta carta é colocada em seu cofre.

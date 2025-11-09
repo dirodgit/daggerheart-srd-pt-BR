@@ -1,8 +1,8 @@
 ﻿# SPELLCHARGE
 
-> **Level 8 Midnight Spell**  
-> **Recall Cost:** 1
+> **Magia da Meia-Noite de Nível 8**  
+> **Custo de Recordação:** 1
 
-When you take magic damage, place tokens equal to the number of Hit Points you marked on this card. You can store a number of tokens equal to your Spellcast trait.
+Quando você sofre dano mágico, coloque marcadores iguais ao número de Pontos de Vida que você marcou nesta carta. Você pode armazenar um número de marcadores igual à sua característica de Conjuração de Magia.
 
-When you make a successful attack against a target, you can spend any number of tokens to add a d6 for each token spent to your damage roll.
+Quando você realiza um ataque bem-sucedido contra um alvo, pode gastar qualquer número de marcadores para adicionar um d6 para cada marcador gasto à sua rolagem de dano.

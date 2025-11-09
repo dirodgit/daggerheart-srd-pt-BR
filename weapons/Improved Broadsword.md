@@ -1,7 +1,7 @@
-﻿# IMPROVED BROADSWORD
+﻿# ESPADA LARGA APRIMORADA
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Traço:** Agilidade; **Alcance:** Corpo a corpo; **Dano:** d8+3 físico; **Carga:** Uma mão
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 nas jogadas de ataque
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

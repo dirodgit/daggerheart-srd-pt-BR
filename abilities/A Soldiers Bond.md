@@ -1,6 +1,6 @@
-﻿# A SOLDIER’S BOND
+﻿# O VÍNCULO DO SOLDADO
 
-> **Level 2 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 2**  
+> **Custo de Recordação:** 1
 
-Once per long rest, when you compliment someone or ask them about something they’re good at, you can both gain 3 Hope.
+Uma vez por descanso longo, quando você elogia alguém ou pergunta sobre algo em que essa pessoa é boa, ambos podem ganhar 3 de Esperança.

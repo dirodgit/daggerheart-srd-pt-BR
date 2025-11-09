@@ -1,7 +1,7 @@
-﻿# EXTENDED POLEARM
+﻿# ALABARDA ESTENDIDA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+10 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+10 físico; **Carga:** Duas Mãos
 
-**Feature:** ***Long:*** This weapon’s attack targets all adversaries in a line within range.
+**Característica:** ***Longa:*** O ataque desta arma mira todos os adversários em uma linha dentro do alcance.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

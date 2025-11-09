@@ -1,84 +1,84 @@
-# CLASS DOMAINS
+# DOMÍNIOS DE CLASSE
 
-Each class grants access to two domains:
+Cada classe concede acesso a dois domínios:
 
-- ***[Bard](../classes/Bard.md):*** [Codex](../domains/Codex.md) & [Grace](../domains/Grace.md)
-- ***[Druid](../classes/Druid.md):*** [Arcana](../domains/Arcana.md) & [Sage](../domains/Sage.md)
-- ***[Guardian](../classes/Guardian.md):*** [Blade](../domains/Blade.md) & [Valor](../domains/Valor.md)
-- ***[Ranger](../classes/Ranger.md):*** [Bone](../domains/Bone.md) & [Sage](../domains/Sage.md)
-- ***[Rogue](../classes/Rogue.md):*** [Grace](../domains/Grace.md) & [Midnight](../domains/Midnight.md)
-- ***[Seraph](../classes/Seraph.md):*** [Splendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
-- ***[Sorcerer](../classes/Sorcerer.md):*** [Arcana](../domains/Arcana.md) & [Midnight](../domains/Midnight.md)
-- ***[Warrior](../classes/Warrior.md):*** [Blade](../domains/Blade.md) & [Bone](../domains/Bone.md)
-- ***[Wizard](../classes/Wizard.md):*** [Codex](../domains/Codex.md) & [Splendor](../domains/Splendor.md)
+- ***[Bardo](../classes/Bard.md):*** [Códex](../domains/Codex.md) & [Graça](../domains/Grace.md)
+- ***[Druida](../classes/Druid.md):*** [Arcana](../domains/Arcana.md) & [Sábio](../domains/Sage.md)
+- ***[Guardião](../classes/Guardian.md):*** [Lâmina](../domains/Blade.md) & [Valor](../domains/Valor.md)
+- ***[Patrulheiro](../classes/Ranger.md):*** [Osso](../domains/Bone.md) & [Sábio](../domains/Sage.md)
+- ***[Ladino](../classes/Rogue.md):*** [Graça](../domains/Grace.md) & [Meia-Noite](../domains/Midnight.md)
+- ***[Serafim](../classes/Seraph.md):*** [Esplendor](../domains/Splendor.md) & [Valor](../domains/Valor.md)
+- ***[Feiticeiro](../classes/Sorcerer.md):*** [Arcana](../domains/Arcana.md) & [Meia-Noite](../domains/Midnight.md)
+- ***[Guerreiro](../classes/Warrior.md):*** [Lâmina](../domains/Blade.md) & [Osso](../domains/Bone.md)
+- ***[Mago](../classes/Wizard.md):*** [Códex](../domains/Codex.md) & [Esplendor](../domains/Splendor.md)
 
-PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
+Os personagens jogadores (PCs) adquirem duas cartas de domínio de nível 1 na criação do personagem e uma carta de domínio adicional no nível igual ou inferior ao seu cada vez que sobem de nível.
 
-## DOMAIN CARDS
+## CARTAS DE DOMÍNIO
 
-Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
+Cada carta de domínio fornece uma ou mais características que seu PC pode utilizar durante suas aventuras. Algumas cartas de domínio oferecem movimentos que você pode realizar, como um ataque único ou um feitiço. Outras oferecem efeitos passivos, novas habilidades para momentos de descanso ou encontros sociais, ou benefícios de uso único.
 
-### DOMAIN CARD ANATOMY
+### ANATOMIA DA CARTA DE DOMÍNIO
 
-Each domain card includes six elements:
+Cada carta de domínio inclui seis elementos:
 
-- **Level**  
-  The number in the top left of the card indicates the card’s level. You cannot acquire a domain card with a level higher than your PC’s.
+- **Nível**  
+  O número no canto superior esquerdo da carta indica o nível da carta. Você não pode adquirir uma carta de domínio com nível superior ao do seu PC.
 
-- **Domain**  
-  Beneath the card’s level there is a symbol indicating its domain. You can only choose cards from your class’s two domains.
+- **Domínio**  
+  Abaixo do nível da carta há um símbolo indicando seu domínio. Você só pode escolher cartas dos dois domínios da sua classe.
 
-- **Recall Cost**  
-  The number and lightning bolt in the top right of the card shows its Recall Cost. This is the amount of Stress a player must mark to swap this card from their **vault** with a card from their **loadout**.
+- **Custo de Recall**  
+  O número e o raio no canto superior direito da carta mostram seu Custo de Recall. Essa é a quantidade de Estresse que um jogador deve marcar para trocar essa carta do seu **cofre** por uma carta do seu **equipamento**.
 
-> ***Note:*** *A player can swap domain cards during downtime without paying the domain card’s Recall Cost.*
+> ***Nota:*** *Um jogador pode trocar cartas de domínio durante o descanso sem pagar o Custo de Recall da carta.*
 
-- **Title**  
-  The name of the card.
+- **Título**  
+  O nome da carta.
 
-- **Type**  
-  The card’s **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells, and grimoires**. Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
+- **Tipo**  
+  O **tipo** da carta está listado no centro acima do título. Existem três tipos de cartas de domínio: **habilidades, feitiços e grimórios**. Habilidades são tipicamente de natureza não mágica, enquanto feitiços são mágicos. Grimórios são exclusivos do domínio Códex e concedem acesso a uma coleção de feitiços menos potentes. Algumas mecânicas do jogo aplicam-se apenas a certos tipos de cartas.
 
-- **Feature**  
-  The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.
+- **Característica**  
+  O texto na metade inferior da carta descreve sua(s) característica(s), incluindo quaisquer regras especiais que você precisa seguir ao usar essa carta.
 
-### LOADOUT & VAULT
+### EQUIPAMENTO & COFRE
 
-Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you’ve acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault**. Vault cards are inactive and do not influence play.
+Seu **equipamento** é o conjunto de cartas de domínio adquiridas cujos efeitos seu PC pode usar durante o jogo. Você pode ter até 5 cartas de domínio no seu equipamento ao mesmo tempo. Uma vez que você tenha adquirido seis ou mais cartas de domínio, deve escolher cinco para manter no seu equipamento; o restante é considerado no seu **cofre**. Cartas no cofre estão inativas e não influenciam o jogo.
 
-> ***Note:*** *Your subclass, ancestry, and community cards don’t count toward your loadout or vault and are always active and available.*
+> ***Nota:*** *Suas cartas de subclasse, ancestralidade e comunidade não contam para seu equipamento ou cofre e estão sempre ativas e disponíveis.*
 
-At the start of a rest, before using downtime moves, you can freely move cards between your loadout and your vault, so long as your loadout doesn’t exceed its five-card maximum.
+No início de um descanso, antes de usar movimentos de downtime, você pode mover livremente cartas entre seu equipamento e seu cofre, desde que seu equipamento não ultrapasse o máximo de cinco cartas.
 
-To move a card from your vault to your loadout at any other time, you must mark a number of Stress equal to the vaulted card’s **Recall Cost** (located in the top right of the card next to the lightning bolt symbol). If your loadout is already full, you must also move a card from your loadout to your vault to make space, though you can do this at no cost.
+Para mover uma carta do seu cofre para seu equipamento em qualquer outro momento, você deve marcar uma quantidade de Estresse igual ao **Custo de Recall** da carta guardada (localizado no canto superior direito da carta, ao lado do símbolo de raio). Se seu equipamento já estiver cheio, você também deve mover uma carta do seu equipamento para o cofre para abrir espaço, embora isso possa ser feito sem custo.
 
-When you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.
+Quando você ganha uma nova carta de domínio ao subir de nível, pode movê-la imediatamente para seu equipamento gratuitamente. Se seu equipamento já estiver cheio, deve também mover uma carta do seu equipamento para o cofre para abrir espaço.
 
-### USAGE LIMITS
+### LIMITES DE USO
 
-If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.
+Se uma carta de domínio restringe a frequência com que pode ser usada, você pode acompanhar esses limites com o método que preferir, como virar a carta de lado, colocá-la virada para baixo ou usar marcadores.
 
-> ***Note:*** *If an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses.*
+> ***Nota:*** *Se um efeito ou habilidade lhe concede um número de usos igual a uma característica com modificador +0 ou menor, isso concede 0 usos.*
 
 # CLASSES
 
-A class is a role-based archetype that determines a PC’s:
+Uma classe é um arquétipo baseado em papéis que determina o:
 
-- **Access to Domains:** Each class grants access to two domains; players choose cards from these domains during character creation and when leveling up.
-- **Starting Evasion and Hit Points (HP)**
-- **Starting Items**
-- **Class Feature(s)**
-- **Class Hope Feature:** a class feature that costs 3 Hope to activate.
+- **Acesso a Domínios:** Cada classe concede acesso a dois domínios; os jogadores escolhem cartas desses domínios durante a criação do personagem e ao subir de nível.
+- **Evasão e Pontos de Vida (HP) iniciais**
+- **Itens iniciais**
+- **Característica(s) de Classe**
+- **Característica de Esperança da Classe:** uma característica de classe que custa 3 de Esperança para ativar.
 
-There are 9 classes in the Daggerheart core materials: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, and Wizard.
+Existem 9 classes nos materiais principais de Daggerheart: Bardo, Druida, Guardião, Patrulheiro, Ladino, Serafim, Feiticeiro, Guerreiro e Mago.
 
 ## SUBCLASSES
 
-Each class is divided into two **subclasses**, each of which further defines and highlights one aspect of its class archetype. Your chosen subclass grants the following:
+Cada classe é dividida em duas **subclasses**, cada uma das quais define e destaca um aspecto do arquétipo da classe. Sua subclasse escolhida concede o seguinte:
 
-- **Spellcast Trait:** the trait used on all Spellcast rolls.
-- **Foundation Feature:** a unique starting feature that establishes the identity and strengths of the subclass.
-- **Specialization Feature:** an advanced feature that can be gained on level up. For some subclasses, the specialization feature grants a new ability; for others, it expands or enhances a feature you already acquired through a class or subclass.
-- **Mastery Feature:** The mastery feature is a subclass’s most powerful feature, which can be gained at higher levels. For some subclasses, the mastery feature unlocks an extraordinary new ability; for others, it’s the impressive culmination of their subclass’s core feature.
+- **Traço de Conjuração:** o traço usado em todas as rolagens de Conjuração.
+- **Característica Fundamental:** uma característica inicial única que estabelece a identidade e os pontos fortes da subclasse.
+- **Característica de Especialização:** uma característica avançada que pode ser adquirida ao subir de nível. Para algumas subclasses, a característica de especialização concede uma nova habilidade; para outras, expande ou aprimora uma característica que você já adquiriu por meio da classe ou subclasse.
+- **Característica de Maestria:** a característica de maestria é a característica mais poderosa da subclasse, que pode ser adquirida em níveis mais altos. Para algumas subclasses, a característica de maestria desbloqueia uma habilidade extraordinária nova; para outras, é a culminação impressionante da característica central da subclasse.
 
-The Daggerheart core set includes cards detailing each foundation, specialization, and mastery feature. When you acquire one of these features, take its card for use as a reference during play.
+O conjunto principal de Daggerheart inclui cartas detalhando cada característica fundamental, de especialização e de maestria. Quando você adquirir uma dessas características, pegue sua carta para usar como referência durante o jogo.

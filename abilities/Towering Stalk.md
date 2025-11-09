@@ -1,8 +1,8 @@
-﻿# TOWERING STALK
+﻿# CAULE IMENSA
 
-> **Level 3 Sage Spell**  
-> **Recall Cost:** 1
+> **Magia de Sábio de Nível 3**  
+> **Custo de Recordação:** 1
 
-Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range.
+Uma vez por descanso, você pode conjurar um caule grosso e retorcido em alcance Próximo que pode ser facilmente escalado. Sua altura pode crescer até alcance Distante.
 
-Mark a Stress to use this spell as an attack. Make a Spellcast Roll against an adversary or group of adversaries within Close range. The erupting stalk lifts targets you succeed against into the air and drops them, dealing d8 physical damage using your Proficiency.
+Marque um Estresse para usar esta magia como um ataque. Faça uma Jogada de Conjuração de Magia contra um adversário ou grupo de adversários em alcance Próximo. O caule que irrompe eleva os alvos contra os quais você obtiver sucesso no ar e os deixa cair, causando 1d8 de dano físico usando sua Proficiência.

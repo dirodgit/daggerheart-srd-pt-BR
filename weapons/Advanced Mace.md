@@ -1,7 +1,7 @@
-﻿# ADVANCED MACE
+﻿# MAÇA AVANÇADA
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+7 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d8+7 físico; **Peso:** Uma mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

@@ -1,7 +1,7 @@
-﻿# LEGENDARY HALBERD
+﻿# ALABARDA LENDÁRIA
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+11 phy; **Burden:** Two-Handed
+**Traço:** Força; **Alcance:** Muito Próximo; **Dano:** d10+11 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitada:*** -1 na Destreza
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

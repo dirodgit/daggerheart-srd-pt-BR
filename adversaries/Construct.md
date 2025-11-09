@@ -1,20 +1,20 @@
-﻿# CONSTRUCT
+﻿# CONSTRUCTO
 
-***Tier 1 Solo***  
-*A roughly humanoid being of stone and steel, assembled and animated by magic.*  
-**Motives & Tactics:** Destroy environment, serve creator, smash target, trample groups
+***Solo de Nível 1***  
+*Um ser aproximadamente humanoide de pedra e aço, montado e animado por magia.*  
+**Motivações & Táticas:** Destruir o ambiente, servir o criador, esmagar o alvo, atropelar grupos
 
-> **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4  
-> **ATK:** +4 | **Fist Slam:** Melee | 1d20 phy  
+> **Dificuldade:** 13 | **Limiares:** 7/15 | **PV:** 9 | **Estresse:** 4  
+> **ATQ:** +4 | **Soco:** Corpo a corpo | 1d20 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** The Construct can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (2) - Passiva:*** O Constructo pode ser destacado até duas vezes por turno do GM. Gaste Medo normalmente para destacá-lo.
 
-***Weak Structure - Passive:*** When the Construct marks HP from physical damage, they must mark an additional HP.
+***Estrutura Fraca - Passiva:*** Quando o Constructo marca PV por dano físico, ele deve marcar um PV adicional.
 
-***Trample - Action:*** Mark a Stress to make an attack against all targets in the Construct’s path when they move. Targets the Construct succeeds against take 1d8 physical damage.
+***Atropelar - Ação:*** Marque um Estresse para fazer um ataque contra todos os alvos no caminho do Constructo quando ele se mover. Alvos contra os quais o Constructo obtiver sucesso recebem 1d8 de dano físico.
 
-***Overload - Reaction:*** Before rolling damage for the Construct’s attack, you can mark a Stress to gain a +10 bonus to the damage roll. The Construct can then take the spotlight again.
+***Sobrecarga - Reação:*** Antes de rolar o dano do ataque do Constructo, você pode marcar um Estresse para ganhar um bônus de +10 na rolagem de dano. O Constructo pode então ser destacado novamente.
 
-***Death Quake - Reaction:*** When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage.
+***Terremoto da Morte - Reação:*** Quando o Constructo marca seu último PV, a magia que o alimenta se rompe em uma explosão de força. Faça um ataque com vantagem contra todos os alvos em alcance Muito Próximo. Alvos contra os quais o Constructo obtiver sucesso recebem 1d12+2 de dano mágico.

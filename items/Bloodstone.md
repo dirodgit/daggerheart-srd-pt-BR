@@ -1,5 +1,5 @@
 ﻿# BLOODSTONE
 
-You can attach this stone to a weapon that doesn’t already have a feature. The weapon gains the following feature. ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+Você pode anexar esta pedra a uma arma que ainda não possua uma característica. A arma ganha a seguinte característica. ***Brutal:*** Quando você rolar o valor máximo em um dado de dano, role um dado de dano adicional.
 
 *Item*

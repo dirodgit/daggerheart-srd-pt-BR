@@ -1,5 +1,5 @@
-﻿# BAG OF FICKLESAND
+﻿# SACO DE AREIA INSTÁVEL
 
-You can convince this small bag of sand to be much heavier or lighter with a successful Presence Roll (10). Additionally, on a successful Finesse Roll (10), you can blow a bit of sand into a target’s face to make them temporarily **Vulnerable**.
+Você pode convencer este pequeno saco de areia a ficar muito mais pesado ou mais leve com um teste bem-sucedido de Presença (10). Além disso, em um teste bem-sucedido de Destreza (10), você pode soprar um pouco de areia no rosto de um alvo para torná-lo temporariamente **Vulnerável**.
 
 *Item*

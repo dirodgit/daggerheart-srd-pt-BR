@@ -1,6 +1,6 @@
-﻿# INVIGORATION
+﻿# REVIGORAÇÃO
 
-> **Level 10 Splendor Spell**  
-> **Recall Cost:** 3
+> **Magia de Esplendor de Nível 10**  
+> **Custo de Recordação:** 3
 
-When you or an ally within Close range has used a feature that has an exhaustion limit (such as once per rest or once per session), you can spend any number of Hope and roll that many d6s. If any roll a 6, the feature can be used again.
+Quando você ou um aliado em alcance Próximo tiver usado uma habilidade que possui um limite de exaustão (como uma vez por descanso ou uma vez por sessão), você pode gastar qualquer quantidade de Esperança e rolar essa quantidade de d6. Se algum deles tirar 6, a habilidade pode ser usada novamente.

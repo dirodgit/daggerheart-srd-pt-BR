@@ -1,17 +1,17 @@
-﻿# ROYAL ADVISOR
+﻿# CONSELHEIRO REAL
 
-***Tier 2 Social***  
-*A high-ranking courtier with the ear of the local nobility.*  
-**Motives & Tactics:** Curry favor, manufacture evidence, scheme
+***Nível 2 Social***  
+*Um cortesão de alta patente com acesso à nobreza local.*  
+**Motivações & Táticas:** Buscar favores, fabricar evidências, tramar
 
-> **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3  
-> **ATK:** -3 | **Wand:** Far | 1d4+3 phy  
-> **Experience:** Administration +3, Courtier +3
+> **Dificuldade:** 14 | **Limiares:** 8/15 | **PV:** 3 | **Estresse:** 3  
+> **ATQ:** -3 | **Varinha:** Longo alcance | 1d4+3 físico  
+> **Experiência:** Administração +3, Cortesão +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Devastating Retort - Passive:*** A PC who rolls less than 17 on an action roll targeting the Advisor must mark a Stress.
+***Resposta Devastadora - Passiva:*** Um PJ que tirar menos de 17 em uma rolagem de ação contra o Conselheiro deve marcar um Estresse.
 
-***Bend Ears - Action:*** Mark a Stress to influence an NPC within Melee range with whispered words. That target’s opinion on one matter shifts toward the Advisor’s preference unless it is in direct opposition to the target’s motives.
+***Inclinar Ouvidos - Ação:*** Marque um Estresse para influenciar um PNJ em alcance corpo a corpo com palavras sussurradas. A opinião desse alvo sobre um assunto se inclina para a preferência do Conselheiro, a menos que esteja em oposição direta às motivações do alvo.
 
-***Scapegoat - Action:*** Spend a Fear to convince a crowd or notable individual that one person or group is responsible for some problem facing the target. The target becomes hostile to the scapegoat until convinced of their innocence with a successful Presence Roll (17).
+***Bode Expiatório - Ação:*** Gaste um Medo para convencer uma multidão ou indivíduo notável de que uma pessoa ou grupo é responsável por algum problema enfrentado pelo alvo. O alvo se torna hostil ao bode expiatório até ser convencido de sua inocência com uma rolagem de Presença bem-sucedida (17).

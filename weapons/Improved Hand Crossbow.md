@@ -1,7 +1,7 @@
-﻿# IMPROVED HAND CROSSBOW
+﻿# BESTA DE MÃO APRIMORADA
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+3 phy; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Longo; **Dano:** d6+3 físico; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Secondary Weapon - Tier 2*
+*Arma Secundária - Nível 2*

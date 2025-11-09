@@ -1,7 +1,7 @@
 ﻿# GHOSTBLADE
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy or mag; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Corpo a corpo; **Dano:** d10+7 físico ou mágico; **Encargo:** Uma mão
 
-**Feature:** ***Otherworldly:*** On a successful attack, you can deal physical or magic damage.
+**Característica:** ***Sobrenatural:*** Em um ataque bem-sucedido, você pode causar dano físico ou mágico.
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

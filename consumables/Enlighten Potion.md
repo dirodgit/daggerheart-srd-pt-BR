@@ -1,5 +1,5 @@
-﻿# ENLIGHTEN POTION
+﻿# POÇÃO DE ILUMINAÇÃO
 
-You gain a +1 bonus to your next Knowledge Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Conhecimento.
 
-*Consumable*
+*Consumível*

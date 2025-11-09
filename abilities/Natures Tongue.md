@@ -1,8 +1,8 @@
-﻿# NATURE’S TONGUE
+﻿# LÍNGUA DA NATUREZA
 
-> **Level 1 Sage Ability**  
-> **Recall Cost:** 0
+> **Habilidade de Sábio de Nível 1**  
+> **Custo de Recordação:** 0
 
-You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an Instinct Roll (12). On a success, they’ll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost.
+Você pode falar a língua do mundo natural. Quando quiser falar com as plantas e animais ao seu redor, faça uma Jogada de Instinto (12). Em caso de sucesso, eles lhe darão as informações que conhecem. Em uma jogada com Medo, o conhecimento deles pode ser limitado ou vir com um custo.
 
-Additionally, before you make a Spellcast Roll while within a natural environment, you can spend a Hope to gain a +2 bonus to the roll.
+Além disso, antes de fazer uma Jogada de Conjuração de Feitiço enquanto estiver em um ambiente natural, você pode gastar uma Esperança para ganhar um bônus de +2 na jogada.

@@ -1,5 +1,5 @@
-﻿# MINOR HEALTH POTION
+﻿# POÇÃO DE CURA MENOR
 
-Clear 1d4 HP.
+Restaura 1d4 PV.
 
-*Consumable*
+*Consumível*

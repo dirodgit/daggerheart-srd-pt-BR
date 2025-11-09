@@ -1,19 +1,19 @@
 ﻿# STONEWRAITH
 
-***Tier 2 Skulk***  
-*A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.*  
-**Motives & Tactics:** Defend territory, isolate prey, stalk
+***Esconderijo de Nível 2***  
+*Um caçador furtivo, como um leão-da-montanha sorrateiro, com um corpo de pedra cinza ardósia.*  
+**Motivações & Táticas:** Defender território, isolar presa, perseguir
 
-> **Difficulty:** 13 | **Thresholds:** 11/22 | **HP:** 6 | **Stress:** 3  
-> **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 phy  
-> **Experience:** Stonesense +3
+> **Dificuldade:** 13 | **Limiares:** 11/22 | **PV:** 6 | **Estresse:** 3  
+> **ATQ:** +3 | **Mordida e Garras:** Corpo a corpo | 2d8+6 físico  
+> **Experiência:** Sentido da Pedra +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Stonestrider - Passive:*** The Stonewraith can move through stone and earth as easily as air. While within stone or earth, they are Hidden and immune to all damage.
+***Andarilho de Pedra - Passivo:*** O Stonewraith pode se mover através de pedra e terra tão facilmente quanto pelo ar. Enquanto estiver dentro de pedra ou terra, ele está Oculto e imune a todo dano.
 
-***Rocky Ambush - Action:*** While Hidden, mark a Stress to leap into Melee range with a target within Very Close range. The target must succeed on an Agility or Instinct Reaction Roll (15) or take 2d8 physical damage and become temporarily Restrained.
+***Emboscada Rochosa - Ação:*** Enquanto Oculto, marque 1 Estresse para saltar para o alcance Corpo a Corpo com um alvo dentro do alcance Muito Próximo. O alvo deve ter sucesso em um Teste de Reação de Agilidade ou Instinto (15) ou sofrer 2d8 de dano físico e ficar temporariamente Restrito.
 
-***Avalanche Roar - Action:*** Spend a Fear to roar while within a cave and cause a cave-in. All targets within Close range must succeed on an Agility Reaction Roll (14) or take 2d10 physical damage. The rubble can be cleared with a Progress Countdown (8).
+***Rugido de Avalanche - Ação:*** Gaste 1 Medo para rugir enquanto estiver dentro de uma caverna e causar um desabamento. Todos os alvos dentro do alcance Próximo devem ter sucesso em um Teste de Reação de Agilidade (14) ou sofrer 2d10 de dano físico. Os escombros podem ser removidos com uma Contagem Regressiva de Progresso (8).
 
-***Momentum - Reaction:*** When the Stonewraith makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Stonewraith realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

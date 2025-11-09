@@ -1,7 +1,7 @@
-﻿# RETURNING BLADE
+﻿# LÂMINA RETORNANTE
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8 mag; **Burden:** One-Handed
+**Traço:** Finesse; **Alcance:** Próximo; **Dano:** d8 mag; **Peso:** Uma Mão
 
-**Feature:** ***Returning:*** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+**Característica:** ***Retorno:*** Quando esta arma é arremessada dentro do seu alcance, ela aparece em sua mão imediatamente após o ataque.
 
-*Primary Weapon - Tier 1*
+*Arma Primária - Nível 1*

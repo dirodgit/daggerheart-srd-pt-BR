@@ -1,9 +1,9 @@
-﻿# BLADE-TOUCHED
+﻿# TOCADO PELA LÂMINA
 
-> **Level 7 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 7**  
+> **Custo para Recordar:** 1
 
-When 4 or more of the domain cards in your loadout are from the Blade domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Lâmina, você ganha os seguintes benefícios:
 
-- +2 bonus to your attack rolls
-- +4 bonus to your Severe damage threshold
+- +2 de bônus nas suas jogadas de ataque  
+- +4 de bônus no seu limiar de dano Grave

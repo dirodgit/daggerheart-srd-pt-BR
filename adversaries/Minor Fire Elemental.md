@@ -1,20 +1,20 @@
-﻿# MINOR FIRE ELEMENTAL
+﻿# ELEMENTAL DE FOGO MENOR
 
-***Tier 1 Solo***  
-*A living flame the size of a large bonfire.*  
-**Motives & Tactics:** Encircle enemies, grow in size, intimidate, start fires
+***Nível 1 Solo***  
+*Uma chama viva do tamanho de uma grande fogueira.*  
+**Motivações & Táticas:** Cercar inimigos, crescer de tamanho, intimidar, iniciar incêndios
 
-> **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 3  
-> **ATK:** +3 | **Elemental Blast:** Far | 1d10+4 mag  
+> **Dificuldade:** 13 | **Limiares:** 7/15 | **PV:** 9 | **Estresse:** 3  
+> **ATAQ:** +3 | **Explosão Elemental:** Distante | 1d10+4 mágico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Relentless (2) - Passive:*** The Elemental can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
+***Implacável (2) - Passivo:*** O Elemental pode ser destacado até duas vezes por turno do Mestre. Gaste Medo normalmente para destacá-lo.
 
-***Scorched Earth - Action:*** Mark a Stress to choose a point within Far range. The ground within Very Close range of that point immediately bursts into flames. All creatures within this area must make an Agility Reaction Roll. Targets who fail take 2d8 magic damage from the flames. Targets who succeed take half damage.
+***Terra Queimada - Ação:*** Marque um Estresse para escolher um ponto dentro do alcance Distante. O chão dentro do alcance Muito Próximo desse ponto imediatamente entra em chamas. Todas as criaturas nessa área devem fazer um Teste de Reação de Agilidade. Alvos que falharem recebem 2d8 de dano mágico das chamas. Alvos que tiverem sucesso recebem metade do dano.
 
-***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the Elemental succeeds against take 1d8 magic damage and are knocked back to Far range.
+***Explosão - Ação:*** Gaste um Medo para explodir em uma explosão flamejante. Faça um ataque contra todos os alvos dentro do alcance Próximo. Alvos contra os quais o Elemental tiver sucesso recebem 1d8 de dano mágico e são empurrados para o alcance Distante.
 
-***Consume Kindling - Reaction:*** Three times per scene, when the Elemental moves on objects that are highly flammable, consume them to clear a HP or a Stress.
+***Consumir Graveto - Reação:*** Três vezes por cena, quando o Elemental se move sobre objetos altamente inflamáveis, consuma-os para recuperar 1 PV ou 1 Estresse.
 
-***Momentum - Reaction:*** When the Elemental makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Elemental realiza um ataque bem-sucedido contra um PJ, você ganha 1 Medo.

@@ -1,6 +1,6 @@
-﻿# BREAKING BLOW
+﻿# GOLPE DEVASTADOR
 
-> **Level 8 Bone Ability**  
-> **Recall Cost:** 3
+> **Habilidade de Osso de Nível 8**  
+> **Custo de Recordação:** 3
 
-When you make a successful attack, you can mark a Stress to make the next successful attack against that same target deal an extra 2d12 damage.
+Quando você realiza um ataque bem-sucedido, pode marcar 1 Estresse para fazer com que o próximo ataque bem-sucedido contra o mesmo alvo cause 2d12 de dano extra.

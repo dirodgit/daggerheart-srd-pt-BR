@@ -1,15 +1,15 @@
-﻿# BLADED GUARD
+﻿# GUARDA LAMINADA
 
-***Tier 1 Standard***  
-*An armored guard bearing a sword and shield painted in the settlement’s colors.*  
-**Motives & Tactics:** Arrest, close gates, make it through the day, pin down
+***Padrão de Nível 1***  
+*Um guarda armado com armadura, portando uma espada e escudo pintados com as cores do assentamento.*  
+**Motivações & Táticas:** Prender, fechar portões, passar o dia, imobilizar
 
-> **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 5 | **Stress:** 2  
-> **ATK:** +1 | **Longsword:** Melee | 1d6+1 phy  
-> **Experience:** Local Knowledge +3
+> **Dificuldade:** 12 | **Limiares:** 5/9 | **PV:** 5 | **Estresse:** 2  
+> **ATQ:** +1 | **Espada Longa:** Corpo a Corpo | 1d6+1 físico  
+> **Experiência:** Conhecimento Local +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Shield Wall - Passive:*** A creature who tries to move within Very Close range of the Guard must succeed on an Agility Roll. If additional Bladed Guards are standing in a line alongside the first, and each is within Melee range of another guard in the line, the Difficulty increases by the total number of guards in the line.
+***Muralha de Escudos - Passiva:*** Uma criatura que tentar se mover para dentro do alcance Muito Próximo do Guarda deve obter sucesso em um Teste de Agilidade. Se outros Guardas Laminados estiverem alinhados lado a lado com o primeiro, e cada um estiver dentro do alcance Corpo a Corpo de outro guarda na linha, a Dificuldade aumenta pelo número total de guardas na linha.
 
-***Detain - Action:*** Make an attack against a target within Very Close range. On a success, mark a Stress to Restrain the target until they break free with a successful attack, Finesse Roll, or Strength Roll.
+***Detenção - Ação:*** Realize um ataque contra um alvo dentro do alcance Muito Próximo. Em caso de sucesso, marque um Estresse para Imobilizar o alvo até que ele se liberte com um ataque bem-sucedido, Teste de Destreza ou Teste de Força.

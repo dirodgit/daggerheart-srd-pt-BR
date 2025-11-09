@@ -1,16 +1,16 @@
-﻿# GLASS SNAKE
+﻿# COBRA DE VIDRO
 
-***Tier 1 Standard***  
-*A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*  
-**Motives & Tactics:** Climb, feed, keep distance, scare
+***Padrão de Nível 1***  
+*Uma serpente translúcida com uma cabeça enorme que deixa um rastro de fragmentos de vidro por onde passa.*  
+**Motivações & Táticas:** Escalar, alimentar-se, manter distância, assustar
 
-> **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Glass Fangs:** Very Close | 1d8+2 phy  
+> **Dificuldade:** 14 | **Limiares:** 6/10 | **PV:** 5 | **Estresse:** 3  
+> **ATQ:** +2 | **Presas de Vidro:** Muito Próximo | 1d8+2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Armor-Shredding Shards - Passive:*** On a successful attack within Melee range against the Snake, the attacker must mark an Armor Slot without receiving its benefits (they can still use armor to reduce the damage). If they can’t mark an Armor Slot, they must mark an additional HP.
+***Fragmentos que Rasgam Armadura - Passivo:*** Em um ataque bem-sucedido dentro do alcance Corpo a Corpo contra a Cobra, o atacante deve marcar um Espaço de Armadura sem receber seus benefícios (ainda pode usar a armadura para reduzir o dano). Se não puder marcar um Espaço de Armadura, deve marcar um PV adicional.
 
-***Spinning Serpent - Action:*** Mark a Stress to make an attack against all targets within Very Close range. Targets the Snake succeeds against take 1d6+1 physical damage.
+***Serpente Giratória - Ação:*** Marque um Estresse para fazer um ataque contra todos os alvos dentro do alcance Muito Próximo. Os alvos que a Cobra atingir sofrem 1d6+1 de dano físico.
 
-***Spitter - Action:*** Spend a Fear to introduce a 6 Spitter Die. When the Snake is in the spotlight, roll this die. On a result of 5 or higher, all targets in front of the Snake within Far range must succeed on an Agility Reaction Roll or take 1d4 physical damage. The Snake can take the spotlight a second time this GM turn.
+***Cuspidor - Ação:*** Gaste um Medo para introduzir um Dado Cuspidor 6. Quando a Cobra estiver no centro das atenções, role esse dado. Com um resultado de 5 ou mais, todos os alvos à frente da Cobra dentro do alcance Distante devem passar em uma Rolagem de Reação de Agilidade ou sofrer 1d4 de dano físico. A Cobra pode assumir o centro das atenções uma segunda vez neste turno do Mestre.

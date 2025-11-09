@@ -1,7 +1,7 @@
-﻿# WAND OF ENTHRALLMENT
+﻿# VARINHA DE ENCANTAMENTO
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
+**Traço:** Presença; **Alcance:** Longo; **Dano:** d6+4 mag; **Peso:** Uma Mão
 
-**Feature:** ***Persuasive:*** Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result.
+**Característica:** ***Persuasivo:*** Antes de fazer uma Jogada de Presença, você pode marcar um Estresse para ganhar um bônus de +2 no resultado.
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

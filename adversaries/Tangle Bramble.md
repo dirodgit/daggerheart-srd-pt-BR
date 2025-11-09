@@ -1,16 +1,16 @@
 ﻿# TANGLE BRAMBLE
 
-***Tier 1 Minion***  
-*An animate, blood-drinking tumbleweed.*  
-**Motives & Tactics:** Consume, drain, entangle
+***Capanga de Nível 1***  
+*Um arbusto animado que suga sangue.*  
+**Motivações & Táticas:** Consumir, drenar, enredar
 
-> **Difficulty:** 11 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -1 | **Thorns:** Melee | 2 phy  
+> **Dificuldade:** 11 | **Limiares:** Nenhum | **PV:** 1 | **Estresse:** 1  
+> **ATQ:** -1 | **Espinhos:** Corpo a corpo | 2 físico  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Minion (4) - Passive:*** The Bramble is defeated when they take any damage. For every 4 damage a PC deals to the Tangle Bramble, defeat an additional Minion within range the attack would succeed against.
+***Capanga (4) - Passivo:*** O Bramble é derrotado ao receber qualquer dano. Para cada 4 de dano que um PJ causar ao Tangle Bramble, derrote um Capanga adicional dentro do alcance em que o ataque teria sucesso.
 
-***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Tangle Brambles within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage.
+***Ataque em Grupo - Ação:*** Gaste um Medo para escolher um alvo e destacar todos os Tangle Brambles dentro do alcance Próximo dele. Esses Capangas se movem para o alcance Corpo a Corpo do alvo e fazem uma única rolagem de ataque compartilhada. Em caso de sucesso, cada um causa 2 de dano físico. Combine esse dano.
 
-***Drain and Multiply - Reaction:*** When an attack from the Bramble causes a target to mark HP and there are three or more Tangle Bramble Minions within Close range, you can combine the Minions into a Tangle Bramble Swarm Horde. The Horde’s HP is equal to the number of Minions combined.
+***Drenar e Multiplicar - Reação:*** Quando um ataque do Bramble faz um alvo marcar PV e há três ou mais Capangas Tangle Bramble dentro do alcance Próximo, você pode combinar os Capangas em uma Horda de Enxame Tangle Bramble. Os PV da Horda são iguais ao número de Capangas combinados.

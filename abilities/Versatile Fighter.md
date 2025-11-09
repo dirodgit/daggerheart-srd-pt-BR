@@ -1,8 +1,8 @@
-﻿# VERSATILE FIGHTER
+﻿# LUTADOR VERSÁTIL
 
-> **Level 3 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 3**  
+> **Custo para Recordar:** 1
 
-You can use a different character trait for an equipped weapon, rather than the trait the weapon calls for.
+Você pode usar uma característica diferente para uma arma equipada, em vez da característica que a arma exige.
 
-When you deal damage, you can mark a Stress to use the maximum result of one of your damage dice instead of rolling it.
+Quando você causar dano, pode marcar um Estresse para usar o resultado máximo de um dos seus dados de dano em vez de rolá-lo.

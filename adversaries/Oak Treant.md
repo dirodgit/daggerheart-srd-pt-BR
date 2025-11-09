@@ -1,17 +1,17 @@
 ﻿# OAK TREANT
 
-***Tier 3 Bruiser***  
-*A sturdy animated old-growth tree.*  
-**Motives & Tactics:** Hide in plain sight, preserve the forest, root down, swing branches
+***Brutamontes de Nível 3***  
+*Uma árvore antiga animada e robusta.*  
+**Motivações & Táticas:** Esconder-se à vista de todos, preservar a floresta, fincar raízes, balançar galhos
 
-> **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +2 | **Branch:** Very Close | 3d8+2 phy  
-> **Experience:** Forest Knowledge +3
+> **Dificuldade:** 17 | **Limiares:** 22/40 | **PV:** 7 | **Estresse:** 4  
+> **ATQ:** +2 | **Galho:** Muito Próximo | 3d8+2 físico  
+> **Experiência:** Conhecimento da Floresta +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Just a Tree - Passive:*** Before they make their first attack in a fight or after they become Hidden, the Treant is indistinguishable from other trees until they next act or a PC succeeds on an Instinct Roll to identify them.
+***Apenas uma Árvore - Passiva:*** Antes de fazer seu primeiro ataque em um combate ou após ficarem Ocultos, o Treant é indistinguível de outras árvores até agir novamente ou até que um PJ tenha sucesso em uma Rolagem de Instinto para identificá-lo.
 
-***Seed Barrage - Action:*** Mark a Stress and make an attack against up to three targets within Close range, pummeling them with giant acorns. Targets the Treant succeeds against take 2d10+5 physical damage.
+***Rajada de Sementes - Ação:*** Marque um Estresse e faça um ataque contra até três alvos em alcance Próximo, bombardeando-os com bolotas gigantes. Os alvos contra os quais o Treant obtiver sucesso recebem 2d10+5 de dano físico.
 
-***Take Root - Action:*** Mark a Stress to Root the Treant in place. The Treant is Restrained while Rooted, and can end this effect instead of moving while they are spotlighted. While Rooted, the Treant has resistance to physical damage.
+***Fincar Raízes - Ação:*** Marque um Estresse para fincar o Treant no lugar. O Treant fica Restrito enquanto estiver com as raízes fincadas, e pode encerrar esse efeito ao invés de se mover enquanto estiver em destaque. Enquanto fincado, o Treant tem resistência a dano físico.

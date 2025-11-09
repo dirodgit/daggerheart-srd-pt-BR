@@ -1,5 +1,5 @@
-﻿# IMPROVED GRINDELTOOTH VENOM
+﻿# VENENO APRIMORADO DE DENTE-DE-ESMERILHA
 
-You can apply this venom to a weapon that deals physical damage to add a d8 to your next damage roll with that weapon.
+Você pode aplicar este veneno a uma arma que cause dano físico para adicionar um d8 ao seu próximo teste de dano com essa arma.
 
-*Consumable*
+*Consumível*

@@ -1,5 +1,5 @@
-﻿# BLINDING ORB
+﻿# ORBE OFUSCANTE
 
-You can activate this orb to create a flash of bright light. All targets within Close range become Blinded until they mark HP.
+Você pode ativar este orbe para criar um flash de luz intensa. Todos os alvos em alcance Próximo ficam Ofuscados até que sofram dano.
 
-*Consumable*
+*Consumível*

@@ -1,17 +1,17 @@
-﻿# HEAD GUARD
+﻿# CHEFE DA GUARDA
 
-***Tier 1 Leader***  
-*A seasoned guard with a mace, a whistle, and a bellowing voice.*  
-**Motives & Tactics:** Arrest, close gates, pin down, seek glory
+***Líder de Nível 1***  
+*Um guarda experiente com um maço, um apito e uma voz estrondosa.*  
+**Motivações & Táticas:** Prender, fechar portões, imobilizar, buscar glória
 
-> **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3  
-> **ATK:** +4 | **Mace:** Melee | 1d10+4 phy  
-> **Experience:** Commander +2, Local Knowledge +2
+> **Dificuldade:** 15 | **Limiares:** 7/13 | **PV:** 7 | **Estresse:** 3  
+> **ATQ:** +4 | **Maço:** Corpo a corpo | 1d10+4 físico  
+> **Experiência:** Comandante +2, Conhecimento Local +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Rally Guards - Action:*** Spend 2 Fear to spotlight the Head Guard and up to 2d4 allies within Far range.
+***Reunir Guardas - Ação:*** Gaste 2 Medo para destacar o Chefe da Guarda e até 2d4 aliados dentro do alcance Longo.
 
-***On My Signal - Reaction:*** Countdown (5). When the Head Guard is in the spotlight for the first time, activate the countdown. It ticks down when a PC makes an attack roll. When it triggers, all Archer Guards within Far range make a standard attack with advantage against the nearest target within their range. If any attacks succeed on the same target, combine their damage.
+***Ao Meu Sinal - Reação:*** Contagem regressiva (5). Quando o Chefe da Guarda estiver em destaque pela primeira vez, ative a contagem regressiva. Ela diminui quando um PJ faz uma rolagem de ataque. Quando disparada, todos os Guardas Arqueiros dentro do alcance Longo fazem um ataque padrão com vantagem contra o alvo mais próximo dentro do alcance deles. Se algum ataque acertar o mesmo alvo, combine o dano deles.
 
-***Momentum - Reaction:*** When the Head Guard makes a successful attack against a PC, you gain a Fear.
+***Impulso - Reação:*** Quando o Chefe da Guarda realiza um ataque bem-sucedido contra um PJ, você ganha um Medo.

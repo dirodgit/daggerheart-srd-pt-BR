@@ -1,7 +1,7 @@
-﻿# IMPROVED SHORTSTAFF
+﻿# BASTÃO CURTO APRIMORADO
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+4 mag; **Burden:** One-Handed
+**Traço:** Instinto; **Alcance:** Próximo; **Dano:** d8+4 mag; **Carga:** Uma Mão
 
-**Feature:** —
+**Característica:** —
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

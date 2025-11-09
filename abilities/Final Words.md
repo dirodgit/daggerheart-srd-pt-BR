@@ -1,6 +1,6 @@
-﻿# FINAL WORDS
+﻿# PALAVRAS FINAIS
 
-> **Level 2 Splendor Spell**  
-> **Recall Cost:** 1
+> **Feitiço de Esplendor Nível 2**  
+> **Custo de Recordação:** 1
 
-You can infuse a corpse with a moment of life to speak with it. Make a Spellcast Roll (13). On a success with Hope, the corpse answers up to three questions. On a success with Fear, the corpse answers one question. The corpse answers truthfully, but it can’t impart information it didn’t know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust.
+Você pode infundir um cadáver com um momento de vida para falar com ele. Faça uma Jogada de Conjuração de Feitiço (13). Em um sucesso com Esperança, o cadáver responde até três perguntas. Em um sucesso com Medo, o cadáver responde uma pergunta. O cadáver responde com a verdade, mas não pode transmitir informações que não sabia em vida. Em uma falha, ou quando o cadáver terminar de responder suas perguntas, o corpo se transforma em pó.

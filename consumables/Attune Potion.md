@@ -1,5 +1,5 @@
-﻿# ATTUNE POTION
+﻿# POÇÃO DE SINTONIA
 
-You gain a +1 bonus to your next Instinct Roll.
+Você ganha um bônus de +1 na sua próxima Jogada de Instinto.
 
-*Consumable*
+*Consumível*

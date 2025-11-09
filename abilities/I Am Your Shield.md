@@ -1,6 +1,6 @@
-﻿# I AM YOUR SHIELD
+﻿# EU SOU SEU ESCUDO
 
-> **Level 1 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor Nível 1**  
+> **Custo de Recordação:** 1
 
-When an ally within Very Close range would take damage, you can mark a Stress to stand in the way and make yourself the target of the attack instead. When you take damage from this attack, you can mark any number of Armor Slots.
+Quando um aliado dentro do alcance Muito Próximo for atingir dano, você pode marcar um Estresse para interpor-se e tornar-se o alvo do ataque no lugar dele. Quando você sofrer dano desse ataque, pode marcar qualquer número de Espaços de Armadura.

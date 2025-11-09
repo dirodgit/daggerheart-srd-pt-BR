@@ -1,18 +1,18 @@
-﻿# CHAOS SKULL
+﻿# CRÂNIO DO CAOS
 
-***Tier 2 Ranged***  
-*A floating humanoid skull animated by scintillating magic.*  
-**Motives & Tactics:** Cackle, consume magic, serve creator
+***Nível 2 à Distância***  
+*Um crânio humanoide flutuante animado por magia cintilante.*  
+**Motivações & Táticas:** Rir alto, consumir magia, servir ao criador
 
-> **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4  
-> **ATK:** +2 | **Energy Blast:** Close | 2d8+3 mag  
+> **Dificuldade:** 15 | **Limiares:** 8/16 | **PV:** 5 | **Estresse:** 4  
+> **ATAQ:** +2 | **Explosão de Energia:** Curto alcance | 2d8+3 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Levitation - Passive:*** The Skull levitates several feet off the ground and can’t be Restrained.
+***Levitação - Passiva:*** O Crânio levita a vários pés do chão e não pode ser Restrito.
 
-***Wards - Passive:*** The Skull is resistant to magic damage.
+***Proteções - Passiva:*** O Crânio é resistente a dano mágico.
 
-***Magic Burst - Action:*** Mark a Stress to make an attack against all targets within Close range. Targets the Skull succeeds against take 2d6+4 magic damage.
+***Explosão Mágica - Ação:*** Marque 1 Estresse para fazer um ataque contra todos os alvos em alcance Curto. Os alvos contra os quais o Crânio obtiver sucesso recebem 2d6+4 de dano mágico.
 
-***Siphon Magic - Action:*** Spend a Fear to make an attack against a PC with a Spellcast trait within Very Close range. On a success, the target marks 1d4 Stress and the Skull clears that many Stress. Additionally, on a success, the Skull can immediately be spotlighted again.
+***Sifonar Magia - Ação:*** Gaste 1 Medo para fazer um ataque contra um PJ com a característica Conjurar Feitiço em alcance Muito Curto. Em caso de sucesso, o alvo marca 1d4 de Estresse e o Crânio limpa essa quantidade de Estresse. Além disso, em caso de sucesso, o Crânio pode ser destacado novamente imediatamente.

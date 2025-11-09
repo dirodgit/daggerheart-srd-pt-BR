@@ -1,17 +1,17 @@
-﻿# FAILED EXPERIMENT
+﻿# EXPERIMENTO FALHO
 
-***Tier 2 Standard***  
-*A magical necromantic experiment gone wrong, leaving them warped and ungainly.*  
-**Motives & Tactics:** Devour, hunt, track
+***Nível 2 Padrão***  
+*Um experimento necromântico mágico que deu errado, deixando-o deformado e desajeitado.*  
+**Motivações & Táticas:** Devorar, caçar, rastrear
 
-> **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3  
-> **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 phy  
-> **Experience:** Copycat +3
+> **Dificuldade:** 13 | **Limiares:** 12/23 | **PV:** 3 | **Estresse:** 3  
+> **ATQ:** +1 | **Mordida e Garra:** Corpo a corpo | 2d6+5 físico  
+> **Experiência:** Imitador +3
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Warped Fortitude - Passive:*** The Experiment is resistant to physical damage.
+***Fortitude Deformada - Passiva:*** O Experimento é resistente a dano físico.
 
-***Overwhelm - Passive:*** When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage.
+***Sobrepujar - Passiva:*** Quando um alvo atacado pelo Experimento tem outros adversários em alcance Muito Próximo, o Experimento causa dano em dobro.
 
-***Lurching Lunge - Action:*** Mark a Stress to spotlight the Experiment as an additional GM move instead of spending Fear.
+***Investida Cambaleante - Ação:*** Marque 1 Estresse para destacar o Experimento como um movimento adicional do GM ao invés de gastar Medo.

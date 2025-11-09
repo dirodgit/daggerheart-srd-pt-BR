@@ -1,7 +1,7 @@
-﻿# IMPACT GAUNTLET
+﻿# MANOPLA DE IMPACTO
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+11 phy; **Burden:** One-Handed
+**Traço:** Força; **Alcance:** Corpo a corpo; **Dano:** d10+11 físico; **Carga:** Uma mão
 
-**Feature:** ***Concussive:*** On a successful attack, you can spend a Hope to knock the target back to Far range.
+**Característica:** ***Concussivo:*** Em um ataque bem-sucedido, você pode gastar uma Esperança para empurrar o alvo para o alcance Distante.
 
-*Primary Weapon - Tier 4*
+*Arma Primária - Nível 4*

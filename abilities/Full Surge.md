@@ -1,6 +1,6 @@
 ﻿# FULL SURGE
 
-> **Level 8 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 8**  
+> **Custo para Recordar:** 1
 
-Once per long rest, mark 3 Stress to push your body to its limits. Gain a +2 bonus to all of your character traits until your next rest.
+Uma vez por descanso longo, marque 3 de Estresse para levar seu corpo ao limite. Ganhe um bônus de +2 em todas as suas características de personagem até seu próximo descanso.

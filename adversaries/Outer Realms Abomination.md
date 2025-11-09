@@ -1,18 +1,18 @@
-﻿# OUTER REALMS ABOMINATION
+﻿# ABOMINAÇÃO DOS REINOS EXTERNOS
 
-***Tier 4 Bruiser***  
-*A chaotic mockery of life, constantly in flux.*  
-**Motives & Tactics:** Confuse, demolish, devour, undermine
+***Brutamontes de Nível 4***  
+*Uma zombaria caótica da vida, constantemente em fluxo.*  
+**Motivações & Táticas:** Confundir, demolir, devorar, minar
 
-> **Difficulty:** 19 | **Thresholds:** 35/71 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +2d4 | **Massive Pseudopod:** Very Close | 4d6+13 mag  
+> **Dificuldade:** 19 | **Limiares:** 35/71 | **PV:** 7 | **Estresse:** 5  
+> **ATQ:** +2d4 | **Pseudópode Massivo:** Muito Próximo | 4d6+13 mag  
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Chaotic Form - Passive:*** When the Abomination attacks, roll 2d4 and use the result as their attack modifier.
+***Forma Caótica - Passiva:*** Quando a Abominação ataca, role 2d4 e use o resultado como modificador de ataque.
 
-***Disorienting Presence - Passive:*** When a target takes damage from the Abomination, they must make an Instinct Reaction Roll. On a failure, they gain disadvantage on their next action roll and you gain a Fear.
+***Presença Desorientadora - Passiva:*** Quando um alvo sofre dano da Abominação, ele deve fazer uma Jogada de Reação de Instinto. Em caso de falha, ele sofre desvantagem na próxima jogada de ação e você ganha 1 Medo.
 
-***Reality Quake - Action:*** Spend a Fear to rattle the edges of reality within Far range of the Abomination. All targets within that area must succeed on a Knowledge Reaction Roll or become Unstuck from reality until the end of the scene. When an Unstuck target spends Hope or marks Armor Slots, HP, or Stress, they must double the amount spent or marked.
+***Abalo da Realidade - Ação:*** Gaste 1 Medo para abalar as bordas da realidade dentro do alcance Longo da Abominação. Todos os alvos nessa área devem ter sucesso em uma Jogada de Reação de Conhecimento ou se tornam Desencaixados da realidade até o fim da cena. Quando um alvo Desencaixado gasta Esperança ou marca Espaços de Armadura, PV ou Estresse, ele deve dobrar a quantidade gasta ou marcada.
 
-***Fungal Form - Reaction:*** When the Abomination takes damage, reduce it by 1d20. If the Abomination marks 1 or fewer Hit Points from a successful attack against them, you gain a Fear.
+***Forma Fúngica - Reação:*** Quando a Abominação sofre dano, reduza-o em 1d20. Se a Abominação marcar 1 ou menos Pontos de Vida de um ataque bem-sucedido contra ela, você ganha 1 Medo.

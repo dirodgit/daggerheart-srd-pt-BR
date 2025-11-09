@@ -1,5 +1,5 @@
-﻿# MAJOR ATTUNE POTION
+﻿# POÇÃO DE SINTONIA MAIOR
 
-You gain a +1 bonus to your Instinct until your next rest.
+Você ganha um bônus de +1 em seu Instinto até seu próximo descanso.
 
-*Consumable*
+*Consumível*

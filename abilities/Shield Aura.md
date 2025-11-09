@@ -1,8 +1,8 @@
-﻿# SHIELD AURA
+﻿# AURA DE ESCUDO
 
-> **Level 8 Splendor Spell**  
-> **Recall Cost:** 2
+> **Magia de Esplendor de Nível 8**  
+> **Custo de Recordação:** 2
 
-Mark a Stress to cast a protective aura on a target within Very Close range. When the target marks an Armor Slot, they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no Hit Points, the effect ends.
+Marque um Estresse para lançar uma aura protetora em um alvo dentro do alcance Muito Próximo. Quando o alvo marcar um Espaço de Armadura, ele reduz a severidade do ataque em um limiar adicional. Se esta magia fizer com que uma criatura que seria danificada marque zero Pontos de Vida, o efeito termina.
 
-You can only hold Shield Aura on one creature at a time.
+Você só pode manter Aura de Escudo em uma criatura por vez.

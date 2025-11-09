@@ -1,6 +1,6 @@
 ﻿# RAGE UP
 
-> **Level 6 Blade Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Lâmina de Nível 6**  
+> **Custo de Recordação:** 1
 
-Before you make an attack, you can mark a Stress to gain a bonus to your damage roll equal to twice your Strength. You can Rage Up twice per attack.
+Antes de fazer um ataque, você pode marcar um Estresse para ganhar um bônus na sua rolagem de dano igual ao dobro da sua Força. Você pode usar Raiva Elevada duas vezes por ataque.

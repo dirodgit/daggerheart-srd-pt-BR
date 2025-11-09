@@ -1,7 +1,7 @@
-﻿# ADVANCED LONGBOW
+﻿# ARCO LONGO AVANÇADO
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+9 phy; **Burden:** Two-Handed
+**Traço:** Agilidade; **Alcance:** Muito Longo; **Dano:** d8+9 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Característica:** ***Desajeitado:*** -1 na Destreza
 
-*Primary Weapon - Tier 3*
+*Arma Primária - Nível 3*

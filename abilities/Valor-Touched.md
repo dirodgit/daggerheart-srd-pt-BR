@@ -1,9 +1,9 @@
-﻿# VALOR-TOUCHED
+﻿# TOCADO PELO VALOR
 
-> **Level 7 Valor Ability**  
-> **Recall Cost:** 1
+> **Habilidade de Valor de Nível 7**  
+> **Custo de Recordação:** 1
 
-When 4 or more of the domain cards in your loadout are from the Valor domain, gain the following benefits:
+Quando 4 ou mais das cartas de domínio em seu equipamento forem do domínio Valor, você ganha os seguintes benefícios:
 
-- +1 bonus to your Armor Score
-- When you mark 1 or more Hit Points without marking an Armor Slot, clear an Armor Slot.
+- +1 de bônus na sua Pontuação de Armadura  
+- Quando você marcar 1 ou mais Pontos de Vida sem marcar um Espaço de Armadura, limpe um Espaço de Armadura.

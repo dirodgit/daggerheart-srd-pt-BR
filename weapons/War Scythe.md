@@ -1,7 +1,7 @@
-﻿# WAR SCYTHE
+﻿# FOICE DE GUERRA
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+5 phy; **Burden:** Two-Handed
+**Traço:** Finesse; **Alcance:** Muito Próximo; **Dano:** d8+5 físico; **Peso:** Duas Mãos
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Característica:** ***Confiável:*** +1 nas jogadas de ataque
 
-*Primary Weapon - Tier 2*
+*Arma Primária - Nível 2*

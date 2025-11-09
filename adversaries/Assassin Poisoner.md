@@ -1,17 +1,17 @@
-﻿# ASSASSIN POISONER
+﻿# ASSASSINO ENVENENADOR
 
-***Tier 2 Skulk***  
-*A cunning scoundrel skilled in both poisons and ambushing.*  
-**Motives & Tactics:** Anticipate, get paid, kill, taint food and water
+***Nível 2 Escondido***  
+*Um patife astuto, habilidoso tanto com venenos quanto com emboscadas.*  
+**Motivações & Táticas:** Antecipar, receber pagamento, matar, contaminar comida e água
 
-> **Difficulty:** 14 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 phy  
-> **Experience:** Intrusion +2
+> **Dificuldade:** 14 | **Limiares:** 8/16 | **PV:** 4 | **Estresse:** 4  
+> **ATQ:** +3 | **Adaga Envenenada Arremessada:** Corpo a corpo | 2d8+1 físico  
+> **Experiência:** Intrusão +2
 
-## FEATURES
+## CARACTERÍSTICAS
 
-***Grindeloth Venom - Passive:*** Targets who mark HP from the Assassin’s attacks are Vulnerable until they clear a HP.
+***Veneno de Grindeloth - Passiva:*** Alvos que perdem PV pelos ataques do Assassino ficam Vulneráveis até recuperarem 1 PV.
 
-***Out of Nowhere - Passive:*** The Assassin has advantage on attacks if they are Hidden.
+***Do Nada - Passiva:*** O Assassino tem vantagem em ataques se estiver Oculto.
 
-***Fumigation - Action:*** Drop a smoke bomb that fills the air within Close range with smoke, Dizzilying all targets in this area. Dizzied targets have disadvantage on their next action roll, then clear the condition.
+***Fumigação - Ação:*** Lança uma bomba de fumaça que preenche o ar em alcance Corpo a corpo com fumaça, Atordoando todos os alvos nessa área. Alvos Atordoados têm desvantagem na próxima rolagem de ação, depois limpam a condição.
